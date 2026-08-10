@@ -4,14 +4,35 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-  <title>The Creative Vault | The Ultimate Creative Resource Library</title>
-  <meta name="description" content="A curated library of creative software, assets, marketplaces, grants, learning platforms and AI tools — hand-picked by Ellis Ricketts." />
+  <title>Curated Creative Tools &amp; Resources | The Creative Vault</title>
+  <meta name="description" content="A hand-picked library of creative software, assets, marketplaces, grants and AI tools. Filter by category, price and platform to find what fits your work." />
+  <meta name="author" content="Ellis Ricketts" />
+  <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1" />
+  <link rel="canonical" href="https://www.thecreativevault.co/" />
 
   <meta name="theme-color" content="#fbfaf9" />
-  <meta property="og:title" content="The Creative Vault" />
-  <meta property="og:description" content="A curated library of creative software, assets, marketplaces, grants, learning platforms and AI tools." />
+  <meta name="color-scheme" content="light" />
+
+  <!-- Open Graph. Absolute URLs only: Facebook, LinkedIn and Slack ignore
+       relative image paths, which is the usual reason a preview shows blank. -->
   <meta property="og:type" content="website" />
-  <meta property="og:image" content="images/avatars/ellis-ricketts-avatar-256.png" />
+  <meta property="og:site_name" content="The Creative Vault" />
+  <meta property="og:url" content="https://www.thecreativevault.co/" />
+  <meta property="og:locale" content="en_GB" />
+  <meta property="og:title" content="The Creative Vault — Curated Creative Tools &amp; Resources" />
+  <meta property="og:description" content="A hand-picked library of creative software, assets, marketplaces, grants and AI tools. Filter by category, price and platform." />
+  <meta property="og:image" content="https://www.thecreativevault.co/images/og-cover.png" />
+  <meta property="og:image:secure_url" content="https://www.thecreativevault.co/images/og-cover.png" />
+  <meta property="og:image:type" content="image/png" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  <meta property="og:image:alt" content="The Creative Vault — find better tools, create better work. A grid of creative software logos." />
+
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="The Creative Vault — Curated Creative Tools &amp; Resources" />
+  <meta name="twitter:description" content="A hand-picked library of creative software, assets, marketplaces, grants and AI tools." />
+  <meta name="twitter:image" content="https://www.thecreativevault.co/images/og-cover.png" />
+  <meta name="twitter:image:alt" content="The Creative Vault — find better tools, create better work." />
 
   <link rel="apple-touch-icon" sizes="180x180" href="favicon/apple-touch-icon.png" />
   <link rel="icon" type="image/png" sizes="32x32" href="favicon/favicon-32x32.png" />
@@ -28,6 +49,60 @@
   <link rel="dns-prefetch" href="https://www.google.com" />
 
   <link rel="stylesheet" href="css/style.css" />
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://www.thecreativevault.co/#website",
+        "url": "https://www.thecreativevault.co/",
+        "name": "The Creative Vault",
+        "description": "A hand-picked library of creative software, assets, marketplaces, grants and AI tools.",
+        "inLanguage": "en-GB",
+        "publisher": { "@id": "https://www.thecreativevault.co/#ellis" },
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.thecreativevault.co/?q={search_term_string}"
+          },
+          "query-input": "required name=search_term_string"
+        }
+      },
+      {
+        "@type": "Person",
+        "@id": "https://www.thecreativevault.co/#ellis",
+        "name": "Ellis Ricketts",
+        "url": "https://www.thecreativevault.co/",
+        "email": "ellisricketts3d@gmail.com",
+        "jobTitle": "Graphic and web designer",
+        "image": "https://www.thecreativevault.co/images/avatars/ellis-ricketts-avatar-256.png"
+      },
+      {
+        "@type": "CollectionPage",
+        "@id": "https://www.thecreativevault.co/#page",
+        "url": "https://www.thecreativevault.co/",
+        "name": "Curated Creative Tools & Resources",
+        "isPartOf": { "@id": "https://www.thecreativevault.co/#website" },
+        "creator": { "@id": "https://www.thecreativevault.co/#ellis" },
+        "primaryImageOfPage": "https://www.thecreativevault.co/images/og-cover.png",
+        "about": [
+          "Game development tools",
+          "Digital art and illustration software",
+          "Photography resources",
+          "Arts grants and funding",
+          "Creative learning platforms",
+          "Asset marketplaces",
+          "AI tools for creators",
+          "Public domain archives",
+          "Freelancing resources"
+        ]
+      }
+    ]
+  }
+  </script>
 </head>
 
 <body>
@@ -204,8 +279,18 @@
 </main>
 
 <footer class="site-footer">
-  <div class="shell">
-    <p><strong>The Creative Vault</strong> — curated by Ellis Ricketts.</p>
+  <div class="shell footer-about">
+    <p>
+      <strong>The Creative Vault</strong> is a curated index of the tools creative people
+      actually use: software for digital art, 3D, photography, video, audio and game
+      development, alongside asset marketplaces, public-domain archives, arts grants and
+      funding, learning platforms, freelancing resources and AI tools. Every entry is
+      chosen by hand rather than scraped, and each one records its pricing model and
+      platform support so you can tell in a glance whether it fits how you work.
+    </p>
+  </div>
+  <div class="shell footer-line">
+    <p>Curated by Ellis Ricketts.</p>
     <p><a href="mailto:ellisricketts3d@gmail.com">Get in touch</a></p>
   </div>
 </footer>

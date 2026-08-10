@@ -253,6 +253,7 @@
     el.grid.innerHTML = "";
     renderNextPage(PAGE_SIZE);
     syncToolbarState(f);
+    writeUrlState(f);
   }
 
   function renderNextPage(count) {
@@ -307,6 +308,31 @@
     el.sort.value = "curated";
     activeCollection = null;
     applyFilters();
+  }
+
+  /* Filters live in the URL so a search can be linked, bookmarked and shared,
+     and so the site can honestly declare a SearchAction to search engines. */
+  function readUrlState() {
+    var params = new URLSearchParams(location.search);
+    if (params.has("q")) el.search.value = params.get("q");
+    if (params.has("category")) el.category.value = params.get("category");
+    if (params.has("price")) el.price.value = params.get("price");
+    if (params.has("platform")) el.platform.value = params.get("platform");
+    if (params.has("sort")) el.sort.value = params.get("sort");
+    if (params.has("collection")) activeCollection = params.get("collection");
+  }
+
+  function writeUrlState(f) {
+    var params = new URLSearchParams();
+    if (f.q) params.set("q", el.search.value.trim());
+    if (f.category !== "all") params.set("category", f.category);
+    if (f.price !== "all") params.set("price", f.price);
+    if (f.platform !== "all") params.set("platform", f.platform);
+    if (f.sort !== "curated") params.set("sort", f.sort);
+    if (activeCollection) params.set("collection", activeCollection);
+
+    var qs = params.toString();
+    history.replaceState(null, "", qs ? location.pathname + "?" + qs : location.pathname);
   }
 
   function jumpToResults() {
@@ -574,6 +600,7 @@
     setupInfiniteScroll();
     setupMasthead();
 
+    readUrlState();
     applyFilters();
   }
 

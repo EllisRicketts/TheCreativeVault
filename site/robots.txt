@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Filter permutations are the same page with a different view. Let crawlers
+# reach them if they want, but the canonical tag points every one back to /.
+Disallow: /tools/
+
+Sitemap: https://www.thecreativevault.co/sitemap.xml

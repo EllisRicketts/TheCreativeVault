@@ -39,6 +39,16 @@ npm run compile
 
 Commit both the JSON you changed and the regenerated files in `site/data/`.
 
+## The share card and SEO
+
+The canonical domain is `https://www.thecreativevault.co/`. It appears in
+`index.html` (canonical, Open Graph, Twitter, JSON-LD), `robots.txt` and
+`sitemap.xml`. If the domain ever changes, find and replace it across those
+four files — nothing else references it.
+
+The social preview image is `site/images/og-cover.png`, generated from
+`site/tools/og-template.html`. See DESIGN.md for how to regenerate it.
+
 ## Deploying
 
 Push to `main`. Netlify builds and publishes automatically — there is no

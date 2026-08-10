@@ -769,13 +769,29 @@ p { margin: 0; }
 .submit-band h2 { font-size: clamp(20px, 2.4vw, 26px); margin-bottom: 8px; }
 .submit-band p { color: var(--ink-2); font-size: 14.5px; max-width: 52ch; }
 
+/* No margin here: the preceding section already supplies its own bottom
+   padding, and stacking the two left ~200px of dead air above the rule. */
 .site-footer {
-  margin-top: clamp(56px, 8vw, 96px);
   border-top: 1px solid var(--line);
   padding-block: 32px 44px;
 }
 
-.site-footer .shell {
+.footer-about {
+  padding-bottom: 22px;
+  margin-bottom: 20px;
+  border-bottom: 1px solid var(--line);
+}
+
+.footer-about p {
+  max-width: 84ch;
+  font-size: 13.8px;
+  line-height: 1.65;
+  color: var(--ink-2);
+}
+
+.footer-about strong { color: var(--ink); font-weight: 580; }
+
+.site-footer .footer-line {
   display: flex;
   flex-wrap: wrap;
   gap: 12px 24px;

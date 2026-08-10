@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<title>Open Graph card template — The Creative Vault</title>
+<!--
+  Source for images/og-cover.png (1200x630).
+
+  To regenerate: serve site/ over http, open this page, screenshot the
+  .card element at exactly 1200x630, and save over images/og-cover.png.
+  Update data-count / data-categories below if the library has grown.
+
+  It is deliberately built from the same tokens as css/style.css, so the
+  share card and the site cannot drift apart.
+-->
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&display=swap" />
+<style>
+  :root {
+    --bg: #fbfaf9;
+    --surface: #ffffff;
+    --surface-sunk: #f4f2ef;
+    --ink: #17171a;
+    --ink-2: #55555f;
+    --ink-3: #6a6a75;
+    --line: #e9e7e3;
+    --accent: #d9530e;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  /* The page IS the card: set the viewport to 1200x630 and screenshot it. */
+  body {
+    background: var(--bg);
+    font-family: Archivo, system-ui, sans-serif;
+  }
+
+  .card {
+    position: relative;
+    width: 1200px;
+    height: 630px;
+    background: var(--bg);
+    overflow: hidden;
+    display: grid;
+    grid-template-columns: 1fr 420px;
+  }
+
+  .left {
+    padding: 64px 0 64px 72px;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .brand {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+  }
+
+  .brand img {
+    width: 46px;
+    height: 46px;
+    border-radius: 12px;
+    display: block;
+  }
+
+  .brand span {
+    font-size: 25px;
+    font-weight: 640;
+    letter-spacing: -0.03em;
+    color: var(--ink);
+  }
+
+  h1 {
+    margin-top: auto;
+    font-size: 68px;
+    line-height: 1.04;
+    font-weight: 660;
+    letter-spacing: -0.042em;
+    color: var(--ink);
+  }
+
+  h1 em { font-style: normal; color: var(--accent); }
+
+  .sub {
+    margin-top: 24px;
+    font-size: 23px;
+    line-height: 1.45;
+    color: var(--ink-2);
+    max-width: 24ch;
+  }
+
+  .foot {
+    margin-top: auto;
+    padding-top: 34px;
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    font-size: 18px;
+    color: var(--ink-3);
+    font-variant-numeric: tabular-nums;
+  }
+
+  .foot b { color: var(--ink); font-weight: 600; }
+  .foot i { font-style: normal; color: var(--line); }
+
+  /* A wall of real marks: the product explains itself before the text is read. */
+  .wall {
+    position: relative;
+    display: grid;
+    grid-template-columns: repeat(3, 116px);
+    align-content: center;
+    justify-content: center;
+    gap: 18px;
+    padding-right: 24px;
+  }
+
+  .wall::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(90deg, var(--bg) 0%, rgba(251, 250, 249, 0) 22%);
+    z-index: 2;
+  }
+
+  .well {
+    width: 116px;
+    height: 116px;
+    display: grid;
+    place-items: center;
+    padding: 22px;
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: 26px;
+    box-shadow: 0 2px 4px rgba(23,23,26,0.04), 0 12px 28px rgba(23,23,26,0.06);
+  }
+
+  .well img { width: 100%; height: 100%; object-fit: contain; display: block; }
+
+  .rule {
+    position: absolute;
+    left: 0; right: 0; bottom: 0;
+    height: 8px;
+    background: var(--accent);
+    z-index: 3;
+  }
+</style>
+</head>
+<body>
+
+<div class="card" id="card">
+  <div class="left">
+    <div class="brand">
+      <img src="../images/avatars/ellis-ricketts-avatar-256.png" alt="" />
+      <span>The Creative Vault</span>
+    </div>
+
+    <h1>Find better tools.<br /><em>Create better work.</em></h1>
+
+    <p class="sub">A hand-picked library of creative software, assets, grants and AI tools.</p>
+
+    <div class="foot">
+      <span><b id="count">2,262</b> resources</span>
+      <i>/</i>
+      <span><b id="cats">192</b> categories</span>
+      <i>/</i>
+      <span>Curated by Ellis Ricketts</span>
+    </div>
+  </div>
+
+  <div class="wall" id="wall"></div>
+  <div class="rule"></div>
+</div>
+
+<script>
+  /* Recognisable marks across the library's real range: art, 3D, video,
+     audio, design, photography, dev. More candidates than slots, because a
+     favicon service can drop any one of them — the card fills its nine
+     wells from whatever actually loads and never ships a broken tile. */
+  var CANDIDATES = [
+    "figma.com", "blender.org", "procreate.com",
+    "unrealengine.com", "ableton.com", "godotengine.org",
+    "canva.com", "unsplash.com", "krita.org",
+    "obsproject.com", "inkscape.org", "audacityteam.org",
+    "sketchfab.com", "artstation.com", "davinciresolve.com"
+  ];
+
+  var SLOTS = 9;
+
+  function load(domain) {
+    return new Promise(function (resolve) {
+      var img = new Image();
+      img.onload = function () { resolve(img.naturalWidth > 8 ? domain : null); };
+      img.onerror = function () { resolve(null); };
+      img.src = "https://icons.duckduckgo.com/ip3/" + domain + ".ico";
+    });
+  }
+
+  Promise.all(CANDIDATES.map(load)).then(function (results) {
+    var good = results.filter(Boolean).slice(0, SLOTS);
+    document.getElementById("wall").innerHTML = good.map(function (d) {
+      return '<div class="well"><img src="https://icons.duckduckgo.com/ip3/' + d + '.ico" alt=""></div>';
+    }).join("");
+    document.body.dataset.wall = good.length;
+  });
+</script>
+
+</body>
+</html>

@@ -97,6 +97,22 @@ Themed, not left at browser defaults: selection colour, caret, `accent-color`,
 focus rings (2px accent, 2px offset), and scrollbars in both the
 `scrollbar-color` and `::-webkit-scrollbar` syntaxes.
 
+## Share card
+
+`site/images/og-cover.png` — 1200×630, the size every platform crops to.
+It is not hand-made: `site/tools/og-template.html` renders it from the same
+tokens as the site, so the card cannot drift from the design. The logo wall
+picks nine marks from a longer candidate list, keeping only those whose
+favicon actually loads, so a dead icon service can never ship a broken tile.
+
+To regenerate after the library grows: serve `site/` over http, open
+`/tools/og-template.html` at a 1200×630 viewport, update the count and
+category figures in the markup, screenshot the page, and save over
+`images/og-cover.png`.
+
+Social tags need **absolute** URLs. Facebook, LinkedIn and Slack ignore
+relative `og:image` paths, which is the usual cause of a blank preview.
+
 ## Rules this build follows
 
 - No kicker or eyebrow above a heading, anywhere.
