@@ -100,6 +100,11 @@ zero-offset coloured halo is decoration, not depth, and is not used.
   field that currently has focus so the caret never jumps.
 - **Keycap** — a real `<kbd>` naming the `/` shortcut, which exists. It yields
   to the clear button when a query is present.
+- **Bookmark bubble** — a tilted speech bubble at the foot of the hero in the
+  accent wash, tail pointing up at the content it comments on. It straightens
+  on hover. Shown once and dismissed forever via `vault:tipDismissed`; a tip
+  that returns on every visit is a nag, not a tip. The modifier key is read
+  from the platform, so Mac visitors see ⌘ rather than Ctrl.
 
 ## Views
 

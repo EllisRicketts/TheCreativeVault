@@ -22,6 +22,7 @@
   --accent: #d9530e;
   --accent-ink: #b8450b;
   --accent-wash: #fdf3ec;
+  --accent-line: #f0cbb0;
   --free: #1f7a4d;
   --free-wash: #eef7f1;
 
@@ -559,6 +560,92 @@ p { margin: 0; }
   background: var(--ink);
   border-color: var(--ink);
   color: #fff;
+}
+
+/* ==========================================================================
+   Bookmark bubble — a speech bubble, tilted like it was stuck on by hand
+   ==========================================================================
+   Sits in the hero's empty right-hand column on wide screens, where it fills
+   dead space instead of interrupting the reading order. Dismissible, and it
+   stays dismissed. */
+
+.tip {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  margin-top: 30px;
+  padding: 13px 40px 13px 17px;
+  background: var(--accent-wash);
+  border: 1px solid var(--accent-line);
+  border-radius: 15px;
+  box-shadow: 0 2px 4px rgba(23, 23, 26, 0.04), 0 10px 22px rgba(217, 83, 14, 0.09);
+  rotate: -1.1deg;
+  transition: rotate var(--mid) var(--ease), box-shadow var(--mid) var(--ease);
+}
+
+.tip:hover { rotate: 0deg; box-shadow: 0 3px 6px rgba(23,23,26,0.05), 0 14px 30px rgba(217,83,14,0.13); }
+
+.tip[hidden] { display: none; }
+
+/* The tail. A rotated square borrowing two of the bubble's borders, pointing
+   up at the page it is talking about rather than down into empty space. */
+.tip::after {
+  content: "";
+  position: absolute;
+  left: 30px;
+  top: -7px;
+  width: 12px;
+  height: 12px;
+  background: var(--accent-wash);
+  border-left: 1px solid var(--accent-line);
+  border-top: 1px solid var(--accent-line);
+  transform: rotate(45deg);
+  border-top-left-radius: 3px;
+}
+
+.tip-copy {
+  font-size: 14.5px;
+  line-height: 1.35;
+  color: #7e3c0d;
+}
+
+.tip-copy strong { color: var(--ink); font-weight: 640; }
+
+.tip-keys { display: inline-flex; gap: 4px; flex: none; }
+.tip-keys .key { border-color: var(--accent-line); color: #9a4f14; background: #fff; }
+
+.tip-close {
+  position: absolute;
+  top: 7px;
+  right: 7px;
+  display: grid;
+  place-items: center;
+  width: 24px;
+  height: 24px;
+  border: 0;
+  border-radius: 7px;
+  background: none;
+  color: #b06a35;
+  cursor: pointer;
+  transition: background-color var(--fast) var(--ease), color var(--fast) var(--ease);
+}
+
+.tip-close:hover { background: #f8ddc9; color: #7e3c0d; }
+.tip-close .icon { width: 14px; height: 14px; }
+
+@media (prefers-reduced-motion: no-preference) {
+  .tip { animation: tip-in 520ms var(--ease) both; }
+  @keyframes tip-in {
+    from { opacity: 0; transform: translateY(8px) scale(0.96); }
+    to   { opacity: 1; transform: none; }
+  }
+}
+
+@media (max-width: 560px) {
+  .tip { margin-top: 24px; padding-right: 36px; }
+  .tip-copy { font-size: 13.5px; }
+  .tip-keys { display: none; }
 }
 
 /* ==========================================================================

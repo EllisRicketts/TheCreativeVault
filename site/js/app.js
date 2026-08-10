@@ -661,6 +661,33 @@
     }, { rootMargin: "-8px 0px 0px 0px", threshold: 0 }).observe(heroField);
   }
 
+  /* The bookmark bubble. Shown once, dismissed forever — a tip that reappears
+     on every visit is a nag, not a tip. */
+  function setupBookmarkTip() {
+    var tip = document.getElementById("bookmarkTip");
+    var close = document.getElementById("tipClose");
+    if (!tip || !close) return;
+
+    var DISMISSED = "vault:tipDismissed";
+    try { if (localStorage.getItem(DISMISSED)) return; } catch (e) { /* private mode */ }
+
+    var count = document.getElementById("tipCount");
+    if (count) count.textContent = all.length.toLocaleString();
+
+    /* Name the key the visitor actually has. */
+    var mod = document.getElementById("tipKeyMod");
+    if (mod && /Mac|iPhone|iPad|iPod/.test(navigator.platform || navigator.userAgent)) {
+      mod.textContent = "⌘";
+    }
+
+    tip.hidden = false;
+
+    close.addEventListener("click", function () {
+      tip.hidden = true;
+      try { localStorage.setItem(DISMISSED, "1"); } catch (e) { /* private mode */ }
+    });
+  }
+
   function activeSearchField() {
     return el.masthead.dataset.compact === "true"
       ? (document.getElementById("miniSearchInput") || el.search)
@@ -801,6 +828,7 @@
     setupInfiniteScroll();
     setupMasthead();
     setupMiniSearch();
+    setupBookmarkTip();
 
     readUrlState();
     applyFilters();
