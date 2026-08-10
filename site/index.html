@@ -11,6 +11,7 @@
   <meta property="og:title" content="The Creative Vault" />
   <meta property="og:description" content="A curated library of creative software, assets, marketplaces, grants, learning platforms and AI tools." />
   <meta property="og:type" content="website" />
+  <meta property="og:image" content="images/avatars/ellis-ricketts-avatar-256.png" />
 
   <link rel="apple-touch-icon" sizes="180x180" href="favicon/apple-touch-icon.png" />
   <link rel="icon" type="image/png" sizes="32x32" href="favicon/favicon-32x32.png" />
@@ -59,7 +60,8 @@
 <header class="masthead" id="top">
   <div class="shell masthead-inner">
     <a class="brand" href="#top">
-      <img src="images/avatars/ellis-ricketts-avatar.png" alt="" width="30" height="30" />
+      <!-- 96px covers up to 3x. The 2048px original stays in the repo as the source. -->
+      <img src="images/avatars/ellis-ricketts-avatar-96.png" alt="" width="30" height="30" />
       <span>The Creative Vault</span>
     </a>
 
@@ -233,7 +235,8 @@
 <script src="data/ecosystems/development.js"></script>
 <script src="data/ecosystems/index.js"></script>
 <script src="data/generated-resources.js"></script>
-<script src="data/generated-indexes.js"></script>
+<!-- data/generated-indexes.js is compiler output nothing reads: 648 KB for no
+     behaviour. The compiler still emits it; the page no longer downloads it. -->
 <script src="data/resources.js"></script>
 
 <script src="js/app.js"></script>
