@@ -1,0 +1,342 @@
+[
+  {
+    "id": "honeybook",
+    "title": "HoneyBook",
+    "shortName": "HoneyBook",
+    "company": "HoneyBook",
+    "website": "https://www.honeybook.com/",
+    "category": "Business",
+    "categoryId": "business",
+    "subcategories": [
+      "Freelancing & Business"
+    ],
+    "type": "Resource",
+    "shortDescription": "Clientflow platform for proposals, contracts, invoices, and projects.",
+    "longDescription": "Clientflow platform for proposals, contracts, invoices, and projects.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Freelancing & Business",
+      "Business"
+    ],
+    "bestFor": [
+      "Freelancing & Business",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "bonsai",
+    "title": "Bonsai",
+    "shortName": "Bonsai",
+    "company": "Bonsai",
+    "website": "https://www.hellobonsai.com/",
+    "category": "Business",
+    "categoryId": "business",
+    "subcategories": [
+      "Freelancing & Business"
+    ],
+    "type": "Resource",
+    "shortDescription": "Freelance business management for contracts, proposals, and invoicing.",
+    "longDescription": "Freelance business management for contracts, proposals, and invoicing.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Freelancing & Business",
+      "Business"
+    ],
+    "bestFor": [
+      "Freelancing & Business",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "wave",
+    "title": "Wave",
+    "shortName": "Wave",
+    "company": "Wave",
+    "website": "https://www.waveapps.com/",
+    "category": "Business",
+    "categoryId": "business",
+    "subcategories": [
+      "Freelancing & Business"
+    ],
+    "type": "Resource",
+    "shortDescription": "Accounting and invoicing software for small businesses.",
+    "longDescription": "Accounting and invoicing software for small businesses.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing & Business",
+      "Business"
+    ],
+    "bestFor": [
+      "Freelancing & Business",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "quickbooks",
+    "title": "QuickBooks",
+    "shortName": "QuickBooks",
+    "company": "Intuit",
+    "website": "https://quickbooks.intuit.com/",
+    "category": "Business",
+    "categoryId": "business",
+    "subcategories": [
+      "Freelancing & Business"
+    ],
+    "type": "Resource",
+    "shortDescription": "Accounting software for business bookkeeping, invoices, and taxes.",
+    "longDescription": "Accounting software for business bookkeeping, invoices, and taxes.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Freelancing & Business",
+      "Business"
+    ],
+    "bestFor": [
+      "Freelancing & Business",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freshbooks",
+    "title": "FreshBooks",
+    "shortName": "FreshBooks",
+    "company": "FreshBooks",
+    "website": "https://www.freshbooks.com/",
+    "category": "Business",
+    "categoryId": "business",
+    "subcategories": [
+      "Freelancing & Business"
+    ],
+    "type": "Resource",
+    "shortDescription": "Accounting and invoicing software for freelancers and small businesses.",
+    "longDescription": "Accounting and invoicing software for freelancers and small businesses.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Freelancing & Business",
+      "Business"
+    ],
+    "bestFor": [
+      "Freelancing & Business",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "stripe",
+    "title": "Stripe",
+    "shortName": "Stripe",
+    "company": "Stripe",
+    "website": "https://stripe.com/",
+    "category": "Business",
+    "categoryId": "business",
+    "subcategories": [
+      "Freelancing & Business"
+    ],
+    "type": "Resource",
+    "shortDescription": "Online payment processing platform.",
+    "longDescription": "Online payment processing platform.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing & Business",
+      "Business"
+    ],
+    "bestFor": [
+      "Freelancing & Business",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "paypal",
+    "title": "PayPal",
+    "shortName": "PayPal",
+    "company": "PayPal",
+    "website": "https://www.paypal.com/",
+    "category": "Business",
+    "categoryId": "business",
+    "subcategories": [
+      "Freelancing & Business"
+    ],
+    "type": "Resource",
+    "shortDescription": "Online payments platform for businesses and creators.",
+    "longDescription": "Online payments platform for businesses and creators.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing & Business",
+      "Business"
+    ],
+    "bestFor": [
+      "Freelancing & Business",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "calendly",
+    "title": "Calendly",
+    "shortName": "Calendly",
+    "company": "Calendly",
+    "website": "https://calendly.com/",
+    "category": "Business",
+    "categoryId": "business",
+    "subcategories": [
+      "Freelancing & Business"
+    ],
+    "type": "Resource",
+    "shortDescription": "Scheduling tool for meetings and bookings.",
+    "longDescription": "Scheduling tool for meetings and bookings.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing & Business",
+      "Business"
+    ],
+    "bestFor": [
+      "Freelancing & Business",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "dubsado",
+    "title": "Dubsado",
+    "shortName": "Dubsado",
+    "company": "Dubsado",
+    "website": "https://www.dubsado.com/",
+    "category": "Business",
+    "categoryId": "business",
+    "subcategories": [
+      "Freelancing & Business"
+    ],
+    "type": "Resource",
+    "shortDescription": "Business management platform for creatives and client workflows.",
+    "longDescription": "Business management platform for creatives and client workflows.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Freelancing & Business",
+      "Business"
+    ],
+    "bestFor": [
+      "Freelancing & Business",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "miro",
+    "title": "Miro",
+    "shortName": "Miro",
+    "company": "Miro",
+    "website": "https://miro.com/",
+    "category": "Business",
+    "categoryId": "business",
+    "subcategories": [
+      "Freelancing & Business"
+    ],
+    "type": "Resource",
+    "shortDescription": "Collaborative online whiteboard for teams and planning.",
+    "longDescription": "Collaborative online whiteboard for teams and planning.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing & Business",
+      "Business"
+    ],
+    "bestFor": [
+      "Freelancing & Business",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

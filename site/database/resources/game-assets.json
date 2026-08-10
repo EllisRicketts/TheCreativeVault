@@ -1,0 +1,1142 @@
+[
+  {
+    "id": "game-dev-fab",
+    "title": "Fab",
+    "shortName": "Fab",
+    "company": "Epic Games",
+    "website": "https://www.fab.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Asset Store"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Marketplace for 3D assets, environments, materials, plugins, and game resources.",
+    "longDescription": "Fab is included in The Creative Vault as a game development resource. Marketplace for 3D assets, environments, materials, plugins, and game resources.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Asset Store",
+      "3D Assets",
+      "Marketplace"
+    ],
+    "bestFor": [
+      "Asset Store",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-unity-asset-store",
+    "title": "Unity Asset Store",
+    "shortName": "Unity Asset Store",
+    "company": "Unity Technologies",
+    "website": "https://assetstore.unity.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Asset Store"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Marketplace for Unity assets, tools, templates, shaders, and plugins.",
+    "longDescription": "Unity Asset Store is included in The Creative Vault as a game development resource. Marketplace for Unity assets, tools, templates, shaders, and plugins.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Asset Store",
+      "Unity",
+      "Assets"
+    ],
+    "bestFor": [
+      "Asset Store",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-unreal-marketplace",
+    "title": "Unreal Marketplace",
+    "shortName": "Unreal Marketplace",
+    "company": "Epic Games",
+    "website": "https://www.unrealengine.com/marketplace",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Asset Store"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Marketplace for Unreal Engine assets, templates, plugins, and tools.",
+    "longDescription": "Unreal Marketplace is included in The Creative Vault as a game development resource. Marketplace for Unreal Engine assets, templates, plugins, and tools.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Asset Store",
+      "Unreal",
+      "Assets"
+    ],
+    "bestFor": [
+      "Asset Store",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-blender-market",
+    "title": "Blender Market",
+    "shortName": "Blender Market",
+    "company": "Blender Market",
+    "website": "https://blendermarket.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Asset Store"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Marketplace for Blender add-ons, models, materials, and tools.",
+    "longDescription": "Blender Market is included in The Creative Vault as a game development resource. Marketplace for Blender add-ons, models, materials, and tools.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Asset Store",
+      "Blender",
+      "Add-ons"
+    ],
+    "bestFor": [
+      "Asset Store",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-blenderkit",
+    "title": "BlenderKit",
+    "shortName": "BlenderKit",
+    "company": "BlenderKit",
+    "website": "https://www.blenderkit.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Asset Store"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Asset library integrated with Blender for models, materials, and scenes.",
+    "longDescription": "BlenderKit is included in The Creative Vault as a game development resource. Asset library integrated with Blender for models, materials, and scenes.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Asset Store",
+      "Blender",
+      "3D Assets"
+    ],
+    "bestFor": [
+      "Asset Store",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser",
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-cgtrader",
+    "title": "CGTrader",
+    "shortName": "CGTrader",
+    "company": "CGTrader",
+    "website": "https://www.cgtrader.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Asset Store"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Marketplace for 3D models, CG assets, and 3D printing files.",
+    "longDescription": "CGTrader is included in The Creative Vault as a game development resource. Marketplace for 3D models, CG assets, and 3D printing files.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Asset Store",
+      "3D Models"
+    ],
+    "bestFor": [
+      "Asset Store",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-turbosquid",
+    "title": "TurboSquid",
+    "shortName": "TurboSquid",
+    "company": "TurboSquid",
+    "website": "https://www.turbosquid.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Asset Store"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Marketplace for professional 3D models.",
+    "longDescription": "TurboSquid is included in The Creative Vault as a game development resource. Marketplace for professional 3D models.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Asset Store",
+      "3D Models"
+    ],
+    "bestFor": [
+      "Asset Store",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-sketchfab-store",
+    "title": "Sketchfab Store",
+    "shortName": "Sketchfab Store",
+    "company": "Sketchfab",
+    "website": "https://sketchfab.com/store",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Asset Store"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Marketplace for downloadable 3D models.",
+    "longDescription": "Sketchfab Store is included in The Creative Vault as a game development resource. Marketplace for downloadable 3D models.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Asset Store",
+      "3D Models"
+    ],
+    "bestFor": [
+      "Asset Store",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-renderhub",
+    "title": "RenderHub",
+    "shortName": "RenderHub",
+    "company": "RenderHub",
+    "website": "https://www.renderhub.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Asset Store"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Marketplace for 3D models, characters, textures, and digital assets.",
+    "longDescription": "RenderHub is included in The Creative Vault as a game development resource. Marketplace for 3D models, characters, textures, and digital assets.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Asset Store",
+      "3D Models"
+    ],
+    "bestFor": [
+      "Asset Store",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-kitbash3d",
+    "title": "KitBash3D",
+    "shortName": "KitBash3D",
+    "company": "KitBash3D",
+    "website": "https://kitbash3d.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Asset Store"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Premium 3D kits and world-building asset marketplace.",
+    "longDescription": "KitBash3D is included in The Creative Vault as a game development resource. Premium 3D kits and world-building asset marketplace.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Asset Store",
+      "Environment Art"
+    ],
+    "bestFor": [
+      "Asset Store",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-bigmediumsmall",
+    "title": "BigMediumSmall",
+    "shortName": "BigMediumSmall",
+    "company": "BigMediumSmall",
+    "website": "https://www.bigmediumsmall.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Asset Store"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "High-quality environment, prop, and concept art asset packs.",
+    "longDescription": "BigMediumSmall is included in The Creative Vault as a game development resource. High-quality environment, prop, and concept art asset packs.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Asset Store",
+      "Environment Art"
+    ],
+    "bestFor": [
+      "Asset Store",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-quixel-megascans",
+    "title": "Quixel Megascans",
+    "shortName": "Quixel Megascans",
+    "company": "Epic Games",
+    "website": "https://quixel.com/megascans/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Asset Store"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "High-quality scanned 3D assets and surfaces.",
+    "longDescription": "Quixel Megascans is included in The Creative Vault as a game development resource. High-quality scanned 3D assets and surfaces.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Asset Store",
+      "Scans",
+      "Textures"
+    ],
+    "bestFor": [
+      "Asset Store",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-poly-haven",
+    "title": "Poly Haven",
+    "shortName": "Poly Haven",
+    "company": "Poly Haven",
+    "website": "https://polyhaven.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Asset Store"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Free public-domain HDRIs, textures, and 3D models.",
+    "longDescription": "Poly Haven is included in The Creative Vault as a game development resource. Free public-domain HDRIs, textures, and 3D models.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Asset Store",
+      "Free",
+      "HDRI",
+      "Textures"
+    ],
+    "bestFor": [
+      "Asset Store",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-ambientcg",
+    "title": "ambientCG",
+    "shortName": "ambientCG",
+    "company": "ambientCG",
+    "website": "https://ambientcg.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Asset Store"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Free PBR materials and textures for 3D and games.",
+    "longDescription": "ambientCG is included in The Creative Vault as a game development resource. Free PBR materials and textures for 3D and games.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Asset Store",
+      "Textures",
+      "PBR"
+    ],
+    "bestFor": [
+      "Asset Store",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-kenney",
+    "title": "Kenney",
+    "shortName": "Kenney",
+    "company": "Kenney",
+    "website": "https://kenney.nl/assets",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Asset Store"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Free game assets, UI packs, audio, and development resources.",
+    "longDescription": "Kenney is included in The Creative Vault as a game development resource. Free game assets, UI packs, audio, and development resources.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Asset Store",
+      "Free",
+      "2D",
+      "UI"
+    ],
+    "bestFor": [
+      "Asset Store",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-opengameart",
+    "title": "OpenGameArt",
+    "shortName": "OpenGameArt",
+    "company": "OpenGameArt",
+    "website": "https://opengameart.org/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Asset Store"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Free and open game art, music, sound effects, and assets.",
+    "longDescription": "OpenGameArt is included in The Creative Vault as a game development resource. Free and open game art, music, sound effects, and assets.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Asset Store",
+      "Free",
+      "Open"
+    ],
+    "bestFor": [
+      "Asset Store",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": true,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-itch-io-game-assets",
+    "title": "itch.io Game Assets",
+    "shortName": "itch.io Game Assets",
+    "company": "itch.io",
+    "website": "https://itch.io/game-assets",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Asset Store"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Marketplace for game assets, sprites, music, tools, and templates.",
+    "longDescription": "itch.io Game Assets is included in The Creative Vault as a game development resource. Marketplace for game assets, sprites, music, tools, and templates.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Asset Store",
+      "Indie",
+      "Assets"
+    ],
+    "bestFor": [
+      "Asset Store",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-gamedev-market",
+    "title": "GameDev Market",
+    "shortName": "GameDev Market",
+    "company": "GameDev Market",
+    "website": "https://www.gamedevmarket.net/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Asset Store"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Marketplace for 2D, 3D, audio, and GUI game assets.",
+    "longDescription": "GameDev Market is included in The Creative Vault as a game development resource. Marketplace for 2D, 3D, audio, and GUI game assets.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Asset Store",
+      "2D",
+      "3D",
+      "Audio"
+    ],
+    "bestFor": [
+      "Asset Store",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-craftpix",
+    "title": "CraftPix",
+    "shortName": "CraftPix",
+    "company": "CraftPix",
+    "website": "https://craftpix.net/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Asset Store"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "2D game assets, sprites, tilesets, UI, and character packs.",
+    "longDescription": "CraftPix is included in The Creative Vault as a game development resource. 2D game assets, sprites, tilesets, UI, and character packs.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Asset Store",
+      "2D",
+      "Sprites"
+    ],
+    "bestFor": [
+      "Asset Store",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-synty-studios",
+    "title": "Synty Studios",
+    "shortName": "Synty Studios",
+    "company": "Synty Studios",
+    "website": "https://syntystore.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Asset Store"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Stylized low-poly asset packs for Unity, Unreal, and game development.",
+    "longDescription": "Synty Studios is included in The Creative Vault as a game development resource. Stylized low-poly asset packs for Unity, Unreal, and game development.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Asset Store",
+      "Low Poly",
+      "3D"
+    ],
+    "bestFor": [
+      "Asset Store",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-leartes-studios",
+    "title": "Leartes Studios",
+    "shortName": "Leartes Studios",
+    "company": "Leartes Studios",
+    "website": "https://leartesstudios.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Asset Store"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "High-quality environment art assets and game-ready packs.",
+    "longDescription": "Leartes Studios is included in The Creative Vault as a game development resource. High-quality environment art assets and game-ready packs.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Asset Store",
+      "Environment Art",
+      "3D"
+    ],
+    "bestFor": [
+      "Asset Store",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-dekogon",
+    "title": "Dekogon",
+    "shortName": "Dekogon",
+    "company": "Dekogon Studios",
+    "website": "https://www.dekogon.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Asset Store"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Game-ready 3D assets, environments, and production art.",
+    "longDescription": "Dekogon is included in The Creative Vault as a game development resource. Game-ready 3D assets, environments, and production art.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Asset Store",
+      "3D",
+      "Environment"
+    ],
+    "bestFor": [
+      "Asset Store",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-meshtint",
+    "title": "Meshtint",
+    "shortName": "Meshtint",
+    "company": "Meshtint",
+    "website": "https://www.meshtint.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Asset Store"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Game-ready stylized 3D asset packs.",
+    "longDescription": "Meshtint is included in The Creative Vault as a game development resource. Game-ready stylized 3D asset packs.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Asset Store",
+      "Stylized",
+      "3D"
+    ],
+    "bestFor": [
+      "Asset Store",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-polygonflow",
+    "title": "Polygonflow",
+    "shortName": "Polygonflow",
+    "company": "Polygonflow",
+    "website": "https://www.polygonflow.io/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Asset Store"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Tools and assets for procedural art workflows and game environments.",
+    "longDescription": "Polygonflow is included in The Creative Vault as a game development resource. Tools and assets for procedural art workflows and game environments.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Asset Store",
+      "Tools",
+      "Environment"
+    ],
+    "bestFor": [
+      "Asset Store",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-gameart2d",
+    "title": "GameArt2D",
+    "shortName": "GameArt2D",
+    "company": "GameArt2D",
+    "website": "https://www.gameart2d.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Asset Store"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "2D game assets, sprites, characters, and backgrounds.",
+    "longDescription": "GameArt2D is included in The Creative Vault as a game development resource. 2D game assets, sprites, characters, and backgrounds.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Asset Store",
+      "2D",
+      "Sprites"
+    ],
+    "bestFor": [
+      "Asset Store",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-game-icons-net",
+    "title": "Game-icons.net",
+    "shortName": "Game-icons.net",
+    "company": "Game-icons.net",
+    "website": "https://game-icons.net/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Asset Store"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Free game icons and SVG assets.",
+    "longDescription": "Game-icons.net is included in The Creative Vault as a game development resource. Free game icons and SVG assets.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Asset Store",
+      "Icons",
+      "Free"
+    ],
+    "bestFor": [
+      "Asset Store",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": true,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-opengameart-kenney-mirror",
+    "title": "OpenGameArt Kenney Mirror",
+    "shortName": "OpenGameArt Kenney Mirror",
+    "company": "Kenney",
+    "website": "https://kenney.nl/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Asset Store"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Free game development assets and tools from Kenney.",
+    "longDescription": "OpenGameArt Kenney Mirror is included in The Creative Vault as a game development resource. Free game development assets and tools from Kenney.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Asset Store",
+      "Free",
+      "2D",
+      "3D"
+    ],
+    "bestFor": [
+      "Asset Store",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-lost-garden-free-game-graphics",
+    "title": "Lost Garden Free Game Graphics",
+    "shortName": "Lost Garden Free Game Graphics",
+    "company": "Lost Garden",
+    "website": "https://lostgarden.home.blog/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Asset Store"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Classic free game graphics and design essays.",
+    "longDescription": "Lost Garden Free Game Graphics is included in The Creative Vault as a game development resource. Classic free game graphics and design essays.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Asset Store",
+      "Free",
+      "2D"
+    ],
+    "bestFor": [
+      "Asset Store",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-reiner-s-tilesets",
+    "title": "Reiner's Tilesets",
+    "shortName": "Reiner's Tilesets",
+    "company": "Reiner",
+    "website": "https://www.reinerstilesets.de/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Asset Store"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Free isometric and 2D game tilesets.",
+    "longDescription": "Reiner's Tilesets is included in The Creative Vault as a game development resource. Free isometric and 2D game tilesets.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Asset Store",
+      "Free",
+      "Tilesets"
+    ],
+    "bestFor": [
+      "Asset Store",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-spriter-s-resource",
+    "title": "Spriter's Resource",
+    "shortName": "Spriter's Resource",
+    "company": "The VG Resource",
+    "website": "https://www.spriters-resource.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Asset Store"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Sprite archive and reference resource.",
+    "longDescription": "Spriter's Resource is included in The Creative Vault as a game development resource. Sprite archive and reference resource.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Asset Store",
+      "Sprites"
+    ],
+    "bestFor": [
+      "Asset Store",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

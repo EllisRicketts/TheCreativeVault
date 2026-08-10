@@ -1,0 +1,751 @@
+[
+  {
+    "id": "game-dev-extra-game-accessibility-guidelines",
+    "title": "Game Accessibility Guidelines",
+    "shortName": "Game Accessibility Guidelines",
+    "company": "Game Accessibility Guidelines",
+    "website": "https://gameaccessibilityguidelines.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Accessibility and Localization"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Guidelines for making games more accessible.",
+    "longDescription": "Game Accessibility Guidelines is included in The Creative Vault as a game development resource. Guidelines for making games more accessible.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Accessibility and Localization",
+      "Accessibility"
+    ],
+    "bestFor": [
+      "Accessibility and Localization",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-ablegamers-accessible-player-experiences",
+    "title": "AbleGamers Accessible Player Experiences",
+    "shortName": "AbleGamers Accessible Player Experiences",
+    "company": "AbleGamers",
+    "website": "https://accessible.games/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Accessibility and Localization"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Accessibility design resources and player experience guidance.",
+    "longDescription": "AbleGamers Accessible Player Experiences is included in The Creative Vault as a game development resource. Accessibility design resources and player experience guidance.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Accessibility and Localization",
+      "Accessibility"
+    ],
+    "bestFor": [
+      "Accessibility and Localization",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-can-i-play-that",
+    "title": "Can I Play That?",
+    "shortName": "Can I Play That?",
+    "company": "Can I Play That?",
+    "website": "https://caniplaythat.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Accessibility and Localization"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Game accessibility reviews, news, and resources.",
+    "longDescription": "Can I Play That? is included in The Creative Vault as a game development resource. Game accessibility reviews, news, and resources.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Accessibility and Localization",
+      "Accessibility",
+      "Reviews"
+    ],
+    "bestFor": [
+      "Accessibility and Localization",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-xbox-accessibility-guidelines",
+    "title": "Xbox Accessibility Guidelines",
+    "shortName": "Xbox Accessibility Guidelines",
+    "company": "Microsoft",
+    "website": "https://learn.microsoft.com/en-us/gaming/accessibility/guidelines",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Accessibility and Localization"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Official Xbox accessibility guidelines for game developers.",
+    "longDescription": "Xbox Accessibility Guidelines is included in The Creative Vault as a game development resource. Official Xbox accessibility guidelines for game developers.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Accessibility and Localization",
+      "Accessibility",
+      "Xbox"
+    ],
+    "bestFor": [
+      "Accessibility and Localization",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-playstation-accessibility-tags",
+    "title": "PlayStation Accessibility Tags",
+    "shortName": "PlayStation Accessibility Tags",
+    "company": "Sony Interactive Entertainment",
+    "website": "https://www.playstation.com/en-us/accessibility/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Accessibility and Localization"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "PlayStation accessibility resources and platform accessibility information.",
+    "longDescription": "PlayStation Accessibility Tags is included in The Creative Vault as a game development resource. PlayStation accessibility resources and platform accessibility information.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Accessibility and Localization",
+      "Accessibility",
+      "PlayStation"
+    ],
+    "bestFor": [
+      "Accessibility and Localization",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-unity-localization",
+    "title": "Unity Localization",
+    "shortName": "Unity Localization",
+    "company": "Unity Technologies",
+    "website": "https://docs.unity3d.com/Packages/com.unity.localization@latest",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Accessibility and Localization"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Localization package for Unity projects.",
+    "longDescription": "Unity Localization is included in The Creative Vault as a game development resource. Localization package for Unity projects.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Accessibility and Localization",
+      "Unity",
+      "Localization"
+    ],
+    "bestFor": [
+      "Accessibility and Localization",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-unreal-localization-dashboard",
+    "title": "Unreal Localization Dashboard",
+    "shortName": "Unreal Localization Dashboard",
+    "company": "Epic Games",
+    "website": "https://docs.unrealengine.com/5.0/en-US/localization-dashboard-in-unreal-engine/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Accessibility and Localization"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Localization dashboard and text gathering workflow in Unreal Engine.",
+    "longDescription": "Unreal Localization Dashboard is included in The Creative Vault as a game development resource. Localization dashboard and text gathering workflow in Unreal Engine.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Accessibility and Localization",
+      "Unreal",
+      "Localization"
+    ],
+    "bestFor": [
+      "Accessibility and Localization",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-crowdin",
+    "title": "Crowdin",
+    "shortName": "Crowdin",
+    "company": "Crowdin",
+    "website": "https://crowdin.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Accessibility and Localization"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Localization management platform for games, apps, and software.",
+    "longDescription": "Crowdin is included in The Creative Vault as a game development resource. Localization management platform for games, apps, and software.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Accessibility and Localization",
+      "Localization"
+    ],
+    "bestFor": [
+      "Accessibility and Localization",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-lokalise",
+    "title": "Lokalise",
+    "shortName": "Lokalise",
+    "company": "Lokalise",
+    "website": "https://lokalise.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Accessibility and Localization"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Translation and localization management platform.",
+    "longDescription": "Lokalise is included in The Creative Vault as a game development resource. Translation and localization management platform.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Game Dev",
+      "Accessibility and Localization",
+      "Localization"
+    ],
+    "bestFor": [
+      "Accessibility and Localization",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-phrase",
+    "title": "Phrase",
+    "shortName": "Phrase",
+    "company": "Phrase",
+    "website": "https://phrase.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Accessibility and Localization"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Localization platform for software, games, and digital products.",
+    "longDescription": "Phrase is included in The Creative Vault as a game development resource. Localization platform for software, games, and digital products.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Game Dev",
+      "Accessibility and Localization",
+      "Localization"
+    ],
+    "bestFor": [
+      "Accessibility and Localization",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-poeditor",
+    "title": "POEditor",
+    "shortName": "POEditor",
+    "company": "POEditor",
+    "website": "https://poeditor.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Accessibility and Localization"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Collaborative translation and localization platform.",
+    "longDescription": "POEditor is included in The Creative Vault as a game development resource. Collaborative translation and localization platform.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Accessibility and Localization",
+      "Localization"
+    ],
+    "bestFor": [
+      "Accessibility and Localization",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-weblate",
+    "title": "Weblate",
+    "shortName": "Weblate",
+    "company": "Weblate",
+    "website": "https://weblate.org/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Accessibility and Localization"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Open-source localization platform.",
+    "longDescription": "Weblate is included in The Creative Vault as a game development resource. Open-source localization platform.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Accessibility and Localization",
+      "Localization",
+      "Open Source"
+    ],
+    "bestFor": [
+      "Accessibility and Localization",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": true,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-localazy",
+    "title": "Localazy",
+    "shortName": "Localazy",
+    "company": "Localazy",
+    "website": "https://localazy.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Accessibility and Localization"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Localization platform for apps and games.",
+    "longDescription": "Localazy is included in The Creative Vault as a game development resource. Localization platform for apps and games.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Accessibility and Localization",
+      "Localization"
+    ],
+    "bestFor": [
+      "Accessibility and Localization",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-transifex",
+    "title": "Transifex",
+    "shortName": "Transifex",
+    "company": "Transifex",
+    "website": "https://www.transifex.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Accessibility and Localization"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Localization management platform.",
+    "longDescription": "Transifex is included in The Creative Vault as a game development resource. Localization management platform.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Game Dev",
+      "Accessibility and Localization",
+      "Localization"
+    ],
+    "bestFor": [
+      "Accessibility and Localization",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-memoq",
+    "title": "memoQ",
+    "shortName": "memoQ",
+    "company": "memoQ",
+    "website": "https://www.memoq.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Accessibility and Localization"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Translation management system used by localization teams.",
+    "longDescription": "memoQ is included in The Creative Vault as a game development resource. Translation management system used by localization teams.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Accessibility and Localization",
+      "Localization"
+    ],
+    "bestFor": [
+      "Accessibility and Localization",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-smartcat",
+    "title": "Smartcat",
+    "shortName": "Smartcat",
+    "company": "Smartcat",
+    "website": "https://www.smartcat.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Accessibility and Localization"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Translation and localization platform with marketplace.",
+    "longDescription": "Smartcat is included in The Creative Vault as a game development resource. Translation and localization platform with marketplace.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Accessibility and Localization",
+      "Localization"
+    ],
+    "bestFor": [
+      "Accessibility and Localization",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-locdirect",
+    "title": "LocDirect",
+    "shortName": "LocDirect",
+    "company": "LocDirect",
+    "website": "https://www.locdirect.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Accessibility and Localization"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Game localization service provider.",
+    "longDescription": "LocDirect is included in The Creative Vault as a game development resource. Game localization service provider.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Accessibility and Localization",
+      "Localization Service"
+    ],
+    "bestFor": [
+      "Accessibility and Localization",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-keywords-studios",
+    "title": "Keywords Studios",
+    "shortName": "Keywords Studios",
+    "company": "Keywords Studios",
+    "website": "https://www.keywordsstudios.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Accessibility and Localization"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Game services company offering localization, QA, audio, and art services.",
+    "longDescription": "Keywords Studios is included in The Creative Vault as a game development resource. Game services company offering localization, QA, audio, and art services.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Accessibility and Localization",
+      "Localization",
+      "QA"
+    ],
+    "bestFor": [
+      "Accessibility and Localization",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-lionbridge-games",
+    "title": "Lionbridge Games",
+    "shortName": "Lionbridge Games",
+    "company": "Lionbridge Games",
+    "website": "https://games.lionbridge.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Accessibility and Localization"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Game localization, testing, and player experience services.",
+    "longDescription": "Lionbridge Games is included in The Creative Vault as a game development resource. Game localization, testing, and player experience services.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Accessibility and Localization",
+      "Localization",
+      "Testing"
+    ],
+    "bestFor": [
+      "Accessibility and Localization",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-ptw",
+    "title": "PTW",
+    "shortName": "PTW",
+    "company": "PTW",
+    "website": "https://www.ptw.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Accessibility and Localization"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Game services company for QA, localization, player support, and more.",
+    "longDescription": "PTW is included in The Creative Vault as a game development resource. Game services company for QA, localization, player support, and more.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Accessibility and Localization",
+      "Localization",
+      "QA"
+    ],
+    "bestFor": [
+      "Accessibility and Localization",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

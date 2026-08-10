@@ -1,0 +1,365 @@
+[
+  {
+    "id": "audio-splice",
+    "title": "Splice",
+    "shortName": "Splice",
+    "company": "Splice",
+    "website": "https://splice.com/",
+    "category": "Audio",
+    "categoryId": "audio",
+    "subcategories": [
+      "Samples"
+    ],
+    "type": "Resource",
+    "shortDescription": "Sample, loop, MIDI, and plugin platform for music creators.",
+    "longDescription": "Splice is included in The Creative Vault as a samples resource. Sample, loop, MIDI, and plugin platform for music creators.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Audio",
+      "Samples",
+      "Samples"
+    ],
+    "bestFor": [
+      "Samples",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "audio-loopcloud",
+    "title": "Loopcloud",
+    "shortName": "Loopcloud",
+    "company": "Loopmasters",
+    "website": "https://www.loopcloud.com/",
+    "category": "Audio",
+    "categoryId": "audio",
+    "subcategories": [
+      "Samples"
+    ],
+    "type": "Resource",
+    "shortDescription": "Cloud sample library and loop management platform.",
+    "longDescription": "Loopcloud is included in The Creative Vault as a samples resource. Cloud sample library and loop management platform.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Audio",
+      "Samples",
+      "Samples"
+    ],
+    "bestFor": [
+      "Samples",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "audio-noiiz",
+    "title": "Noiiz",
+    "shortName": "Noiiz",
+    "company": "Noiiz",
+    "website": "https://www.noiiz.com/",
+    "category": "Audio",
+    "categoryId": "audio",
+    "subcategories": [
+      "Samples"
+    ],
+    "type": "Resource",
+    "shortDescription": "Sample library and plugin platform for producers.",
+    "longDescription": "Noiiz is included in The Creative Vault as a samples resource. Sample library and plugin platform for producers.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Audio",
+      "Samples",
+      "Samples"
+    ],
+    "bestFor": [
+      "Samples",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "audio-landr",
+    "title": "LANDR",
+    "shortName": "LANDR",
+    "company": "LANDR",
+    "website": "https://www.landr.com/",
+    "category": "Audio",
+    "categoryId": "audio",
+    "subcategories": [
+      "Mastering and Distribution"
+    ],
+    "type": "Resource",
+    "shortDescription": "Online mastering, distribution, samples, and music tools.",
+    "longDescription": "LANDR is included in The Creative Vault as a mastering and distribution resource. Online mastering, distribution, samples, and music tools.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Audio",
+      "Mastering and Distribution",
+      "Mastering"
+    ],
+    "bestFor": [
+      "Mastering and Distribution",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "audio-bandlab",
+    "title": "BandLab",
+    "shortName": "BandLab",
+    "company": "BandLab",
+    "website": "https://www.bandlab.com/",
+    "category": "Audio",
+    "categoryId": "audio",
+    "subcategories": [
+      "Online DAW"
+    ],
+    "type": "Resource",
+    "shortDescription": "Free browser and mobile music creation platform.",
+    "longDescription": "BandLab is included in The Creative Vault as a online daw resource. Free browser and mobile music creation platform.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Audio",
+      "Online DAW",
+      "DAW",
+      "Free"
+    ],
+    "bestFor": [
+      "Online DAW",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "audio-soundtrap",
+    "title": "Soundtrap",
+    "shortName": "Soundtrap",
+    "company": "Spotify",
+    "website": "https://www.soundtrap.com/",
+    "category": "Audio",
+    "categoryId": "audio",
+    "subcategories": [
+      "Online DAW"
+    ],
+    "type": "Resource",
+    "shortDescription": "Browser-based collaborative music and podcast studio.",
+    "longDescription": "Soundtrap is included in The Creative Vault as a online daw resource. Browser-based collaborative music and podcast studio.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Audio",
+      "Online DAW",
+      "DAW",
+      "Podcast"
+    ],
+    "bestFor": [
+      "Online DAW",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "audio-audiotool",
+    "title": "Audiotool",
+    "shortName": "Audiotool",
+    "company": "Audiotool",
+    "website": "https://www.audiotool.com/",
+    "category": "Audio",
+    "categoryId": "audio",
+    "subcategories": [
+      "Online DAW"
+    ],
+    "type": "Resource",
+    "shortDescription": "Browser-based music production studio.",
+    "longDescription": "Audiotool is included in The Creative Vault as a online daw resource. Browser-based music production studio.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Audio",
+      "Online DAW",
+      "DAW",
+      "Browser"
+    ],
+    "bestFor": [
+      "Online DAW",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "audio-soundation",
+    "title": "Soundation",
+    "shortName": "Soundation",
+    "company": "Soundation",
+    "website": "https://soundation.com/",
+    "category": "Audio",
+    "categoryId": "audio",
+    "subcategories": [
+      "Online DAW"
+    ],
+    "type": "Resource",
+    "shortDescription": "Online music studio and collaboration platform.",
+    "longDescription": "Soundation is included in The Creative Vault as a online daw resource. Online music studio and collaboration platform.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Audio",
+      "Online DAW",
+      "DAW"
+    ],
+    "bestFor": [
+      "Online DAW",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "audio-tracklib",
+    "title": "Tracklib",
+    "shortName": "Tracklib",
+    "company": "Tracklib",
+    "website": "https://www.tracklib.com/",
+    "category": "Audio",
+    "categoryId": "audio",
+    "subcategories": [
+      "Sampling"
+    ],
+    "type": "Resource",
+    "shortDescription": "Music sampling platform with licensed original tracks.",
+    "longDescription": "Tracklib is included in The Creative Vault as a sampling resource. Music sampling platform with licensed original tracks.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Audio",
+      "Sampling",
+      "Sampling"
+    ],
+    "bestFor": [
+      "Sampling",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "audio-landr-samples",
+    "title": "LANDR Samples",
+    "shortName": "LANDR Samples",
+    "company": "LANDR",
+    "website": "https://samples.landr.com/",
+    "category": "Audio",
+    "categoryId": "audio",
+    "subcategories": [
+      "Samples"
+    ],
+    "type": "Resource",
+    "shortDescription": "Sample library for music production.",
+    "longDescription": "LANDR Samples is included in The Creative Vault as a samples resource. Sample library for music production.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Audio",
+      "Samples",
+      "Samples"
+    ],
+    "bestFor": [
+      "Samples",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

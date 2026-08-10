@@ -1,0 +1,102 @@
+[
+  {
+    "file": "3d-models.json",
+    "count": 6,
+    "category": "3d-models"
+  },
+  {
+    "file": "brushes.json",
+    "count": 10,
+    "category": "brushes"
+  },
+  {
+    "file": "device-frames.json",
+    "count": 8,
+    "category": "device-frames"
+  },
+  {
+    "file": "file-converters.json",
+    "count": 8,
+    "category": "file-converters"
+  },
+  {
+    "file": "fonts.json",
+    "count": 6,
+    "category": "fonts"
+  },
+  {
+    "file": "hdri.json",
+    "count": 6,
+    "category": "hdri"
+  },
+  {
+    "file": "icons.json",
+    "count": 6,
+    "category": "icons"
+  },
+  {
+    "file": "luts.json",
+    "count": 8,
+    "category": "luts"
+  },
+  {
+    "file": "maps.json",
+    "count": 6,
+    "category": "maps"
+  },
+  {
+    "file": "mockups.json",
+    "count": 10,
+    "category": "mockups"
+  },
+  {
+    "file": "music-libraries.json",
+    "count": 16,
+    "category": "music-libraries"
+  },
+  {
+    "file": "patterns.json",
+    "count": 6,
+    "category": "patterns"
+  },
+  {
+    "file": "presentation-templates.json",
+    "count": 8,
+    "category": "presentation-templates"
+  },
+  {
+    "file": "public-domain-archives.json",
+    "count": 8,
+    "category": "public-domain-archives"
+  },
+  {
+    "file": "sound-effects.json",
+    "count": 10,
+    "category": "sound-effects"
+  },
+  {
+    "file": "stock-photos.json",
+    "count": 10,
+    "category": "stock-photos"
+  },
+  {
+    "file": "stock-video.json",
+    "count": 8,
+    "category": "stock-video"
+  },
+  {
+    "file": "textures.json",
+    "count": 6,
+    "category": "textures"
+  },
+  {
+    "file": "ui-kits.json",
+    "count": 10,
+    "category": "ui-kits"
+  },
+  {
+    "file": "vfx-assets.json",
+    "count": 8,
+    "category": "vfx-assets"
+  }
+]

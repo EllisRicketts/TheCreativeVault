@@ -1,0 +1,858 @@
+[
+  {
+    "id": "photography-the-lawtog",
+    "title": "The LawTog",
+    "shortName": "The LawTog",
+    "company": "The LawTog",
+    "website": "https://thelawtog.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Business"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Legal templates, contracts, and business education for photographers.",
+    "longDescription": "The LawTog is included in The Creative Vault as a photography resource. Legal templates, contracts, and business education for photographers.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "Photography Business",
+      "Contracts"
+    ],
+    "bestFor": [
+      "Photography Business",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": true,
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-pixpa",
+    "title": "Pixpa",
+    "shortName": "Pixpa",
+    "company": "Pixpa",
+    "website": "https://www.pixpa.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Business"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Portfolio website, ecommerce, galleries, and client proofing for photographers.",
+    "longDescription": "Pixpa is included in The Creative Vault as a photography resource. Portfolio website, ecommerce, galleries, and client proofing for photographers.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Photography",
+      "Photography Business",
+      "Portfolio"
+    ],
+    "bestFor": [
+      "Photography Business",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-studio-ninja",
+    "title": "Studio Ninja",
+    "shortName": "Studio Ninja",
+    "company": "Studio Ninja",
+    "website": "https://www.studioninja.co/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Business"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "CRM, invoicing, workflows, and photography business management.",
+    "longDescription": "Studio Ninja is included in The Creative Vault as a photography resource. CRM, invoicing, workflows, and photography business management.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Photography",
+      "Photography Business",
+      "CRM"
+    ],
+    "bestFor": [
+      "Photography Business",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-t-ve",
+    "title": "Táve",
+    "shortName": "Táve",
+    "company": "Táve",
+    "website": "https://tave.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Business"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Studio management CRM for photographers.",
+    "longDescription": "Táve is included in The Creative Vault as a photography resource. Studio management CRM for photographers.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Photography",
+      "Photography Business",
+      "CRM"
+    ],
+    "bestFor": [
+      "Photography Business",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-sprout-studio",
+    "title": "Sprout Studio",
+    "shortName": "Sprout Studio",
+    "company": "Sprout Studio",
+    "website": "https://getsproutstudio.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Business"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Photography CRM, galleries, contracts, and studio management.",
+    "longDescription": "Sprout Studio is included in The Creative Vault as a photography resource. Photography CRM, galleries, contracts, and studio management.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Photography",
+      "Photography Business",
+      "CRM"
+    ],
+    "bestFor": [
+      "Photography Business",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-17hats-photography",
+    "title": "17hats Photography",
+    "shortName": "17hats Photography",
+    "company": "17hats",
+    "website": "https://www.17hats.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Business"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Business management platform for client-based creative businesses.",
+    "longDescription": "17hats Photography is included in The Creative Vault as a photography resource. Business management platform for client-based creative businesses.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Photography",
+      "Photography Business",
+      "CRM"
+    ],
+    "bestFor": [
+      "Photography Business",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-honeybook-photography",
+    "title": "HoneyBook Photography",
+    "shortName": "HoneyBook Photography",
+    "company": "HoneyBook",
+    "website": "https://www.honeybook.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Business"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Clientflow platform for proposals, contracts, invoices, and projects.",
+    "longDescription": "HoneyBook Photography is included in The Creative Vault as a photography resource. Clientflow platform for proposals, contracts, invoices, and projects.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Photography",
+      "Photography Business",
+      "CRM"
+    ],
+    "bestFor": [
+      "Photography Business",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-dubsado-photography",
+    "title": "Dubsado Photography",
+    "shortName": "Dubsado Photography",
+    "company": "Dubsado",
+    "website": "https://www.dubsado.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Business"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "CRM, forms, workflows, and client management for photographers.",
+    "longDescription": "Dubsado Photography is included in The Creative Vault as a photography resource. CRM, forms, workflows, and client management for photographers.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Photography",
+      "Photography Business",
+      "CRM"
+    ],
+    "bestFor": [
+      "Photography Business",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-shootq",
+    "title": "ShootQ",
+    "shortName": "ShootQ",
+    "company": "ShootQ",
+    "website": "https://shootq.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Business"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Photography studio management and workflow software.",
+    "longDescription": "ShootQ is included in The Creative Vault as a photography resource. Photography studio management and workflow software.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Photography",
+      "Photography Business",
+      "CRM"
+    ],
+    "bestFor": [
+      "Photography Business",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-iris-works",
+    "title": "Iris Works",
+    "shortName": "Iris Works",
+    "company": "Iris Works",
+    "website": "https://iris-works.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Business"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Photography business management, workflows, and client communication.",
+    "longDescription": "Iris Works is included in The Creative Vault as a photography resource. Photography business management, workflows, and client communication.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Photography",
+      "Photography Business",
+      "CRM"
+    ],
+    "bestFor": [
+      "Photography Business",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-bookedin",
+    "title": "Bookedin",
+    "shortName": "Bookedin",
+    "company": "Bookedin",
+    "website": "https://bookedin.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Business"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Online appointment scheduling for service businesses.",
+    "longDescription": "Bookedin is included in The Creative Vault as a photography resource. Online appointment scheduling for service businesses.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Photography",
+      "Photography Business",
+      "Scheduling"
+    ],
+    "bestFor": [
+      "Photography Business",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-simplybook-me",
+    "title": "SimplyBook.me",
+    "shortName": "SimplyBook.me",
+    "company": "SimplyBook.me",
+    "website": "https://simplybook.me/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Business"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Online booking system for appointments and services.",
+    "longDescription": "SimplyBook.me is included in The Creative Vault as a photography resource. Online booking system for appointments and services.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Photography",
+      "Photography Business",
+      "Scheduling"
+    ],
+    "bestFor": [
+      "Photography Business",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-jotform-photography-forms",
+    "title": "Jotform Photography Forms",
+    "shortName": "Jotform Photography Forms",
+    "company": "Jotform",
+    "website": "https://www.jotform.com/photography/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Business"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Photography forms, questionnaires, booking forms, and templates.",
+    "longDescription": "Jotform Photography Forms is included in The Creative Vault as a photography resource. Photography forms, questionnaires, booking forms, and templates.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Photography",
+      "Photography Business",
+      "Forms"
+    ],
+    "bestFor": [
+      "Photography Business",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-typeform-photography-templates",
+    "title": "Typeform Photography Templates",
+    "shortName": "Typeform Photography Templates",
+    "company": "Typeform",
+    "website": "https://www.typeform.com/templates/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Business"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Client questionnaires and form templates.",
+    "longDescription": "Typeform Photography Templates is included in The Creative Vault as a photography resource. Client questionnaires and form templates.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Photography",
+      "Photography Business",
+      "Forms"
+    ],
+    "bestFor": [
+      "Photography Business",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-tally-photography-forms",
+    "title": "Tally Photography Forms",
+    "shortName": "Tally Photography Forms",
+    "company": "Tally",
+    "website": "https://tally.so/templates",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Business"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Free forms and templates useful for photographers.",
+    "longDescription": "Tally Photography Forms is included in The Creative Vault as a photography resource. Free forms and templates useful for photographers.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Photography Business",
+      "Forms"
+    ],
+    "bestFor": [
+      "Photography Business",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-the-contract-shop-photography",
+    "title": "The Contract Shop Photography",
+    "shortName": "The Contract Shop Photography",
+    "company": "The Contract Shop",
+    "website": "https://thecontractshop.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Business"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Legal contract templates for creative businesses.",
+    "longDescription": "The Contract Shop Photography is included in The Creative Vault as a photography resource. Legal contract templates for creative businesses.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "Photography Business",
+      "Contracts"
+    ],
+    "bestFor": [
+      "Photography Business",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-asmp",
+    "title": "ASMP",
+    "shortName": "ASMP",
+    "company": "ASMP",
+    "website": "https://www.asmp.org/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Business"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Professional association for photographers with business and legal resources.",
+    "longDescription": "ASMP is included in The Creative Vault as a photography resource. Professional association for photographers with business and legal resources.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Photography",
+      "Photography Business",
+      "Association"
+    ],
+    "bestFor": [
+      "Photography Business",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": true,
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-ppa",
+    "title": "PPA",
+    "shortName": "PPA",
+    "company": "Professional Photographers of America",
+    "website": "https://www.ppa.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Business"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Professional photography association, education, insurance, and resources.",
+    "longDescription": "PPA is included in The Creative Vault as a photography resource. Professional photography association, education, insurance, and resources.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Photography",
+      "Photography Business",
+      "Association"
+    ],
+    "bestFor": [
+      "Photography Business",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-nppa",
+    "title": "NPPA",
+    "shortName": "NPPA",
+    "company": "National Press Photographers Association",
+    "website": "https://nppa.org/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Business"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Professional association for visual journalists.",
+    "longDescription": "NPPA is included in The Creative Vault as a photography resource. Professional association for visual journalists.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Photography",
+      "Photography Business",
+      "Association"
+    ],
+    "bestFor": [
+      "Photography Business",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-photobiz",
+    "title": "PhotoBiz",
+    "shortName": "PhotoBiz",
+    "company": "PhotoBiz",
+    "website": "https://www.photobiz.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Business"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Websites, proofing, ecommerce, and marketing tools for photographers.",
+    "longDescription": "PhotoBiz is included in The Creative Vault as a photography resource. Websites, proofing, ecommerce, and marketing tools for photographers.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Photography",
+      "Photography Business",
+      "Portfolio"
+    ],
+    "bestFor": [
+      "Photography Business",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

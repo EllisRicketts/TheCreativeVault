@@ -1,0 +1,11 @@
+{
+  "id": "autodesk",
+  "name": "Autodesk",
+  "website": "https://www.autodesk.com/",
+  "category": "Company",
+  "type": "Software Company",
+  "ecosystems": [
+    "Autodesk"
+  ],
+  "description": "Design, engineering, architecture, manufacturing, media, and entertainment software company."
+}

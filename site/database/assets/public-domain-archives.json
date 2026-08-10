@@ -1,0 +1,267 @@
+[
+  {
+    "title": "The Public Domain Review",
+    "website": "https://publicdomainreview.org",
+    "price": "Free",
+    "logo": "",
+    "description": "Curated public domain art, images, books, and historical material.",
+    "assetType": "public-domain-archives",
+    "commercialUse": "Check license",
+    "attribution": "Check license",
+    "formats": [],
+    "featured": true,
+    "lastReviewed": "2026-07-07"
+  },
+  {
+    "title": "Library of Congress Digital Collections",
+    "website": "https://www.loc.gov/collections/",
+    "price": "Free",
+    "logo": "",
+    "description": "Public digital collections from the Library of Congress.",
+    "assetType": "public-domain-archives",
+    "commercialUse": "Check license",
+    "attribution": "Check license",
+    "formats": [],
+    "featured": true,
+    "lastReviewed": "2026-07-07"
+  },
+  {
+    "title": "The Met Open Access",
+    "website": "https://www.metmuseum.org/art/collection",
+    "price": "Free",
+    "logo": "",
+    "description": "Open access art images from The Metropolitan Museum of Art.",
+    "assetType": "public-domain-archives",
+    "commercialUse": "Check license",
+    "attribution": "Check license",
+    "formats": [],
+    "featured": true,
+    "lastReviewed": "2026-07-07"
+  },
+  {
+    "title": "Rijksmuseum Collection",
+    "website": "https://www.rijksmuseum.nl/en/rijksstudio",
+    "price": "Free",
+    "logo": "",
+    "description": "High-resolution public domain art and museum collection images.",
+    "assetType": "public-domain-archives",
+    "commercialUse": "Check license",
+    "attribution": "Check license",
+    "formats": [],
+    "featured": true,
+    "lastReviewed": "2026-07-07"
+  },
+  {
+    "title": "Europeana",
+    "website": "https://www.europeana.eu",
+    "price": "Free",
+    "logo": "",
+    "description": "European cultural heritage image and media archive.",
+    "assetType": "public-domain-archives",
+    "commercialUse": "Check license",
+    "attribution": "Check license",
+    "formats": [],
+    "featured": true,
+    "lastReviewed": "2026-07-07"
+  },
+  {
+    "title": "Wikimedia Commons",
+    "website": "https://commons.wikimedia.org",
+    "price": "Free",
+    "logo": "",
+    "description": "Large free-use media repository.",
+    "assetType": "public-domain-archives",
+    "commercialUse": "Check license",
+    "attribution": "Check license",
+    "formats": [],
+    "featured": true,
+    "lastReviewed": "2026-07-07"
+  },
+  {
+    "title": "Internet Archive",
+    "website": "https://archive.org",
+    "price": "Free",
+    "logo": "",
+    "description": "Digital library of books, media, software, music, and public archives.",
+    "assetType": "public-domain-archives",
+    "commercialUse": "Check license",
+    "attribution": "Check license",
+    "formats": [],
+    "featured": true,
+    "lastReviewed": "2026-07-07"
+  },
+  {
+    "title": "New York Public Library Digital Collections",
+    "website": "https://digitalcollections.nypl.org",
+    "price": "Free",
+    "logo": "",
+    "description": "Public domain images and archival material from NYPL.",
+    "assetType": "public-domain-archives",
+    "commercialUse": "Check license",
+    "attribution": "Check license",
+    "formats": [],
+    "featured": true,
+    "lastReviewed": "2026-07-07"
+  },
+  {
+    "title": "Smithsonian Open Access",
+    "website": "https://www.si.edu/openaccess",
+    "price": "Free",
+    "description": "Public domain archive.",
+    "featured": true
+  },
+  {
+    "title": "National Gallery of Art Open Access",
+    "website": "https://www.nga.gov/open-access-images.html",
+    "price": "Free",
+    "description": "Public domain archive.",
+    "featured": true
+  },
+  {
+    "title": "Art Institute of Chicago API",
+    "website": "https://api.artic.edu",
+    "price": "Free",
+    "description": "Public domain archive.",
+    "featured": true
+  },
+  {
+    "title": "Yale Center for British Art",
+    "website": "https://collections.britishart.yale.edu",
+    "price": "Free",
+    "description": "Public domain archive.",
+    "featured": true
+  },
+  {
+    "title": "Cleveland Museum of Art Open Access",
+    "website": "https://www.clevelandart.org/open-access",
+    "price": "Free",
+    "description": "Public domain archive.",
+    "featured": true
+  },
+  {
+    "title": "Harvard Art Museums",
+    "website": "https://harvardartmuseums.org",
+    "price": "Free",
+    "description": "Public domain archive.",
+    "featured": true
+  },
+  {
+    "title": "Wellcome Collection",
+    "website": "https://wellcomecollection.org",
+    "price": "Free",
+    "description": "Public domain archive.",
+    "featured": true
+  },
+  {
+    "title": "Biodiversity Heritage Library",
+    "website": "https://www.biodiversitylibrary.org",
+    "price": "Free",
+    "description": "Public domain archive.",
+    "featured": true
+  },
+  {
+    "title": "Project Gutenberg",
+    "website": "https://www.gutenberg.org",
+    "price": "Free",
+    "description": "Public domain archive.",
+    "featured": true
+  },
+  {
+    "title": "Standard Ebooks",
+    "website": "https://standardebooks.org",
+    "price": "Free",
+    "description": "Public domain archive.",
+    "featured": true
+  },
+  {
+    "title": "HathiTrust",
+    "website": "https://www.hathitrust.org",
+    "price": "Free",
+    "description": "Public domain archive.",
+    "featured": true
+  },
+  {
+    "title": "Gallica",
+    "website": "https://gallica.bnf.fr",
+    "price": "Free",
+    "description": "Public domain archive.",
+    "featured": true
+  },
+  {
+    "title": "Digital Public Library of America",
+    "website": "https://dp.la",
+    "price": "Free",
+    "description": "Public domain archive.",
+    "featured": true
+  },
+  {
+    "title": "NASA Image and Video Library",
+    "website": "https://images.nasa.gov",
+    "price": "Free",
+    "description": "Public domain archive.",
+    "featured": true
+  },
+  {
+    "title": "US National Archives",
+    "website": "https://www.archives.gov",
+    "price": "Free",
+    "description": "Public domain archive.",
+    "featured": true
+  },
+  {
+    "title": "Flickr Commons",
+    "website": "https://www.flickr.com/commons",
+    "price": "Free",
+    "description": "Public domain archive.",
+    "featured": true
+  },
+  {
+    "title": "Google Arts & Culture",
+    "website": "https://artsandculture.google.com",
+    "price": "Free",
+    "description": "Public domain archive.",
+    "featured": true
+  },
+  {
+    "title": "Openverse",
+    "website": "https://openverse.org",
+    "price": "Free",
+    "description": "Public domain archive.",
+    "featured": true
+  },
+  {
+    "title": "Old Book Illustrations",
+    "website": "https://www.oldbookillustrations.com",
+    "price": "Free",
+    "description": "Public domain archive.",
+    "featured": true
+  },
+  {
+    "title": "Rawpixel Public Domain",
+    "website": "https://www.rawpixel.com/category/53/public-domain",
+    "price": "Free",
+    "description": "Public domain archive.",
+    "featured": true
+  },
+  {
+    "title": "British Library Flickr",
+    "website": "https://www.flickr.com/photos/britishlibrary",
+    "price": "Free",
+    "description": "Public domain archive.",
+    "featured": true
+  },
+  {
+    "title": "David Rumsey Map Collection",
+    "website": "https://www.davidrumsey.com",
+    "price": "Free",
+    "description": "Public domain archive.",
+    "featured": true
+  },
+  {
+    "title": "Historic England Archive",
+    "website": "https://historicengland.org.uk/images-books/archive/",
+    "price": "Free",
+    "description": "Public domain archive.",
+    "featured": true
+  }
+]

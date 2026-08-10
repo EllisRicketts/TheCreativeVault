@@ -1,0 +1,760 @@
+[
+  {
+    "id": "learning-mdn-web-docs",
+    "title": "MDN Web Docs",
+    "shortName": "MDN Web Docs",
+    "company": "Mozilla",
+    "website": "https://developer.mozilla.org/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Code and AI Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Documentation and learning resources for web development.",
+    "longDescription": "MDN Web Docs is included in The Creative Vault as a learning resource. Documentation and learning resources for web development.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Code and AI Education",
+      "Web",
+      "Docs"
+    ],
+    "bestFor": [
+      "Code and AI Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-the-odin-project",
+    "title": "The Odin Project",
+    "shortName": "The Odin Project",
+    "company": "The Odin Project",
+    "website": "https://www.theodinproject.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Code and AI Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Free full-stack web development curriculum.",
+    "longDescription": "The Odin Project is included in The Creative Vault as a learning resource. Free full-stack web development curriculum.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Code and AI Education",
+      "Web",
+      "Free"
+    ],
+    "bestFor": [
+      "Code and AI Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": true,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-full-stack-open",
+    "title": "Full Stack Open",
+    "shortName": "Full Stack Open",
+    "company": "University of Helsinki",
+    "website": "https://fullstackopen.com/en/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Code and AI Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Free modern full-stack web development course.",
+    "longDescription": "Full Stack Open is included in The Creative Vault as a learning resource. Free modern full-stack web development course.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Code and AI Education",
+      "Web",
+      "React"
+    ],
+    "bestFor": [
+      "Code and AI Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-javascript-info",
+    "title": "JavaScript.info",
+    "shortName": "JavaScript.info",
+    "company": "JavaScript.info",
+    "website": "https://javascript.info/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Code and AI Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Modern JavaScript tutorial and reference.",
+    "longDescription": "JavaScript.info is included in The Creative Vault as a learning resource. Modern JavaScript tutorial and reference.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Code and AI Education",
+      "JavaScript"
+    ],
+    "bestFor": [
+      "Code and AI Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-scrimba",
+    "title": "Scrimba",
+    "shortName": "Scrimba",
+    "company": "Scrimba",
+    "website": "https://scrimba.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Code and AI Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Interactive coding courses for frontend development and AI.",
+    "longDescription": "Scrimba is included in The Creative Vault as a learning resource. Interactive coding courses for frontend development and AI.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Learning",
+      "Code and AI Education",
+      "Interactive",
+      "Coding"
+    ],
+    "bestFor": [
+      "Code and AI Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-frontend-masters",
+    "title": "Frontend Masters",
+    "shortName": "Frontend Masters",
+    "company": "Frontend Masters",
+    "website": "https://frontendmasters.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Code and AI Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Advanced frontend, JavaScript, React, and web development courses.",
+    "longDescription": "Frontend Masters is included in The Creative Vault as a learning resource. Advanced frontend, JavaScript, React, and web development courses.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Learning",
+      "Code and AI Education",
+      "Frontend",
+      "JavaScript"
+    ],
+    "bestFor": [
+      "Code and AI Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-wes-bos-courses",
+    "title": "Wes Bos Courses",
+    "shortName": "Wes Bos Courses",
+    "company": "Wes Bos",
+    "website": "https://wesbos.com/courses",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Code and AI Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "JavaScript, React, CSS, and web development courses.",
+    "longDescription": "Wes Bos Courses is included in The Creative Vault as a learning resource. JavaScript, React, CSS, and web development courses.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Learning",
+      "Code and AI Education",
+      "JavaScript",
+      "React"
+    ],
+    "bestFor": [
+      "Code and AI Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-kent-c-dodds-epic-web",
+    "title": "Kent C. Dodds Epic Web",
+    "shortName": "Kent C. Dodds Epic Web",
+    "company": "Kent C. Dodds",
+    "website": "https://www.epicweb.dev/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Code and AI Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Full-stack web development training focused on modern React and web apps.",
+    "longDescription": "Kent C. Dodds Epic Web is included in The Creative Vault as a learning resource. Full-stack web development training focused on modern React and web apps.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Learning",
+      "Code and AI Education",
+      "React",
+      "Full Stack"
+    ],
+    "bestFor": [
+      "Code and AI Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-laracasts",
+    "title": "Laracasts",
+    "shortName": "Laracasts",
+    "company": "Laracasts",
+    "website": "https://laracasts.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Code and AI Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Web development courses focused on Laravel, PHP, JavaScript, and tooling.",
+    "longDescription": "Laracasts is included in The Creative Vault as a learning resource. Web development courses focused on Laravel, PHP, JavaScript, and tooling.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Learning",
+      "Code and AI Education",
+      "PHP",
+      "Laravel"
+    ],
+    "bestFor": [
+      "Code and AI Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-css-tricks",
+    "title": "CSS-Tricks",
+    "shortName": "CSS-Tricks",
+    "company": "DigitalOcean",
+    "website": "https://css-tricks.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Code and AI Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Frontend development articles, guides, and CSS education.",
+    "longDescription": "CSS-Tricks is included in The Creative Vault as a learning resource. Frontend development articles, guides, and CSS education.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Code and AI Education",
+      "CSS",
+      "Frontend"
+    ],
+    "bestFor": [
+      "Code and AI Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-web-dev",
+    "title": "web.dev",
+    "shortName": "web.dev",
+    "company": "Google",
+    "website": "https://web.dev/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Code and AI Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Google web performance, modern web, and frontend learning resources.",
+    "longDescription": "web.dev is included in The Creative Vault as a learning resource. Google web performance, modern web, and frontend learning resources.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Code and AI Education",
+      "Web",
+      "Performance"
+    ],
+    "bestFor": [
+      "Code and AI Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-learn-prompting",
+    "title": "Learn Prompting",
+    "shortName": "Learn Prompting",
+    "company": "Learn Prompting",
+    "website": "https://learnprompting.org/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Code and AI Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Free prompt engineering and AI literacy course.",
+    "longDescription": "Learn Prompting is included in The Creative Vault as a learning resource. Free prompt engineering and AI literacy course.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Code and AI Education",
+      "AI",
+      "Prompting"
+    ],
+    "bestFor": [
+      "Code and AI Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-deeplearning-ai",
+    "title": "DeepLearning.AI",
+    "shortName": "DeepLearning.AI",
+    "company": "DeepLearning.AI",
+    "website": "https://www.deeplearning.ai/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Code and AI Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "AI, machine learning, and data science courses.",
+    "longDescription": "DeepLearning.AI is included in The Creative Vault as a learning resource. AI, machine learning, and data science courses.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Learning",
+      "Code and AI Education",
+      "AI",
+      "Machine Learning"
+    ],
+    "bestFor": [
+      "Code and AI Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-fast-ai",
+    "title": "Fast.ai",
+    "shortName": "Fast.ai",
+    "company": "fast.ai",
+    "website": "https://www.fast.ai/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Code and AI Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Practical deep learning courses and research resources.",
+    "longDescription": "Fast.ai is included in The Creative Vault as a learning resource. Practical deep learning courses and research resources.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Code and AI Education",
+      "AI",
+      "Deep Learning"
+    ],
+    "bestFor": [
+      "Code and AI Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": true,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-hugging-face-learn",
+    "title": "Hugging Face Learn",
+    "shortName": "Hugging Face Learn",
+    "company": "Hugging Face",
+    "website": "https://huggingface.co/learn",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Code and AI Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Free courses and documentation for transformers, AI models, and machine learning.",
+    "longDescription": "Hugging Face Learn is included in The Creative Vault as a learning resource. Free courses and documentation for transformers, AI models, and machine learning.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Code and AI Education",
+      "AI",
+      "Models"
+    ],
+    "bestFor": [
+      "Code and AI Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-google-machine-learning-crash-course",
+    "title": "Google Machine Learning Crash Course",
+    "shortName": "Google Machine Learning Crash Course",
+    "company": "Google",
+    "website": "https://developers.google.com/machine-learning/crash-course",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Code and AI Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Free machine learning fundamentals course from Google.",
+    "longDescription": "Google Machine Learning Crash Course is included in The Creative Vault as a learning resource. Free machine learning fundamentals course from Google.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Code and AI Education",
+      "Machine Learning"
+    ],
+    "bestFor": [
+      "Code and AI Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-kaggle-learn",
+    "title": "Kaggle Learn",
+    "shortName": "Kaggle Learn",
+    "company": "Kaggle",
+    "website": "https://www.kaggle.com/learn",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Code and AI Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Short practical courses in Python, data science, machine learning, and AI.",
+    "longDescription": "Kaggle Learn is included in The Creative Vault as a learning resource. Short practical courses in Python, data science, machine learning, and AI.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Code and AI Education",
+      "Data",
+      "AI"
+    ],
+    "bestFor": [
+      "Code and AI Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-openai-cookbook",
+    "title": "OpenAI Cookbook",
+    "shortName": "OpenAI Cookbook",
+    "company": "OpenAI",
+    "website": "https://cookbook.openai.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Code and AI Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Code examples and guides for building with OpenAI models.",
+    "longDescription": "OpenAI Cookbook is included in The Creative Vault as a learning resource. Code examples and guides for building with OpenAI models.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Code and AI Education",
+      "AI",
+      "API"
+    ],
+    "bestFor": [
+      "Code and AI Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-anthropic-prompt-engineering-guide",
+    "title": "Anthropic Prompt Engineering Guide",
+    "shortName": "Anthropic Prompt Engineering Guide",
+    "company": "Anthropic",
+    "website": "https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Code and AI Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Official Claude prompt engineering documentation.",
+    "longDescription": "Anthropic Prompt Engineering Guide is included in The Creative Vault as a learning resource. Official Claude prompt engineering documentation.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Code and AI Education",
+      "AI",
+      "Prompting"
+    ],
+    "bestFor": [
+      "Code and AI Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-microsoft-learn-ai",
+    "title": "Microsoft Learn AI",
+    "shortName": "Microsoft Learn AI",
+    "company": "Microsoft",
+    "website": "https://learn.microsoft.com/en-us/ai/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Code and AI Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "AI learning paths, documentation, and tutorials from Microsoft.",
+    "longDescription": "Microsoft Learn AI is included in The Creative Vault as a learning resource. AI learning paths, documentation, and tutorials from Microsoft.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Code and AI Education",
+      "AI",
+      "Microsoft"
+    ],
+    "bestFor": [
+      "Code and AI Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

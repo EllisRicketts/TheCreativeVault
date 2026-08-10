@@ -1,0 +1,764 @@
+[
+  {
+    "id": "game-dev-extra-openxr",
+    "title": "OpenXR",
+    "shortName": "OpenXR",
+    "company": "Khronos Group",
+    "website": "https://www.khronos.org/openxr/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "VR and AR"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Open standard for VR and AR applications.",
+    "longDescription": "OpenXR is included in The Creative Vault as a game development resource. Open standard for VR and AR applications.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "VR and AR",
+      "XR",
+      "Standard"
+    ],
+    "bestFor": [
+      "VR and AR",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": true,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-meta-quest-developer-center",
+    "title": "Meta Quest Developer Center",
+    "shortName": "Meta Quest Developer Center",
+    "company": "Meta",
+    "website": "https://developer.oculus.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "VR and AR"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Developer resources for Meta Quest VR and MR development.",
+    "longDescription": "Meta Quest Developer Center is included in The Creative Vault as a game development resource. Developer resources for Meta Quest VR and MR development.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "VR and AR",
+      "Quest",
+      "VR"
+    ],
+    "bestFor": [
+      "VR and AR",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-steamvr",
+    "title": "SteamVR",
+    "shortName": "SteamVR",
+    "company": "Valve",
+    "website": "https://steamvr.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "VR and AR"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "VR platform and runtime for PC VR development.",
+    "longDescription": "SteamVR is included in The Creative Vault as a game development resource. VR platform and runtime for PC VR development.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "VR and AR",
+      "PC VR"
+    ],
+    "bestFor": [
+      "VR and AR",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-unity-xr",
+    "title": "Unity XR",
+    "shortName": "Unity XR",
+    "company": "Unity Technologies",
+    "website": "https://docs.unity3d.com/Manual/XR.html",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "VR and AR"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Unity XR tools and documentation for VR and AR development.",
+    "longDescription": "Unity XR is included in The Creative Vault as a game development resource. Unity XR tools and documentation for VR and AR development.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "VR and AR",
+      "Unity",
+      "XR"
+    ],
+    "bestFor": [
+      "VR and AR",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-unreal-xr",
+    "title": "Unreal XR",
+    "shortName": "Unreal XR",
+    "company": "Epic Games",
+    "website": "https://dev.epicgames.com/documentation/en-us/unreal-engine/xr-development-in-unreal-engine",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "VR and AR"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Unreal Engine XR development tools and documentation.",
+    "longDescription": "Unreal XR is included in The Creative Vault as a game development resource. Unreal Engine XR development tools and documentation.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "VR and AR",
+      "Unreal",
+      "XR"
+    ],
+    "bestFor": [
+      "VR and AR",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-arcore",
+    "title": "ARCore",
+    "shortName": "ARCore",
+    "company": "Google",
+    "website": "https://developers.google.com/ar",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "VR and AR"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Google platform for building augmented reality experiences.",
+    "longDescription": "ARCore is included in The Creative Vault as a game development resource. Google platform for building augmented reality experiences.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "VR and AR",
+      "AR",
+      "Android"
+    ],
+    "bestFor": [
+      "VR and AR",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-arkit",
+    "title": "ARKit",
+    "shortName": "ARKit",
+    "company": "Apple",
+    "website": "https://developer.apple.com/augmented-reality/arkit/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "VR and AR"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Apple framework for augmented reality apps and games.",
+    "longDescription": "ARKit is included in The Creative Vault as a game development resource. Apple framework for augmented reality apps and games.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "VR and AR",
+      "AR",
+      "iOS"
+    ],
+    "bestFor": [
+      "VR and AR",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-vuforia",
+    "title": "Vuforia",
+    "shortName": "Vuforia",
+    "company": "PTC",
+    "website": "https://www.ptc.com/en/products/vuforia",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "VR and AR"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "AR development platform for object tracking and industrial AR.",
+    "longDescription": "Vuforia is included in The Creative Vault as a game development resource. AR development platform for object tracking and industrial AR.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "VR and AR",
+      "AR"
+    ],
+    "bestFor": [
+      "VR and AR",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-niantic-lightship",
+    "title": "Niantic Lightship",
+    "shortName": "Niantic Lightship",
+    "company": "Niantic",
+    "website": "https://lightship.dev/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "VR and AR"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "AR development platform for real-world games and experiences.",
+    "longDescription": "Niantic Lightship is included in The Creative Vault as a game development resource. AR development platform for real-world games and experiences.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "VR and AR",
+      "AR",
+      "Location"
+    ],
+    "bestFor": [
+      "VR and AR",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-8th-wall",
+    "title": "8th Wall",
+    "shortName": "8th Wall",
+    "company": "Niantic",
+    "website": "https://www.8thwall.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "VR and AR"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "WebAR platform for browser-based augmented reality.",
+    "longDescription": "8th Wall is included in The Creative Vault as a game development resource. WebAR platform for browser-based augmented reality.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "VR and AR",
+      "WebAR"
+    ],
+    "bestFor": [
+      "VR and AR",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-webxr",
+    "title": "WebXR",
+    "shortName": "WebXR",
+    "company": "W3C",
+    "website": "https://immersiveweb.dev/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "VR and AR"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Web standard and resources for immersive browser experiences.",
+    "longDescription": "WebXR is included in The Creative Vault as a game development resource. Web standard and resources for immersive browser experiences.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "VR and AR",
+      "WebXR",
+      "Browser"
+    ],
+    "bestFor": [
+      "VR and AR",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": true,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-a-frame",
+    "title": "A-Frame",
+    "shortName": "A-Frame",
+    "company": "A-Frame",
+    "website": "https://aframe.io/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "VR and AR"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Web framework for building VR and AR experiences.",
+    "longDescription": "A-Frame is included in The Creative Vault as a game development resource. Web framework for building VR and AR experiences.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "VR and AR",
+      "WebXR",
+      "Open Source"
+    ],
+    "bestFor": [
+      "VR and AR",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": true,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-babylon-js-xr",
+    "title": "Babylon.js XR",
+    "shortName": "Babylon.js XR",
+    "company": "Microsoft",
+    "website": "https://doc.babylonjs.com/features/featuresDeepDive/webXR/introToWebXR",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "VR and AR"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "WebXR development tools inside Babylon.js.",
+    "longDescription": "Babylon.js XR is included in The Creative Vault as a game development resource. WebXR development tools inside Babylon.js.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "VR and AR",
+      "WebXR",
+      "3D"
+    ],
+    "bestFor": [
+      "VR and AR",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": true,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-three-js-webxr",
+    "title": "three.js WebXR",
+    "shortName": "three.js WebXR",
+    "company": "three.js",
+    "website": "https://threejs.org/docs/#manual/en/introduction/How-to-create-VR-content",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "VR and AR"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "WebXR support in three.js for browser-based immersive experiences.",
+    "longDescription": "three.js WebXR is included in The Creative Vault as a game development resource. WebXR support in three.js for browser-based immersive experiences.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "VR and AR",
+      "WebXR",
+      "3D"
+    ],
+    "bestFor": [
+      "VR and AR",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": true,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-shapesxr",
+    "title": "ShapesXR",
+    "shortName": "ShapesXR",
+    "company": "ShapesXR",
+    "website": "https://www.shapesxr.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "VR and AR"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Collaborative VR design and prototyping tool.",
+    "longDescription": "ShapesXR is included in The Creative Vault as a game development resource. Collaborative VR design and prototyping tool.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "VR and AR",
+      "Prototyping",
+      "VR"
+    ],
+    "bestFor": [
+      "VR and AR",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser",
+      "Meta Quest"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-gravity-sketch",
+    "title": "Gravity Sketch",
+    "shortName": "Gravity Sketch",
+    "company": "Gravity Sketch",
+    "website": "https://www.gravitysketch.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "VR and AR"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "VR 3D design and sketching tool.",
+    "longDescription": "Gravity Sketch is included in The Creative Vault as a game development resource. VR 3D design and sketching tool.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "VR and AR",
+      "VR Design",
+      "3D"
+    ],
+    "bestFor": [
+      "VR and AR",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Meta Quest",
+      "Windows"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-open-brush",
+    "title": "Open Brush",
+    "shortName": "Open Brush",
+    "company": "Open Brush",
+    "website": "https://openbrush.app/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "VR and AR"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Open-source VR painting app based on Tilt Brush.",
+    "longDescription": "Open Brush is included in The Creative Vault as a game development resource. Open-source VR painting app based on Tilt Brush.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "VR and AR",
+      "VR Art",
+      "Open Source"
+    ],
+    "bestFor": [
+      "VR and AR",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Meta Quest",
+      "Windows"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": true,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-tilt-brush-archive",
+    "title": "Tilt Brush Archive",
+    "shortName": "Tilt Brush Archive",
+    "company": "Google",
+    "website": "https://github.com/googlevr/tilt-brush",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "VR and AR"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Open-source archive of Google's VR painting app.",
+    "longDescription": "Tilt Brush Archive is included in The Creative Vault as a game development resource. Open-source archive of Google's VR painting app.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "VR and AR",
+      "VR Art",
+      "Open Source"
+    ],
+    "bestFor": [
+      "VR and AR",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": true,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-mrtk",
+    "title": "MRTK",
+    "shortName": "MRTK",
+    "company": "Microsoft",
+    "website": "https://github.com/MixedRealityToolkit/MixedRealityToolkit-Unity",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "VR and AR"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Mixed Reality Toolkit for Unity.",
+    "longDescription": "MRTK is included in The Creative Vault as a game development resource. Mixed Reality Toolkit for Unity.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "VR and AR",
+      "Mixed Reality",
+      "Unity"
+    ],
+    "bestFor": [
+      "VR and AR",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": true,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-immersal",
+    "title": "Immersal",
+    "shortName": "Immersal",
+    "company": "Immersal",
+    "website": "https://immersal.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "VR and AR"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "AR mapping and localization platform.",
+    "longDescription": "Immersal is included in The Creative Vault as a game development resource. AR mapping and localization platform.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "VR and AR",
+      "AR",
+      "Mapping"
+    ],
+    "bestFor": [
+      "VR and AR",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

@@ -1,0 +1,982 @@
+[
+  {
+    "id": "essential-library-of-congress-free-to-use",
+    "title": "Library of Congress Free to Use",
+    "shortName": "Library of Congress Free to Use",
+    "company": "Library of Congress",
+    "website": "https://www.loc.gov/free-to-use/",
+    "category": "Public Domain",
+    "categoryId": "public-domain",
+    "categories": [
+      "Public Domain",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "public-domain",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Public Domain",
+    "subcategories": [
+      "Public Domain Collections",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Curated free-to-use sets from the Library of Congress.",
+    "longDescription": "Library of Congress Free to Use is included in The Creative Vault Creative Essentials Pack. Curated free-to-use sets from the Library of Congress.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Public Domain",
+      "Public Domain Collections",
+      "Archive"
+    ],
+    "bestFor": [
+      "Public Domain Collections",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-smithsonian-open-access",
+    "title": "Smithsonian Open Access",
+    "shortName": "Smithsonian Open Access",
+    "company": "Smithsonian",
+    "website": "https://www.si.edu/openaccess",
+    "category": "Public Domain",
+    "categoryId": "public-domain",
+    "categories": [
+      "Public Domain",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "public-domain",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Public Domain",
+    "subcategories": [
+      "Public Domain Collections",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Open access images and data from Smithsonian collections.",
+    "longDescription": "Smithsonian Open Access is included in The Creative Vault Creative Essentials Pack. Open access images and data from Smithsonian collections.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Public Domain",
+      "Public Domain Collections",
+      "Archive"
+    ],
+    "bestFor": [
+      "Public Domain Collections",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-the-met-open-access",
+    "title": "The Met Open Access",
+    "shortName": "The Met Open Access",
+    "company": "The Metropolitan Museum of Art",
+    "website": "https://www.metmuseum.org/art/collection",
+    "category": "Public Domain",
+    "categoryId": "public-domain",
+    "categories": [
+      "Public Domain",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "public-domain",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Public Domain",
+    "subcategories": [
+      "Art Collections",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Open access art images from The Met.",
+    "longDescription": "The Met Open Access is included in The Creative Vault Creative Essentials Pack. Open access art images from The Met.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Public Domain",
+      "Art Collections",
+      "Art"
+    ],
+    "bestFor": [
+      "Art Collections",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-rijksmuseum-rijksstudio",
+    "title": "Rijksmuseum Rijksstudio",
+    "shortName": "Rijksmuseum Rijksstudio",
+    "company": "Rijksmuseum",
+    "website": "https://www.rijksmuseum.nl/en/rijksstudio",
+    "category": "Public Domain",
+    "categoryId": "public-domain",
+    "categories": [
+      "Public Domain",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "public-domain",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Public Domain",
+    "subcategories": [
+      "Art Collections",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "High-resolution public domain art and museum collections.",
+    "longDescription": "Rijksmuseum Rijksstudio is included in The Creative Vault Creative Essentials Pack. High-resolution public domain art and museum collections.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Public Domain",
+      "Art Collections",
+      "Art"
+    ],
+    "bestFor": [
+      "Art Collections",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-national-gallery-of-art-open-access",
+    "title": "National Gallery of Art Open Access",
+    "shortName": "National Gallery of Art Open Access",
+    "company": "National Gallery of Art",
+    "website": "https://www.nga.gov/open-access-images.html",
+    "category": "Public Domain",
+    "categoryId": "public-domain",
+    "categories": [
+      "Public Domain",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "public-domain",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Public Domain",
+    "subcategories": [
+      "Art Collections",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Open access images from the National Gallery of Art.",
+    "longDescription": "National Gallery of Art Open Access is included in The Creative Vault Creative Essentials Pack. Open access images from the National Gallery of Art.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Public Domain",
+      "Art Collections",
+      "Art"
+    ],
+    "bestFor": [
+      "Art Collections",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-cleveland-museum-of-art-open-access",
+    "title": "Cleveland Museum of Art Open Access",
+    "shortName": "Cleveland Museum of Art Open Access",
+    "company": "Cleveland Museum of Art",
+    "website": "https://www.clevelandart.org/open-access",
+    "category": "Public Domain",
+    "categoryId": "public-domain",
+    "categories": [
+      "Public Domain",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "public-domain",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Public Domain",
+    "subcategories": [
+      "Art Collections",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Open access museum images and data.",
+    "longDescription": "Cleveland Museum of Art Open Access is included in The Creative Vault Creative Essentials Pack. Open access museum images and data.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Public Domain",
+      "Art Collections",
+      "Art"
+    ],
+    "bestFor": [
+      "Art Collections",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-artvee",
+    "title": "Artvee",
+    "shortName": "Artvee",
+    "company": "Artvee",
+    "website": "https://artvee.com/",
+    "category": "Public Domain",
+    "categoryId": "public-domain",
+    "categories": [
+      "Public Domain",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "public-domain",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Public Domain",
+    "subcategories": [
+      "Public Domain Art",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Public domain art archive for downloads and inspiration.",
+    "longDescription": "Artvee is included in The Creative Vault Creative Essentials Pack. Public domain art archive for downloads and inspiration.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Public Domain",
+      "Public Domain Art",
+      "Art"
+    ],
+    "bestFor": [
+      "Public Domain Art",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-rawpixel-public-domain",
+    "title": "Rawpixel Public Domain",
+    "shortName": "Rawpixel Public Domain",
+    "company": "Rawpixel",
+    "website": "https://www.rawpixel.com/category/53/public-domain",
+    "category": "Public Domain",
+    "categoryId": "public-domain",
+    "categories": [
+      "Public Domain",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "public-domain",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Public Domain",
+    "subcategories": [
+      "Public Domain Art",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Public domain art, illustrations, and images.",
+    "longDescription": "Rawpixel Public Domain is included in The Creative Vault Creative Essentials Pack. Public domain art, illustrations, and images.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Public Domain",
+      "Public Domain Art",
+      "Art"
+    ],
+    "bestFor": [
+      "Public Domain Art",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-old-book-illustrations",
+    "title": "Old Book Illustrations",
+    "shortName": "Old Book Illustrations",
+    "company": "Old Book Illustrations",
+    "website": "https://www.oldbookillustrations.com/",
+    "category": "Public Domain",
+    "categoryId": "public-domain",
+    "categories": [
+      "Public Domain",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "public-domain",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Public Domain",
+    "subcategories": [
+      "Public Domain Illustration",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Public domain book illustrations.",
+    "longDescription": "Old Book Illustrations is included in The Creative Vault Creative Essentials Pack. Public domain book illustrations.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Public Domain",
+      "Public Domain Illustration",
+      "Illustration"
+    ],
+    "bestFor": [
+      "Public Domain Illustration",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-british-library-flickr",
+    "title": "British Library Flickr",
+    "shortName": "British Library Flickr",
+    "company": "British Library",
+    "website": "https://www.flickr.com/photos/britishlibrary",
+    "category": "Public Domain",
+    "categoryId": "public-domain",
+    "categories": [
+      "Public Domain",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "public-domain",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Public Domain",
+    "subcategories": [
+      "Public Domain Archives",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Public domain images from the British Library Flickr collection.",
+    "longDescription": "British Library Flickr is included in The Creative Vault Creative Essentials Pack. Public domain images from the British Library Flickr collection.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Public Domain",
+      "Public Domain Archives",
+      "Archive"
+    ],
+    "bestFor": [
+      "Public Domain Archives",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-biodiversity-heritage-library-flickr",
+    "title": "Biodiversity Heritage Library Flickr",
+    "shortName": "Biodiversity Heritage Library Flickr",
+    "company": "BHL",
+    "website": "https://www.flickr.com/photos/biodivlibrary/",
+    "category": "Public Domain",
+    "categoryId": "public-domain",
+    "categories": [
+      "Public Domain",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "public-domain",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Public Domain",
+    "subcategories": [
+      "Natural History Images",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Natural history images and biodiversity illustrations.",
+    "longDescription": "Biodiversity Heritage Library Flickr is included in The Creative Vault Creative Essentials Pack. Natural history images and biodiversity illustrations.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Public Domain",
+      "Natural History Images",
+      "Nature"
+    ],
+    "bestFor": [
+      "Natural History Images",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-nasa-images",
+    "title": "NASA Images",
+    "shortName": "NASA Images",
+    "company": "NASA",
+    "website": "https://images.nasa.gov/",
+    "category": "Public Domain",
+    "categoryId": "public-domain",
+    "categories": [
+      "Public Domain",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "public-domain",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Public Domain",
+    "subcategories": [
+      "Public Domain Media",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "NASA image and video library.",
+    "longDescription": "NASA Images is included in The Creative Vault Creative Essentials Pack. NASA image and video library.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Public Domain",
+      "Public Domain Media",
+      "Space"
+    ],
+    "bestFor": [
+      "Public Domain Media",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-usgs-multimedia-gallery",
+    "title": "USGS Multimedia Gallery",
+    "shortName": "USGS Multimedia Gallery",
+    "company": "USGS",
+    "website": "https://www.usgs.gov/products/multimedia-gallery",
+    "category": "Public Domain",
+    "categoryId": "public-domain",
+    "categories": [
+      "Public Domain",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "public-domain",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Public Domain",
+    "subcategories": [
+      "Public Domain Media",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Earth science images, videos, and media.",
+    "longDescription": "USGS Multimedia Gallery is included in The Creative Vault Creative Essentials Pack. Earth science images, videos, and media.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Public Domain",
+      "Public Domain Media",
+      "Science"
+    ],
+    "bestFor": [
+      "Public Domain Media",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-noaa-photo-library",
+    "title": "NOAA Photo Library",
+    "shortName": "NOAA Photo Library",
+    "company": "NOAA",
+    "website": "https://photolib.noaa.gov/",
+    "category": "Public Domain",
+    "categoryId": "public-domain",
+    "categories": [
+      "Public Domain",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "public-domain",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Public Domain",
+    "subcategories": [
+      "Public Domain Media",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "NOAA photos and scientific imagery.",
+    "longDescription": "NOAA Photo Library is included in The Creative Vault Creative Essentials Pack. NOAA photos and scientific imagery.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Public Domain",
+      "Public Domain Media",
+      "Science"
+    ],
+    "bestFor": [
+      "Public Domain Media",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-wikimedia-commons",
+    "title": "Wikimedia Commons",
+    "shortName": "Wikimedia Commons",
+    "company": "Wikimedia Foundation",
+    "website": "https://commons.wikimedia.org/",
+    "category": "Public Domain",
+    "categoryId": "public-domain",
+    "categories": [
+      "Public Domain",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "public-domain",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Public Domain",
+    "subcategories": [
+      "Open Media",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Large free-use media repository.",
+    "longDescription": "Wikimedia Commons is included in The Creative Vault Creative Essentials Pack. Large free-use media repository.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Public Domain",
+      "Open Media",
+      "Media"
+    ],
+    "bestFor": [
+      "Open Media",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-europeana",
+    "title": "Europeana",
+    "shortName": "Europeana",
+    "company": "Europeana",
+    "website": "https://www.europeana.eu/",
+    "category": "Public Domain",
+    "categoryId": "public-domain",
+    "categories": [
+      "Public Domain",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "public-domain",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Public Domain",
+    "subcategories": [
+      "Cultural Archives",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "European cultural heritage archive.",
+    "longDescription": "Europeana is included in The Creative Vault Creative Essentials Pack. European cultural heritage archive.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Public Domain",
+      "Cultural Archives",
+      "Archive"
+    ],
+    "bestFor": [
+      "Cultural Archives",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-digitalnz",
+    "title": "DigitalNZ",
+    "shortName": "DigitalNZ",
+    "company": "DigitalNZ",
+    "website": "https://digitalnz.org/",
+    "category": "Public Domain",
+    "categoryId": "public-domain",
+    "categories": [
+      "Public Domain",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "public-domain",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Public Domain",
+    "subcategories": [
+      "Cultural Archives",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "New Zealand digital cultural heritage search.",
+    "longDescription": "DigitalNZ is included in The Creative Vault Creative Essentials Pack. New Zealand digital cultural heritage search.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Public Domain",
+      "Cultural Archives",
+      "Archive"
+    ],
+    "bestFor": [
+      "Cultural Archives",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-trove",
+    "title": "Trove",
+    "shortName": "Trove",
+    "company": "National Library of Australia",
+    "website": "https://trove.nla.gov.au/",
+    "category": "Public Domain",
+    "categoryId": "public-domain",
+    "categories": [
+      "Public Domain",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "public-domain",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Public Domain",
+    "subcategories": [
+      "Cultural Archives",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Australian digital archive for newspapers, images, maps, and more.",
+    "longDescription": "Trove is included in The Creative Vault Creative Essentials Pack. Australian digital archive for newspapers, images, maps, and more.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Public Domain",
+      "Cultural Archives",
+      "Archive"
+    ],
+    "bestFor": [
+      "Cultural Archives",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-dpla",
+    "title": "DPLA",
+    "shortName": "DPLA",
+    "company": "Digital Public Library of America",
+    "website": "https://dp.la/",
+    "category": "Public Domain",
+    "categoryId": "public-domain",
+    "categories": [
+      "Public Domain",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "public-domain",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Public Domain",
+    "subcategories": [
+      "Cultural Archives",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Digital Public Library of America.",
+    "longDescription": "DPLA is included in The Creative Vault Creative Essentials Pack. Digital Public Library of America.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Public Domain",
+      "Cultural Archives",
+      "Archive"
+    ],
+    "bestFor": [
+      "Cultural Archives",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-david-rumsey-map-collection",
+    "title": "David Rumsey Map Collection",
+    "shortName": "David Rumsey Map Collection",
+    "company": "David Rumsey",
+    "website": "https://www.davidrumsey.com/",
+    "category": "Public Domain",
+    "categoryId": "public-domain",
+    "categories": [
+      "Public Domain",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "public-domain",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Public Domain",
+    "subcategories": [
+      "Maps",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Large historic map collection.",
+    "longDescription": "David Rumsey Map Collection is included in The Creative Vault Creative Essentials Pack. Large historic map collection.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Public Domain",
+      "Maps",
+      "Maps"
+    ],
+    "bestFor": [
+      "Maps",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

@@ -1,0 +1,370 @@
+[
+  {
+    "id": "ai-tools-replicate",
+    "title": "Replicate",
+    "shortName": "Replicate",
+    "company": "Replicate",
+    "website": "https://replicate.com/",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Models"
+    ],
+    "type": "Resource",
+    "shortDescription": "Run and deploy open-source AI models through an API.",
+    "longDescription": "Replicate is included in The Creative Vault as a ai models resource. Run and deploy open-source AI models through an API.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "AI Tools",
+      "AI Models",
+      "API",
+      "Models"
+    ],
+    "bestFor": [
+      "AI Models",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "ai-tools-fal-ai",
+    "title": "Fal.ai",
+    "shortName": "Fal.ai",
+    "company": "Fal",
+    "website": "https://fal.ai/",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Models"
+    ],
+    "type": "Resource",
+    "shortDescription": "Fast inference platform for generative media models.",
+    "longDescription": "Fal.ai is included in The Creative Vault as a ai models resource. Fast inference platform for generative media models.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "AI Tools",
+      "AI Models",
+      "API",
+      "Image"
+    ],
+    "bestFor": [
+      "AI Models",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "ai-tools-together-ai",
+    "title": "Together AI",
+    "shortName": "Together AI",
+    "company": "Together AI",
+    "website": "https://www.together.ai/",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Models"
+    ],
+    "type": "Resource",
+    "shortDescription": "Cloud platform for open-source AI models and inference.",
+    "longDescription": "Together AI is included in The Creative Vault as a ai models resource. Cloud platform for open-source AI models and inference.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "AI Tools",
+      "AI Models",
+      "LLM",
+      "API"
+    ],
+    "bestFor": [
+      "AI Models",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "ai-tools-openrouter",
+    "title": "OpenRouter",
+    "shortName": "OpenRouter",
+    "company": "OpenRouter",
+    "website": "https://openrouter.ai/",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Models"
+    ],
+    "type": "Resource",
+    "shortDescription": "Unified API and router for many AI models.",
+    "longDescription": "OpenRouter is included in The Creative Vault as a ai models resource. Unified API and router for many AI models.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "AI Tools",
+      "AI Models",
+      "LLM",
+      "API"
+    ],
+    "bestFor": [
+      "AI Models",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "ai-tools-groqcloud",
+    "title": "GroqCloud",
+    "shortName": "GroqCloud",
+    "company": "Groq",
+    "website": "https://console.groq.com/",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Models"
+    ],
+    "type": "Resource",
+    "shortDescription": "Fast inference platform for supported language models.",
+    "longDescription": "GroqCloud is included in The Creative Vault as a ai models resource. Fast inference platform for supported language models.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "AI Tools",
+      "AI Models",
+      "LLM",
+      "Inference"
+    ],
+    "bestFor": [
+      "AI Models",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "ai-tools-mistral-le-chat",
+    "title": "Mistral Le Chat",
+    "shortName": "Mistral Le Chat",
+    "company": "Mistral AI",
+    "website": "https://chat.mistral.ai/",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Assistant"
+    ],
+    "type": "Resource",
+    "shortDescription": "AI assistant from Mistral AI.",
+    "longDescription": "Mistral Le Chat is included in The Creative Vault as a ai assistant resource. AI assistant from Mistral AI.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "AI Tools",
+      "AI Assistant",
+      "Chat",
+      "LLM"
+    ],
+    "bestFor": [
+      "AI Assistant",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "ai-tools-poe",
+    "title": "Poe",
+    "shortName": "Poe",
+    "company": "Quora",
+    "website": "https://poe.com/",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Assistant"
+    ],
+    "type": "Resource",
+    "shortDescription": "Platform for chatting with multiple AI models and bots.",
+    "longDescription": "Poe is included in The Creative Vault as a ai assistant resource. Platform for chatting with multiple AI models and bots.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "AI Tools",
+      "AI Assistant",
+      "Chat",
+      "Bots"
+    ],
+    "bestFor": [
+      "AI Assistant",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "ai-tools-youlearn",
+    "title": "YouLearn",
+    "shortName": "YouLearn",
+    "company": "YouLearn",
+    "website": "https://www.youlearn.ai/",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Learning"
+    ],
+    "type": "Resource",
+    "shortDescription": "AI tool for learning from videos, PDFs, and documents.",
+    "longDescription": "YouLearn is included in The Creative Vault as a ai learning resource. AI tool for learning from videos, PDFs, and documents.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "AI Tools",
+      "AI Learning",
+      "Learning",
+      "Summaries"
+    ],
+    "bestFor": [
+      "AI Learning",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "ai-tools-humata",
+    "title": "Humata",
+    "shortName": "Humata",
+    "company": "Humata",
+    "website": "https://www.humata.ai/",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Research"
+    ],
+    "type": "Resource",
+    "shortDescription": "AI assistant for reading, searching, and summarizing documents.",
+    "longDescription": "Humata is included in The Creative Vault as a ai research resource. AI assistant for reading, searching, and summarizing documents.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "AI Tools",
+      "AI Research",
+      "Documents"
+    ],
+    "bestFor": [
+      "AI Research",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "ai-tools-scispace",
+    "title": "SciSpace",
+    "shortName": "SciSpace",
+    "company": "SciSpace",
+    "website": "https://typeset.io/",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Research"
+    ],
+    "type": "Resource",
+    "shortDescription": "AI research assistant for papers, explanations, and literature discovery.",
+    "longDescription": "SciSpace is included in The Creative Vault as a ai research resource. AI research assistant for papers, explanations, and literature discovery.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "AI Tools",
+      "AI Research",
+      "Research"
+    ],
+    "bestFor": [
+      "AI Research",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

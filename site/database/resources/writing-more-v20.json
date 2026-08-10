@@ -1,0 +1,362 @@
+[
+  {
+    "id": "writing-ulysses",
+    "title": "Ulysses",
+    "shortName": "Ulysses",
+    "company": "Ulysses",
+    "website": "https://ulysses.app/",
+    "category": "Writing",
+    "categoryId": "writing",
+    "subcategories": [
+      "Writing App"
+    ],
+    "type": "Resource",
+    "shortDescription": "Focused writing app for Mac, iPad, and iPhone.",
+    "longDescription": "Ulysses is included in The Creative Vault as a writing app resource. Focused writing app for Mac, iPad, and iPhone.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Writing",
+      "Writing App",
+      "Writing"
+    ],
+    "bestFor": [
+      "Writing App",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "writing-scrivener",
+    "title": "Scrivener",
+    "shortName": "Scrivener",
+    "company": "Literature & Latte",
+    "website": "https://www.literatureandlatte.com/scrivener/overview",
+    "category": "Writing",
+    "categoryId": "writing",
+    "subcategories": [
+      "Writing App"
+    ],
+    "type": "Resource",
+    "shortDescription": "Long-form writing software for books, scripts, and research-heavy projects.",
+    "longDescription": "Scrivener is included in The Creative Vault as a writing app resource. Long-form writing software for books, scripts, and research-heavy projects.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Writing",
+      "Writing App",
+      "Books"
+    ],
+    "bestFor": [
+      "Writing App",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "writing-bear",
+    "title": "Bear",
+    "shortName": "Bear",
+    "company": "Shiny Frog",
+    "website": "https://bear.app/",
+    "category": "Writing",
+    "categoryId": "writing",
+    "subcategories": [
+      "Writing App"
+    ],
+    "type": "Resource",
+    "shortDescription": "Markdown notes and writing app for Apple devices.",
+    "longDescription": "Bear is included in The Creative Vault as a writing app resource. Markdown notes and writing app for Apple devices.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Writing",
+      "Writing App",
+      "Markdown"
+    ],
+    "bestFor": [
+      "Writing App",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "writing-ia-writer",
+    "title": "iA Writer",
+    "shortName": "iA Writer",
+    "company": "iA",
+    "website": "https://ia.net/writer",
+    "category": "Writing",
+    "categoryId": "writing",
+    "subcategories": [
+      "Writing App"
+    ],
+    "type": "Resource",
+    "shortDescription": "Minimal focused writing app.",
+    "longDescription": "iA Writer is included in The Creative Vault as a writing app resource. Minimal focused writing app.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Writing",
+      "Writing App",
+      "Markdown"
+    ],
+    "bestFor": [
+      "Writing App",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "writing-obsidian",
+    "title": "Obsidian",
+    "shortName": "Obsidian",
+    "company": "Obsidian",
+    "website": "https://obsidian.md/",
+    "category": "Writing",
+    "categoryId": "writing",
+    "subcategories": [
+      "Knowledge Base"
+    ],
+    "type": "Resource",
+    "shortDescription": "Markdown knowledge base and writing app.",
+    "longDescription": "Obsidian is included in The Creative Vault as a knowledge base resource. Markdown knowledge base and writing app.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Writing",
+      "Knowledge Base",
+      "Notes"
+    ],
+    "bestFor": [
+      "Knowledge Base",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "writing-roam-research",
+    "title": "Roam Research",
+    "shortName": "Roam Research",
+    "company": "Roam Research",
+    "website": "https://roamresearch.com/",
+    "category": "Writing",
+    "categoryId": "writing",
+    "subcategories": [
+      "Knowledge Base"
+    ],
+    "type": "Resource",
+    "shortDescription": "Networked note-taking and research tool.",
+    "longDescription": "Roam Research is included in The Creative Vault as a knowledge base resource. Networked note-taking and research tool.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Writing",
+      "Knowledge Base",
+      "Notes"
+    ],
+    "bestFor": [
+      "Knowledge Base",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "writing-logseq",
+    "title": "Logseq",
+    "shortName": "Logseq",
+    "company": "Logseq",
+    "website": "https://logseq.com/",
+    "category": "Writing",
+    "categoryId": "writing",
+    "subcategories": [
+      "Knowledge Base"
+    ],
+    "type": "Resource",
+    "shortDescription": "Open-source privacy-first knowledge base and outliner.",
+    "longDescription": "Logseq is included in The Creative Vault as a knowledge base resource. Open-source privacy-first knowledge base and outliner.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Writing",
+      "Knowledge Base",
+      "Notes"
+    ],
+    "bestFor": [
+      "Knowledge Base",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "writing-dabble",
+    "title": "Dabble",
+    "shortName": "Dabble",
+    "company": "Dabble",
+    "website": "https://www.dabblewriter.com/",
+    "category": "Writing",
+    "categoryId": "writing",
+    "subcategories": [
+      "Novel Writing"
+    ],
+    "type": "Resource",
+    "shortDescription": "Novel writing software with plotting and organization tools.",
+    "longDescription": "Dabble is included in The Creative Vault as a novel writing resource. Novel writing software with plotting and organization tools.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Writing",
+      "Novel Writing",
+      "Fiction"
+    ],
+    "bestFor": [
+      "Novel Writing",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "writing-novlr",
+    "title": "Novlr",
+    "shortName": "Novlr",
+    "company": "Novlr",
+    "website": "https://www.novlr.org/",
+    "category": "Writing",
+    "categoryId": "writing",
+    "subcategories": [
+      "Novel Writing"
+    ],
+    "type": "Resource",
+    "shortDescription": "Online writing platform for novelists.",
+    "longDescription": "Novlr is included in The Creative Vault as a novel writing resource. Online writing platform for novelists.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Writing",
+      "Novel Writing",
+      "Fiction"
+    ],
+    "bestFor": [
+      "Novel Writing",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "writing-reedsy-book-editor",
+    "title": "Reedsy Book Editor",
+    "shortName": "Reedsy Book Editor",
+    "company": "Reedsy",
+    "website": "https://reedsy.com/write-a-book",
+    "category": "Writing",
+    "categoryId": "writing",
+    "subcategories": [
+      "Book Writing"
+    ],
+    "type": "Resource",
+    "shortDescription": "Free book writing and formatting tool from Reedsy.",
+    "longDescription": "Reedsy Book Editor is included in The Creative Vault as a book writing resource. Free book writing and formatting tool from Reedsy.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Writing",
+      "Book Writing",
+      "Books"
+    ],
+    "bestFor": [
+      "Book Writing",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

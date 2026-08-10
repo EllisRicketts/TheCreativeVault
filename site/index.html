@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>The Creative Vault | The Ultimate Creative Resource Library</title>
+  <meta name="description" content="A premium creative resource discovery hub curated by Ellis Ricketts." />
+
+  <link rel="stylesheet" href="css/style.css" />
+
+<link rel="apple-touch-icon" sizes="180x180" href="favicon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="favicon/favicon-16x16.png">
+<link rel="shortcut icon" href="favicon/favicon.ico">
+<link rel="manifest" href="favicon/site.webmanifest">
+<meta name="theme-color" content="#ff7a00">
+<meta name="description" content="The Creative Vault — Discover thousands of curated creative resources, AI tools, assets, learning platforms, software, and more.">
+<meta property="og:title" content="The Creative Vault">
+<meta property="og:description" content="The Ultimate Creative Resource Library">
+<meta property="og:type" content="website">
+
+</head>
+
+<body>
+<div id="top"></div>
+<div id="categories" class="vault-nav-anchor"></div>
+<div id="applications" class="vault-nav-anchor"></div>
+<div id="collections" class="vault-nav-anchor"></div>
+<div id="recently-added" class="vault-nav-anchor"></div>
+
+<nav class="vault-platform-nav" aria-label="The Creative Vault navigation">
+  <button class="vault-nav-link" type="button" data-vault-nav="home">Home</button>
+  <button class="vault-nav-link" type="button" data-vault-nav="categories">Categories</button>
+  <button id="creativeEssentialsButton" class="vault-nav-link vault-nav-button vault-nav-featured" type="button">★ Essentials</button>
+  <button class="vault-nav-link" type="button" data-vault-nav="applications">Applications</button>
+  <button class="vault-nav-link" type="button" data-vault-nav="collections">Collections</button>
+  <button class="vault-nav-link" type="button" data-vault-nav="recently-added">Recently Added</button>
+  <button class="vault-nav-link vault-nav-submit" type="button" data-vault-nav="submit">Submit</button>
+</nav>
+
+<dialog id="creativeEssentialsModal" class="creative-essentials-modal">
+    <div class="creative-essentials-modal-inner">
+      <button class="creative-essentials-close" id="creativeEssentialsClose" type="button" aria-label="Close Creative Essentials">×</button>
+      <p class="creative-essentials-eyebrow">FREE CREATOR TOOLKIT</p>
+      <h2>Creative Essentials</h2>
+      <p class="creative-essentials-intro">
+        A hand-picked pack of free resources for creators: AI, research, image tools, color, typography,
+        accessibility, file conversion, web tools, public domain archives, video, audio, game dev, and creator tools.
+      </p>
+
+      <div class="creative-essentials-controls">
+        <input id="creativeEssentialsSearch" type="search" placeholder="Search free essentials...">
+        <button id="creativeEssentialsShowAll" type="button">SHOW ALL ESSENTIALS</button>
+      </div>
+
+      <div id="creativeEssentialsGrid" class="creative-essentials-grid"></div>
+    </div>
+  </dialog>
+
+  <main class="vault-app">
+
+    <header class="vault-topbar">
+      <a class="vault-brand" href="#">
+        <img src="images/avatars/ellis-ricketts-avatar.png" alt="Ellis Ricketts avatar logo" />
+        <span>
+          <strong>The <em>Creative</em> Vault</strong>
+          <small>Curated by Ellis Ricketts</small>
+        </span>
+      </a>
+
+      <nav class="vault-nav" aria-label="Main navigation">
+        <a href="#collections">Collections</a>
+        <a href="#categories">Categories</a>
+        <a href="#resources">Resources</a>
+        <a href="#submit">Submit</a>
+      </nav>
+</header>
+
+    <section class="vault-hero">
+      <div class="vault-hero-copy">
+        <p class="vault-eyebrow">THE INTERNET'S CREATIVE TOOLKIT</p>
+
+        <h1>
+          Find better tools.
+          <span>Create better work.</span>
+        </h1>
+
+        <p class="vault-intro">
+          Explore curated software, websites, grants, references, learning platforms,
+          marketplaces, AI tools, and creative resources.
+        </p>
+
+        <div class="vault-searchbar">
+          <span>⌕</span>
+          <input id="searchInput" type="search" placeholder="Search Photoshop, Blender, grants, AI tools, brushes..." />
+        </div>
+</div>
+
+      <div class="vault-hero-panel">
+        <div class="vault-avatar-orbit">
+          <span></span>
+          <span></span>
+          <img src="images/avatars/ellis-ricketts-avatar.png" alt="The Creative Vault mascot" />
+        </div>
+
+        <div class="vault-hero-stats">
+          <div>
+            <strong id="resourceCount">0</strong>
+            <span>Resources Indexed</span>
+          </div>
+          <div>
+            <strong id="categoryCount">0</strong>
+            <span>Categories</span>
+          </div>
+          <div>
+            <strong id="featuredCount">0</strong>
+            <span>Featured Picks</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="collections" class="vault-section">
+      <div class="vault-section-head">
+        <div>
+          <p class="vault-eyebrow">CURATED PATHWAYS</p>
+          <h2>Vault Collections</h2>
+        </div>
+        <p>Start with a focused kit instead of browsing everything at once.</p>
+      </div>
+
+      <div id="collectionGrid" class="vault-collection-grid"></div>
+    </section>
+
+    <section id="categories" class="vault-section">
+      <div class="vault-section-head">
+        <div>
+          <p class="vault-eyebrow">BROWSE THE VAULT</p>
+          <h2>Creative Categories</h2>
+        </div>
+        <p>Jump into the lane that matches your work.</p>
+      </div>
+
+      <div id="categoryGrid" class="vault-category-grid"></div>
+    </section>
+
+    <section id="resources" class="vault-section">
+      <div class="vault-section-head vault-resource-head">
+        <div>
+          <p class="vault-eyebrow">RESOURCE DATABASE</p>
+          <h2>Explore Resources</h2>
+        </div>
+        <p id="resultSummary">Showing all resources.</p>
+      </div>
+
+      <div class="vault-filters">
+        <label>
+          Category
+          <select id="categoryFilter">
+            <option value="all">All Categories</option>
+          </select>
+        </label>
+
+        <label>
+          Pricing
+          <select id="priceFilter">
+            <option value="all">All Pricing</option>
+            <option value="Free">Free</option>
+            <option value="Freemium">Freemium</option>
+            <option value="Paid">Paid</option>
+            <option value="Subscription">Subscription</option>
+          </select>
+        </label>
+
+        <label>
+          Platform
+          <select id="platformFilter">
+            <option value="all">All Platforms</option>
+            <option value="Browser">Browser</option>
+            <option value="Windows">Windows</option>
+            <option value="Mac">Mac</option>
+            <option value="Linux">Linux</option>
+            <option value="iPad">iPad</option>
+            <option value="iPhone">iPhone</option>
+            <option value="Android">Android</option>
+          </select>
+        </label>
+
+        <label>
+          Sort
+          <select id="sortFilter">
+            <option value="featured">Featured First</option>
+            <option value="az">A-Z</option>
+            <option value="rating">Highest Rated</option>
+            <option value="free">Free First</option>
+          </select>
+        </label>
+      </div>
+
+      <div id="resourceGrid" class="vault-resource-grid"></div>
+
+      <div id="emptyState" class="vault-empty" hidden>
+        <h3>No matching resources found.</h3>
+        <p>Try a different keyword, category, price, or platform filter.</p>
+      </div>
+    </section>
+
+    <section id="submit" class="vault-submit">
+      <div>
+        <p class="vault-eyebrow">COMMUNITY POWERED</p>
+        <h2>Know a resource that belongs in the vault?</h2>
+        <p>
+          Suggest a tool, course, marketplace, reference site, software, grant, or creative platform.
+          Submissions can be reviewed before being added publicly.
+        </p>
+      </div>
+
+      <a class="vault-button" href="mailto:ellisricketts3d@gmail.com?subject=Creative%20Vault%20Resource%20Suggestion&body=Resource%20Name:%0AWebsite:%0ACategory:%0ADescription:%0AFree/Paid:%0AWhy%20it%20should%20be%20added:" target="_blank" rel="noopener">
+        Submit a Resource
+      </a>
+    </section>
+
+    <footer class="vault-footer">
+      <p><strong>The Creative Vault</strong> — curated by Ellis Ricketts.</p>
+    </footer>
+
+  </main>
+
+  <dialog id="resourceModal" class="vault-modal">
+    <div class="vault-modal-inner">
+      <button id="modalClose" class="vault-modal-close" type="button" aria-label="Close details">×</button>
+      <div id="modalContent"></div>
+    </div>
+  </dialog>
+  <script src="data/schema.js"></script>
+  <script src="data/categories.js"></script>
+  <script src="data/collections.js"></script>
+  <script src="data/digital-art.js"></script>
+  <script src="data/ai-tools.js"></script>
+  <script src="data/other-resources.js"></script>
+
+  <script src="data/ecosystems/adobe.js"></script>
+  <script src="data/ecosystems/autodesk.js"></script>
+  <script src="data/ecosystems/blackmagic.js"></script>
+  <script src="data/ecosystems/epic.js"></script>
+  <script src="data/ecosystems/maxon.js"></script>
+  <script src="data/ecosystems/music.js"></script>
+  <script src="data/ecosystems/web.js"></script>
+  <script src="data/ecosystems/business.js"></script>
+  <script src="data/ecosystems/development.js"></script>
+  <script src="data/ecosystems/index.js"></script>
+  <script src="data/generated-resources.js"></script>
+  <script src="data/generated-indexes.js"></script>
+  <script src="data/resources.js"></script>
+  <script src="js/app.js"></script>
+  <script src="js/creative-essentials.js"></script>
+  <script src="js/vault-filter-state.js"></script>
+  <script src="js/vault-navigation.js"></script>
+  <script src="js/vault-applications-fix.js"></script>
+  <script src="js/vault-grouped-navigation.js"></script>
+  <script src="js/vault-homepage-category-groups.js"></script>
+</body>
+</html>

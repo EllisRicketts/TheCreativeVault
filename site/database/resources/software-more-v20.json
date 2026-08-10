@@ -1,0 +1,362 @@
+[
+  {
+    "id": "software-setapp",
+    "title": "Setapp",
+    "shortName": "Setapp",
+    "company": "MacPaw",
+    "website": "https://setapp.com/",
+    "category": "Software",
+    "categoryId": "software",
+    "subcategories": [
+      "Software Subscription"
+    ],
+    "type": "Resource",
+    "shortDescription": "Subscription library of Mac and iOS apps.",
+    "longDescription": "Setapp is included in The Creative Vault as a software subscription resource. Subscription library of Mac and iOS apps.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Software",
+      "Software Subscription",
+      "Mac"
+    ],
+    "bestFor": [
+      "Software Subscription",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-alternativeto",
+    "title": "AlternativeTo",
+    "shortName": "AlternativeTo",
+    "company": "AlternativeTo",
+    "website": "https://alternativeto.net/",
+    "category": "Software",
+    "categoryId": "software",
+    "subcategories": [
+      "Software Discovery"
+    ],
+    "type": "Resource",
+    "shortDescription": "Software discovery and alternative recommendation platform.",
+    "longDescription": "AlternativeTo is included in The Creative Vault as a software discovery resource. Software discovery and alternative recommendation platform.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Software",
+      "Software Discovery",
+      "Discovery"
+    ],
+    "bestFor": [
+      "Software Discovery",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-product-hunt",
+    "title": "Product Hunt",
+    "shortName": "Product Hunt",
+    "company": "Product Hunt",
+    "website": "https://www.producthunt.com/",
+    "category": "Software",
+    "categoryId": "software",
+    "subcategories": [
+      "Software Discovery"
+    ],
+    "type": "Resource",
+    "shortDescription": "Discovery platform for new apps, tools, and startups.",
+    "longDescription": "Product Hunt is included in The Creative Vault as a software discovery resource. Discovery platform for new apps, tools, and startups.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Software",
+      "Software Discovery",
+      "Discovery"
+    ],
+    "bestFor": [
+      "Software Discovery",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-toolfinder",
+    "title": "Toolfinder",
+    "shortName": "Toolfinder",
+    "company": "Toolfinder",
+    "website": "https://toolfinder.co/",
+    "category": "Software",
+    "categoryId": "software",
+    "subcategories": [
+      "Software Discovery"
+    ],
+    "type": "Resource",
+    "shortDescription": "Productivity and software discovery platform.",
+    "longDescription": "Toolfinder is included in The Creative Vault as a software discovery resource. Productivity and software discovery platform.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Software",
+      "Software Discovery",
+      "Discovery"
+    ],
+    "bestFor": [
+      "Software Discovery",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-futurepedia",
+    "title": "Futurepedia",
+    "shortName": "Futurepedia",
+    "company": "Futurepedia",
+    "website": "https://www.futurepedia.io/",
+    "category": "Software",
+    "categoryId": "software",
+    "subcategories": [
+      "AI Tool Directory"
+    ],
+    "type": "Resource",
+    "shortDescription": "AI tools directory and discovery platform.",
+    "longDescription": "Futurepedia is included in The Creative Vault as a ai tool directory resource. AI tools directory and discovery platform.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Software",
+      "AI Tool Directory",
+      "AI"
+    ],
+    "bestFor": [
+      "AI Tool Directory",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-there-s-an-ai-for-that",
+    "title": "There's An AI For That",
+    "shortName": "There's An AI For That",
+    "company": "TAAFT",
+    "website": "https://theresanaiforthat.com/",
+    "category": "Software",
+    "categoryId": "software",
+    "subcategories": [
+      "AI Tool Directory"
+    ],
+    "type": "Resource",
+    "shortDescription": "Large AI tool discovery directory.",
+    "longDescription": "There's An AI For That is included in The Creative Vault as a ai tool directory resource. Large AI tool discovery directory.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Software",
+      "AI Tool Directory",
+      "AI"
+    ],
+    "bestFor": [
+      "AI Tool Directory",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-saasworthy",
+    "title": "SaaSworthy",
+    "shortName": "SaaSworthy",
+    "company": "SaaSworthy",
+    "website": "https://www.saasworthy.com/",
+    "category": "Software",
+    "categoryId": "software",
+    "subcategories": [
+      "Software Reviews"
+    ],
+    "type": "Resource",
+    "shortDescription": "Software discovery, comparison, and review platform.",
+    "longDescription": "SaaSworthy is included in The Creative Vault as a software reviews resource. Software discovery, comparison, and review platform.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Software",
+      "Software Reviews",
+      "Reviews"
+    ],
+    "bestFor": [
+      "Software Reviews",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-g2",
+    "title": "G2",
+    "shortName": "G2",
+    "company": "G2",
+    "website": "https://www.g2.com/",
+    "category": "Software",
+    "categoryId": "software",
+    "subcategories": [
+      "Software Reviews"
+    ],
+    "type": "Resource",
+    "shortDescription": "Software review and comparison platform.",
+    "longDescription": "G2 is included in The Creative Vault as a software reviews resource. Software review and comparison platform.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Software",
+      "Software Reviews",
+      "Reviews"
+    ],
+    "bestFor": [
+      "Software Reviews",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-capterra",
+    "title": "Capterra",
+    "shortName": "Capterra",
+    "company": "Gartner",
+    "website": "https://www.capterra.com/",
+    "category": "Software",
+    "categoryId": "software",
+    "subcategories": [
+      "Software Reviews"
+    ],
+    "type": "Resource",
+    "shortDescription": "Business software review and comparison directory.",
+    "longDescription": "Capterra is included in The Creative Vault as a software reviews resource. Business software review and comparison directory.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Software",
+      "Software Reviews",
+      "Reviews"
+    ],
+    "bestFor": [
+      "Software Reviews",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-alternative-me",
+    "title": "Alternative.me",
+    "shortName": "Alternative.me",
+    "company": "Alternative.me",
+    "website": "https://alternative.me/",
+    "category": "Software",
+    "categoryId": "software",
+    "subcategories": [
+      "Software Discovery"
+    ],
+    "type": "Resource",
+    "shortDescription": "Alternative software and product discovery platform.",
+    "longDescription": "Alternative.me is included in The Creative Vault as a software discovery resource. Alternative software and product discovery platform.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Software",
+      "Software Discovery",
+      "Discovery"
+    ],
+    "bestFor": [
+      "Software Discovery",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Google Fonts",
+    "website": "https://fonts.google.com",
+    "price": "Free",
+    "logo": "",
+    "description": "Google Fonts resource library.",
+    "commercialUse": "Check license",
+    "formats": [],
+    "featured": true
+  },
+  {
+    "title": "Adobe Fonts",
+    "website": "https://fonts.adobe.com",
+    "price": "Subscription",
+    "logo": "",
+    "description": "Adobe Fonts resource library.",
+    "commercialUse": "Check license",
+    "formats": [],
+    "featured": false
+  },
+  {
+    "title": "DaFont",
+    "website": "https://dafont.com",
+    "price": "Free",
+    "logo": "",
+    "description": "DaFont resource library.",
+    "commercialUse": "Check license",
+    "formats": [],
+    "featured": true
+  },
+  {
+    "title": "Font Squirrel",
+    "website": "https://fontsquirrel.com",
+    "price": "Free",
+    "logo": "",
+    "description": "Font Squirrel resource library.",
+    "commercialUse": "Check license",
+    "formats": [],
+    "featured": true
+  },
+  {
+    "title": "Creative Fabrica",
+    "website": "https://www.creativefabrica.com",
+    "price": "Subscription",
+    "logo": "",
+    "description": "Creative Fabrica resource library.",
+    "commercialUse": "Check license",
+    "formats": [],
+    "featured": false
+  },
+  {
+    "title": "MyFonts",
+    "website": "https://www.myfonts.com",
+    "price": "Paid",
+    "logo": "",
+    "description": "MyFonts resource library.",
+    "commercialUse": "Check license",
+    "formats": [],
+    "featured": false
+  }
+]

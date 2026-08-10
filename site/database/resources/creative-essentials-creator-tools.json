@@ -1,0 +1,982 @@
+[
+  {
+    "id": "essential-canva-free",
+    "title": "Canva Free",
+    "shortName": "Canva Free",
+    "company": "Canva",
+    "website": "https://www.canva.com/",
+    "category": "Content Creation",
+    "categoryId": "content-creation",
+    "categories": [
+      "Content Creation",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "content-creation",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Content Creation",
+    "subcategories": [
+      "Design Tool",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free design tool for social posts, graphics, presentations, and content.",
+    "longDescription": "Canva Free is included in The Creative Vault Creative Essentials Pack. Free design tool for social posts, graphics, presentations, and content.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Content Creation",
+      "Design Tool",
+      "Design"
+    ],
+    "bestFor": [
+      "Design Tool",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-adobe-express-free",
+    "title": "Adobe Express Free",
+    "shortName": "Adobe Express Free",
+    "company": "Adobe",
+    "website": "https://www.adobe.com/express/",
+    "category": "Content Creation",
+    "categoryId": "content-creation",
+    "categories": [
+      "Content Creation",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "content-creation",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Content Creation",
+    "subcategories": [
+      "Design Tool",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free browser-based content design tool.",
+    "longDescription": "Adobe Express Free is included in The Creative Vault Creative Essentials Pack. Free browser-based content design tool.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Content Creation",
+      "Design Tool",
+      "Design"
+    ],
+    "bestFor": [
+      "Design Tool",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-vistacreate-free",
+    "title": "VistaCreate Free",
+    "shortName": "VistaCreate Free",
+    "company": "VistaCreate",
+    "website": "https://create.vista.com/",
+    "category": "Content Creation",
+    "categoryId": "content-creation",
+    "categories": [
+      "Content Creation",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "content-creation",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Content Creation",
+    "subcategories": [
+      "Design Tool",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free social and marketing design tool.",
+    "longDescription": "VistaCreate Free is included in The Creative Vault Creative Essentials Pack. Free social and marketing design tool.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Content Creation",
+      "Design Tool",
+      "Design"
+    ],
+    "bestFor": [
+      "Design Tool",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-capcut-free",
+    "title": "CapCut Free",
+    "shortName": "CapCut Free",
+    "company": "ByteDance",
+    "website": "https://www.capcut.com/",
+    "category": "Content Creation",
+    "categoryId": "content-creation",
+    "categories": [
+      "Content Creation",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "content-creation",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Content Creation",
+    "subcategories": [
+      "Video Editor",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free video editor for social and short-form content.",
+    "longDescription": "CapCut Free is included in The Creative Vault Creative Essentials Pack. Free video editor for social and short-form content.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Content Creation",
+      "Video Editor",
+      "Video"
+    ],
+    "bestFor": [
+      "Video Editor",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-clipchamp-free",
+    "title": "Clipchamp Free",
+    "shortName": "Clipchamp Free",
+    "company": "Microsoft",
+    "website": "https://clipchamp.com/",
+    "category": "Content Creation",
+    "categoryId": "content-creation",
+    "categories": [
+      "Content Creation",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "content-creation",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Content Creation",
+    "subcategories": [
+      "Video Editor",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free browser-based video editor from Microsoft.",
+    "longDescription": "Clipchamp Free is included in The Creative Vault Creative Essentials Pack. Free browser-based video editor from Microsoft.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Content Creation",
+      "Video Editor",
+      "Video"
+    ],
+    "bestFor": [
+      "Video Editor",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-substack-free",
+    "title": "Substack Free",
+    "shortName": "Substack Free",
+    "company": "Substack",
+    "website": "https://substack.com/",
+    "category": "Content Creation",
+    "categoryId": "content-creation",
+    "categories": [
+      "Content Creation",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "content-creation",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Content Creation",
+    "subcategories": [
+      "Newsletter",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free newsletter and publishing platform.",
+    "longDescription": "Substack Free is included in The Creative Vault Creative Essentials Pack. Free newsletter and publishing platform.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Content Creation",
+      "Newsletter",
+      "Newsletter"
+    ],
+    "bestFor": [
+      "Newsletter",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-beehiiv-free",
+    "title": "Beehiiv Free",
+    "shortName": "Beehiiv Free",
+    "company": "beehiiv",
+    "website": "https://www.beehiiv.com/",
+    "category": "Content Creation",
+    "categoryId": "content-creation",
+    "categories": [
+      "Content Creation",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "content-creation",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Content Creation",
+    "subcategories": [
+      "Newsletter",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Newsletter platform with a free tier.",
+    "longDescription": "Beehiiv Free is included in The Creative Vault Creative Essentials Pack. Newsletter platform with a free tier.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Content Creation",
+      "Newsletter",
+      "Newsletter"
+    ],
+    "bestFor": [
+      "Newsletter",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-buttondown-free",
+    "title": "Buttondown Free",
+    "shortName": "Buttondown Free",
+    "company": "Buttondown",
+    "website": "https://buttondown.com/",
+    "category": "Content Creation",
+    "categoryId": "content-creation",
+    "categories": [
+      "Content Creation",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "content-creation",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Content Creation",
+    "subcategories": [
+      "Newsletter",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Simple newsletter platform with a free tier.",
+    "longDescription": "Buttondown Free is included in The Creative Vault Creative Essentials Pack. Simple newsletter platform with a free tier.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Content Creation",
+      "Newsletter",
+      "Newsletter"
+    ],
+    "bestFor": [
+      "Newsletter",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-ko-fi-free",
+    "title": "Ko-fi Free",
+    "shortName": "Ko-fi Free",
+    "company": "Ko-fi",
+    "website": "https://ko-fi.com/",
+    "category": "Content Creation",
+    "categoryId": "content-creation",
+    "categories": [
+      "Content Creation",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "content-creation",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Content Creation",
+    "subcategories": [
+      "Creator Monetization",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Creator support, shop, commissions, and memberships.",
+    "longDescription": "Ko-fi Free is included in The Creative Vault Creative Essentials Pack. Creator support, shop, commissions, and memberships.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Content Creation",
+      "Creator Monetization",
+      "Monetization"
+    ],
+    "bestFor": [
+      "Creator Monetization",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-buy-me-a-coffee-free",
+    "title": "Buy Me a Coffee Free",
+    "shortName": "Buy Me a Coffee Free",
+    "company": "Buy Me a Coffee",
+    "website": "https://www.buymeacoffee.com/",
+    "category": "Content Creation",
+    "categoryId": "content-creation",
+    "categories": [
+      "Content Creation",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "content-creation",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Content Creation",
+    "subcategories": [
+      "Creator Monetization",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Creator support, memberships, and digital product selling.",
+    "longDescription": "Buy Me a Coffee Free is included in The Creative Vault Creative Essentials Pack. Creator support, memberships, and digital product selling.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Content Creation",
+      "Creator Monetization",
+      "Monetization"
+    ],
+    "bestFor": [
+      "Creator Monetization",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-linktree-free",
+    "title": "Linktree Free",
+    "shortName": "Linktree Free",
+    "company": "Linktree",
+    "website": "https://linktr.ee/",
+    "category": "Content Creation",
+    "categoryId": "content-creation",
+    "categories": [
+      "Content Creation",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "content-creation",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Content Creation",
+    "subcategories": [
+      "Link in Bio",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free link-in-bio landing page tool.",
+    "longDescription": "Linktree Free is included in The Creative Vault Creative Essentials Pack. Free link-in-bio landing page tool.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Content Creation",
+      "Link in Bio",
+      "Link in Bio"
+    ],
+    "bestFor": [
+      "Link in Bio",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-beacons-free",
+    "title": "Beacons Free",
+    "shortName": "Beacons Free",
+    "company": "Beacons",
+    "website": "https://beacons.ai/",
+    "category": "Content Creation",
+    "categoryId": "content-creation",
+    "categories": [
+      "Content Creation",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "content-creation",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Content Creation",
+    "subcategories": [
+      "Link in Bio",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Creator link-in-bio and monetization tools.",
+    "longDescription": "Beacons Free is included in The Creative Vault Creative Essentials Pack. Creator link-in-bio and monetization tools.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Content Creation",
+      "Link in Bio",
+      "Link in Bio"
+    ],
+    "bestFor": [
+      "Link in Bio",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-carrd-free",
+    "title": "Carrd Free",
+    "shortName": "Carrd Free",
+    "company": "Carrd",
+    "website": "https://carrd.co/",
+    "category": "Content Creation",
+    "categoryId": "content-creation",
+    "categories": [
+      "Content Creation",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "content-creation",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Content Creation",
+    "subcategories": [
+      "Landing Page",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Simple one-page website builder.",
+    "longDescription": "Carrd Free is included in The Creative Vault Creative Essentials Pack. Simple one-page website builder.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Content Creation",
+      "Landing Page",
+      "Website"
+    ],
+    "bestFor": [
+      "Landing Page",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-tally-forms",
+    "title": "Tally Forms",
+    "shortName": "Tally Forms",
+    "company": "Tally",
+    "website": "https://tally.so/",
+    "category": "Content Creation",
+    "categoryId": "content-creation",
+    "categories": [
+      "Content Creation",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "content-creation",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Content Creation",
+    "subcategories": [
+      "Forms",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free form builder with generous features.",
+    "longDescription": "Tally Forms is included in The Creative Vault Creative Essentials Pack. Free form builder with generous features.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Content Creation",
+      "Forms",
+      "Forms"
+    ],
+    "bestFor": [
+      "Forms",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-google-forms",
+    "title": "Google Forms",
+    "shortName": "Google Forms",
+    "company": "Google",
+    "website": "https://forms.google.com/",
+    "category": "Content Creation",
+    "categoryId": "content-creation",
+    "categories": [
+      "Content Creation",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "content-creation",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Content Creation",
+    "subcategories": [
+      "Forms",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free form and survey creation tool.",
+    "longDescription": "Google Forms is included in The Creative Vault Creative Essentials Pack. Free form and survey creation tool.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Content Creation",
+      "Forms",
+      "Forms"
+    ],
+    "bestFor": [
+      "Forms",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-spotify-for-podcasters",
+    "title": "Spotify for Podcasters",
+    "shortName": "Spotify for Podcasters",
+    "company": "Spotify",
+    "website": "https://podcasters.spotify.com/",
+    "category": "Content Creation",
+    "categoryId": "content-creation",
+    "categories": [
+      "Content Creation",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "content-creation",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Content Creation",
+    "subcategories": [
+      "Podcasting",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free podcast hosting and distribution platform.",
+    "longDescription": "Spotify for Podcasters is included in The Creative Vault Creative Essentials Pack. Free podcast hosting and distribution platform.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Content Creation",
+      "Podcasting",
+      "Podcast"
+    ],
+    "bestFor": [
+      "Podcasting",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-youtube-studio",
+    "title": "YouTube Studio",
+    "shortName": "YouTube Studio",
+    "company": "YouTube",
+    "website": "https://studio.youtube.com/",
+    "category": "Content Creation",
+    "categoryId": "content-creation",
+    "categories": [
+      "Content Creation",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "content-creation",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Content Creation",
+    "subcategories": [
+      "Creator Dashboard",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free YouTube creator dashboard.",
+    "longDescription": "YouTube Studio is included in The Creative Vault Creative Essentials Pack. Free YouTube creator dashboard.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Content Creation",
+      "Creator Dashboard",
+      "YouTube"
+    ],
+    "bestFor": [
+      "Creator Dashboard",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-tiktok-creative-center",
+    "title": "TikTok Creative Center",
+    "shortName": "TikTok Creative Center",
+    "company": "TikTok",
+    "website": "https://ads.tiktok.com/business/creativecenter/",
+    "category": "Content Creation",
+    "categoryId": "content-creation",
+    "categories": [
+      "Content Creation",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "content-creation",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Content Creation",
+    "subcategories": [
+      "Trend Research",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free trend and creative research platform for TikTok.",
+    "longDescription": "TikTok Creative Center is included in The Creative Vault Creative Essentials Pack. Free trend and creative research platform for TikTok.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Content Creation",
+      "Trend Research",
+      "Trends"
+    ],
+    "bestFor": [
+      "Trend Research",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-meta-business-suite",
+    "title": "Meta Business Suite",
+    "shortName": "Meta Business Suite",
+    "company": "Meta",
+    "website": "https://business.facebook.com/",
+    "category": "Content Creation",
+    "categoryId": "content-creation",
+    "categories": [
+      "Content Creation",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "content-creation",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Content Creation",
+    "subcategories": [
+      "Social Media Management",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free Meta content management and scheduling tool.",
+    "longDescription": "Meta Business Suite is included in The Creative Vault Creative Essentials Pack. Free Meta content management and scheduling tool.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Content Creation",
+      "Social Media Management",
+      "Social"
+    ],
+    "bestFor": [
+      "Social Media Management",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-buffer-free",
+    "title": "Buffer Free",
+    "shortName": "Buffer Free",
+    "company": "Buffer",
+    "website": "https://buffer.com/",
+    "category": "Content Creation",
+    "categoryId": "content-creation",
+    "categories": [
+      "Content Creation",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "content-creation",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Content Creation",
+    "subcategories": [
+      "Social Scheduling",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Social scheduling platform with free tier.",
+    "longDescription": "Buffer Free is included in The Creative Vault Creative Essentials Pack. Social scheduling platform with free tier.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Content Creation",
+      "Social Scheduling",
+      "Social"
+    ],
+    "bestFor": [
+      "Social Scheduling",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "version": "8.0",
+  "name": "The Creative Vault JSON Database",
+  "description": "Future-proof JSON database structure for companies, resources, categories, collections, tutorials, and communities.",
+  "folders": {
+    "companies": "One JSON file per company or ecosystem.",
+    "resources": "One JSON file per resource for long-term scalability.",
+    "categories": "One JSON file per category.",
+    "collections": "Curated collection definitions.",
+    "tutorials": "Future tutorial links and learning resources.",
+    "communities": "Future Discord, Reddit, forum, and community links.",
+    "schemas": "JSON schemas for validating database files.",
+    "import": "Future import/export scripts or generated bundles."
+  },
+  "active_site_note": "The current website still runs from /data JavaScript files. /database is the future migration structure."
+}

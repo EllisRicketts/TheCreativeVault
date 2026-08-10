@@ -1,0 +1,364 @@
+[
+  {
+    "id": "assets-public-work",
+    "title": "Public Work",
+    "shortName": "Public Work",
+    "company": "Public Work",
+    "website": "https://public.work/",
+    "category": "Assets",
+    "categoryId": "assets",
+    "subcategories": [
+      "Public Domain Assets"
+    ],
+    "type": "Resource",
+    "shortDescription": "Searchable public domain visual archive for creative projects.",
+    "longDescription": "Public Work is included in The Creative Vault as a public domain assets resource. Searchable public domain visual archive for creative projects.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Assets",
+      "Public Domain Assets",
+      "Public Domain"
+    ],
+    "bestFor": [
+      "Public Domain Assets",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "assets-same-energy",
+    "title": "Same Energy",
+    "shortName": "Same Energy",
+    "company": "Same Energy",
+    "website": "https://same.energy/",
+    "category": "Assets",
+    "categoryId": "assets",
+    "subcategories": [
+      "Visual Search"
+    ],
+    "type": "Resource",
+    "shortDescription": "Visual search engine for image discovery and moodboards.",
+    "longDescription": "Same Energy is included in The Creative Vault as a visual search resource. Visual search engine for image discovery and moodboards.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Assets",
+      "Visual Search",
+      "Moodboard"
+    ],
+    "bestFor": [
+      "Visual Search",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "assets-are-na",
+    "title": "Are.na",
+    "shortName": "Are.na",
+    "company": "Are.na",
+    "website": "https://www.are.na/",
+    "category": "Assets",
+    "categoryId": "assets",
+    "subcategories": [
+      "Research Boards"
+    ],
+    "type": "Resource",
+    "shortDescription": "Visual research and bookmarking platform.",
+    "longDescription": "Are.na is included in The Creative Vault as a research boards resource. Visual research and bookmarking platform.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Assets",
+      "Research Boards",
+      "Research"
+    ],
+    "bestFor": [
+      "Research Boards",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "assets-savee",
+    "title": "Savee",
+    "shortName": "Savee",
+    "company": "Savee",
+    "website": "https://savee.it/",
+    "category": "Assets",
+    "categoryId": "assets",
+    "subcategories": [
+      "Moodboards"
+    ],
+    "type": "Resource",
+    "shortDescription": "Visual bookmarking and moodboard platform for creatives.",
+    "longDescription": "Savee is included in The Creative Vault as a moodboards resource. Visual bookmarking and moodboard platform for creatives.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Assets",
+      "Moodboards",
+      "Inspiration"
+    ],
+    "bestFor": [
+      "Moodboards",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "assets-cosmos",
+    "title": "Cosmos",
+    "shortName": "Cosmos",
+    "company": "Cosmos",
+    "website": "https://www.cosmos.so/",
+    "category": "Assets",
+    "categoryId": "assets",
+    "subcategories": [
+      "Moodboards"
+    ],
+    "type": "Resource",
+    "shortDescription": "Visual bookmarking and inspiration platform.",
+    "longDescription": "Cosmos is included in The Creative Vault as a moodboards resource. Visual bookmarking and inspiration platform.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Assets",
+      "Moodboards",
+      "Inspiration"
+    ],
+    "bestFor": [
+      "Moodboards",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "assets-shotdeck",
+    "title": "ShotDeck",
+    "shortName": "ShotDeck",
+    "company": "ShotDeck",
+    "website": "https://shotdeck.com/",
+    "category": "Assets",
+    "categoryId": "assets",
+    "subcategories": [
+      "Film Stills"
+    ],
+    "type": "Resource",
+    "shortDescription": "Searchable database of cinematic film stills.",
+    "longDescription": "ShotDeck is included in The Creative Vault as a film stills resource. Searchable database of cinematic film stills.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Assets",
+      "Film Stills",
+      "Film",
+      "Reference"
+    ],
+    "bestFor": [
+      "Film Stills",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "assets-filmgrab",
+    "title": "FilmGrab",
+    "shortName": "FilmGrab",
+    "company": "FilmGrab",
+    "website": "https://film-grab.com/",
+    "category": "Assets",
+    "categoryId": "assets",
+    "subcategories": [
+      "Film Stills"
+    ],
+    "type": "Resource",
+    "shortDescription": "Film still archive for cinematography and visual reference.",
+    "longDescription": "FilmGrab is included in The Creative Vault as a film stills resource. Film still archive for cinematography and visual reference.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Assets",
+      "Film Stills",
+      "Film",
+      "Reference"
+    ],
+    "bestFor": [
+      "Film Stills",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "assets-textures-world",
+    "title": "Textures.World",
+    "shortName": "Textures.World",
+    "company": "Textures.World",
+    "website": "https://textures.world/",
+    "category": "Assets",
+    "categoryId": "assets",
+    "subcategories": [
+      "Textures"
+    ],
+    "type": "Resource",
+    "shortDescription": "Texture library for 3D and visual projects.",
+    "longDescription": "Textures.World is included in The Creative Vault as a textures resource. Texture library for 3D and visual projects.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Assets",
+      "Textures",
+      "Textures"
+    ],
+    "bestFor": [
+      "Textures",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "assets-architextures",
+    "title": "Architextures",
+    "shortName": "Architextures",
+    "company": "Architextures",
+    "website": "https://architextures.org/",
+    "category": "Assets",
+    "categoryId": "assets",
+    "subcategories": [
+      "Textures"
+    ],
+    "type": "Resource",
+    "shortDescription": "Material texture creator and architecture material library.",
+    "longDescription": "Architextures is included in The Creative Vault as a textures resource. Material texture creator and architecture material library.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Assets",
+      "Textures",
+      "Materials"
+    ],
+    "bestFor": [
+      "Textures",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "assets-patternpad",
+    "title": "PatternPad",
+    "shortName": "PatternPad",
+    "company": "PatternPad",
+    "website": "https://patternpad.com/",
+    "category": "Assets",
+    "categoryId": "assets",
+    "subcategories": [
+      "Patterns"
+    ],
+    "type": "Resource",
+    "shortDescription": "Pattern design tool and asset generator.",
+    "longDescription": "PatternPad is included in The Creative Vault as a patterns resource. Pattern design tool and asset generator.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Assets",
+      "Patterns",
+      "Patterns"
+    ],
+    "bestFor": [
+      "Patterns",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

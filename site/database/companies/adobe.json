@@ -1,0 +1,13 @@
+{
+  "id": "adobe",
+  "name": "Adobe",
+  "website": "https://www.adobe.com/",
+  "category": "Company",
+  "type": "Software Company",
+  "ecosystems": [
+    "Creative Cloud",
+    "Adobe",
+    "Substance 3D"
+  ],
+  "description": "Creative, document, marketing, and media software company."
+}

@@ -1,0 +1,582 @@
+[
+  {
+    "id": "game-dev-fmod",
+    "title": "FMOD",
+    "shortName": "FMOD",
+    "company": "Firelight Technologies",
+    "website": "https://www.fmod.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Audio"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Adaptive audio middleware for games and interactive media.",
+    "longDescription": "FMOD is included in The Creative Vault as a game development resource. Adaptive audio middleware for games and interactive media.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Game Audio",
+      "Middleware",
+      "Audio"
+    ],
+    "bestFor": [
+      "Game Audio",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-wwise",
+    "title": "Wwise",
+    "shortName": "Wwise",
+    "company": "Audiokinetic",
+    "website": "https://www.audiokinetic.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Audio"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Professional interactive audio middleware for games.",
+    "longDescription": "Wwise is included in The Creative Vault as a game development resource. Professional interactive audio middleware for games.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Game Audio",
+      "Middleware",
+      "Audio"
+    ],
+    "bestFor": [
+      "Game Audio",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-openal",
+    "title": "OpenAL",
+    "shortName": "OpenAL",
+    "company": "OpenAL",
+    "website": "https://www.openal.org/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Audio"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Cross-platform 3D audio API.",
+    "longDescription": "OpenAL is included in The Creative Vault as a game development resource. Cross-platform 3D audio API.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Game Audio",
+      "API",
+      "Open Source"
+    ],
+    "bestFor": [
+      "Game Audio",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": true,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-bfxr",
+    "title": "Bfxr",
+    "shortName": "Bfxr",
+    "company": "Bfxr",
+    "website": "https://www.bfxr.net/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Audio"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Simple sound effect generator for retro and arcade game sounds.",
+    "longDescription": "Bfxr is included in The Creative Vault as a game development resource. Simple sound effect generator for retro and arcade game sounds.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Game Audio",
+      "SFX",
+      "Retro"
+    ],
+    "bestFor": [
+      "Game Audio",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-chiptone",
+    "title": "ChipTone",
+    "shortName": "ChipTone",
+    "company": "SFB Games",
+    "website": "https://sfbgames.itch.io/chiptone",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Audio"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Free sound effect generator for games.",
+    "longDescription": "ChipTone is included in The Creative Vault as a game development resource. Free sound effect generator for games.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Game Audio",
+      "SFX",
+      "Free"
+    ],
+    "bestFor": [
+      "Game Audio",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-bosca-ceoil",
+    "title": "Bosca Ceoil",
+    "shortName": "Bosca Ceoil",
+    "company": "Terry Cavanagh",
+    "website": "https://boscaceoil.net/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Audio"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Simple music creation tool for game loops and chiptune-style music.",
+    "longDescription": "Bosca Ceoil is included in The Creative Vault as a game development resource. Simple music creation tool for game loops and chiptune-style music.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Game Audio",
+      "Music",
+      "Chiptune"
+    ],
+    "bestFor": [
+      "Game Audio",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": true,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-beepbox",
+    "title": "BeepBox",
+    "shortName": "BeepBox",
+    "company": "John Nesky",
+    "website": "https://www.beepbox.co/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Audio"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Browser-based tool for making chiptune music and loops.",
+    "longDescription": "BeepBox is included in The Creative Vault as a game development resource. Browser-based tool for making chiptune music and loops.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Game Audio",
+      "Music",
+      "Browser"
+    ],
+    "bestFor": [
+      "Game Audio",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": true,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-freesound",
+    "title": "Freesound",
+    "shortName": "Freesound",
+    "company": "Freesound",
+    "website": "https://freesound.org/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Audio"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Collaborative sound effect library with Creative Commons audio.",
+    "longDescription": "Freesound is included in The Creative Vault as a game development resource. Collaborative sound effect library with Creative Commons audio.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Game Audio",
+      "SFX",
+      "Free"
+    ],
+    "bestFor": [
+      "Game Audio",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-sonniss",
+    "title": "Sonniss",
+    "shortName": "Sonniss",
+    "company": "Sonniss",
+    "website": "https://sonniss.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Audio"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Professional sound effects libraries for games, film, and media.",
+    "longDescription": "Sonniss is included in The Creative Vault as a game development resource. Professional sound effects libraries for games, film, and media.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Game Audio",
+      "SFX",
+      "Professional"
+    ],
+    "bestFor": [
+      "Game Audio",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-boom-library",
+    "title": "BOOM Library",
+    "shortName": "BOOM Library",
+    "company": "BOOM Library",
+    "website": "https://www.boomlibrary.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Audio"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Premium sound effects libraries for professional sound design.",
+    "longDescription": "BOOM Library is included in The Creative Vault as a game development resource. Premium sound effects libraries for professional sound design.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Game Audio",
+      "SFX",
+      "Professional"
+    ],
+    "bestFor": [
+      "Game Audio",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-epidemic-sound",
+    "title": "Epidemic Sound",
+    "shortName": "Epidemic Sound",
+    "company": "Epidemic Sound",
+    "website": "https://www.epidemicsound.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Audio"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Music and sound effects licensing for creators and games.",
+    "longDescription": "Epidemic Sound is included in The Creative Vault as a game development resource. Music and sound effects licensing for creators and games.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Game Dev",
+      "Game Audio",
+      "Music",
+      "SFX"
+    ],
+    "bestFor": [
+      "Game Audio",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-artlist",
+    "title": "Artlist",
+    "shortName": "Artlist",
+    "company": "Artlist",
+    "website": "https://artlist.io/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Audio"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Music, SFX, and stock assets for creators.",
+    "longDescription": "Artlist is included in The Creative Vault as a game development resource. Music, SFX, and stock assets for creators.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Game Dev",
+      "Game Audio",
+      "Music",
+      "SFX"
+    ],
+    "bestFor": [
+      "Game Audio",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-soundly",
+    "title": "Soundly",
+    "shortName": "Soundly",
+    "company": "Soundly",
+    "website": "https://getsoundly.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Audio"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Sound effects library and workflow tool.",
+    "longDescription": "Soundly is included in The Creative Vault as a game development resource. Sound effects library and workflow tool.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Game Audio",
+      "SFX"
+    ],
+    "bestFor": [
+      "Game Audio",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-lmms",
+    "title": "LMMS",
+    "shortName": "LMMS",
+    "company": "LMMS",
+    "website": "https://lmms.io/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Audio"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Free open-source music production software.",
+    "longDescription": "LMMS is included in The Creative Vault as a game development resource. Free open-source music production software.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Game Audio",
+      "Music",
+      "Open Source"
+    ],
+    "bestFor": [
+      "Game Audio",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": true,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-reaper",
+    "title": "Reaper",
+    "shortName": "Reaper",
+    "company": "Cockos",
+    "website": "https://www.reaper.fm/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Audio"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Lightweight DAW used for game audio, editing, and mixing.",
+    "longDescription": "Reaper is included in The Creative Vault as a game development resource. Lightweight DAW used for game audio, editing, and mixing.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Game Audio",
+      "DAW"
+    ],
+    "bestFor": [
+      "Game Audio",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

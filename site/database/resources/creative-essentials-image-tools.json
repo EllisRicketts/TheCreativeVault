@@ -1,0 +1,982 @@
+[
+  {
+    "id": "essential-squoosh",
+    "title": "Squoosh",
+    "shortName": "Squoosh",
+    "company": "GoogleChromeLabs",
+    "website": "https://squoosh.app/",
+    "category": "Image Tools",
+    "categoryId": "image-tools",
+    "categories": [
+      "Image Tools",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "image-tools",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Image Tools",
+    "subcategories": [
+      "Image Compression",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free browser-based image compression and format conversion.",
+    "longDescription": "Squoosh is included in The Creative Vault Creative Essentials Pack. Free browser-based image compression and format conversion.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Image Tools",
+      "Image Compression",
+      "Compression"
+    ],
+    "bestFor": [
+      "Image Compression",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-svgomg",
+    "title": "SVGOMG",
+    "shortName": "SVGOMG",
+    "company": "Jake Archibald",
+    "website": "https://jakearchibald.github.io/svgomg/",
+    "category": "Image Tools",
+    "categoryId": "image-tools",
+    "categories": [
+      "Image Tools",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "image-tools",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Image Tools",
+    "subcategories": [
+      "SVG Optimization",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Optimize SVG files in the browser.",
+    "longDescription": "SVGOMG is included in The Creative Vault Creative Essentials Pack. Optimize SVG files in the browser.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Image Tools",
+      "SVG Optimization",
+      "SVG"
+    ],
+    "bestFor": [
+      "SVG Optimization",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-tinypng",
+    "title": "TinyPNG",
+    "shortName": "TinyPNG",
+    "company": "Tinify",
+    "website": "https://tinypng.com/",
+    "category": "Image Tools",
+    "categoryId": "image-tools",
+    "categories": [
+      "Image Tools",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "image-tools",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Image Tools",
+    "subcategories": [
+      "Image Compression",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Compress PNG, JPG, WebP, and AVIF images.",
+    "longDescription": "TinyPNG is included in The Creative Vault Creative Essentials Pack. Compress PNG, JPG, WebP, and AVIF images.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Image Tools",
+      "Image Compression",
+      "Compression"
+    ],
+    "bestFor": [
+      "Image Compression",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-compressor-io",
+    "title": "Compressor.io",
+    "shortName": "Compressor.io",
+    "company": "Compressor.io",
+    "website": "https://compressor.io/",
+    "category": "Image Tools",
+    "categoryId": "image-tools",
+    "categories": [
+      "Image Tools",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "image-tools",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Image Tools",
+    "subcategories": [
+      "Image Compression",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Online image compression tool.",
+    "longDescription": "Compressor.io is included in The Creative Vault Creative Essentials Pack. Online image compression tool.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Image Tools",
+      "Image Compression",
+      "Compression"
+    ],
+    "bestFor": [
+      "Image Compression",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-iloveimg",
+    "title": "iLoveIMG",
+    "shortName": "iLoveIMG",
+    "company": "iLoveIMG",
+    "website": "https://www.iloveimg.com/",
+    "category": "Image Tools",
+    "categoryId": "image-tools",
+    "categories": [
+      "Image Tools",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "image-tools",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Image Tools",
+    "subcategories": [
+      "Image Utilities",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Resize, crop, compress, convert, and edit images online.",
+    "longDescription": "iLoveIMG is included in The Creative Vault Creative Essentials Pack. Resize, crop, compress, convert, and edit images online.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Image Tools",
+      "Image Utilities",
+      "Image Utility"
+    ],
+    "bestFor": [
+      "Image Utilities",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-imageoptim-online",
+    "title": "ImageOptim Online",
+    "shortName": "ImageOptim Online",
+    "company": "ImageOptim",
+    "website": "https://imageoptim.com/online",
+    "category": "Image Tools",
+    "categoryId": "image-tools",
+    "categories": [
+      "Image Tools",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "image-tools",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Image Tools",
+    "subcategories": [
+      "Image Compression",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Online image optimizer for web images.",
+    "longDescription": "ImageOptim Online is included in The Creative Vault Creative Essentials Pack. Online image optimizer for web images.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Image Tools",
+      "Image Compression",
+      "Compression"
+    ],
+    "bestFor": [
+      "Image Compression",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-ezgif",
+    "title": "EZGIF",
+    "shortName": "EZGIF",
+    "company": "EZGIF",
+    "website": "https://ezgif.com/",
+    "category": "Image Tools",
+    "categoryId": "image-tools",
+    "categories": [
+      "Image Tools",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "image-tools",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Image Tools",
+    "subcategories": [
+      "GIF Tools",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Create, optimize, resize, crop, and edit GIFs.",
+    "longDescription": "EZGIF is included in The Creative Vault Creative Essentials Pack. Create, optimize, resize, crop, and edit GIFs.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Image Tools",
+      "GIF Tools",
+      "GIF"
+    ],
+    "bestFor": [
+      "GIF Tools",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-photopea",
+    "title": "Photopea",
+    "shortName": "Photopea",
+    "company": "Photopea",
+    "website": "https://www.photopea.com/",
+    "category": "Image Tools",
+    "categoryId": "image-tools",
+    "categories": [
+      "Image Tools",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "image-tools",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Image Tools",
+    "subcategories": [
+      "Photo Editor",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free browser-based Photoshop-like editor.",
+    "longDescription": "Photopea is included in The Creative Vault Creative Essentials Pack. Free browser-based Photoshop-like editor.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Image Tools",
+      "Photo Editor",
+      "Photo Editing"
+    ],
+    "bestFor": [
+      "Photo Editor",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-pixlr-e",
+    "title": "Pixlr E",
+    "shortName": "Pixlr E",
+    "company": "Pixlr",
+    "website": "https://pixlr.com/e/",
+    "category": "Image Tools",
+    "categoryId": "image-tools",
+    "categories": [
+      "Image Tools",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "image-tools",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Image Tools",
+    "subcategories": [
+      "Photo Editor",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free online photo editor.",
+    "longDescription": "Pixlr E is included in The Creative Vault Creative Essentials Pack. Free online photo editor.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Image Tools",
+      "Photo Editor",
+      "Photo Editing"
+    ],
+    "bestFor": [
+      "Photo Editor",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-lunapic",
+    "title": "LunaPic",
+    "shortName": "LunaPic",
+    "company": "LunaPic",
+    "website": "https://www.lunapic.com/editor/",
+    "category": "Image Tools",
+    "categoryId": "image-tools",
+    "categories": [
+      "Image Tools",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "image-tools",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Image Tools",
+    "subcategories": [
+      "Photo Editor",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free online image editor with effects and utilities.",
+    "longDescription": "LunaPic is included in The Creative Vault Creative Essentials Pack. Free online image editor with effects and utilities.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Image Tools",
+      "Photo Editor",
+      "Photo Editing"
+    ],
+    "bestFor": [
+      "Photo Editor",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-fotor-free-editor",
+    "title": "Fotor Free Editor",
+    "shortName": "Fotor Free Editor",
+    "company": "Fotor",
+    "website": "https://www.fotor.com/",
+    "category": "Image Tools",
+    "categoryId": "image-tools",
+    "categories": [
+      "Image Tools",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "image-tools",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Image Tools",
+    "subcategories": [
+      "Photo Editor",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Online image editor and design tool with free features.",
+    "longDescription": "Fotor Free Editor is included in The Creative Vault Creative Essentials Pack. Online image editor and design tool with free features.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Image Tools",
+      "Photo Editor",
+      "Photo Editing"
+    ],
+    "bestFor": [
+      "Photo Editor",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-remove-image-background-by-adobe-express",
+    "title": "Remove Image Background by Adobe Express",
+    "shortName": "Remove Image Background by Adobe Express",
+    "company": "Adobe",
+    "website": "https://www.adobe.com/express/feature/image/remove-background",
+    "category": "Image Tools",
+    "categoryId": "image-tools",
+    "categories": [
+      "Image Tools",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "image-tools",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Image Tools",
+    "subcategories": [
+      "Background Removal",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free background remover from Adobe Express.",
+    "longDescription": "Remove Image Background by Adobe Express is included in The Creative Vault Creative Essentials Pack. Free background remover from Adobe Express.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Image Tools",
+      "Background Removal",
+      "Background Removal"
+    ],
+    "bestFor": [
+      "Background Removal",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-erase-bg",
+    "title": "Erase.bg",
+    "shortName": "Erase.bg",
+    "company": "PixelBin",
+    "website": "https://www.erase.bg/",
+    "category": "Image Tools",
+    "categoryId": "image-tools",
+    "categories": [
+      "Image Tools",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "image-tools",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Image Tools",
+    "subcategories": [
+      "Background Removal",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free background remover for images.",
+    "longDescription": "Erase.bg is included in The Creative Vault Creative Essentials Pack. Free background remover for images.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Image Tools",
+      "Background Removal",
+      "Background Removal"
+    ],
+    "bestFor": [
+      "Background Removal",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-upscale-media",
+    "title": "Upscale.media",
+    "shortName": "Upscale.media",
+    "company": "PixelBin",
+    "website": "https://www.upscale.media/",
+    "category": "Image Tools",
+    "categoryId": "image-tools",
+    "categories": [
+      "Image Tools",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "image-tools",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Image Tools",
+    "subcategories": [
+      "Image Upscaling",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free image upscaling tool with usage limits.",
+    "longDescription": "Upscale.media is included in The Creative Vault Creative Essentials Pack. Free image upscaling tool with usage limits.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Image Tools",
+      "Image Upscaling",
+      "Upscaling"
+    ],
+    "bestFor": [
+      "Image Upscaling",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-bigjpg",
+    "title": "Bigjpg",
+    "shortName": "Bigjpg",
+    "company": "Bigjpg",
+    "website": "https://bigjpg.com/",
+    "category": "Image Tools",
+    "categoryId": "image-tools",
+    "categories": [
+      "Image Tools",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "image-tools",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Image Tools",
+    "subcategories": [
+      "Image Upscaling",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "AI image upscaling for illustrations and photos.",
+    "longDescription": "Bigjpg is included in The Creative Vault Creative Essentials Pack. AI image upscaling for illustrations and photos.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Image Tools",
+      "Image Upscaling",
+      "Upscaling"
+    ],
+    "bestFor": [
+      "Image Upscaling",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-vectorizer-ai-preview",
+    "title": "Vectorizer.AI Preview",
+    "shortName": "Vectorizer.AI Preview",
+    "company": "Vectorizer.AI",
+    "website": "https://vectorizer.ai/",
+    "category": "Image Tools",
+    "categoryId": "image-tools",
+    "categories": [
+      "Image Tools",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "image-tools",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Image Tools",
+    "subcategories": [
+      "Vector Conversion",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Convert raster images to SVG vectors.",
+    "longDescription": "Vectorizer.AI Preview is included in The Creative Vault Creative Essentials Pack. Convert raster images to SVG vectors.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Image Tools",
+      "Vector Conversion",
+      "Vector"
+    ],
+    "bestFor": [
+      "Vector Conversion",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-svg-trace",
+    "title": "SVG Trace",
+    "shortName": "SVG Trace",
+    "company": "SVG Trace",
+    "website": "https://svgtrace.com/",
+    "category": "Image Tools",
+    "categoryId": "image-tools",
+    "categories": [
+      "Image Tools",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "image-tools",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Image Tools",
+    "subcategories": [
+      "Vector Conversion",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free bitmap-to-SVG tracing tool.",
+    "longDescription": "SVG Trace is included in The Creative Vault Creative Essentials Pack. Free bitmap-to-SVG tracing tool.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Image Tools",
+      "Vector Conversion",
+      "SVG"
+    ],
+    "bestFor": [
+      "Vector Conversion",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-vector-magic-online",
+    "title": "Vector Magic Online",
+    "shortName": "Vector Magic Online",
+    "company": "Vector Magic",
+    "website": "https://vectormagic.com/",
+    "category": "Image Tools",
+    "categoryId": "image-tools",
+    "categories": [
+      "Image Tools",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "image-tools",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Image Tools",
+    "subcategories": [
+      "Vector Conversion",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Online vector conversion service with preview workflow.",
+    "longDescription": "Vector Magic Online is included in The Creative Vault Creative Essentials Pack. Online vector conversion service with preview workflow.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Image Tools",
+      "Vector Conversion",
+      "Vector"
+    ],
+    "bestFor": [
+      "Vector Conversion",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-iconify-design-tools",
+    "title": "Iconify Design Tools",
+    "shortName": "Iconify Design Tools",
+    "company": "Iconify",
+    "website": "https://iconify.design/",
+    "category": "Image Tools",
+    "categoryId": "image-tools",
+    "categories": [
+      "Image Tools",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "image-tools",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Image Tools",
+    "subcategories": [
+      "Icon Tools",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Open-source icon framework and icon search.",
+    "longDescription": "Iconify Design Tools is included in The Creative Vault Creative Essentials Pack. Open-source icon framework and icon search.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Image Tools",
+      "Icon Tools",
+      "Icons"
+    ],
+    "bestFor": [
+      "Icon Tools",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-favicon-io",
+    "title": "Favicon.io",
+    "shortName": "Favicon.io",
+    "company": "Favicon.io",
+    "website": "https://favicon.io/",
+    "category": "Image Tools",
+    "categoryId": "image-tools",
+    "categories": [
+      "Image Tools",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "image-tools",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Image Tools",
+    "subcategories": [
+      "Favicon Generator",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Generate favicons from text, images, or emoji.",
+    "longDescription": "Favicon.io is included in The Creative Vault Creative Essentials Pack. Generate favicons from text, images, or emoji.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Image Tools",
+      "Favicon Generator",
+      "Favicon"
+    ],
+    "bestFor": [
+      "Favicon Generator",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

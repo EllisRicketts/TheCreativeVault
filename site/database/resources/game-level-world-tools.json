@@ -1,0 +1,970 @@
+[
+  {
+    "id": "game-dev-extra-probuilder",
+    "title": "ProBuilder",
+    "shortName": "ProBuilder",
+    "company": "Unity Technologies",
+    "website": "https://unity.com/features/probuilder",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Level and World Design"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Level design and geometry modeling tool inside Unity.",
+    "longDescription": "ProBuilder is included in The Creative Vault as a game development resource. Level design and geometry modeling tool inside Unity.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Level and World Design",
+      "Unity",
+      "Level Design"
+    ],
+    "bestFor": [
+      "Level and World Design",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-progrids",
+    "title": "ProGrids",
+    "shortName": "ProGrids",
+    "company": "Unity Technologies",
+    "website": "https://docs.unity3d.com/Packages/com.unity.progrids@latest",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Level and World Design"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Grid and snapping tools for Unity level design.",
+    "longDescription": "ProGrids is included in The Creative Vault as a game development resource. Grid and snapping tools for Unity level design.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Level and World Design",
+      "Unity",
+      "Grid"
+    ],
+    "bestFor": [
+      "Level and World Design",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-gaia-pro",
+    "title": "Gaia Pro",
+    "shortName": "Gaia Pro",
+    "company": "Procedural Worlds",
+    "website": "https://www.procedural-worlds.com/products/gaia-pro/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Level and World Design"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Terrain and scene generation tool for Unity.",
+    "longDescription": "Gaia Pro is included in The Creative Vault as a game development resource. Terrain and scene generation tool for Unity.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Level and World Design",
+      "Unity",
+      "Terrain"
+    ],
+    "bestFor": [
+      "Level and World Design",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-mapmagic",
+    "title": "MapMagic",
+    "shortName": "MapMagic",
+    "company": "Denis Pahunov",
+    "website": "https://assetstore.unity.com/packages/tools/terrain/mapmagic-2-165180",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Level and World Design"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Node-based procedural terrain generator for Unity.",
+    "longDescription": "MapMagic is included in The Creative Vault as a game development resource. Node-based procedural terrain generator for Unity.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Level and World Design",
+      "Unity",
+      "Procedural"
+    ],
+    "bestFor": [
+      "Level and World Design",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-world-creator",
+    "title": "World Creator",
+    "shortName": "World Creator",
+    "company": "BiteTheBytes",
+    "website": "https://www.world-creator.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Level and World Design"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Real-time terrain and landscape generation software.",
+    "longDescription": "World Creator is included in The Creative Vault as a game development resource. Real-time terrain and landscape generation software.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Level and World Design",
+      "Terrain",
+      "Worldbuilding"
+    ],
+    "bestFor": [
+      "Level and World Design",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-gaea",
+    "title": "Gaea",
+    "shortName": "Gaea",
+    "company": "QuadSpinner",
+    "website": "https://quadspinner.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Level and World Design"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Terrain design and landscape generation software.",
+    "longDescription": "Gaea is included in The Creative Vault as a game development resource. Terrain design and landscape generation software.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Level and World Design",
+      "Terrain",
+      "Procedural"
+    ],
+    "bestFor": [
+      "Level and World Design",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-world-machine",
+    "title": "World Machine",
+    "shortName": "World Machine",
+    "company": "World Machine Software",
+    "website": "https://www.world-machine.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Level and World Design"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Procedural terrain generation software.",
+    "longDescription": "World Machine is included in The Creative Vault as a game development resource. Procedural terrain generation software.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Level and World Design",
+      "Terrain",
+      "Procedural"
+    ],
+    "bestFor": [
+      "Level and World Design",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-terresculptor",
+    "title": "Terresculptor",
+    "shortName": "Terresculptor",
+    "company": "Demenzun Media",
+    "website": "https://www.demenzunmedia.com/terresculptor/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Level and World Design"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Terrain generation and editing software.",
+    "longDescription": "Terresculptor is included in The Creative Vault as a game development resource. Terrain generation and editing software.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Level and World Design",
+      "Terrain"
+    ],
+    "bestFor": [
+      "Level and World Design",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-instant-terra",
+    "title": "Instant Terra",
+    "shortName": "Instant Terra",
+    "company": "Wysilab",
+    "website": "https://www.wysilab.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Level and World Design"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Procedural terrain generation software for real-time 3D workflows.",
+    "longDescription": "Instant Terra is included in The Creative Vault as a game development resource. Procedural terrain generation software for real-time 3D workflows.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Level and World Design",
+      "Terrain",
+      "Procedural"
+    ],
+    "bestFor": [
+      "Level and World Design",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-houdini-indie",
+    "title": "Houdini Indie",
+    "shortName": "Houdini Indie",
+    "company": "SideFX",
+    "website": "https://www.sidefx.com/products/houdini-indie/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Level and World Design"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Procedural 3D tool often used for game worlds and level tools.",
+    "longDescription": "Houdini Indie is included in The Creative Vault as a game development resource. Procedural 3D tool often used for game worlds and level tools.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Level and World Design",
+      "Procedural",
+      "Worldbuilding"
+    ],
+    "bestFor": [
+      "Level and World Design",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-houdini-engine-for-unity",
+    "title": "Houdini Engine for Unity",
+    "shortName": "Houdini Engine for Unity",
+    "company": "SideFX",
+    "website": "https://www.sidefx.com/products/houdini-engine/plug-ins/unity-plug-in/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Level and World Design"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Procedural Houdini tools inside Unity.",
+    "longDescription": "Houdini Engine for Unity is included in The Creative Vault as a game development resource. Procedural Houdini tools inside Unity.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Level and World Design",
+      "Unity",
+      "Procedural"
+    ],
+    "bestFor": [
+      "Level and World Design",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-houdini-engine-for-unreal",
+    "title": "Houdini Engine for Unreal",
+    "shortName": "Houdini Engine for Unreal",
+    "company": "SideFX",
+    "website": "https://www.sidefx.com/products/houdini-engine/plug-ins/unreal-plug-in/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Level and World Design"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Procedural Houdini tools inside Unreal Engine.",
+    "longDescription": "Houdini Engine for Unreal is included in The Creative Vault as a game development resource. Procedural Houdini tools inside Unreal Engine.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Level and World Design",
+      "Unreal",
+      "Procedural"
+    ],
+    "bestFor": [
+      "Level and World Design",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-dungeon-architect",
+    "title": "Dungeon Architect",
+    "shortName": "Dungeon Architect",
+    "company": "Code Respawn",
+    "website": "https://dungeonarchitect.dev/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Level and World Design"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Procedural dungeon and level generation tool for Unity and Unreal.",
+    "longDescription": "Dungeon Architect is included in The Creative Vault as a game development resource. Procedural dungeon and level generation tool for Unity and Unreal.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Level and World Design",
+      "Procedural",
+      "Dungeons"
+    ],
+    "bestFor": [
+      "Level and World Design",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-edgar-pro",
+    "title": "Edgar PRO",
+    "shortName": "Edgar PRO",
+    "company": "Ondrej Nepozitek",
+    "website": "https://ondrejnepozitek.github.io/Edgar-Unity/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Level and World Design"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Procedural dungeon generator for Unity.",
+    "longDescription": "Edgar PRO is included in The Creative Vault as a game development resource. Procedural dungeon generator for Unity.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Level and World Design",
+      "Unity",
+      "Dungeons"
+    ],
+    "bestFor": [
+      "Level and World Design",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-trenchbroom",
+    "title": "TrenchBroom",
+    "shortName": "TrenchBroom",
+    "company": "TrenchBroom",
+    "website": "https://trenchbroom.github.io/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Level and World Design"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Open-source level editor for Quake-engine style maps.",
+    "longDescription": "TrenchBroom is included in The Creative Vault as a game development resource. Open-source level editor for Quake-engine style maps.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Level and World Design",
+      "Level Editor",
+      "Open Source"
+    ],
+    "bestFor": [
+      "Level and World Design",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": true,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-gtkradiant",
+    "title": "GtkRadiant",
+    "shortName": "GtkRadiant",
+    "company": "id Software Community",
+    "website": "https://icculus.org/gtkradiant/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Level and World Design"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Classic open-source level editor for Quake-engine based games.",
+    "longDescription": "GtkRadiant is included in The Creative Vault as a game development resource. Classic open-source level editor for Quake-engine based games.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Level and World Design",
+      "Level Editor",
+      "Open Source"
+    ],
+    "bestFor": [
+      "Level and World Design",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": true,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-netradiant",
+    "title": "NetRadiant",
+    "shortName": "NetRadiant",
+    "company": "NetRadiant",
+    "website": "https://netradiant.gitlab.io/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Level and World Design"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Open-source level editor for id Tech-style games.",
+    "longDescription": "NetRadiant is included in The Creative Vault as a game development resource. Open-source level editor for id Tech-style games.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Level and World Design",
+      "Level Editor",
+      "Open Source"
+    ],
+    "bestFor": [
+      "Level and World Design",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": true,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-hammer-editor",
+    "title": "Hammer Editor",
+    "shortName": "Hammer Editor",
+    "company": "Valve",
+    "website": "https://developer.valvesoftware.com/wiki/Valve_Hammer_Editor",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Level and World Design"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Valve level editor for Source engine maps.",
+    "longDescription": "Hammer Editor is included in The Creative Vault as a game development resource. Valve level editor for Source engine maps.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Level and World Design",
+      "Source",
+      "Level Editor"
+    ],
+    "bestFor": [
+      "Level and World Design",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-source-2-hammer",
+    "title": "Source 2 Hammer",
+    "shortName": "Source 2 Hammer",
+    "company": "Valve",
+    "website": "https://developer.valvesoftware.com/wiki/Source_2_Tools",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Level and World Design"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Level editor and tools for Source 2 workflows.",
+    "longDescription": "Source 2 Hammer is included in The Creative Vault as a game development resource. Level editor and tools for Source 2 workflows.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Level and World Design",
+      "Source 2",
+      "Level Editor"
+    ],
+    "bestFor": [
+      "Level and World Design",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-j-a-c-k",
+    "title": "J.A.C.K.",
+    "shortName": "J.A.C.K.",
+    "company": "Chain Studios",
+    "website": "https://jack.hlfx.ru/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Level and World Design"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Level editor for classic Quake and Half-Life engine workflows.",
+    "longDescription": "J.A.C.K. is included in The Creative Vault as a game development resource. Level editor for classic Quake and Half-Life engine workflows.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Level and World Design",
+      "Level Editor"
+    ],
+    "bestFor": [
+      "Level and World Design",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-crocotile-3d",
+    "title": "CrocoTile 3D",
+    "shortName": "CrocoTile 3D",
+    "company": "Alex Hanson-White",
+    "website": "https://crocotile3d.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Level and World Design"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "3D tilemap editor for building stylized low-poly and pixel-art worlds.",
+    "longDescription": "CrocoTile 3D is included in The Creative Vault as a game development resource. 3D tilemap editor for building stylized low-poly and pixel-art worlds.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Level and World Design",
+      "Tilemap",
+      "3D"
+    ],
+    "bestFor": [
+      "Level and World Design",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-tiled2unity",
+    "title": "Tiled2Unity",
+    "shortName": "Tiled2Unity",
+    "company": "Sean Barton",
+    "website": "https://github.com/Seanba/Tiled2Unity",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Level and World Design"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Tool for importing Tiled maps into Unity.",
+    "longDescription": "Tiled2Unity is included in The Creative Vault as a game development resource. Tool for importing Tiled maps into Unity.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Level and World Design",
+      "Unity",
+      "Tilemaps"
+    ],
+    "bestFor": [
+      "Level and World Design",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": true,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-tilesetter",
+    "title": "Tilesetter",
+    "shortName": "Tilesetter",
+    "company": "Led",
+    "website": "https://www.tilesetter.org/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Level and World Design"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Tileset creation tool for auto-tiling workflows.",
+    "longDescription": "Tilesetter is included in The Creative Vault as a game development resource. Tileset creation tool for auto-tiling workflows.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Level and World Design",
+      "Tilesets",
+      "2D"
+    ],
+    "bestFor": [
+      "Level and World Design",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-autotilegen",
+    "title": "AutoTileGen",
+    "shortName": "AutoTileGen",
+    "company": "Pixelatto",
+    "website": "https://pixelatto.itch.io/autotilegen",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Level and World Design"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Auto-tile generation tool for 2D games.",
+    "longDescription": "AutoTileGen is included in The Creative Vault as a game development resource. Auto-tile generation tool for 2D games.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Level and World Design",
+      "Tilesets",
+      "2D"
+    ],
+    "bestFor": [
+      "Level and World Design",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-sprite-fusion",
+    "title": "Sprite Fusion",
+    "shortName": "Sprite Fusion",
+    "company": "Sprite Fusion",
+    "website": "https://www.spritefusion.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Level and World Design"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Browser-based tilemap editor for 2D games.",
+    "longDescription": "Sprite Fusion is included in The Creative Vault as a game development resource. Browser-based tilemap editor for 2D games.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Level and World Design",
+      "Tilemap",
+      "Browser"
+    ],
+    "bestFor": [
+      "Level and World Design",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

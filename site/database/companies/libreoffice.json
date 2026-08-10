@@ -1,0 +1,11 @@
+{
+  "id": "libreoffice",
+  "name": "LibreOffice",
+  "website": "https://www.libreoffice.org/",
+  "category": "Company",
+  "type": "Open Source Office Suite",
+  "ecosystems": [
+    "LibreOffice"
+  ],
+  "description": "Free and open-source office suite from The Document Foundation."
+}

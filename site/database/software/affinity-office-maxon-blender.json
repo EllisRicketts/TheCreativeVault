@@ -1,0 +1,1326 @@
+[
+  {
+    "id": "software-affinity-designer",
+    "title": "Affinity Designer",
+    "shortName": "Affinity Designer",
+    "company": "Serif",
+    "website": "https://affinity.serif.com/designer/",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Vector Graphics",
+      "Graphic Design"
+    ],
+    "categoryIds": [
+      "software",
+      "vector-graphics",
+      "graphic-design"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Vector Graphics",
+      "Graphic Design"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Paid",
+    "price": "Paid",
+    "license": "Paid",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "iPad"
+    ],
+    "applications": [
+      "Affinity"
+    ],
+    "applicationEcosystems": [
+      "Affinity"
+    ],
+    "shortDescription": "Professional vector design software for illustration, logos, UI, and print graphics.",
+    "longDescription": "Affinity Designer is a software application in The Creative Vault. Professional vector design software for illustration, logos, UI, and print graphics.",
+    "bestFor": [
+      "Vector Design"
+    ],
+    "relatedSoftware": [
+      "Adobe Illustrator",
+      "Inkscape"
+    ],
+    "tags": [
+      "Software",
+      "Serif",
+      "Affinity",
+      "Vector Graphics",
+      "Graphic Design",
+      "Vector"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-affinity-photo",
+    "title": "Affinity Photo",
+    "shortName": "Affinity Photo",
+    "company": "Serif",
+    "website": "https://affinity.serif.com/photo/",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Photo Editing",
+      "Raster Graphics"
+    ],
+    "categoryIds": [
+      "software",
+      "photo-editing",
+      "raster-graphics"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Photo Editing",
+      "Raster Graphics"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Paid",
+    "price": "Paid",
+    "license": "Paid",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "iPad"
+    ],
+    "applications": [
+      "Affinity"
+    ],
+    "applicationEcosystems": [
+      "Affinity"
+    ],
+    "shortDescription": "Professional photo editing and raster graphics software.",
+    "longDescription": "Affinity Photo is a software application in The Creative Vault. Professional photo editing and raster graphics software.",
+    "bestFor": [
+      "Photo Editing"
+    ],
+    "relatedSoftware": [
+      "Adobe Photoshop",
+      "GIMP"
+    ],
+    "tags": [
+      "Software",
+      "Serif",
+      "Affinity",
+      "Photo Editing",
+      "Raster Graphics",
+      "Photo"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-affinity-publisher",
+    "title": "Affinity Publisher",
+    "shortName": "Affinity Publisher",
+    "company": "Serif",
+    "website": "https://affinity.serif.com/publisher/",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Page Layout",
+      "Publishing"
+    ],
+    "categoryIds": [
+      "software",
+      "page-layout",
+      "publishing"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Page Layout",
+      "Publishing"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Paid",
+    "price": "Paid",
+    "license": "Paid",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "iPad"
+    ],
+    "applications": [
+      "Affinity"
+    ],
+    "applicationEcosystems": [
+      "Affinity"
+    ],
+    "shortDescription": "Professional desktop publishing and layout software.",
+    "longDescription": "Affinity Publisher is a software application in The Creative Vault. Professional desktop publishing and layout software.",
+    "bestFor": [
+      "Book Layout"
+    ],
+    "relatedSoftware": [
+      "Adobe InDesign",
+      "Scribus"
+    ],
+    "tags": [
+      "Software",
+      "Serif",
+      "Affinity",
+      "Page Layout",
+      "Publishing"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-onlyoffice-docs",
+    "title": "ONLYOFFICE Docs",
+    "shortName": "Docs",
+    "company": "ONLYOFFICE",
+    "website": "https://www.onlyoffice.com/office-suite.aspx",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Office Suite",
+      "Collaboration"
+    ],
+    "categoryIds": [
+      "software",
+      "office-suite",
+      "collaboration"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Office Suite",
+      "Collaboration"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Freemium",
+    "price": "Freemium",
+    "license": "Freemium",
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "applications": [
+      "ONLYOFFICE"
+    ],
+    "applicationEcosystems": [
+      "ONLYOFFICE"
+    ],
+    "shortDescription": "Collaborative online editors for text documents, spreadsheets, and presentations.",
+    "longDescription": "ONLYOFFICE Docs is a software application in The Creative Vault. Collaborative online editors for text documents, spreadsheets, and presentations.",
+    "bestFor": [
+      "Document Collaboration"
+    ],
+    "relatedSoftware": [
+      "Google Workspace",
+      "LibreOffice"
+    ],
+    "tags": [
+      "Software",
+      "ONLYOFFICE",
+      "Office Suite",
+      "Collaboration",
+      "Office"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-wps-office",
+    "title": "WPS Office",
+    "shortName": "WPS Office",
+    "company": "Kingsoft",
+    "website": "https://www.wps.com/",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Office Suite",
+      "Documents"
+    ],
+    "categoryIds": [
+      "software",
+      "office-suite",
+      "documents"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Office Suite",
+      "Documents"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Freemium",
+    "price": "Freemium",
+    "license": "Freemium",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux",
+      "iOS",
+      "Android"
+    ],
+    "applications": [
+      "WPS"
+    ],
+    "applicationEcosystems": [
+      "WPS"
+    ],
+    "shortDescription": "Office suite for documents, spreadsheets, PDFs, and presentations.",
+    "longDescription": "WPS Office is a software application in The Creative Vault. Office suite for documents, spreadsheets, PDFs, and presentations.",
+    "bestFor": [
+      "Office Documents"
+    ],
+    "relatedSoftware": [
+      "Microsoft Office",
+      "LibreOffice"
+    ],
+    "tags": [
+      "Software",
+      "Kingsoft",
+      "WPS",
+      "Office Suite",
+      "Documents",
+      "Office"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-google-docs",
+    "title": "Google Docs",
+    "shortName": "Docs",
+    "company": "Google",
+    "website": "https://docs.google.com/",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Word Processing",
+      "Collaboration"
+    ],
+    "categoryIds": [
+      "software",
+      "word-processing",
+      "collaboration"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Word Processing",
+      "Collaboration"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Free",
+    "price": "Free",
+    "license": "Free",
+    "platforms": [
+      "Web",
+      "iOS",
+      "Android"
+    ],
+    "applications": [
+      "Google",
+      "Google Workspace"
+    ],
+    "applicationEcosystems": [
+      "Google",
+      "Google Workspace"
+    ],
+    "shortDescription": "Browser-based collaborative document editor.",
+    "longDescription": "Google Docs is a software application in The Creative Vault. Browser-based collaborative document editor.",
+    "bestFor": [
+      "Writing"
+    ],
+    "relatedSoftware": [
+      "Microsoft Word",
+      "LibreOffice Writer"
+    ],
+    "tags": [
+      "Software",
+      "Google",
+      "Google Workspace",
+      "Word Processing",
+      "Collaboration",
+      "Docs"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-google-sheets",
+    "title": "Google Sheets",
+    "shortName": "Sheets",
+    "company": "Google",
+    "website": "https://sheets.google.com/",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Spreadsheets",
+      "Collaboration"
+    ],
+    "categoryIds": [
+      "software",
+      "spreadsheets",
+      "collaboration"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Spreadsheets",
+      "Collaboration"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Free",
+    "price": "Free",
+    "license": "Free",
+    "platforms": [
+      "Web",
+      "iOS",
+      "Android"
+    ],
+    "applications": [
+      "Google",
+      "Google Workspace"
+    ],
+    "applicationEcosystems": [
+      "Google",
+      "Google Workspace"
+    ],
+    "shortDescription": "Browser-based collaborative spreadsheet editor.",
+    "longDescription": "Google Sheets is a software application in The Creative Vault. Browser-based collaborative spreadsheet editor.",
+    "bestFor": [
+      "Spreadsheets"
+    ],
+    "relatedSoftware": [
+      "Microsoft Excel",
+      "LibreOffice Calc"
+    ],
+    "tags": [
+      "Software",
+      "Google",
+      "Google Workspace",
+      "Spreadsheets",
+      "Collaboration",
+      "Sheets"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-google-slides",
+    "title": "Google Slides",
+    "shortName": "Slides",
+    "company": "Google",
+    "website": "https://slides.google.com/",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Presentations",
+      "Collaboration"
+    ],
+    "categoryIds": [
+      "software",
+      "presentations",
+      "collaboration"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Presentations",
+      "Collaboration"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Free",
+    "price": "Free",
+    "license": "Free",
+    "platforms": [
+      "Web",
+      "iOS",
+      "Android"
+    ],
+    "applications": [
+      "Google",
+      "Google Workspace"
+    ],
+    "applicationEcosystems": [
+      "Google",
+      "Google Workspace"
+    ],
+    "shortDescription": "Browser-based collaborative presentation editor.",
+    "longDescription": "Google Slides is a software application in The Creative Vault. Browser-based collaborative presentation editor.",
+    "bestFor": [
+      "Slide Decks"
+    ],
+    "relatedSoftware": [
+      "Microsoft PowerPoint",
+      "LibreOffice Impress"
+    ],
+    "tags": [
+      "Software",
+      "Google",
+      "Google Workspace",
+      "Presentations",
+      "Collaboration",
+      "Slides"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-microsoft-word",
+    "title": "Microsoft Word",
+    "shortName": "Word",
+    "company": "Microsoft",
+    "website": "https://www.microsoft.com/microsoft-365/word",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Word Processing",
+      "Office Suite"
+    ],
+    "categoryIds": [
+      "software",
+      "word-processing",
+      "office-suite"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Word Processing",
+      "Office Suite"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Subscription",
+    "price": "Subscription",
+    "license": "Subscription",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Web",
+      "iOS",
+      "Android"
+    ],
+    "applications": [
+      "Microsoft",
+      "Microsoft 365"
+    ],
+    "applicationEcosystems": [
+      "Microsoft",
+      "Microsoft 365"
+    ],
+    "shortDescription": "Professional word processing software.",
+    "longDescription": "Microsoft Word is a software application in The Creative Vault. Professional word processing software.",
+    "bestFor": [
+      "Documents"
+    ],
+    "relatedSoftware": [
+      "Google Docs",
+      "LibreOffice Writer"
+    ],
+    "tags": [
+      "Software",
+      "Microsoft",
+      "Microsoft 365",
+      "Word Processing",
+      "Office Suite",
+      "Office"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-microsoft-excel",
+    "title": "Microsoft Excel",
+    "shortName": "Excel",
+    "company": "Microsoft",
+    "website": "https://www.microsoft.com/microsoft-365/excel",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Spreadsheets",
+      "Data Analysis"
+    ],
+    "categoryIds": [
+      "software",
+      "spreadsheets",
+      "data-analysis"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Spreadsheets",
+      "Data Analysis"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Subscription",
+    "price": "Subscription",
+    "license": "Subscription",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Web",
+      "iOS",
+      "Android"
+    ],
+    "applications": [
+      "Microsoft",
+      "Microsoft 365"
+    ],
+    "applicationEcosystems": [
+      "Microsoft",
+      "Microsoft 365"
+    ],
+    "shortDescription": "Professional spreadsheet and data analysis software.",
+    "longDescription": "Microsoft Excel is a software application in The Creative Vault. Professional spreadsheet and data analysis software.",
+    "bestFor": [
+      "Spreadsheets"
+    ],
+    "relatedSoftware": [
+      "Google Sheets",
+      "LibreOffice Calc"
+    ],
+    "tags": [
+      "Software",
+      "Microsoft",
+      "Microsoft 365",
+      "Spreadsheets",
+      "Data Analysis",
+      "Office"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-microsoft-powerpoint",
+    "title": "Microsoft PowerPoint",
+    "shortName": "PowerPoint",
+    "company": "Microsoft",
+    "website": "https://www.microsoft.com/microsoft-365/powerpoint",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Presentations",
+      "Slide Design"
+    ],
+    "categoryIds": [
+      "software",
+      "presentations",
+      "slide-design"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Presentations",
+      "Slide Design"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Subscription",
+    "price": "Subscription",
+    "license": "Subscription",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Web",
+      "iOS",
+      "Android"
+    ],
+    "applications": [
+      "Microsoft",
+      "Microsoft 365"
+    ],
+    "applicationEcosystems": [
+      "Microsoft",
+      "Microsoft 365"
+    ],
+    "shortDescription": "Presentation software for slide decks and talks.",
+    "longDescription": "Microsoft PowerPoint is a software application in The Creative Vault. Presentation software for slide decks and talks.",
+    "bestFor": [
+      "Presentations"
+    ],
+    "relatedSoftware": [
+      "Google Slides",
+      "LibreOffice Impress"
+    ],
+    "tags": [
+      "Software",
+      "Microsoft",
+      "Microsoft 365",
+      "Presentations",
+      "Slide Design",
+      "Office"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-apple-pages",
+    "title": "Apple Pages",
+    "shortName": "Pages",
+    "company": "Apple",
+    "website": "https://www.apple.com/pages/",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Word Processing",
+      "Office Suite"
+    ],
+    "categoryIds": [
+      "software",
+      "word-processing",
+      "office-suite"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Word Processing",
+      "Office Suite"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Free",
+    "price": "Free",
+    "license": "Free",
+    "platforms": [
+      "macOS",
+      "iOS",
+      "Web"
+    ],
+    "applications": [
+      "Apple",
+      "iWork"
+    ],
+    "applicationEcosystems": [
+      "Apple",
+      "iWork"
+    ],
+    "shortDescription": "Apple word processing and page layout app.",
+    "longDescription": "Apple Pages is a software application in The Creative Vault. Apple word processing and page layout app.",
+    "bestFor": [
+      "Documents"
+    ],
+    "relatedSoftware": [
+      "Microsoft Word",
+      "Google Docs"
+    ],
+    "tags": [
+      "Software",
+      "Apple",
+      "iWork",
+      "Word Processing",
+      "Office Suite",
+      "Office"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-apple-numbers",
+    "title": "Apple Numbers",
+    "shortName": "Numbers",
+    "company": "Apple",
+    "website": "https://www.apple.com/numbers/",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Spreadsheets",
+      "Office Suite"
+    ],
+    "categoryIds": [
+      "software",
+      "spreadsheets",
+      "office-suite"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Spreadsheets",
+      "Office Suite"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Free",
+    "price": "Free",
+    "license": "Free",
+    "platforms": [
+      "macOS",
+      "iOS",
+      "Web"
+    ],
+    "applications": [
+      "Apple",
+      "iWork"
+    ],
+    "applicationEcosystems": [
+      "Apple",
+      "iWork"
+    ],
+    "shortDescription": "Apple spreadsheet app for tables, charts, and data.",
+    "longDescription": "Apple Numbers is a software application in The Creative Vault. Apple spreadsheet app for tables, charts, and data.",
+    "bestFor": [
+      "Spreadsheets"
+    ],
+    "relatedSoftware": [
+      "Microsoft Excel",
+      "Google Sheets"
+    ],
+    "tags": [
+      "Software",
+      "Apple",
+      "iWork",
+      "Spreadsheets",
+      "Office Suite",
+      "Office"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-apple-keynote",
+    "title": "Apple Keynote",
+    "shortName": "Keynote",
+    "company": "Apple",
+    "website": "https://www.apple.com/keynote/",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Presentations",
+      "Office Suite"
+    ],
+    "categoryIds": [
+      "software",
+      "presentations",
+      "office-suite"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Presentations",
+      "Office Suite"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Free",
+    "price": "Free",
+    "license": "Free",
+    "platforms": [
+      "macOS",
+      "iOS",
+      "Web"
+    ],
+    "applications": [
+      "Apple",
+      "iWork"
+    ],
+    "applicationEcosystems": [
+      "Apple",
+      "iWork"
+    ],
+    "shortDescription": "Apple presentation and slide design app.",
+    "longDescription": "Apple Keynote is a software application in The Creative Vault. Apple presentation and slide design app.",
+    "bestFor": [
+      "Presentations"
+    ],
+    "relatedSoftware": [
+      "PowerPoint",
+      "Google Slides"
+    ],
+    "tags": [
+      "Software",
+      "Apple",
+      "iWork",
+      "Presentations",
+      "Office Suite",
+      "Office"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-blender",
+    "title": "Blender",
+    "shortName": "Blender",
+    "company": "Blender Foundation",
+    "website": "https://www.blender.org/",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "3D Modeling",
+      "Animation",
+      "VFX"
+    ],
+    "categoryIds": [
+      "software",
+      "3d-modeling",
+      "animation",
+      "vfx"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "3D Modeling",
+      "Animation",
+      "VFX"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Free",
+    "price": "Free",
+    "license": "Free",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "applications": [
+      "Blender"
+    ],
+    "applicationEcosystems": [
+      "Blender"
+    ],
+    "shortDescription": "Free open-source 3D creation suite for modeling, animation, rendering, VFX, and more.",
+    "longDescription": "Blender is a software application in The Creative Vault. Free open-source 3D creation suite for modeling, animation, rendering, VFX, and more.",
+    "bestFor": [
+      "3D Art"
+    ],
+    "relatedSoftware": [
+      "Maya",
+      "Cinema 4D"
+    ],
+    "tags": [
+      "Software",
+      "Blender Foundation",
+      "Blender",
+      "3D Modeling",
+      "Animation",
+      "VFX",
+      "Open Source",
+      "3D"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-blender-studio",
+    "title": "Blender Studio",
+    "shortName": "Blender Studio",
+    "company": "Blender Foundation",
+    "website": "https://studio.blender.org/",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "3D Learning",
+      "Production Assets"
+    ],
+    "categoryIds": [
+      "software",
+      "3d-learning",
+      "production-assets"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "3D Learning",
+      "Production Assets"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Subscription",
+    "price": "Subscription",
+    "license": "Subscription",
+    "platforms": [
+      "Web"
+    ],
+    "applications": [
+      "Blender"
+    ],
+    "applicationEcosystems": [
+      "Blender"
+    ],
+    "shortDescription": "Training, production files, and creative resources from Blender Studio.",
+    "longDescription": "Blender Studio is a software application in The Creative Vault. Training, production files, and creative resources from Blender Studio.",
+    "bestFor": [
+      "Learning"
+    ],
+    "relatedSoftware": [
+      "CG Cookie"
+    ],
+    "tags": [
+      "Software",
+      "Blender Foundation",
+      "Blender",
+      "3D Learning",
+      "Production Assets",
+      "3D"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-blender-extensions",
+    "title": "Blender Extensions",
+    "shortName": "Blender Extensions",
+    "company": "Blender Foundation",
+    "website": "https://extensions.blender.org/",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "3D Add-ons",
+      "Extensions"
+    ],
+    "categoryIds": [
+      "software",
+      "3d-add-ons",
+      "extensions"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "3D Add-ons",
+      "Extensions"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Free",
+    "price": "Free",
+    "license": "Free",
+    "platforms": [
+      "Web"
+    ],
+    "applications": [
+      "Blender"
+    ],
+    "applicationEcosystems": [
+      "Blender"
+    ],
+    "shortDescription": "Official Blender extensions and add-ons platform.",
+    "longDescription": "Blender Extensions is a software application in The Creative Vault. Official Blender extensions and add-ons platform.",
+    "bestFor": [
+      "Add-ons"
+    ],
+    "relatedSoftware": [
+      "Blender Market"
+    ],
+    "tags": [
+      "Software",
+      "Blender Foundation",
+      "Blender",
+      "3D Add-ons",
+      "Extensions"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-cinema-4d",
+    "title": "Cinema 4D",
+    "shortName": "Cinema 4D",
+    "company": "Maxon",
+    "website": "https://www.maxon.net/en/cinema-4d",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "3D Modeling",
+      "Motion Graphics",
+      "Rendering"
+    ],
+    "categoryIds": [
+      "software",
+      "3d-modeling",
+      "motion-graphics",
+      "rendering"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "3D Modeling",
+      "Motion Graphics",
+      "Rendering"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Subscription",
+    "price": "Subscription",
+    "license": "Subscription",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "applications": [
+      "Maxon"
+    ],
+    "applicationEcosystems": [
+      "Maxon"
+    ],
+    "shortDescription": "Professional 3D modeling, animation, simulation, and motion graphics software.",
+    "longDescription": "Cinema 4D is a software application in The Creative Vault. Professional 3D modeling, animation, simulation, and motion graphics software.",
+    "bestFor": [
+      "Motion Design"
+    ],
+    "relatedSoftware": [
+      "Blender",
+      "Maya"
+    ],
+    "tags": [
+      "Software",
+      "Maxon",
+      "3D Modeling",
+      "Motion Graphics",
+      "Rendering",
+      "3D"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-zbrush",
+    "title": "ZBrush",
+    "shortName": "ZBrush",
+    "company": "Maxon",
+    "website": "https://www.maxon.net/en/zbrush",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Digital Sculpting",
+      "Character Art"
+    ],
+    "categoryIds": [
+      "software",
+      "digital-sculpting",
+      "character-art"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Digital Sculpting",
+      "Character Art"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Subscription",
+    "price": "Subscription",
+    "license": "Subscription",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "iPad"
+    ],
+    "applications": [
+      "Maxon"
+    ],
+    "applicationEcosystems": [
+      "Maxon"
+    ],
+    "shortDescription": "Digital sculpting and painting software for characters, creatures, collectibles, and 3D art.",
+    "longDescription": "ZBrush is a software application in The Creative Vault. Digital sculpting and painting software for characters, creatures, collectibles, and 3D art.",
+    "bestFor": [
+      "Sculpting"
+    ],
+    "relatedSoftware": [
+      "Blender Sculpt",
+      "Mudbox"
+    ],
+    "tags": [
+      "Software",
+      "Maxon",
+      "Digital Sculpting",
+      "Character Art",
+      "Sculpting"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-redshift",
+    "title": "Redshift",
+    "shortName": "Redshift",
+    "company": "Maxon",
+    "website": "https://www.maxon.net/en/redshift",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Rendering",
+      "GPU Renderer"
+    ],
+    "categoryIds": [
+      "software",
+      "rendering",
+      "gpu-renderer"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Rendering",
+      "GPU Renderer"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Subscription",
+    "price": "Subscription",
+    "license": "Subscription",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "applications": [
+      "Maxon"
+    ],
+    "applicationEcosystems": [
+      "Maxon"
+    ],
+    "shortDescription": "GPU-accelerated renderer for 3D production.",
+    "longDescription": "Redshift is a software application in The Creative Vault. GPU-accelerated renderer for 3D production.",
+    "bestFor": [
+      "Rendering"
+    ],
+    "relatedSoftware": [
+      "Arnold",
+      "V-Ray",
+      "Cycles"
+    ],
+    "tags": [
+      "Software",
+      "Maxon",
+      "Rendering",
+      "GPU Renderer",
+      "Renderer"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-red-giant",
+    "title": "Red Giant",
+    "shortName": "Red Giant",
+    "company": "Maxon",
+    "website": "https://www.maxon.net/en/red-giant",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Motion Graphics",
+      "VFX Plugins"
+    ],
+    "categoryIds": [
+      "software",
+      "motion-graphics",
+      "vfx-plugins"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Motion Graphics",
+      "VFX Plugins"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Subscription",
+    "price": "Subscription",
+    "license": "Subscription",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "applications": [
+      "Maxon"
+    ],
+    "applicationEcosystems": [
+      "Maxon"
+    ],
+    "shortDescription": "Suite of tools and plugins for motion graphics, VFX, and video post-production.",
+    "longDescription": "Red Giant is a software application in The Creative Vault. Suite of tools and plugins for motion graphics, VFX, and video post-production.",
+    "bestFor": [
+      "VFX"
+    ],
+    "relatedSoftware": [
+      "Boris FX",
+      "Video Copilot"
+    ],
+    "tags": [
+      "Software",
+      "Maxon",
+      "Motion Graphics",
+      "VFX Plugins",
+      "Plugins"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

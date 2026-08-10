@@ -1,0 +1,703 @@
+[
+  {
+    "id": "software-avid-pro-tools-intro",
+    "title": "Avid Pro Tools Intro",
+    "shortName": "Pro Tools Intro",
+    "company": "Avid",
+    "website": "https://www.avid.com/",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "DAW",
+      "Audio Recording",
+      "Music Production"
+    ],
+    "categoryIds": [
+      "software",
+      "daw",
+      "audio-recording",
+      "music-production"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "DAW",
+      "Audio Recording",
+      "Music Production"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Free",
+    "price": "Free",
+    "license": "Free",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "applications": [
+      "Avid",
+      "Pro Tools"
+    ],
+    "applicationEcosystems": [
+      "Avid",
+      "Pro Tools"
+    ],
+    "shortDescription": "Free entry version of Pro Tools for recording, editing, and mixing audio.",
+    "longDescription": "Avid Pro Tools Intro is a software application in The Creative Vault. Free entry version of Pro Tools for recording, editing, and mixing audio.",
+    "bestFor": [
+      "Home Recording",
+      "Audio Editing"
+    ],
+    "relatedSoftware": [
+      "Reaper",
+      "Audacity",
+      "Cakewalk"
+    ],
+    "tags": [
+      "Software",
+      "Avid",
+      "Pro Tools",
+      "DAW",
+      "Audio Recording",
+      "Music Production",
+      "Audio",
+      "Free"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-avid-pro-tools-artist",
+    "title": "Avid Pro Tools Artist",
+    "shortName": "Pro Tools Artist",
+    "company": "Avid",
+    "website": "https://www.avid.com/",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "DAW",
+      "Audio Recording",
+      "Music Production"
+    ],
+    "categoryIds": [
+      "software",
+      "daw",
+      "audio-recording",
+      "music-production"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "DAW",
+      "Audio Recording",
+      "Music Production"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Subscription",
+    "price": "Subscription",
+    "license": "Subscription",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "applications": [
+      "Avid",
+      "Pro Tools"
+    ],
+    "applicationEcosystems": [
+      "Avid",
+      "Pro Tools"
+    ],
+    "shortDescription": "Pro Tools tier for music creators, songwriters, and project studios.",
+    "longDescription": "Avid Pro Tools Artist is a software application in The Creative Vault. Pro Tools tier for music creators, songwriters, and project studios.",
+    "bestFor": [
+      "Songwriting",
+      "Music Production"
+    ],
+    "relatedSoftware": [
+      "Logic Pro",
+      "Studio One"
+    ],
+    "tags": [
+      "Software",
+      "Avid",
+      "Pro Tools",
+      "DAW",
+      "Audio Recording",
+      "Music Production"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-avid-pro-tools-studio",
+    "title": "Avid Pro Tools Studio",
+    "shortName": "Pro Tools Studio",
+    "company": "Avid",
+    "website": "https://www.avid.com/",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "DAW",
+      "Audio Post",
+      "Music Production"
+    ],
+    "categoryIds": [
+      "software",
+      "daw",
+      "audio-post",
+      "music-production"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "DAW",
+      "Audio Post",
+      "Music Production"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Subscription",
+    "price": "Subscription",
+    "license": "Subscription",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "applications": [
+      "Avid",
+      "Pro Tools"
+    ],
+    "applicationEcosystems": [
+      "Avid",
+      "Pro Tools"
+    ],
+    "shortDescription": "Professional Pro Tools tier for larger sessions, studio production, and post workflows.",
+    "longDescription": "Avid Pro Tools Studio is a software application in The Creative Vault. Professional Pro Tools tier for larger sessions, studio production, and post workflows.",
+    "bestFor": [
+      "Professional Recording",
+      "Mixing"
+    ],
+    "relatedSoftware": [
+      "Nuendo",
+      "Reaper"
+    ],
+    "tags": [
+      "Software",
+      "Avid",
+      "Pro Tools",
+      "DAW",
+      "Audio Post",
+      "Music Production",
+      "Post Audio"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-avid-pro-tools-ultimate",
+    "title": "Avid Pro Tools Ultimate",
+    "shortName": "Pro Tools Ultimate",
+    "company": "Avid",
+    "website": "https://www.avid.com/",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "DAW",
+      "Post Production",
+      "Large Format Mixing"
+    ],
+    "categoryIds": [
+      "software",
+      "daw",
+      "post-production",
+      "large-format-mixing"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "DAW",
+      "Post Production",
+      "Large Format Mixing"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Subscription",
+    "price": "Subscription",
+    "license": "Subscription",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "applications": [
+      "Avid",
+      "Pro Tools"
+    ],
+    "applicationEcosystems": [
+      "Avid",
+      "Pro Tools"
+    ],
+    "shortDescription": "Top Pro Tools tier for film, TV, immersive, and post-production workflows.",
+    "longDescription": "Avid Pro Tools Ultimate is a software application in The Creative Vault. Top Pro Tools tier for film, TV, immersive, and post-production workflows.",
+    "bestFor": [
+      "Film Mixing",
+      "Immersive Audio"
+    ],
+    "relatedSoftware": [
+      "Nuendo",
+      "Pyramix"
+    ],
+    "tags": [
+      "Software",
+      "Avid",
+      "Pro Tools",
+      "DAW",
+      "Post Production",
+      "Large Format Mixing",
+      "Immersive Audio"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-avid-sibelius",
+    "title": "Avid Sibelius",
+    "shortName": "Sibelius",
+    "company": "Avid",
+    "website": "https://www.avid.com/",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Music Notation",
+      "Composition"
+    ],
+    "categoryIds": [
+      "software",
+      "music-notation",
+      "composition"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Music Notation",
+      "Composition"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Subscription",
+    "price": "Subscription",
+    "license": "Subscription",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "iPad"
+    ],
+    "applications": [
+      "Avid"
+    ],
+    "applicationEcosystems": [
+      "Avid"
+    ],
+    "shortDescription": "Professional music notation and scoring software.",
+    "longDescription": "Avid Sibelius is a software application in The Creative Vault. Professional music notation and scoring software.",
+    "bestFor": [
+      "Notation",
+      "Composition"
+    ],
+    "relatedSoftware": [
+      "MuseScore",
+      "Dorico",
+      "Finale"
+    ],
+    "tags": [
+      "Software",
+      "Avid",
+      "Music Notation",
+      "Composition",
+      "Notation"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-avid-media-composer",
+    "title": "Avid Media Composer",
+    "shortName": "Media Composer",
+    "company": "Avid",
+    "website": "https://www.avid.com/",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Video Editing",
+      "Film Editing",
+      "Broadcast"
+    ],
+    "categoryIds": [
+      "software",
+      "video-editing",
+      "film-editing",
+      "broadcast"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Video Editing",
+      "Film Editing",
+      "Broadcast"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Subscription",
+    "price": "Subscription",
+    "license": "Subscription",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "applications": [
+      "Avid"
+    ],
+    "applicationEcosystems": [
+      "Avid"
+    ],
+    "shortDescription": "Professional non-linear editing software for film, TV, and broadcast workflows.",
+    "longDescription": "Avid Media Composer is a software application in The Creative Vault. Professional non-linear editing software for film, TV, and broadcast workflows.",
+    "bestFor": [
+      "Film Editing",
+      "Broadcast"
+    ],
+    "relatedSoftware": [
+      "Premiere Pro",
+      "DaVinci Resolve"
+    ],
+    "tags": [
+      "Software",
+      "Avid",
+      "Video Editing",
+      "Film Editing",
+      "Broadcast",
+      "NLE",
+      "Video"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-avid-link",
+    "title": "Avid Link",
+    "shortName": "Link",
+    "company": "Avid",
+    "website": "https://www.avid.com/",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Software Management",
+      "Creative Community"
+    ],
+    "categoryIds": [
+      "software",
+      "software-management",
+      "creative-community"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Software Management",
+      "Creative Community"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Free",
+    "price": "Free",
+    "license": "Free",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "applications": [
+      "Avid"
+    ],
+    "applicationEcosystems": [
+      "Avid"
+    ],
+    "shortDescription": "Avid software management, licensing, account, and creative community app.",
+    "longDescription": "Avid Link is a software application in The Creative Vault. Avid software management, licensing, account, and creative community app.",
+    "bestFor": [
+      "Avid Account"
+    ],
+    "relatedSoftware": [
+      "Creative Cloud Desktop"
+    ],
+    "tags": [
+      "Software",
+      "Avid",
+      "Software Management",
+      "Creative Community",
+      "Utility"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-avid-nexis",
+    "title": "Avid NEXIS",
+    "shortName": "NEXIS",
+    "company": "Avid",
+    "website": "https://www.avid.com/",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Shared Storage",
+      "Media Production"
+    ],
+    "categoryIds": [
+      "software",
+      "shared-storage",
+      "media-production"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Shared Storage",
+      "Media Production"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Enterprise",
+    "price": "Enterprise",
+    "license": "Enterprise",
+    "platforms": [
+      "Enterprise"
+    ],
+    "applications": [
+      "Avid"
+    ],
+    "applicationEcosystems": [
+      "Avid"
+    ],
+    "shortDescription": "Shared storage platform for media production teams.",
+    "longDescription": "Avid NEXIS is a software application in The Creative Vault. Shared storage platform for media production teams.",
+    "bestFor": [
+      "Post Production",
+      "Collaborative Editing"
+    ],
+    "relatedSoftware": [
+      "Blackmagic Cloud Store"
+    ],
+    "tags": [
+      "Software",
+      "Avid",
+      "Shared Storage",
+      "Media Production",
+      "Storage"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-avid-venue",
+    "title": "Avid VENUE",
+    "shortName": "VENUE",
+    "company": "Avid",
+    "website": "https://www.avid.com/",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Live Sound",
+      "Mixing Consoles"
+    ],
+    "categoryIds": [
+      "software",
+      "live-sound",
+      "mixing-consoles"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Live Sound",
+      "Mixing Consoles"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Enterprise",
+    "price": "Enterprise",
+    "license": "Enterprise",
+    "platforms": [
+      "Hardware",
+      "Software"
+    ],
+    "applications": [
+      "Avid"
+    ],
+    "applicationEcosystems": [
+      "Avid"
+    ],
+    "shortDescription": "Live sound console and software ecosystem for concerts, broadcast, and events.",
+    "longDescription": "Avid VENUE is a software application in The Creative Vault. Live sound console and software ecosystem for concerts, broadcast, and events.",
+    "bestFor": [
+      "Live Sound"
+    ],
+    "relatedSoftware": [
+      "Yamaha CL/QL",
+      "DiGiCo"
+    ],
+    "tags": [
+      "Software",
+      "Avid",
+      "Live Sound",
+      "Mixing Consoles",
+      "Live Audio"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-avid-maestro",
+    "title": "Avid Maestro",
+    "shortName": "Maestro",
+    "company": "Avid",
+    "website": "https://www.avid.com/",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Broadcast Graphics",
+      "Real-Time Graphics"
+    ],
+    "categoryIds": [
+      "software",
+      "broadcast-graphics",
+      "real-time-graphics"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Broadcast Graphics",
+      "Real-Time Graphics"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Enterprise",
+    "price": "Enterprise",
+    "license": "Enterprise",
+    "platforms": [
+      "Enterprise"
+    ],
+    "applications": [
+      "Avid"
+    ],
+    "applicationEcosystems": [
+      "Avid"
+    ],
+    "shortDescription": "Real-time graphics and video wall control solutions for broadcast.",
+    "longDescription": "Avid Maestro is a software application in The Creative Vault. Real-time graphics and video wall control solutions for broadcast.",
+    "bestFor": [
+      "Broadcast Graphics"
+    ],
+    "relatedSoftware": [
+      "Vizrt"
+    ],
+    "tags": [
+      "Software",
+      "Avid",
+      "Broadcast Graphics",
+      "Real-Time Graphics",
+      "Broadcast"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-avid-stream-io",
+    "title": "Avid Stream IO",
+    "shortName": "Stream IO",
+    "company": "Avid",
+    "website": "https://www.avid.com/",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Broadcast Production",
+      "Ingest",
+      "Playout"
+    ],
+    "categoryIds": [
+      "software",
+      "broadcast-production",
+      "ingest",
+      "playout"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Broadcast Production",
+      "Ingest",
+      "Playout"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Enterprise",
+    "price": "Enterprise",
+    "license": "Enterprise",
+    "platforms": [
+      "Enterprise"
+    ],
+    "applications": [
+      "Avid"
+    ],
+    "applicationEcosystems": [
+      "Avid"
+    ],
+    "shortDescription": "Software-based ingest and playout platform for broadcast production workflows.",
+    "longDescription": "Avid Stream IO is a software application in The Creative Vault. Software-based ingest and playout platform for broadcast production workflows.",
+    "bestFor": [
+      "Broadcast Ingest",
+      "Playout"
+    ],
+    "relatedSoftware": [
+      "Blackmagic Media Express"
+    ],
+    "tags": [
+      "Software",
+      "Avid",
+      "Broadcast Production",
+      "Ingest",
+      "Playout",
+      "Broadcast"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "id": "avid",
+  "name": "Avid",
+  "website": "https://www.avid.com/",
+  "category": "Company",
+  "type": "Software Company",
+  "ecosystems": [
+    "Avid",
+    "Pro Tools"
+  ],
+  "description": "Audio, video, broadcast, and media production software and hardware company."
+}

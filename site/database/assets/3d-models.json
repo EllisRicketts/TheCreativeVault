@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Sketchfab",
+    "website": "https://sketchfab.com",
+    "price": "Freemium",
+    "logo": "",
+    "description": "Sketchfab resource library.",
+    "commercialUse": "Check license",
+    "formats": [],
+    "featured": false
+  },
+  {
+    "title": "CGTrader",
+    "website": "https://cgtrader.com",
+    "price": "Freemium",
+    "logo": "",
+    "description": "CGTrader resource library.",
+    "commercialUse": "Check license",
+    "formats": [],
+    "featured": false
+  },
+  {
+    "title": "TurboSquid",
+    "website": "https://turbosquid.com",
+    "price": "Paid",
+    "logo": "",
+    "description": "TurboSquid resource library.",
+    "commercialUse": "Check license",
+    "formats": [],
+    "featured": false
+  },
+  {
+    "title": "Blend Swap",
+    "website": "https://blendswap.com",
+    "price": "Free",
+    "logo": "",
+    "description": "Blend Swap resource library.",
+    "commercialUse": "Check license",
+    "formats": [],
+    "featured": true
+  },
+  {
+    "title": "KitBash3D",
+    "website": "https://kitbash3d.com",
+    "price": "Paid",
+    "logo": "",
+    "description": "KitBash3D resource library.",
+    "commercialUse": "Check license",
+    "formats": [],
+    "featured": false
+  },
+  {
+    "title": "RenderHub",
+    "website": "https://renderhub.com",
+    "price": "Freemium",
+    "logo": "",
+    "description": "RenderHub resource library.",
+    "commercialUse": "Check license",
+    "formats": [],
+    "featured": false
+  }
+]

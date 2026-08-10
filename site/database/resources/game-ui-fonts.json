@@ -1,0 +1,769 @@
+[
+  {
+    "id": "game-dev-extra-figma",
+    "title": "Figma",
+    "shortName": "Figma",
+    "company": "Figma",
+    "website": "https://www.figma.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game UI and Fonts"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Collaborative interface design tool for game UI, wireframes, and layouts.",
+    "longDescription": "Figma is included in The Creative Vault as a game development resource. Collaborative interface design tool for game UI, wireframes, and layouts.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Game UI and Fonts",
+      "UI",
+      "Design"
+    ],
+    "bestFor": [
+      "Game UI and Fonts",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser",
+      "Windows",
+      "Mac"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-penpot",
+    "title": "Penpot",
+    "shortName": "Penpot",
+    "company": "Penpot",
+    "website": "https://penpot.app/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game UI and Fonts"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Open-source design and prototyping platform.",
+    "longDescription": "Penpot is included in The Creative Vault as a game development resource. Open-source design and prototyping platform.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Game UI and Fonts",
+      "UI",
+      "Open Source"
+    ],
+    "bestFor": [
+      "Game UI and Fonts",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": true,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-lunacy",
+    "title": "Lunacy",
+    "shortName": "Lunacy",
+    "company": "Icons8",
+    "website": "https://icons8.com/lunacy",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game UI and Fonts"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Free design software for UI, vector graphics, and assets.",
+    "longDescription": "Lunacy is included in The Creative Vault as a game development resource. Free design software for UI, vector graphics, and assets.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Game UI and Fonts",
+      "UI",
+      "Design"
+    ],
+    "bestFor": [
+      "Game UI and Fonts",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-rive",
+    "title": "Rive",
+    "shortName": "Rive",
+    "company": "Rive",
+    "website": "https://rive.app/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game UI and Fonts"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Realtime interactive animation tool useful for UI and game menus.",
+    "longDescription": "Rive is included in The Creative Vault as a game development resource. Realtime interactive animation tool useful for UI and game menus.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Game UI and Fonts",
+      "Animation",
+      "UI"
+    ],
+    "bestFor": [
+      "Game UI and Fonts",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-lottiefiles",
+    "title": "LottieFiles",
+    "shortName": "LottieFiles",
+    "company": "LottieFiles",
+    "website": "https://lottiefiles.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game UI and Fonts"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Animation marketplace and workflow for Lottie motion graphics.",
+    "longDescription": "LottieFiles is included in The Creative Vault as a game development resource. Animation marketplace and workflow for Lottie motion graphics.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Game UI and Fonts",
+      "Animation",
+      "UI"
+    ],
+    "bestFor": [
+      "Game UI and Fonts",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-spine-ui-animation",
+    "title": "Spine UI Animation",
+    "shortName": "Spine UI Animation",
+    "company": "Esoteric Software",
+    "website": "https://esotericsoftware.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game UI and Fonts"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "2D animation tool often used for game UI motion and characters.",
+    "longDescription": "Spine UI Animation is included in The Creative Vault as a game development resource. 2D animation tool often used for game UI motion and characters.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Game UI and Fonts",
+      "Animation",
+      "UI"
+    ],
+    "bestFor": [
+      "Game UI and Fonts",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-bmfont",
+    "title": "BMFont",
+    "shortName": "BMFont",
+    "company": "AngelCode",
+    "website": "https://www.angelcode.com/products/bmfont/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game UI and Fonts"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Bitmap font generator for game UI text rendering.",
+    "longDescription": "BMFont is included in The Creative Vault as a game development resource. Bitmap font generator for game UI text rendering.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Game UI and Fonts",
+      "Fonts",
+      "Bitmap"
+    ],
+    "bestFor": [
+      "Game UI and Fonts",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-hiero",
+    "title": "Hiero",
+    "shortName": "Hiero",
+    "company": "libGDX",
+    "website": "https://libgdx.com/wiki/tools/hiero",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game UI and Fonts"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Bitmap font tool used in libGDX workflows.",
+    "longDescription": "Hiero is included in The Creative Vault as a game development resource. Bitmap font tool used in libGDX workflows.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Game UI and Fonts",
+      "Fonts",
+      "Bitmap"
+    ],
+    "bestFor": [
+      "Game UI and Fonts",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": true,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-fontforge",
+    "title": "FontForge",
+    "shortName": "FontForge",
+    "company": "FontForge",
+    "website": "https://fontforge.org/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game UI and Fonts"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Open-source font editor for creating and editing typefaces.",
+    "longDescription": "FontForge is included in The Creative Vault as a game development resource. Open-source font editor for creating and editing typefaces.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Game UI and Fonts",
+      "Fonts",
+      "Open Source"
+    ],
+    "bestFor": [
+      "Game UI and Fonts",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": true,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-glyphs",
+    "title": "Glyphs",
+    "shortName": "Glyphs",
+    "company": "Glyphs",
+    "website": "https://glyphsapp.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game UI and Fonts"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Professional font design software for Mac.",
+    "longDescription": "Glyphs is included in The Creative Vault as a game development resource. Professional font design software for Mac.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Game UI and Fonts",
+      "Fonts",
+      "Typography"
+    ],
+    "bestFor": [
+      "Game UI and Fonts",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Mac"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-birdfont",
+    "title": "BirdFont",
+    "shortName": "BirdFont",
+    "company": "BirdFont",
+    "website": "https://birdfont.org/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game UI and Fonts"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Font editor for creating vector and color fonts.",
+    "longDescription": "BirdFont is included in The Creative Vault as a game development resource. Font editor for creating vector and color fonts.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Game UI and Fonts",
+      "Fonts"
+    ],
+    "bestFor": [
+      "Game UI and Fonts",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-google-fonts",
+    "title": "Google Fonts",
+    "shortName": "Google Fonts",
+    "company": "Google",
+    "website": "https://fonts.google.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game UI and Fonts"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Free open-source font library.",
+    "longDescription": "Google Fonts is included in The Creative Vault as a game development resource. Free open-source font library.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Game UI and Fonts",
+      "Fonts",
+      "Free"
+    ],
+    "bestFor": [
+      "Game UI and Fonts",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-font-squirrel",
+    "title": "Font Squirrel",
+    "shortName": "Font Squirrel",
+    "company": "Font Squirrel",
+    "website": "https://www.fontsquirrel.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game UI and Fonts"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Free commercial-use font directory.",
+    "longDescription": "Font Squirrel is included in The Creative Vault as a game development resource. Free commercial-use font directory.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Game UI and Fonts",
+      "Fonts",
+      "Free"
+    ],
+    "bestFor": [
+      "Game UI and Fonts",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-dafont",
+    "title": "DaFont",
+    "shortName": "DaFont",
+    "company": "DaFont",
+    "website": "https://www.dafont.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game UI and Fonts"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Large free font directory.",
+    "longDescription": "DaFont is included in The Creative Vault as a game development resource. Large free font directory.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Game UI and Fonts",
+      "Fonts"
+    ],
+    "bestFor": [
+      "Game UI and Fonts",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-game-ui-database",
+    "title": "Game UI Database",
+    "shortName": "Game UI Database",
+    "company": "Game UI Database",
+    "website": "https://www.gameuidatabase.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game UI and Fonts"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Reference database of game UI screenshots and patterns.",
+    "longDescription": "Game UI Database is included in The Creative Vault as a game development resource. Reference database of game UI screenshots and patterns.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Game UI and Fonts",
+      "UI Reference"
+    ],
+    "bestFor": [
+      "Game UI and Fonts",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-interface-in-game",
+    "title": "Interface In Game",
+    "shortName": "Interface In Game",
+    "company": "Interface In Game",
+    "website": "https://interfaceingame.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game UI and Fonts"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Game UI inspiration and reference gallery.",
+    "longDescription": "Interface In Game is included in The Creative Vault as a game development resource. Game UI inspiration and reference gallery.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Game UI and Fonts",
+      "UI Reference"
+    ],
+    "bestFor": [
+      "Game UI and Fonts",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-huds-guis",
+    "title": "HUDS+GUIS",
+    "shortName": "HUDS+GUIS",
+    "company": "HUDS+GUIS",
+    "website": "https://www.hudsandguis.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game UI and Fonts"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Futuristic UI, HUD, and motion design inspiration and assets.",
+    "longDescription": "HUDS+GUIS is included in The Creative Vault as a game development resource. Futuristic UI, HUD, and motion design inspiration and assets.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Game UI and Fonts",
+      "HUD",
+      "UI"
+    ],
+    "bestFor": [
+      "Game UI and Fonts",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-ui8-game-ui",
+    "title": "UI8 Game UI",
+    "shortName": "UI8 Game UI",
+    "company": "UI8",
+    "website": "https://ui8.net/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game UI and Fonts"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Marketplace for UI kits, icons, and design systems.",
+    "longDescription": "UI8 Game UI is included in The Creative Vault as a game development resource. Marketplace for UI kits, icons, and design systems.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Game UI and Fonts",
+      "UI Kits"
+    ],
+    "bestFor": [
+      "Game UI and Fonts",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-craftpix-ui",
+    "title": "CraftPix UI",
+    "shortName": "CraftPix UI",
+    "company": "CraftPix",
+    "website": "https://craftpix.net/categorys/game-gui/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game UI and Fonts"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Game GUI packs and 2D interface assets.",
+    "longDescription": "CraftPix UI is included in The Creative Vault as a game development resource. Game GUI packs and 2D interface assets.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Game UI and Fonts",
+      "GUI",
+      "2D"
+    ],
+    "bestFor": [
+      "Game UI and Fonts",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-kenney-ui-pack",
+    "title": "Kenney UI Pack",
+    "shortName": "Kenney UI Pack",
+    "company": "Kenney",
+    "website": "https://kenney.nl/assets?q=ui",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game UI and Fonts"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Free game UI assets and interface packs.",
+    "longDescription": "Kenney UI Pack is included in The Creative Vault as a game development resource. Free game UI assets and interface packs.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Game UI and Fonts",
+      "UI",
+      "Free"
+    ],
+    "bestFor": [
+      "Game UI and Fonts",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

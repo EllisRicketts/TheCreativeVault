@@ -1,0 +1,37 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Creative Vault Company",
+  "type": "object",
+  "required": [
+    "id",
+    "name",
+    "website"
+  ],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "website": {
+      "type": "string"
+    },
+    "logo": {
+      "type": "string"
+    },
+    "country": {
+      "type": "string"
+    },
+    "founded": {},
+    "description": {
+      "type": "string"
+    },
+    "resources": {
+      "type": "array"
+    },
+    "tags": {
+      "type": "array"
+    }
+  }
+}

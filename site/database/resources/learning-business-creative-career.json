@@ -1,0 +1,754 @@
+[
+  {
+    "id": "learning-the-futur-academy",
+    "title": "The Futur Academy",
+    "shortName": "The Futur Academy",
+    "company": "The Futur",
+    "website": "https://thefutur.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Creative Business Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Creative business, branding, sales, pricing, and design career education.",
+    "longDescription": "The Futur Academy is included in The Creative Vault as a learning resource. Creative business, branding, sales, pricing, and design career education.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Learning",
+      "Creative Business Education",
+      "Business",
+      "Branding"
+    ],
+    "bestFor": [
+      "Creative Business Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-chris-do-youtube",
+    "title": "Chris Do YouTube",
+    "shortName": "Chris Do YouTube",
+    "company": "The Futur",
+    "website": "https://www.youtube.com/@thefutur",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Creative Business Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Creative business, branding, pricing, sales, and career advice.",
+    "longDescription": "Chris Do YouTube is included in The Creative Vault as a learning resource. Creative business, branding, pricing, sales, and career advice.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Creative Business Education",
+      "YouTube",
+      "Business"
+    ],
+    "bestFor": [
+      "Creative Business Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-seth-godin-blog",
+    "title": "Seth Godin Blog",
+    "shortName": "Seth Godin Blog",
+    "company": "Seth Godin",
+    "website": "https://seths.blog/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Creative Business Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Marketing, creativity, and business thinking for makers and entrepreneurs.",
+    "longDescription": "Seth Godin Blog is included in The Creative Vault as a learning resource. Marketing, creativity, and business thinking for makers and entrepreneurs.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Creative Business Education",
+      "Marketing",
+      "Writing"
+    ],
+    "bestFor": [
+      "Creative Business Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-hubspot-academy",
+    "title": "HubSpot Academy",
+    "shortName": "HubSpot Academy",
+    "company": "HubSpot",
+    "website": "https://academy.hubspot.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Creative Business Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Free courses in marketing, sales, content, social media, and CRM.",
+    "longDescription": "HubSpot Academy is included in The Creative Vault as a learning resource. Free courses in marketing, sales, content, social media, and CRM.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Creative Business Education",
+      "Marketing",
+      "Sales"
+    ],
+    "bestFor": [
+      "Creative Business Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-google-skillshop",
+    "title": "Google Skillshop",
+    "shortName": "Google Skillshop",
+    "company": "Google",
+    "website": "https://skillshop.withgoogle.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Creative Business Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Official Google ads, analytics, and marketing product training.",
+    "longDescription": "Google Skillshop is included in The Creative Vault as a learning resource. Official Google ads, analytics, and marketing product training.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Creative Business Education",
+      "Marketing",
+      "Google"
+    ],
+    "bestFor": [
+      "Creative Business Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-meta-blueprint",
+    "title": "Meta Blueprint",
+    "shortName": "Meta Blueprint",
+    "company": "Meta",
+    "website": "https://www.facebook.com/business/learn",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Creative Business Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Training for Meta ads, business tools, and social media marketing.",
+    "longDescription": "Meta Blueprint is included in The Creative Vault as a learning resource. Training for Meta ads, business tools, and social media marketing.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Creative Business Education",
+      "Social Media",
+      "Ads"
+    ],
+    "bestFor": [
+      "Creative Business Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-tiktok-academy",
+    "title": "TikTok Academy",
+    "shortName": "TikTok Academy",
+    "company": "TikTok",
+    "website": "https://www.tiktokacademy.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Creative Business Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Official TikTok marketing and platform education.",
+    "longDescription": "TikTok Academy is included in The Creative Vault as a learning resource. Official TikTok marketing and platform education.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Creative Business Education",
+      "TikTok",
+      "Social"
+    ],
+    "bestFor": [
+      "Creative Business Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-youtube-creators",
+    "title": "YouTube Creators",
+    "shortName": "YouTube Creators",
+    "company": "YouTube",
+    "website": "https://www.youtube.com/creators/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Creative Business Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Official resources for growing and managing a YouTube channel.",
+    "longDescription": "YouTube Creators is included in The Creative Vault as a learning resource. Official resources for growing and managing a YouTube channel.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Creative Business Education",
+      "YouTube",
+      "Creators"
+    ],
+    "bestFor": [
+      "Creative Business Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-creator-science",
+    "title": "Creator Science",
+    "shortName": "Creator Science",
+    "company": "Jay Clouse",
+    "website": "https://creatorscience.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Creative Business Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Creator business, audience growth, and content strategy education.",
+    "longDescription": "Creator Science is included in The Creative Vault as a learning resource. Creator business, audience growth, and content strategy education.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Learning",
+      "Creative Business Education",
+      "Creator Business"
+    ],
+    "bestFor": [
+      "Creative Business Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-convertkit-creator-university",
+    "title": "ConvertKit Creator University",
+    "shortName": "ConvertKit Creator University",
+    "company": "Kit",
+    "website": "https://creatoruniversity.convertkit.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Creative Business Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Email marketing and creator business education.",
+    "longDescription": "ConvertKit Creator University is included in The Creative Vault as a learning resource. Email marketing and creator business education.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Creative Business Education",
+      "Email",
+      "Creators"
+    ],
+    "bestFor": [
+      "Creative Business Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-later-blog",
+    "title": "Later Blog",
+    "shortName": "Later Blog",
+    "company": "Later",
+    "website": "https://later.com/blog/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Creative Business Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Social media marketing education and creator strategy.",
+    "longDescription": "Later Blog is included in The Creative Vault as a learning resource. Social media marketing education and creator strategy.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Creative Business Education",
+      "Social Media"
+    ],
+    "bestFor": [
+      "Creative Business Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-buffer-resources",
+    "title": "Buffer Resources",
+    "shortName": "Buffer Resources",
+    "company": "Buffer",
+    "website": "https://buffer.com/resources/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Creative Business Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Social media marketing guides and content strategy resources.",
+    "longDescription": "Buffer Resources is included in The Creative Vault as a learning resource. Social media marketing guides and content strategy resources.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Creative Business Education",
+      "Social Media"
+    ],
+    "bestFor": [
+      "Creative Business Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-hootsuite-blog",
+    "title": "Hootsuite Blog",
+    "shortName": "Hootsuite Blog",
+    "company": "Hootsuite",
+    "website": "https://blog.hootsuite.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Creative Business Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Social media marketing guides, trends, and strategy.",
+    "longDescription": "Hootsuite Blog is included in The Creative Vault as a learning resource. Social media marketing guides, trends, and strategy.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Creative Business Education",
+      "Social Media"
+    ],
+    "bestFor": [
+      "Creative Business Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-neil-patel-blog",
+    "title": "Neil Patel Blog",
+    "shortName": "Neil Patel Blog",
+    "company": "Neil Patel",
+    "website": "https://neilpatel.com/blog/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Creative Business Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "SEO, content marketing, and digital marketing education.",
+    "longDescription": "Neil Patel Blog is included in The Creative Vault as a learning resource. SEO, content marketing, and digital marketing education.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Creative Business Education",
+      "SEO",
+      "Marketing"
+    ],
+    "bestFor": [
+      "Creative Business Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-backlinko",
+    "title": "Backlinko",
+    "shortName": "Backlinko",
+    "company": "Semrush",
+    "website": "https://backlinko.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Creative Business Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "SEO and content marketing guides.",
+    "longDescription": "Backlinko is included in The Creative Vault as a learning resource. SEO and content marketing guides.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Creative Business Education",
+      "SEO"
+    ],
+    "bestFor": [
+      "Creative Business Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-copyblogger",
+    "title": "Copyblogger",
+    "shortName": "Copyblogger",
+    "company": "Copyblogger",
+    "website": "https://copyblogger.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Creative Business Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Copywriting and content marketing education.",
+    "longDescription": "Copyblogger is included in The Creative Vault as a learning resource. Copywriting and content marketing education.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Creative Business Education",
+      "Copywriting"
+    ],
+    "bestFor": [
+      "Creative Business Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-verygoodcopy",
+    "title": "VeryGoodCopy",
+    "shortName": "VeryGoodCopy",
+    "company": "Eddie Shleyner",
+    "website": "https://www.verygoodcopy.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Creative Business Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Copywriting lessons and creative marketing examples.",
+    "longDescription": "VeryGoodCopy is included in The Creative Vault as a learning resource. Copywriting lessons and creative marketing examples.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Creative Business Education",
+      "Copywriting"
+    ],
+    "bestFor": [
+      "Creative Business Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-marketing-examples",
+    "title": "Marketing Examples",
+    "shortName": "Marketing Examples",
+    "company": "Harry Dry",
+    "website": "https://marketingexamples.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Creative Business Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Marketing case studies, copywriting examples, and growth lessons.",
+    "longDescription": "Marketing Examples is included in The Creative Vault as a learning resource. Marketing case studies, copywriting examples, and growth lessons.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Learning",
+      "Creative Business Education",
+      "Marketing",
+      "Copywriting"
+    ],
+    "bestFor": [
+      "Creative Business Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-indie-hackers",
+    "title": "Indie Hackers",
+    "shortName": "Indie Hackers",
+    "company": "Indie Hackers",
+    "website": "https://www.indiehackers.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Creative Business Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Community and learning platform for independent entrepreneurs.",
+    "longDescription": "Indie Hackers is included in The Creative Vault as a learning resource. Community and learning platform for independent entrepreneurs.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Creative Business Education",
+      "Indie Business"
+    ],
+    "bestFor": [
+      "Creative Business Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-starter-story",
+    "title": "Starter Story",
+    "shortName": "Starter Story",
+    "company": "Starter Story",
+    "website": "https://www.starterstory.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Creative Business Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Case studies and business ideas from founders and creators.",
+    "longDescription": "Starter Story is included in The Creative Vault as a learning resource. Case studies and business ideas from founders and creators.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Learning",
+      "Creative Business Education",
+      "Business",
+      "Case Studies"
+    ],
+    "bestFor": [
+      "Creative Business Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

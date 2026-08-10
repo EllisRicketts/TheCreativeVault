@@ -1,0 +1,342 @@
+[
+  {
+    "id": "toon-boom-harmony",
+    "title": "Toon Boom Harmony",
+    "shortName": "Toon Boom Harmony",
+    "company": "Toon Boom",
+    "website": "https://www.toonboom.com/products/harmony",
+    "category": "Animation",
+    "categoryId": "animation",
+    "subcategories": [
+      "Animation"
+    ],
+    "type": "Resource",
+    "shortDescription": "Professional 2D animation software for studios.",
+    "longDescription": "Professional 2D animation software for studios.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Animation",
+      "Animation"
+    ],
+    "bestFor": [
+      "Animation",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "opentoonz",
+    "title": "OpenToonz",
+    "shortName": "OpenToonz",
+    "company": "OpenToonz",
+    "website": "https://opentoonz.github.io/e/",
+    "category": "Animation",
+    "categoryId": "animation",
+    "subcategories": [
+      "Animation"
+    ],
+    "type": "Resource",
+    "shortDescription": "Free open-source 2D animation software.",
+    "longDescription": "Free open-source 2D animation software.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Animation",
+      "Animation"
+    ],
+    "bestFor": [
+      "Animation",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "moho",
+    "title": "Moho",
+    "shortName": "Moho",
+    "company": "Lost Marble",
+    "website": "https://moho.lostmarble.com/",
+    "category": "Animation",
+    "categoryId": "animation",
+    "subcategories": [
+      "Animation"
+    ],
+    "type": "Resource",
+    "shortDescription": "2D rigging and animation software.",
+    "longDescription": "2D rigging and animation software.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Animation",
+      "Animation"
+    ],
+    "bestFor": [
+      "Animation",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "rive",
+    "title": "Rive",
+    "shortName": "Rive",
+    "company": "Rive",
+    "website": "https://rive.app/",
+    "category": "Animation",
+    "categoryId": "animation",
+    "subcategories": [
+      "Animation"
+    ],
+    "type": "Resource",
+    "shortDescription": "Realtime interactive animation tool for apps and websites.",
+    "longDescription": "Realtime interactive animation tool for apps and websites.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Animation",
+      "Animation"
+    ],
+    "bestFor": [
+      "Animation",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "cavalry",
+    "title": "Cavalry",
+    "shortName": "Cavalry",
+    "company": "Scene Group",
+    "website": "https://cavalry.scenegroup.co/",
+    "category": "Animation",
+    "categoryId": "animation",
+    "subcategories": [
+      "Animation"
+    ],
+    "type": "Resource",
+    "shortDescription": "Procedural 2D motion design software.",
+    "longDescription": "Procedural 2D motion design software.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Animation",
+      "Animation"
+    ],
+    "bestFor": [
+      "Animation",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "synfig-studio",
+    "title": "Synfig Studio",
+    "shortName": "Synfig Studio",
+    "company": "Synfig",
+    "website": "https://www.synfig.org/",
+    "category": "Animation",
+    "categoryId": "animation",
+    "subcategories": [
+      "Animation"
+    ],
+    "type": "Resource",
+    "shortDescription": "Free open-source 2D animation software.",
+    "longDescription": "Free open-source 2D animation software.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Animation",
+      "Animation"
+    ],
+    "bestFor": [
+      "Animation",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "pencil2d",
+    "title": "Pencil2D",
+    "shortName": "Pencil2D",
+    "company": "Pencil2D",
+    "website": "https://www.pencil2d.org/",
+    "category": "Animation",
+    "categoryId": "animation",
+    "subcategories": [
+      "Animation"
+    ],
+    "type": "Resource",
+    "shortDescription": "Free open-source hand-drawn animation software.",
+    "longDescription": "Free open-source hand-drawn animation software.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Animation",
+      "Animation"
+    ],
+    "bestFor": [
+      "Animation",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "dragonframe",
+    "title": "Dragonframe",
+    "shortName": "Dragonframe",
+    "company": "Dragonframe",
+    "website": "https://www.dragonframe.com/",
+    "category": "Animation",
+    "categoryId": "animation",
+    "subcategories": [
+      "Animation"
+    ],
+    "type": "Resource",
+    "shortDescription": "Stop-motion animation software used in professional productions.",
+    "longDescription": "Stop-motion animation software used in professional productions.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Animation",
+      "Animation"
+    ],
+    "bestFor": [
+      "Animation",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "spine",
+    "title": "Spine",
+    "shortName": "Spine",
+    "company": "Esoteric Software",
+    "website": "https://esotericsoftware.com/",
+    "category": "Animation",
+    "categoryId": "animation",
+    "subcategories": [
+      "Animation"
+    ],
+    "type": "Resource",
+    "shortDescription": "2D skeletal animation software for games.",
+    "longDescription": "2D skeletal animation software for games.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Animation",
+      "Animation"
+    ],
+    "bestFor": [
+      "Animation",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "cascadeur",
+    "title": "Cascadeur",
+    "shortName": "Cascadeur",
+    "company": "Nekki",
+    "website": "https://cascadeur.com/",
+    "category": "Animation",
+    "categoryId": "animation",
+    "subcategories": [
+      "Animation"
+    ],
+    "type": "Resource",
+    "shortDescription": "Physics-assisted 3D animation software.",
+    "longDescription": "Physics-assisted 3D animation software.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Animation",
+      "Animation"
+    ],
+    "bestFor": [
+      "Animation",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

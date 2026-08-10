@@ -1,0 +1,762 @@
+[
+  {
+    "id": "game-dev-extra-xsolla",
+    "title": "Xsolla",
+    "shortName": "Xsolla",
+    "company": "Xsolla",
+    "website": "https://xsolla.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Monetization and Live Ops"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Game commerce, payments, publishing, and monetization platform.",
+    "longDescription": "Xsolla is included in The Creative Vault as a game development resource. Game commerce, payments, publishing, and monetization platform.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Monetization and Live Ops",
+      "Payments",
+      "Commerce"
+    ],
+    "bestFor": [
+      "Monetization and Live Ops",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-admob",
+    "title": "AdMob",
+    "shortName": "AdMob",
+    "company": "Google",
+    "website": "https://admob.google.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Monetization and Live Ops"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Mobile app advertising and monetization platform.",
+    "longDescription": "AdMob is included in The Creative Vault as a game development resource. Mobile app advertising and monetization platform.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Monetization and Live Ops",
+      "Ads",
+      "Mobile"
+    ],
+    "bestFor": [
+      "Monetization and Live Ops",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-unity-levelplay",
+    "title": "Unity LevelPlay",
+    "shortName": "Unity LevelPlay",
+    "company": "Unity Technologies",
+    "website": "https://unity.com/products/levelplay",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Monetization and Live Ops"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Mobile game monetization and ad mediation platform.",
+    "longDescription": "Unity LevelPlay is included in The Creative Vault as a game development resource. Mobile game monetization and ad mediation platform.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Monetization and Live Ops",
+      "Ads",
+      "Mobile"
+    ],
+    "bestFor": [
+      "Monetization and Live Ops",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-ironsource",
+    "title": "ironSource",
+    "shortName": "ironSource",
+    "company": "ironSource",
+    "website": "https://www.is.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Monetization and Live Ops"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "App monetization and mediation platform now part of Unity.",
+    "longDescription": "ironSource is included in The Creative Vault as a game development resource. App monetization and mediation platform now part of Unity.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Monetization and Live Ops",
+      "Ads",
+      "Mobile"
+    ],
+    "bestFor": [
+      "Monetization and Live Ops",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-applovin-max",
+    "title": "AppLovin MAX",
+    "shortName": "AppLovin MAX",
+    "company": "AppLovin",
+    "website": "https://www.applovin.com/max/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Monetization and Live Ops"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Ad monetization and mediation platform for mobile apps and games.",
+    "longDescription": "AppLovin MAX is included in The Creative Vault as a game development resource. Ad monetization and mediation platform for mobile apps and games.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Monetization and Live Ops",
+      "Ads",
+      "Mobile"
+    ],
+    "bestFor": [
+      "Monetization and Live Ops",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-chartboost",
+    "title": "Chartboost",
+    "shortName": "Chartboost",
+    "company": "Chartboost",
+    "website": "https://www.chartboost.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Monetization and Live Ops"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Mobile game advertising and monetization platform.",
+    "longDescription": "Chartboost is included in The Creative Vault as a game development resource. Mobile game advertising and monetization platform.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Monetization and Live Ops",
+      "Ads",
+      "Mobile"
+    ],
+    "bestFor": [
+      "Monetization and Live Ops",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-tapjoy",
+    "title": "Tapjoy",
+    "shortName": "Tapjoy",
+    "company": "Tapjoy",
+    "website": "https://www.tapjoy.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Monetization and Live Ops"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Offerwall and rewarded advertising platform for mobile games.",
+    "longDescription": "Tapjoy is included in The Creative Vault as a game development resource. Offerwall and rewarded advertising platform for mobile games.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Monetization and Live Ops",
+      "Ads",
+      "Rewards"
+    ],
+    "bestFor": [
+      "Monetization and Live Ops",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-revenuecat",
+    "title": "RevenueCat",
+    "shortName": "RevenueCat",
+    "company": "RevenueCat",
+    "website": "https://www.revenuecat.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Monetization and Live Ops"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Subscription and in-app purchase infrastructure for apps and games.",
+    "longDescription": "RevenueCat is included in The Creative Vault as a game development resource. Subscription and in-app purchase infrastructure for apps and games.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Monetization and Live Ops",
+      "IAP",
+      "Subscriptions"
+    ],
+    "bestFor": [
+      "Monetization and Live Ops",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-qonversion",
+    "title": "Qonversion",
+    "shortName": "Qonversion",
+    "company": "Qonversion",
+    "website": "https://qonversion.io/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Monetization and Live Ops"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Subscription analytics and in-app purchase infrastructure.",
+    "longDescription": "Qonversion is included in The Creative Vault as a game development resource. Subscription analytics and in-app purchase infrastructure.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Monetization and Live Ops",
+      "IAP",
+      "Analytics"
+    ],
+    "bestFor": [
+      "Monetization and Live Ops",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-gameball",
+    "title": "Gameball",
+    "shortName": "Gameball",
+    "company": "Gameball",
+    "website": "https://www.gameball.co/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Monetization and Live Ops"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Loyalty, gamification, and engagement platform.",
+    "longDescription": "Gameball is included in The Creative Vault as a game development resource. Loyalty, gamification, and engagement platform.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Monetization and Live Ops",
+      "Loyalty",
+      "Engagement"
+    ],
+    "bestFor": [
+      "Monetization and Live Ops",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-open-loot",
+    "title": "Open Loot",
+    "shortName": "Open Loot",
+    "company": "Open Loot",
+    "website": "https://openloot.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Monetization and Live Ops"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Marketplace and commerce platform for games and digital assets.",
+    "longDescription": "Open Loot is included in The Creative Vault as a game development resource. Marketplace and commerce platform for games and digital assets.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Monetization and Live Ops",
+      "Marketplace",
+      "Commerce"
+    ],
+    "bestFor": [
+      "Monetization and Live Ops",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-pragma-live-services",
+    "title": "Pragma Live Services",
+    "shortName": "Pragma Live Services",
+    "company": "Pragma",
+    "website": "https://pragma.gg/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Monetization and Live Ops"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Backend and live service platform for multiplayer games.",
+    "longDescription": "Pragma Live Services is included in The Creative Vault as a game development resource. Backend and live service platform for multiplayer games.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Monetization and Live Ops",
+      "Live Ops"
+    ],
+    "bestFor": [
+      "Monetization and Live Ops",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-lootlocker-economy",
+    "title": "LootLocker Economy",
+    "shortName": "LootLocker Economy",
+    "company": "LootLocker",
+    "website": "https://lootlocker.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Monetization and Live Ops"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Game backend with economy, progression, and player systems.",
+    "longDescription": "LootLocker Economy is included in The Creative Vault as a game development resource. Game backend with economy, progression, and player systems.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Monetization and Live Ops",
+      "Economy",
+      "Backend"
+    ],
+    "bestFor": [
+      "Monetization and Live Ops",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-beamable-liveops",
+    "title": "Beamable LiveOps",
+    "shortName": "Beamable LiveOps",
+    "company": "Beamable",
+    "website": "https://beamable.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Monetization and Live Ops"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Live services and backend platform for Unity games.",
+    "longDescription": "Beamable LiveOps is included in The Creative Vault as a game development resource. Live services and backend platform for Unity games.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Monetization and Live Ops",
+      "Live Ops",
+      "Unity"
+    ],
+    "bestFor": [
+      "Monetization and Live Ops",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-playfab-economy",
+    "title": "PlayFab Economy",
+    "shortName": "PlayFab Economy",
+    "company": "Microsoft",
+    "website": "https://playfab.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Monetization and Live Ops"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "LiveOps, economy, catalog, and backend services for games.",
+    "longDescription": "PlayFab Economy is included in The Creative Vault as a game development resource. LiveOps, economy, catalog, and backend services for games.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Monetization and Live Ops",
+      "Economy",
+      "Live Ops"
+    ],
+    "bestFor": [
+      "Monetization and Live Ops",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-nakama-economy",
+    "title": "Nakama Economy",
+    "shortName": "Nakama Economy",
+    "company": "Heroic Labs",
+    "website": "https://heroiclabs.com/nakama/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Monetization and Live Ops"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Open-source game server with economy and social features.",
+    "longDescription": "Nakama Economy is included in The Creative Vault as a game development resource. Open-source game server with economy and social features.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Monetization and Live Ops",
+      "Economy",
+      "Open Source"
+    ],
+    "bestFor": [
+      "Monetization and Live Ops",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Linux",
+      "Docker"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": true,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-accelbyte-gaming-services",
+    "title": "AccelByte Gaming Services",
+    "shortName": "AccelByte Gaming Services",
+    "company": "AccelByte",
+    "website": "https://accelbyte.io/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Monetization and Live Ops"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Backend and live service infrastructure for games.",
+    "longDescription": "AccelByte Gaming Services is included in The Creative Vault as a game development resource. Backend and live service infrastructure for games.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Monetization and Live Ops",
+      "Live Ops",
+      "Backend"
+    ],
+    "bestFor": [
+      "Monetization and Live Ops",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-mod-io",
+    "title": "mod.io",
+    "shortName": "mod.io",
+    "company": "mod.io",
+    "website": "https://mod.io/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Monetization and Live Ops"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Cross-platform mod hosting and UGC management.",
+    "longDescription": "mod.io is included in The Creative Vault as a game development resource. Cross-platform mod hosting and UGC management.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Monetization and Live Ops",
+      "UGC",
+      "Mods"
+    ],
+    "bestFor": [
+      "Monetization and Live Ops",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-curseforge-for-studios",
+    "title": "CurseForge for Studios",
+    "shortName": "CurseForge for Studios",
+    "company": "Overwolf",
+    "website": "https://studios.curseforge.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Monetization and Live Ops"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "UGC and modding platform for game studios.",
+    "longDescription": "CurseForge for Studios is included in The Creative Vault as a game development resource. UGC and modding platform for game studios.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Monetization and Live Ops",
+      "Mods",
+      "UGC"
+    ],
+    "bestFor": [
+      "Monetization and Live Ops",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-overwolf",
+    "title": "Overwolf",
+    "shortName": "Overwolf",
+    "company": "Overwolf",
+    "website": "https://www.overwolf.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Monetization and Live Ops"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Platform for in-game apps, mods, and creator monetization.",
+    "longDescription": "Overwolf is included in The Creative Vault as a game development resource. Platform for in-game apps, mods, and creator monetization.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Monetization and Live Ops",
+      "Mods",
+      "Apps"
+    ],
+    "bestFor": [
+      "Monetization and Live Ops",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

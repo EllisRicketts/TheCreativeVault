@@ -1,0 +1,342 @@
+[
+  {
+    "id": "vercel",
+    "title": "Vercel",
+    "shortName": "Vercel",
+    "company": "Vercel",
+    "website": "https://vercel.com/",
+    "category": "Web & Dev",
+    "categoryId": "web-dev",
+    "subcategories": [
+      "Web Development"
+    ],
+    "type": "Resource",
+    "shortDescription": "Frontend deployment platform for modern web projects.",
+    "longDescription": "Frontend deployment platform for modern web projects.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Web Development",
+      "Web & Dev"
+    ],
+    "bestFor": [
+      "Web Development",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "netlify",
+    "title": "Netlify",
+    "shortName": "Netlify",
+    "company": "Netlify",
+    "website": "https://www.netlify.com/",
+    "category": "Web & Dev",
+    "categoryId": "web-dev",
+    "subcategories": [
+      "Web Development"
+    ],
+    "type": "Resource",
+    "shortDescription": "Web deployment and hosting platform for static and dynamic sites.",
+    "longDescription": "Web deployment and hosting platform for static and dynamic sites.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Web Development",
+      "Web & Dev"
+    ],
+    "bestFor": [
+      "Web Development",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "cloudflare-pages",
+    "title": "Cloudflare Pages",
+    "shortName": "Cloudflare Pages",
+    "company": "Cloudflare",
+    "website": "https://pages.cloudflare.com/",
+    "category": "Web & Dev",
+    "categoryId": "web-dev",
+    "subcategories": [
+      "Web Development"
+    ],
+    "type": "Resource",
+    "shortDescription": "JAMstack hosting platform from Cloudflare.",
+    "longDescription": "JAMstack hosting platform from Cloudflare.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Web Development",
+      "Web & Dev"
+    ],
+    "bestFor": [
+      "Web Development",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "supabase",
+    "title": "Supabase",
+    "shortName": "Supabase",
+    "company": "Supabase",
+    "website": "https://supabase.com/",
+    "category": "Web & Dev",
+    "categoryId": "web-dev",
+    "subcategories": [
+      "Web Development"
+    ],
+    "type": "Resource",
+    "shortDescription": "Open-source backend platform with database, auth, storage, and edge functions.",
+    "longDescription": "Open-source backend platform with database, auth, storage, and edge functions.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Web Development",
+      "Web & Dev"
+    ],
+    "bestFor": [
+      "Web Development",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "firebase",
+    "title": "Firebase",
+    "shortName": "Firebase",
+    "company": "Google",
+    "website": "https://firebase.google.com/",
+    "category": "Web & Dev",
+    "categoryId": "web-dev",
+    "subcategories": [
+      "Web Development"
+    ],
+    "type": "Resource",
+    "shortDescription": "Google app development platform for auth, database, hosting, and cloud functions.",
+    "longDescription": "Google app development platform for auth, database, hosting, and cloud functions.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Web Development",
+      "Web & Dev"
+    ],
+    "bestFor": [
+      "Web Development",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "railway",
+    "title": "Railway",
+    "shortName": "Railway",
+    "company": "Railway",
+    "website": "https://railway.app/",
+    "category": "Web & Dev",
+    "categoryId": "web-dev",
+    "subcategories": [
+      "Web Development"
+    ],
+    "type": "Resource",
+    "shortDescription": "App deployment platform for databases, APIs, and services.",
+    "longDescription": "App deployment platform for databases, APIs, and services.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Web Development",
+      "Web & Dev"
+    ],
+    "bestFor": [
+      "Web Development",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "render",
+    "title": "Render",
+    "shortName": "Render",
+    "company": "Render",
+    "website": "https://render.com/",
+    "category": "Web & Dev",
+    "categoryId": "web-dev",
+    "subcategories": [
+      "Web Development"
+    ],
+    "type": "Resource",
+    "shortDescription": "Cloud hosting for web services, static sites, databases, and workers.",
+    "longDescription": "Cloud hosting for web services, static sites, databases, and workers.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Web Development",
+      "Web & Dev"
+    ],
+    "bestFor": [
+      "Web Development",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "glitch",
+    "title": "Glitch",
+    "shortName": "Glitch",
+    "company": "Glitch",
+    "website": "https://glitch.com/",
+    "category": "Web & Dev",
+    "categoryId": "web-dev",
+    "subcategories": [
+      "Web Development"
+    ],
+    "type": "Resource",
+    "shortDescription": "Browser-based coding and app hosting platform.",
+    "longDescription": "Browser-based coding and app hosting platform.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Web Development",
+      "Web & Dev"
+    ],
+    "bestFor": [
+      "Web Development",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "stackblitz",
+    "title": "StackBlitz",
+    "shortName": "StackBlitz",
+    "company": "StackBlitz",
+    "website": "https://stackblitz.com/",
+    "category": "Web & Dev",
+    "categoryId": "web-dev",
+    "subcategories": [
+      "Web Development"
+    ],
+    "type": "Resource",
+    "shortDescription": "Browser-based development environment.",
+    "longDescription": "Browser-based development environment.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Web Development",
+      "Web & Dev"
+    ],
+    "bestFor": [
+      "Web Development",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "codepen",
+    "title": "CodePen",
+    "shortName": "CodePen",
+    "company": "CodePen",
+    "website": "https://codepen.io/",
+    "category": "Web & Dev",
+    "categoryId": "web-dev",
+    "subcategories": [
+      "Web Development"
+    ],
+    "type": "Resource",
+    "shortDescription": "Frontend playground and community for HTML, CSS, and JavaScript.",
+    "longDescription": "Frontend playground and community for HTML, CSS, and JavaScript.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Web Development",
+      "Web & Dev"
+    ],
+    "bestFor": [
+      "Web Development",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

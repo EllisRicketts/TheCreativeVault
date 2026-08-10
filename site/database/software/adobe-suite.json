@@ -1,0 +1,2210 @@
+[
+  {
+    "id": "software-adobe-photoshop",
+    "title": "Adobe Photoshop",
+    "shortName": "Photoshop",
+    "company": "Adobe",
+    "website": "https://www.adobe.com/products/photoshop.html",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Raster Graphics",
+      "Photo Editing",
+      "Digital Painting"
+    ],
+    "categoryIds": [
+      "software",
+      "raster-graphics",
+      "photo-editing",
+      "digital-painting"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Raster Graphics",
+      "Photo Editing",
+      "Digital Painting"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Subscription",
+    "price": "Subscription",
+    "license": "Subscription",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Web",
+      "iPad"
+    ],
+    "applications": [
+      "Adobe",
+      "Creative Cloud"
+    ],
+    "applicationEcosystems": [
+      "Adobe",
+      "Creative Cloud"
+    ],
+    "shortDescription": "Professional raster image editing, compositing, retouching, and digital painting software.",
+    "longDescription": "Adobe Photoshop is a software application in The Creative Vault. Professional raster image editing, compositing, retouching, and digital painting software.",
+    "bestFor": [
+      "Photography",
+      "Compositing",
+      "Concept Art"
+    ],
+    "relatedSoftware": [
+      "Affinity Photo",
+      "GIMP",
+      "Photopea"
+    ],
+    "tags": [
+      "Software",
+      "Adobe",
+      "Creative Cloud",
+      "Raster Graphics",
+      "Photo Editing",
+      "Digital Painting",
+      "PSD",
+      "Raster"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-adobe-illustrator",
+    "title": "Adobe Illustrator",
+    "shortName": "Illustrator",
+    "company": "Adobe",
+    "website": "https://www.adobe.com/products/illustrator.html",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Vector Graphics",
+      "Illustration",
+      "Logo Design"
+    ],
+    "categoryIds": [
+      "software",
+      "vector-graphics",
+      "illustration",
+      "logo-design"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Vector Graphics",
+      "Illustration",
+      "Logo Design"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Subscription",
+    "price": "Subscription",
+    "license": "Subscription",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Web",
+      "iPad"
+    ],
+    "applications": [
+      "Adobe",
+      "Creative Cloud"
+    ],
+    "applicationEcosystems": [
+      "Adobe",
+      "Creative Cloud"
+    ],
+    "shortDescription": "Professional vector graphics software for logos, illustration, icons, type, and scalable artwork.",
+    "longDescription": "Adobe Illustrator is a software application in The Creative Vault. Professional vector graphics software for logos, illustration, icons, type, and scalable artwork.",
+    "bestFor": [
+      "Logo Design",
+      "Vector Art",
+      "Print Graphics"
+    ],
+    "relatedSoftware": [
+      "Affinity Designer",
+      "CorelDRAW",
+      "Inkscape"
+    ],
+    "tags": [
+      "Software",
+      "Adobe",
+      "Creative Cloud",
+      "Vector Graphics",
+      "Illustration",
+      "Logo Design",
+      "Vector",
+      "SVG"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-adobe-indesign",
+    "title": "Adobe InDesign",
+    "shortName": "InDesign",
+    "company": "Adobe",
+    "website": "https://www.adobe.com/products/indesign.html",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Page Layout",
+      "Publishing",
+      "Print Design"
+    ],
+    "categoryIds": [
+      "software",
+      "page-layout",
+      "publishing",
+      "print-design"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Page Layout",
+      "Publishing",
+      "Print Design"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Subscription",
+    "price": "Subscription",
+    "license": "Subscription",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "applications": [
+      "Adobe",
+      "Creative Cloud"
+    ],
+    "applicationEcosystems": [
+      "Adobe",
+      "Creative Cloud"
+    ],
+    "shortDescription": "Professional page layout and publishing software for books, magazines, PDFs, and print documents.",
+    "longDescription": "Adobe InDesign is a software application in The Creative Vault. Professional page layout and publishing software for books, magazines, PDFs, and print documents.",
+    "bestFor": [
+      "Editorial Design",
+      "Print Layout",
+      "Publishing"
+    ],
+    "relatedSoftware": [
+      "Affinity Publisher",
+      "QuarkXPress"
+    ],
+    "tags": [
+      "Software",
+      "Adobe",
+      "Creative Cloud",
+      "Page Layout",
+      "Publishing",
+      "Print Design",
+      "Layout",
+      "Print"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-adobe-premiere-pro",
+    "title": "Adobe Premiere Pro",
+    "shortName": "Premiere Pro",
+    "company": "Adobe",
+    "website": "https://www.adobe.com/products/premiere.html",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Video Editing",
+      "Post Production"
+    ],
+    "categoryIds": [
+      "software",
+      "video-editing",
+      "post-production"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Video Editing",
+      "Post Production"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Subscription",
+    "price": "Subscription",
+    "license": "Subscription",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "applications": [
+      "Adobe",
+      "Creative Cloud"
+    ],
+    "applicationEcosystems": [
+      "Adobe",
+      "Creative Cloud"
+    ],
+    "shortDescription": "Professional non-linear video editing software for film, social, broadcast, and content creation.",
+    "longDescription": "Adobe Premiere Pro is a software application in The Creative Vault. Professional non-linear video editing software for film, social, broadcast, and content creation.",
+    "bestFor": [
+      "Video Editing",
+      "Film Editing"
+    ],
+    "relatedSoftware": [
+      "DaVinci Resolve",
+      "Final Cut Pro",
+      "Avid Media Composer"
+    ],
+    "tags": [
+      "Software",
+      "Adobe",
+      "Creative Cloud",
+      "Video Editing",
+      "Post Production",
+      "NLE",
+      "Video"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-adobe-after-effects",
+    "title": "Adobe After Effects",
+    "shortName": "After Effects",
+    "company": "Adobe",
+    "website": "https://www.adobe.com/products/aftereffects.html",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Motion Graphics",
+      "VFX",
+      "Compositing"
+    ],
+    "categoryIds": [
+      "software",
+      "motion-graphics",
+      "vfx",
+      "compositing"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Motion Graphics",
+      "VFX",
+      "Compositing"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Subscription",
+    "price": "Subscription",
+    "license": "Subscription",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "applications": [
+      "Adobe",
+      "Creative Cloud"
+    ],
+    "applicationEcosystems": [
+      "Adobe",
+      "Creative Cloud"
+    ],
+    "shortDescription": "Motion graphics, animation, compositing, and visual effects software.",
+    "longDescription": "Adobe After Effects is a software application in The Creative Vault. Motion graphics, animation, compositing, and visual effects software.",
+    "bestFor": [
+      "Motion Design",
+      "VFX"
+    ],
+    "relatedSoftware": [
+      "Blackmagic Fusion",
+      "Nuke",
+      "Apple Motion"
+    ],
+    "tags": [
+      "Software",
+      "Adobe",
+      "Creative Cloud",
+      "Motion Graphics",
+      "VFX",
+      "Compositing",
+      "Motion"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-adobe-lightroom",
+    "title": "Adobe Lightroom",
+    "shortName": "Lightroom",
+    "company": "Adobe",
+    "website": "https://www.adobe.com/search.html#q=Adobe%20Lightroom",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Photo Editing",
+      "RAW Processing",
+      "Photography"
+    ],
+    "categoryIds": [
+      "software",
+      "photo-editing",
+      "raw-processing",
+      "photography"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Photo Editing",
+      "RAW Processing",
+      "Photography"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Subscription",
+    "price": "Subscription",
+    "license": "Subscription",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Web",
+      "iOS",
+      "Android"
+    ],
+    "applications": [
+      "Adobe",
+      "Creative Cloud"
+    ],
+    "applicationEcosystems": [
+      "Adobe",
+      "Creative Cloud"
+    ],
+    "shortDescription": "Cloud-based photo editing and organization software.",
+    "longDescription": "Adobe Lightroom is a software application in The Creative Vault. Cloud-based photo editing and organization software.",
+    "bestFor": [
+      "Photography",
+      "Photo Editing"
+    ],
+    "relatedSoftware": [
+      "Capture One",
+      "Darktable"
+    ],
+    "tags": [
+      "Software",
+      "Adobe",
+      "Creative Cloud",
+      "Photo Editing",
+      "RAW Processing",
+      "Photography",
+      "RAW"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-adobe-lightroom-classic",
+    "title": "Adobe Lightroom Classic",
+    "shortName": "Lightroom Classic",
+    "company": "Adobe",
+    "website": "https://www.adobe.com/search.html#q=Adobe%20Lightroom%20Classic",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Photo Editing",
+      "RAW Processing",
+      "Photo Management"
+    ],
+    "categoryIds": [
+      "software",
+      "photo-editing",
+      "raw-processing",
+      "photo-management"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Photo Editing",
+      "RAW Processing",
+      "Photo Management"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Subscription",
+    "price": "Subscription",
+    "license": "Subscription",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "applications": [
+      "Adobe",
+      "Creative Cloud"
+    ],
+    "applicationEcosystems": [
+      "Adobe",
+      "Creative Cloud"
+    ],
+    "shortDescription": "Desktop-focused RAW photo editing, cataloging, and photographer workflow software.",
+    "longDescription": "Adobe Lightroom Classic is a software application in The Creative Vault. Desktop-focused RAW photo editing, cataloging, and photographer workflow software.",
+    "bestFor": [
+      "Photography",
+      "RAW Workflow"
+    ],
+    "relatedSoftware": [
+      "Capture One",
+      "digiKam"
+    ],
+    "tags": [
+      "Software",
+      "Adobe",
+      "Creative Cloud",
+      "Photo Editing",
+      "RAW Processing",
+      "Photo Management",
+      "RAW",
+      "Catalog"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-adobe-acrobat-pro",
+    "title": "Adobe Acrobat Pro",
+    "shortName": "Acrobat Pro",
+    "company": "Adobe",
+    "website": "https://www.adobe.com/search.html#q=Adobe%20Acrobat%20Pro",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "PDF Tools",
+      "Document Editing"
+    ],
+    "categoryIds": [
+      "software",
+      "pdf-tools",
+      "document-editing"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "PDF Tools",
+      "Document Editing"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Subscription",
+    "price": "Subscription",
+    "license": "Subscription",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Web",
+      "iOS",
+      "Android"
+    ],
+    "applications": [
+      "Adobe"
+    ],
+    "applicationEcosystems": [
+      "Adobe"
+    ],
+    "shortDescription": "Professional PDF creation, editing, conversion, signing, and document workflow software.",
+    "longDescription": "Adobe Acrobat Pro is a software application in The Creative Vault. Professional PDF creation, editing, conversion, signing, and document workflow software.",
+    "bestFor": [
+      "PDF Editing",
+      "Contracts",
+      "Forms"
+    ],
+    "relatedSoftware": [
+      "PDF24",
+      "Smallpdf"
+    ],
+    "tags": [
+      "Software",
+      "Adobe",
+      "PDF Tools",
+      "Document Editing",
+      "PDF"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-adobe-acrobat-reader",
+    "title": "Adobe Acrobat Reader",
+    "shortName": "Acrobat Reader",
+    "company": "Adobe",
+    "website": "https://www.adobe.com/search.html#q=Adobe%20Acrobat%20Reader",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "PDF Tools",
+      "Document Viewer"
+    ],
+    "categoryIds": [
+      "software",
+      "pdf-tools",
+      "document-viewer"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "PDF Tools",
+      "Document Viewer"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Free",
+    "price": "Free",
+    "license": "Free",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "iOS",
+      "Android"
+    ],
+    "applications": [
+      "Adobe"
+    ],
+    "applicationEcosystems": [
+      "Adobe"
+    ],
+    "shortDescription": "Free PDF reader and basic annotation software.",
+    "longDescription": "Adobe Acrobat Reader is a software application in The Creative Vault. Free PDF reader and basic annotation software.",
+    "bestFor": [
+      "PDF Viewing",
+      "Forms"
+    ],
+    "relatedSoftware": [
+      "SumatraPDF",
+      "Foxit Reader"
+    ],
+    "tags": [
+      "Software",
+      "Adobe",
+      "PDF Tools",
+      "Document Viewer",
+      "PDF",
+      "Free"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-adobe-express",
+    "title": "Adobe Express",
+    "shortName": "Express",
+    "company": "Adobe",
+    "website": "https://www.adobe.com/search.html#q=Adobe%20Express",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Content Creation",
+      "Social Graphics",
+      "Templates"
+    ],
+    "categoryIds": [
+      "software",
+      "content-creation",
+      "social-graphics",
+      "templates"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Content Creation",
+      "Social Graphics",
+      "Templates"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Subscription",
+    "price": "Subscription",
+    "license": "Subscription",
+    "platforms": [
+      "Web",
+      "iOS",
+      "Android"
+    ],
+    "applications": [
+      "Adobe",
+      "Creative Cloud"
+    ],
+    "applicationEcosystems": [
+      "Adobe",
+      "Creative Cloud"
+    ],
+    "shortDescription": "Browser-based design and content creation tool for social posts, flyers, videos, and quick graphics.",
+    "longDescription": "Adobe Express is a software application in The Creative Vault. Browser-based design and content creation tool for social posts, flyers, videos, and quick graphics.",
+    "bestFor": [
+      "Social Media",
+      "Marketing"
+    ],
+    "relatedSoftware": [
+      "Canva",
+      "VistaCreate"
+    ],
+    "tags": [
+      "Software",
+      "Adobe",
+      "Creative Cloud",
+      "Content Creation",
+      "Social Graphics",
+      "Templates",
+      "Social"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-adobe-firefly",
+    "title": "Adobe Firefly",
+    "shortName": "Firefly",
+    "company": "Adobe",
+    "website": "https://www.adobe.com/search.html#q=Adobe%20Firefly",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "AI Image Generation",
+      "Generative AI"
+    ],
+    "categoryIds": [
+      "software",
+      "ai-image-generation",
+      "generative-ai"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "AI Image Generation",
+      "Generative AI"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Subscription",
+    "price": "Subscription",
+    "license": "Subscription",
+    "platforms": [
+      "Web"
+    ],
+    "applications": [
+      "Adobe",
+      "Creative Cloud"
+    ],
+    "applicationEcosystems": [
+      "Adobe",
+      "Creative Cloud"
+    ],
+    "shortDescription": "Adobe generative AI platform for images, effects, text-to-image, and creative workflows.",
+    "longDescription": "Adobe Firefly is a software application in The Creative Vault. Adobe generative AI platform for images, effects, text-to-image, and creative workflows.",
+    "bestFor": [
+      "AI Art",
+      "Creative Ideation"
+    ],
+    "relatedSoftware": [
+      "Midjourney",
+      "DALL-E",
+      "Krea"
+    ],
+    "tags": [
+      "Software",
+      "Adobe",
+      "Creative Cloud",
+      "AI Image Generation",
+      "Generative AI",
+      "AI",
+      "Generative"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-adobe-fresco",
+    "title": "Adobe Fresco",
+    "shortName": "Fresco",
+    "company": "Adobe",
+    "website": "https://www.adobe.com/search.html#q=Adobe%20Fresco",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Digital Painting",
+      "Drawing",
+      "Illustration"
+    ],
+    "categoryIds": [
+      "software",
+      "digital-painting",
+      "drawing",
+      "illustration"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Digital Painting",
+      "Drawing",
+      "Illustration"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Subscription",
+    "price": "Subscription",
+    "license": "Subscription",
+    "platforms": [
+      "Windows",
+      "iPad",
+      "iPhone"
+    ],
+    "applications": [
+      "Adobe",
+      "Creative Cloud"
+    ],
+    "applicationEcosystems": [
+      "Adobe",
+      "Creative Cloud"
+    ],
+    "shortDescription": "Digital drawing and painting app focused on live brushes, sketching, and illustration.",
+    "longDescription": "Adobe Fresco is a software application in The Creative Vault. Digital drawing and painting app focused on live brushes, sketching, and illustration.",
+    "bestFor": [
+      "Illustration",
+      "Drawing"
+    ],
+    "relatedSoftware": [
+      "Procreate",
+      "Krita"
+    ],
+    "tags": [
+      "Software",
+      "Adobe",
+      "Creative Cloud",
+      "Digital Painting",
+      "Drawing",
+      "Illustration"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-adobe-animate",
+    "title": "Adobe Animate",
+    "shortName": "Animate",
+    "company": "Adobe",
+    "website": "https://www.adobe.com/search.html#q=Adobe%20Animate",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "2D Animation",
+      "Interactive Animation"
+    ],
+    "categoryIds": [
+      "software",
+      "2d-animation",
+      "interactive-animation"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "2D Animation",
+      "Interactive Animation"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Subscription",
+    "price": "Subscription",
+    "license": "Subscription",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "applications": [
+      "Adobe",
+      "Creative Cloud"
+    ],
+    "applicationEcosystems": [
+      "Adobe",
+      "Creative Cloud"
+    ],
+    "shortDescription": "2D animation software for cartoons, web animation, HTML5 canvas, and interactive media.",
+    "longDescription": "Adobe Animate is a software application in The Creative Vault. 2D animation software for cartoons, web animation, HTML5 canvas, and interactive media.",
+    "bestFor": [
+      "2D Animation",
+      "Cartoons"
+    ],
+    "relatedSoftware": [
+      "Toon Boom Harmony",
+      "OpenToonz"
+    ],
+    "tags": [
+      "Software",
+      "Adobe",
+      "Creative Cloud",
+      "2D Animation",
+      "Interactive Animation",
+      "Animation"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-adobe-audition",
+    "title": "Adobe Audition",
+    "shortName": "Audition",
+    "company": "Adobe",
+    "website": "https://www.adobe.com/search.html#q=Adobe%20Audition",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Audio Editing",
+      "Podcasting",
+      "Post Audio"
+    ],
+    "categoryIds": [
+      "software",
+      "audio-editing",
+      "podcasting",
+      "post-audio"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Audio Editing",
+      "Podcasting",
+      "Post Audio"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Subscription",
+    "price": "Subscription",
+    "license": "Subscription",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "applications": [
+      "Adobe",
+      "Creative Cloud"
+    ],
+    "applicationEcosystems": [
+      "Adobe",
+      "Creative Cloud"
+    ],
+    "shortDescription": "Professional audio editing, restoration, mixing, and post-production software.",
+    "longDescription": "Adobe Audition is a software application in The Creative Vault. Professional audio editing, restoration, mixing, and post-production software.",
+    "bestFor": [
+      "Podcast Editing",
+      "Audio Cleanup"
+    ],
+    "relatedSoftware": [
+      "Pro Tools",
+      "Reaper",
+      "Audacity"
+    ],
+    "tags": [
+      "Software",
+      "Adobe",
+      "Creative Cloud",
+      "Audio Editing",
+      "Podcasting",
+      "Post Audio",
+      "Audio"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-adobe-dreamweaver",
+    "title": "Adobe Dreamweaver",
+    "shortName": "Dreamweaver",
+    "company": "Adobe",
+    "website": "https://www.adobe.com/search.html#q=Adobe%20Dreamweaver",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Web Design",
+      "Code Editor"
+    ],
+    "categoryIds": [
+      "software",
+      "web-design",
+      "code-editor"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Web Design",
+      "Code Editor"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Subscription",
+    "price": "Subscription",
+    "license": "Subscription",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "applications": [
+      "Adobe",
+      "Creative Cloud"
+    ],
+    "applicationEcosystems": [
+      "Adobe",
+      "Creative Cloud"
+    ],
+    "shortDescription": "Visual web design and coding software for websites and front-end development.",
+    "longDescription": "Adobe Dreamweaver is a software application in The Creative Vault. Visual web design and coding software for websites and front-end development.",
+    "bestFor": [
+      "Web Design",
+      "HTML",
+      "CSS"
+    ],
+    "relatedSoftware": [
+      "VS Code",
+      "Webflow"
+    ],
+    "tags": [
+      "Software",
+      "Adobe",
+      "Creative Cloud",
+      "Web Design",
+      "Code Editor",
+      "Web"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-adobe-character-animator",
+    "title": "Adobe Character Animator",
+    "shortName": "Character Animator",
+    "company": "Adobe",
+    "website": "https://www.adobe.com/search.html#q=Adobe%20Character%20Animator",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Character Animation",
+      "Motion Capture"
+    ],
+    "categoryIds": [
+      "software",
+      "character-animation",
+      "motion-capture"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Character Animation",
+      "Motion Capture"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Subscription",
+    "price": "Subscription",
+    "license": "Subscription",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "applications": [
+      "Adobe",
+      "Creative Cloud"
+    ],
+    "applicationEcosystems": [
+      "Adobe",
+      "Creative Cloud"
+    ],
+    "shortDescription": "Real-time character animation software using webcam, audio, and performance capture.",
+    "longDescription": "Adobe Character Animator is a software application in The Creative Vault. Real-time character animation software using webcam, audio, and performance capture.",
+    "bestFor": [
+      "Character Animation",
+      "Streaming"
+    ],
+    "relatedSoftware": [
+      "Cartoon Animator",
+      "Live2D"
+    ],
+    "tags": [
+      "Software",
+      "Adobe",
+      "Creative Cloud",
+      "Character Animation",
+      "Motion Capture",
+      "Animation"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-adobe-media-encoder",
+    "title": "Adobe Media Encoder",
+    "shortName": "Media Encoder",
+    "company": "Adobe",
+    "website": "https://www.adobe.com/search.html#q=Adobe%20Media%20Encoder",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Video Encoding",
+      "Media Conversion"
+    ],
+    "categoryIds": [
+      "software",
+      "video-encoding",
+      "media-conversion"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Video Encoding",
+      "Media Conversion"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Subscription",
+    "price": "Subscription",
+    "license": "Subscription",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "applications": [
+      "Adobe",
+      "Creative Cloud"
+    ],
+    "applicationEcosystems": [
+      "Adobe",
+      "Creative Cloud"
+    ],
+    "shortDescription": "Media encoding and export tool for Premiere Pro, After Effects, and video workflows.",
+    "longDescription": "Adobe Media Encoder is a software application in The Creative Vault. Media encoding and export tool for Premiere Pro, After Effects, and video workflows.",
+    "bestFor": [
+      "Video Export",
+      "Encoding"
+    ],
+    "relatedSoftware": [
+      "HandBrake",
+      "Shutter Encoder"
+    ],
+    "tags": [
+      "Software",
+      "Adobe",
+      "Creative Cloud",
+      "Video Encoding",
+      "Media Conversion",
+      "Encoding"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-adobe-bridge",
+    "title": "Adobe Bridge",
+    "shortName": "Bridge",
+    "company": "Adobe",
+    "website": "https://www.adobe.com/search.html#q=Adobe%20Bridge",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Digital Asset Management",
+      "Photo Management"
+    ],
+    "categoryIds": [
+      "software",
+      "digital-asset-management",
+      "photo-management"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Digital Asset Management",
+      "Photo Management"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Free",
+    "price": "Free",
+    "license": "Free",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "applications": [
+      "Adobe",
+      "Creative Cloud"
+    ],
+    "applicationEcosystems": [
+      "Adobe",
+      "Creative Cloud"
+    ],
+    "shortDescription": "Creative asset manager for browsing, organizing, previewing, and metadata workflows.",
+    "longDescription": "Adobe Bridge is a software application in The Creative Vault. Creative asset manager for browsing, organizing, previewing, and metadata workflows.",
+    "bestFor": [
+      "Asset Management",
+      "Metadata"
+    ],
+    "relatedSoftware": [
+      "digiKam",
+      "XnView MP"
+    ],
+    "tags": [
+      "Software",
+      "Adobe",
+      "Creative Cloud",
+      "Digital Asset Management",
+      "Photo Management",
+      "DAM"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-adobe-camera-raw",
+    "title": "Adobe Camera Raw",
+    "shortName": "Camera Raw",
+    "company": "Adobe",
+    "website": "https://www.adobe.com/search.html#q=Adobe%20Camera%20Raw",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "RAW Processing",
+      "Photo Editing"
+    ],
+    "categoryIds": [
+      "software",
+      "raw-processing",
+      "photo-editing"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "RAW Processing",
+      "Photo Editing"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Free",
+    "price": "Free",
+    "license": "Free",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "applications": [
+      "Adobe",
+      "Creative Cloud"
+    ],
+    "applicationEcosystems": [
+      "Adobe",
+      "Creative Cloud"
+    ],
+    "shortDescription": "RAW processing engine and plugin used by Photoshop, Bridge, and Lightroom workflows.",
+    "longDescription": "Adobe Camera Raw is a software application in The Creative Vault. RAW processing engine and plugin used by Photoshop, Bridge, and Lightroom workflows.",
+    "bestFor": [
+      "RAW Editing",
+      "Photography"
+    ],
+    "relatedSoftware": [
+      "Capture One",
+      "DxO PhotoLab"
+    ],
+    "tags": [
+      "Software",
+      "Adobe",
+      "Creative Cloud",
+      "RAW Processing",
+      "Photo Editing",
+      "RAW"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-adobe-incopy",
+    "title": "Adobe InCopy",
+    "shortName": "InCopy",
+    "company": "Adobe",
+    "website": "https://www.adobe.com/search.html#q=Adobe%20InCopy",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Editorial Workflow",
+      "Copy Editing"
+    ],
+    "categoryIds": [
+      "software",
+      "editorial-workflow",
+      "copy-editing"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Editorial Workflow",
+      "Copy Editing"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Subscription",
+    "price": "Subscription",
+    "license": "Subscription",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "applications": [
+      "Adobe",
+      "Creative Cloud"
+    ],
+    "applicationEcosystems": [
+      "Adobe",
+      "Creative Cloud"
+    ],
+    "shortDescription": "Professional writing and copy editing software designed to work with InDesign.",
+    "longDescription": "Adobe InCopy is a software application in The Creative Vault. Professional writing and copy editing software designed to work with InDesign.",
+    "bestFor": [
+      "Editorial Collaboration"
+    ],
+    "relatedSoftware": [
+      "Google Docs",
+      "Microsoft Word"
+    ],
+    "tags": [
+      "Software",
+      "Adobe",
+      "Creative Cloud",
+      "Editorial Workflow",
+      "Copy Editing",
+      "Editorial"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-adobe-substance-3d-painter",
+    "title": "Adobe Substance 3D Painter",
+    "shortName": "Substance 3D Painter",
+    "company": "Adobe",
+    "website": "https://www.adobe.com/search.html#q=Adobe%20Substance%203D%20Painter",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "3D Texturing",
+      "Game Art"
+    ],
+    "categoryIds": [
+      "software",
+      "3d-texturing",
+      "game-art"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "3D Texturing",
+      "Game Art"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Subscription",
+    "price": "Subscription",
+    "license": "Subscription",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "applications": [
+      "Adobe",
+      "Substance 3D"
+    ],
+    "applicationEcosystems": [
+      "Adobe",
+      "Substance 3D"
+    ],
+    "shortDescription": "Industry-standard 3D texture painting and material authoring software.",
+    "longDescription": "Adobe Substance 3D Painter is a software application in The Creative Vault. Industry-standard 3D texture painting and material authoring software.",
+    "bestFor": [
+      "Game Art",
+      "PBR Texturing"
+    ],
+    "relatedSoftware": [
+      "ArmorPaint",
+      "Quixel Mixer"
+    ],
+    "tags": [
+      "Software",
+      "Adobe",
+      "Substance 3D",
+      "3D Texturing",
+      "Game Art",
+      "PBR",
+      "3D"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-adobe-substance-3d-designer",
+    "title": "Adobe Substance 3D Designer",
+    "shortName": "Substance 3D Designer",
+    "company": "Adobe",
+    "website": "https://www.adobe.com/search.html#q=Adobe%20Substance%203D%20Designer",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Procedural Materials",
+      "3D Texturing"
+    ],
+    "categoryIds": [
+      "software",
+      "procedural-materials",
+      "3d-texturing"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Procedural Materials",
+      "3D Texturing"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Subscription",
+    "price": "Subscription",
+    "license": "Subscription",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "applications": [
+      "Adobe",
+      "Substance 3D"
+    ],
+    "applicationEcosystems": [
+      "Adobe",
+      "Substance 3D"
+    ],
+    "shortDescription": "Node-based procedural material and texture creation software.",
+    "longDescription": "Adobe Substance 3D Designer is a software application in The Creative Vault. Node-based procedural material and texture creation software.",
+    "bestFor": [
+      "Procedural Materials",
+      "Game Art"
+    ],
+    "relatedSoftware": [
+      "Material Maker"
+    ],
+    "tags": [
+      "Software",
+      "Adobe",
+      "Substance 3D",
+      "Procedural Materials",
+      "3D Texturing",
+      "Procedural",
+      "PBR"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-adobe-substance-3d-sampler",
+    "title": "Adobe Substance 3D Sampler",
+    "shortName": "Substance 3D Sampler",
+    "company": "Adobe",
+    "website": "https://www.adobe.com/search.html#q=Adobe%20Substance%203D%20Sampler",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Material Capture",
+      "3D Texturing"
+    ],
+    "categoryIds": [
+      "software",
+      "material-capture",
+      "3d-texturing"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Material Capture",
+      "3D Texturing"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Subscription",
+    "price": "Subscription",
+    "license": "Subscription",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "applications": [
+      "Adobe",
+      "Substance 3D"
+    ],
+    "applicationEcosystems": [
+      "Adobe",
+      "Substance 3D"
+    ],
+    "shortDescription": "Tool for creating and processing materials from images and scans.",
+    "longDescription": "Adobe Substance 3D Sampler is a software application in The Creative Vault. Tool for creating and processing materials from images and scans.",
+    "bestFor": [
+      "Material Capture"
+    ],
+    "relatedSoftware": [
+      "Quixel Mixer"
+    ],
+    "tags": [
+      "Software",
+      "Adobe",
+      "Substance 3D",
+      "Material Capture",
+      "3D Texturing",
+      "PBR"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-adobe-substance-3d-stager",
+    "title": "Adobe Substance 3D Stager",
+    "shortName": "Substance 3D Stager",
+    "company": "Adobe",
+    "website": "https://www.adobe.com/search.html#q=Adobe%20Substance%203D%20Stager",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "3D Staging",
+      "Product Visualization"
+    ],
+    "categoryIds": [
+      "software",
+      "3d-staging",
+      "product-visualization"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "3D Staging",
+      "Product Visualization"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Subscription",
+    "price": "Subscription",
+    "license": "Subscription",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "applications": [
+      "Adobe",
+      "Substance 3D"
+    ],
+    "applicationEcosystems": [
+      "Adobe",
+      "Substance 3D"
+    ],
+    "shortDescription": "3D staging and rendering tool for product visuals and scene composition.",
+    "longDescription": "Adobe Substance 3D Stager is a software application in The Creative Vault. 3D staging and rendering tool for product visuals and scene composition.",
+    "bestFor": [
+      "Product Visualization"
+    ],
+    "relatedSoftware": [
+      "Blender",
+      "KeyShot"
+    ],
+    "tags": [
+      "Software",
+      "Adobe",
+      "Substance 3D",
+      "3D Staging",
+      "Product Visualization",
+      "3D"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-adobe-aero",
+    "title": "Adobe Aero",
+    "shortName": "Aero",
+    "company": "Adobe",
+    "website": "https://www.adobe.com/search.html#q=Adobe%20Aero",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "AR Design",
+      "Immersive Media"
+    ],
+    "categoryIds": [
+      "software",
+      "ar-design",
+      "immersive-media"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "AR Design",
+      "Immersive Media"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Free",
+    "price": "Free",
+    "license": "Free",
+    "platforms": [
+      "iOS",
+      "macOS",
+      "Windows"
+    ],
+    "applications": [
+      "Adobe",
+      "Creative Cloud"
+    ],
+    "applicationEcosystems": [
+      "Adobe",
+      "Creative Cloud"
+    ],
+    "shortDescription": "Augmented reality creation tool for interactive AR experiences.",
+    "longDescription": "Adobe Aero is a software application in The Creative Vault. Augmented reality creation tool for interactive AR experiences.",
+    "bestFor": [
+      "AR",
+      "Interactive Design"
+    ],
+    "relatedSoftware": [
+      "Unity"
+    ],
+    "tags": [
+      "Software",
+      "Adobe",
+      "Creative Cloud",
+      "AR Design",
+      "Immersive Media",
+      "AR"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-adobe-xd-legacy",
+    "title": "Adobe XD Legacy",
+    "shortName": "XD Legacy",
+    "company": "Adobe",
+    "website": "https://www.adobe.com/search.html#q=Adobe%20XD%20Legacy",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "UI Design",
+      "Prototyping"
+    ],
+    "categoryIds": [
+      "software",
+      "ui-design",
+      "prototyping"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "UI Design",
+      "Prototyping"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Subscription",
+    "price": "Subscription",
+    "license": "Subscription",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "applications": [
+      "Adobe",
+      "Creative Cloud"
+    ],
+    "applicationEcosystems": [
+      "Adobe",
+      "Creative Cloud"
+    ],
+    "shortDescription": "Legacy UI/UX design and prototyping tool.",
+    "longDescription": "Adobe XD Legacy is a software application in The Creative Vault. Legacy UI/UX design and prototyping tool.",
+    "bestFor": [
+      "UI Design",
+      "Prototyping"
+    ],
+    "relatedSoftware": [
+      "Figma",
+      "Penpot",
+      "Sketch"
+    ],
+    "tags": [
+      "Software",
+      "Adobe",
+      "Creative Cloud",
+      "UI Design",
+      "Prototyping",
+      "UI",
+      "Legacy"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-adobe-creative-cloud-desktop",
+    "title": "Adobe Creative Cloud Desktop",
+    "shortName": "Creative Cloud Desktop",
+    "company": "Adobe",
+    "website": "https://www.adobe.com/search.html#q=Adobe%20Creative%20Cloud%20Desktop",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Software Management",
+      "Creative Cloud"
+    ],
+    "categoryIds": [
+      "software",
+      "software-management",
+      "creative-cloud"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Software Management",
+      "Creative Cloud"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Subscription",
+    "price": "Subscription",
+    "license": "Subscription",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "applications": [
+      "Adobe",
+      "Creative Cloud"
+    ],
+    "applicationEcosystems": [
+      "Adobe",
+      "Creative Cloud"
+    ],
+    "shortDescription": "Desktop app for managing Adobe Creative Cloud applications, fonts, files, and updates.",
+    "longDescription": "Adobe Creative Cloud Desktop is a software application in The Creative Vault. Desktop app for managing Adobe Creative Cloud applications, fonts, files, and updates.",
+    "bestFor": [
+      "App Management"
+    ],
+    "relatedSoftware": [
+      "Setapp"
+    ],
+    "tags": [
+      "Software",
+      "Adobe",
+      "Creative Cloud",
+      "Software Management",
+      "Utility"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-adobe-fonts",
+    "title": "Adobe Fonts",
+    "shortName": "Fonts",
+    "company": "Adobe",
+    "website": "https://www.adobe.com/search.html#q=Adobe%20Fonts",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Typography",
+      "Font Library"
+    ],
+    "categoryIds": [
+      "software",
+      "typography",
+      "font-library"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Typography",
+      "Font Library"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Subscription",
+    "price": "Subscription",
+    "license": "Subscription",
+    "platforms": [
+      "Web"
+    ],
+    "applications": [
+      "Adobe",
+      "Creative Cloud"
+    ],
+    "applicationEcosystems": [
+      "Adobe",
+      "Creative Cloud"
+    ],
+    "shortDescription": "Large font library included with Creative Cloud subscriptions.",
+    "longDescription": "Adobe Fonts is a software application in The Creative Vault. Large font library included with Creative Cloud subscriptions.",
+    "bestFor": [
+      "Typography",
+      "Branding"
+    ],
+    "relatedSoftware": [
+      "Google Fonts",
+      "Fontshare"
+    ],
+    "tags": [
+      "Software",
+      "Adobe",
+      "Creative Cloud",
+      "Typography",
+      "Font Library",
+      "Fonts"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-adobe-stock",
+    "title": "Adobe Stock",
+    "shortName": "Stock",
+    "company": "Adobe",
+    "website": "https://www.adobe.com/search.html#q=Adobe%20Stock",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Stock Assets",
+      "Marketplace"
+    ],
+    "categoryIds": [
+      "software",
+      "stock-assets",
+      "marketplace"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Stock Assets",
+      "Marketplace"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Subscription",
+    "price": "Subscription",
+    "license": "Subscription",
+    "platforms": [
+      "Web"
+    ],
+    "applications": [
+      "Adobe"
+    ],
+    "applicationEcosystems": [
+      "Adobe"
+    ],
+    "shortDescription": "Stock photos, videos, templates, 3D assets, music, and design resources.",
+    "longDescription": "Adobe Stock is a software application in The Creative Vault. Stock photos, videos, templates, 3D assets, music, and design resources.",
+    "bestFor": [
+      "Stock Photos",
+      "Templates"
+    ],
+    "relatedSoftware": [
+      "Shutterstock",
+      "Getty Images"
+    ],
+    "tags": [
+      "Software",
+      "Adobe",
+      "Stock Assets",
+      "Marketplace",
+      "Stock"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-behance",
+    "title": "Behance",
+    "shortName": "Behance",
+    "company": "Adobe",
+    "website": "https://www.adobe.com/search.html#q=Behance",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Portfolio",
+      "Creative Community"
+    ],
+    "categoryIds": [
+      "software",
+      "portfolio",
+      "creative-community"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Portfolio",
+      "Creative Community"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Free",
+    "price": "Free",
+    "license": "Free",
+    "platforms": [
+      "Web",
+      "iOS",
+      "Android"
+    ],
+    "applications": [
+      "Adobe"
+    ],
+    "applicationEcosystems": [
+      "Adobe"
+    ],
+    "shortDescription": "Creative portfolio, discovery, and project sharing platform.",
+    "longDescription": "Behance is a software application in The Creative Vault. Creative portfolio, discovery, and project sharing platform.",
+    "bestFor": [
+      "Portfolio",
+      "Creative Discovery"
+    ],
+    "relatedSoftware": [
+      "Dribbble",
+      "ArtStation"
+    ],
+    "tags": [
+      "Software",
+      "Adobe",
+      "Portfolio",
+      "Creative Community"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-adobe-portfolio",
+    "title": "Adobe Portfolio",
+    "shortName": "Portfolio",
+    "company": "Adobe",
+    "website": "https://www.adobe.com/search.html#q=Adobe%20Portfolio",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Portfolio Website"
+    ],
+    "categoryIds": [
+      "software",
+      "portfolio-website"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Portfolio Website"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Subscription",
+    "price": "Subscription",
+    "license": "Subscription",
+    "platforms": [
+      "Web"
+    ],
+    "applications": [
+      "Adobe",
+      "Creative Cloud"
+    ],
+    "applicationEcosystems": [
+      "Adobe",
+      "Creative Cloud"
+    ],
+    "shortDescription": "Portfolio website builder included with some Creative Cloud plans.",
+    "longDescription": "Adobe Portfolio is a software application in The Creative Vault. Portfolio website builder included with some Creative Cloud plans.",
+    "bestFor": [
+      "Portfolio Websites"
+    ],
+    "relatedSoftware": [
+      "Format",
+      "Squarespace"
+    ],
+    "tags": [
+      "Software",
+      "Adobe",
+      "Creative Cloud",
+      "Portfolio Website",
+      "Portfolio"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-frame-io",
+    "title": "Frame.io",
+    "shortName": "Frame.io",
+    "company": "Adobe",
+    "website": "https://www.adobe.com/search.html#q=Frame.io",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Video Review",
+      "Collaboration"
+    ],
+    "categoryIds": [
+      "software",
+      "video-review",
+      "collaboration"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Video Review",
+      "Collaboration"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Subscription",
+    "price": "Subscription",
+    "license": "Subscription",
+    "platforms": [
+      "Web",
+      "iOS"
+    ],
+    "applications": [
+      "Adobe"
+    ],
+    "applicationEcosystems": [
+      "Adobe"
+    ],
+    "shortDescription": "Cloud-based video review, collaboration, and camera-to-cloud workflow platform.",
+    "longDescription": "Frame.io is a software application in The Creative Vault. Cloud-based video review, collaboration, and camera-to-cloud workflow platform.",
+    "bestFor": [
+      "Video Review",
+      "Client Feedback"
+    ],
+    "relatedSoftware": [
+      "Vimeo Review"
+    ],
+    "tags": [
+      "Software",
+      "Adobe",
+      "Video Review",
+      "Collaboration",
+      "Review"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-adobe-podcast",
+    "title": "Adobe Podcast",
+    "shortName": "Podcast",
+    "company": "Adobe",
+    "website": "https://www.adobe.com/search.html#q=Adobe%20Podcast",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "AI Audio",
+      "Podcasting"
+    ],
+    "categoryIds": [
+      "software",
+      "ai-audio",
+      "podcasting"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "AI Audio",
+      "Podcasting"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Subscription",
+    "price": "Subscription",
+    "license": "Subscription",
+    "platforms": [
+      "Web"
+    ],
+    "applications": [
+      "Adobe"
+    ],
+    "applicationEcosystems": [
+      "Adobe"
+    ],
+    "shortDescription": "AI-powered podcast recording, speech enhancement, and audio cleanup tools.",
+    "longDescription": "Adobe Podcast is a software application in The Creative Vault. AI-powered podcast recording, speech enhancement, and audio cleanup tools.",
+    "bestFor": [
+      "Podcasting",
+      "Voice Cleanup"
+    ],
+    "relatedSoftware": [
+      "Auphonic",
+      "Descript"
+    ],
+    "tags": [
+      "Software",
+      "Adobe",
+      "AI Audio",
+      "Podcasting",
+      "Podcast",
+      "AI"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-adobe-workfront",
+    "title": "Adobe Workfront",
+    "shortName": "Workfront",
+    "company": "Adobe",
+    "website": "https://www.adobe.com/search.html#q=Adobe%20Workfront",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Project Management",
+      "Enterprise Workflow"
+    ],
+    "categoryIds": [
+      "software",
+      "project-management",
+      "enterprise-workflow"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Project Management",
+      "Enterprise Workflow"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Subscription",
+    "price": "Subscription",
+    "license": "Subscription",
+    "platforms": [
+      "Web"
+    ],
+    "applications": [
+      "Adobe"
+    ],
+    "applicationEcosystems": [
+      "Adobe"
+    ],
+    "shortDescription": "Enterprise work management platform for marketing and creative teams.",
+    "longDescription": "Adobe Workfront is a software application in The Creative Vault. Enterprise work management platform for marketing and creative teams.",
+    "bestFor": [
+      "Enterprise Creative Ops"
+    ],
+    "relatedSoftware": [
+      "Asana",
+      "Monday.com"
+    ],
+    "tags": [
+      "Software",
+      "Adobe",
+      "Project Management",
+      "Enterprise Workflow",
+      "Enterprise"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

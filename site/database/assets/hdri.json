@@ -1,0 +1,80 @@
+[
+  {
+    "title": "Poly Haven HDRIs",
+    "website": "https://polyhaven.com/hdris",
+    "price": "Free",
+    "logo": "",
+    "description": "Free public-domain HDRIs for lighting 3D scenes.",
+    "assetType": "hdri",
+    "commercialUse": "Check license",
+    "attribution": "Check license",
+    "formats": [],
+    "featured": true,
+    "lastReviewed": "2026-07-07"
+  },
+  {
+    "title": "HDRI Hub",
+    "website": "https://www.hdri-hub.com",
+    "price": "Freemium",
+    "logo": "",
+    "description": "HDRI maps, skies, and lighting resources.",
+    "assetType": "hdri",
+    "commercialUse": "Check license",
+    "attribution": "Check license",
+    "formats": [],
+    "featured": false,
+    "lastReviewed": "2026-07-07"
+  },
+  {
+    "title": "HDRMaps",
+    "website": "https://hdrmaps.com",
+    "price": "Paid",
+    "logo": "",
+    "description": "High-resolution HDRI maps for professional 3D rendering.",
+    "assetType": "hdri",
+    "commercialUse": "Check license",
+    "attribution": "Check license",
+    "formats": [],
+    "featured": false,
+    "lastReviewed": "2026-07-07"
+  },
+  {
+    "title": "NoEmotion HDRs",
+    "website": "http://noemotionhdrs.net",
+    "price": "Free",
+    "logo": "",
+    "description": "Free HDRI skies and environment maps.",
+    "assetType": "hdri",
+    "commercialUse": "Check license",
+    "attribution": "Check license",
+    "formats": [],
+    "featured": true,
+    "lastReviewed": "2026-07-07"
+  },
+  {
+    "title": "sIBL Archive",
+    "website": "http://www.hdrlabs.com/sibl/archive.html",
+    "price": "Free",
+    "logo": "",
+    "description": "Archive of HDR image-based lighting sets.",
+    "assetType": "hdri",
+    "commercialUse": "Check license",
+    "attribution": "Check license",
+    "formats": [],
+    "featured": true,
+    "lastReviewed": "2026-07-07"
+  },
+  {
+    "title": "CGAxis HDRI",
+    "website": "https://cgaxis.com/product-category/hdri-maps/",
+    "price": "Paid",
+    "logo": "",
+    "description": "HDRI maps for 3D visualization and rendering.",
+    "assetType": "hdri",
+    "commercialUse": "Check license",
+    "attribution": "Check license",
+    "formats": [],
+    "featured": false,
+    "lastReviewed": "2026-07-07"
+  }
+]

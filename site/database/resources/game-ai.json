@@ -1,0 +1,764 @@
+[
+  {
+    "id": "game-dev-inworld-ai",
+    "title": "Inworld AI",
+    "shortName": "Inworld AI",
+    "company": "Inworld AI",
+    "website": "https://www.inworld.ai/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game AI"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "AI character platform for interactive NPCs and game worlds.",
+    "longDescription": "Inworld AI is included in The Creative Vault as a game development resource. AI character platform for interactive NPCs and game worlds.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Game AI",
+      "NPC",
+      "AI"
+    ],
+    "bestFor": [
+      "Game AI",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-convai",
+    "title": "Convai",
+    "shortName": "Convai",
+    "company": "Convai",
+    "website": "https://www.convai.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game AI"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Conversational AI characters for games and virtual worlds.",
+    "longDescription": "Convai is included in The Creative Vault as a game development resource. Conversational AI characters for games and virtual worlds.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Game AI",
+      "NPC",
+      "AI"
+    ],
+    "bestFor": [
+      "Game AI",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-leonardo-ai",
+    "title": "Leonardo AI",
+    "shortName": "Leonardo AI",
+    "company": "Leonardo AI",
+    "website": "https://leonardo.ai/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game AI"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "AI image and asset generation platform for game concepts and production.",
+    "longDescription": "Leonardo AI is included in The Creative Vault as a game development resource. AI image and asset generation platform for game concepts and production.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Game AI",
+      "AI Art",
+      "Assets"
+    ],
+    "bestFor": [
+      "Game AI",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-scenario",
+    "title": "Scenario",
+    "shortName": "Scenario",
+    "company": "Scenario",
+    "website": "https://www.scenario.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game AI"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "AI image generation platform for game assets and consistent styles.",
+    "longDescription": "Scenario is included in The Creative Vault as a game development resource. AI image generation platform for game assets and consistent styles.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Game AI",
+      "AI Art",
+      "Game Assets"
+    ],
+    "bestFor": [
+      "Game AI",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-layer-ai",
+    "title": "Layer AI",
+    "shortName": "Layer AI",
+    "company": "Layer AI",
+    "website": "https://www.layer.ai/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game AI"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "AI-powered game asset generation platform.",
+    "longDescription": "Layer AI is included in The Creative Vault as a game development resource. AI-powered game asset generation platform.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Game AI",
+      "Assets",
+      "AI"
+    ],
+    "bestFor": [
+      "Game AI",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-promethean-ai",
+    "title": "Promethean AI",
+    "shortName": "Promethean AI",
+    "company": "Promethean AI",
+    "website": "https://www.prometheanai.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game AI"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "AI assistant for building virtual worlds and game environments.",
+    "longDescription": "Promethean AI is included in The Creative Vault as a game development resource. AI assistant for building virtual worlds and game environments.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Game AI",
+      "World Building",
+      "AI"
+    ],
+    "bestFor": [
+      "Game AI",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-meshy",
+    "title": "Meshy",
+    "shortName": "Meshy",
+    "company": "Meshy",
+    "website": "https://www.meshy.ai/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game AI"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "AI 3D model and texture generation platform.",
+    "longDescription": "Meshy is included in The Creative Vault as a game development resource. AI 3D model and texture generation platform.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Game AI",
+      "3D",
+      "AI"
+    ],
+    "bestFor": [
+      "Game AI",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-tripo-ai",
+    "title": "Tripo AI",
+    "shortName": "Tripo AI",
+    "company": "Tripo AI",
+    "website": "https://www.tripo3d.ai/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game AI"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "AI 3D model generation from text and images.",
+    "longDescription": "Tripo AI is included in The Creative Vault as a game development resource. AI 3D model generation from text and images.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Game AI",
+      "3D",
+      "AI"
+    ],
+    "bestFor": [
+      "Game AI",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-rodin",
+    "title": "Rodin",
+    "shortName": "Rodin",
+    "company": "Deemos",
+    "website": "https://hyperhuman.deemos.com/rodin",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game AI"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "AI 3D model generation platform.",
+    "longDescription": "Rodin is included in The Creative Vault as a game development resource. AI 3D model generation platform.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Game AI",
+      "3D",
+      "AI"
+    ],
+    "bestFor": [
+      "Game AI",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-kaedim",
+    "title": "Kaedim",
+    "shortName": "Kaedim",
+    "company": "Kaedim",
+    "website": "https://www.kaedim3d.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game AI"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "AI-assisted 3D asset generation service for game teams.",
+    "longDescription": "Kaedim is included in The Creative Vault as a game development resource. AI-assisted 3D asset generation service for game teams.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Game AI",
+      "3D",
+      "AI"
+    ],
+    "bestFor": [
+      "Game AI",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-sloyd",
+    "title": "Sloyd",
+    "shortName": "Sloyd",
+    "company": "Sloyd",
+    "website": "https://www.sloyd.ai/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game AI"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "AI 3D model generator for game-ready assets.",
+    "longDescription": "Sloyd is included in The Creative Vault as a game development resource. AI 3D model generator for game-ready assets.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Game AI",
+      "3D",
+      "AI"
+    ],
+    "bestFor": [
+      "Game AI",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-blockade-labs",
+    "title": "Blockade Labs",
+    "shortName": "Blockade Labs",
+    "company": "Blockade Labs",
+    "website": "https://www.blockadelabs.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game AI"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "AI skybox and 3D world generation tools.",
+    "longDescription": "Blockade Labs is included in The Creative Vault as a game development resource. AI skybox and 3D world generation tools.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Game AI",
+      "Skybox",
+      "AI"
+    ],
+    "bestFor": [
+      "Game AI",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-csm-ai",
+    "title": "CSM AI",
+    "shortName": "CSM AI",
+    "company": "Common Sense Machines",
+    "website": "https://www.csm.ai/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game AI"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "AI platform for generating 3D worlds and assets.",
+    "longDescription": "CSM AI is included in The Creative Vault as a game development resource. AI platform for generating 3D worlds and assets.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Game AI",
+      "3D",
+      "AI"
+    ],
+    "bestFor": [
+      "Game AI",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-luma-ai",
+    "title": "Luma AI",
+    "shortName": "Luma AI",
+    "company": "Luma AI",
+    "website": "https://lumalabs.ai/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game AI"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "AI capture, 3D, and video tools for creative workflows.",
+    "longDescription": "Luma AI is included in The Creative Vault as a game development resource. AI capture, 3D, and video tools for creative workflows.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Game AI",
+      "3D",
+      "Capture",
+      "AI"
+    ],
+    "bestFor": [
+      "Game AI",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser",
+      "iPhone"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-krea-ai",
+    "title": "Krea AI",
+    "shortName": "Krea AI",
+    "company": "Krea",
+    "website": "https://www.krea.ai/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game AI"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Realtime AI image generation and enhancement platform.",
+    "longDescription": "Krea AI is included in The Creative Vault as a game development resource. Realtime AI image generation and enhancement platform.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Game AI",
+      "Image",
+      "AI"
+    ],
+    "bestFor": [
+      "Game AI",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-runway",
+    "title": "Runway",
+    "shortName": "Runway",
+    "company": "Runway",
+    "website": "https://runwayml.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game AI"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "AI video and creative tools useful for trailers, concepts, and cinematic tests.",
+    "longDescription": "Runway is included in The Creative Vault as a game development resource. AI video and creative tools useful for trailers, concepts, and cinematic tests.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Game AI",
+      "Video",
+      "AI"
+    ],
+    "bestFor": [
+      "Game AI",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-scenario-genai-engine",
+    "title": "Scenario GenAI Engine",
+    "shortName": "Scenario GenAI Engine",
+    "company": "Scenario",
+    "website": "https://www.scenario.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game AI"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "AI asset generation for consistent game art styles.",
+    "longDescription": "Scenario GenAI Engine is included in The Creative Vault as a game development resource. AI asset generation for consistent game art styles.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Game AI",
+      "Game Assets",
+      "AI"
+    ],
+    "bestFor": [
+      "Game AI",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-rosebud-ai",
+    "title": "Rosebud AI",
+    "shortName": "Rosebud AI",
+    "company": "Rosebud AI",
+    "website": "https://rosebud.ai/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game AI"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "AI game creation and asset generation platform.",
+    "longDescription": "Rosebud AI is included in The Creative Vault as a game development resource. AI game creation and asset generation platform.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Game AI",
+      "Game Creation",
+      "AI"
+    ],
+    "bestFor": [
+      "Game AI",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-ludo-ai",
+    "title": "Ludo.ai",
+    "shortName": "Ludo.ai",
+    "company": "Ludo.ai",
+    "website": "https://ludo.ai/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game AI"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "AI game ideation, trend research, and concept development platform.",
+    "longDescription": "Ludo.ai is included in The Creative Vault as a game development resource. AI game ideation, trend research, and concept development platform.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Game AI",
+      "Game Ideas",
+      "Research"
+    ],
+    "bestFor": [
+      "Game AI",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-charisma-ai",
+    "title": "Charisma.ai",
+    "shortName": "Charisma.ai",
+    "company": "Charisma",
+    "website": "https://charisma.ai/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game AI"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Interactive storytelling and AI character platform.",
+    "longDescription": "Charisma.ai is included in The Creative Vault as a game development resource. Interactive storytelling and AI character platform.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Game AI",
+      "Storytelling",
+      "NPC"
+    ],
+    "bestFor": [
+      "Game AI",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

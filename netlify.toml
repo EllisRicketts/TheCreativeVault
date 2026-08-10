@@ -1,0 +1,17 @@
+# The Creative Vault — Netlify configuration
+#
+# This is a plain static site. There is no build step: everything inside
+# site/ is published exactly as it sits in the repo.
+#
+# Because publish is scoped to site/, anything kept outside it — docs/,
+# working notes, source files — stays in the repo but never goes public.
+
+[build]
+  publish = "site"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    X-Frame-Options = "SAMEORIGIN"
+    Referrer-Policy = "strict-origin-when-cross-origin"

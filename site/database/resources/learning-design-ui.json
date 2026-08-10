@@ -1,0 +1,759 @@
+[
+  {
+    "id": "learning-interaction-design-foundation",
+    "title": "Interaction Design Foundation",
+    "shortName": "Interaction Design Foundation",
+    "company": "Interaction Design Foundation",
+    "website": "https://www.interaction-design.org/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Design Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "UX design courses, articles, and professional learning paths.",
+    "longDescription": "Interaction Design Foundation is included in The Creative Vault as a learning resource. UX design courses, articles, and professional learning paths.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Learning",
+      "Design Education",
+      "UX",
+      "UI"
+    ],
+    "bestFor": [
+      "Design Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-nielsen-norman-group",
+    "title": "Nielsen Norman Group",
+    "shortName": "Nielsen Norman Group",
+    "company": "Nielsen Norman Group",
+    "website": "https://www.nngroup.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Design Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "UX research, usability articles, reports, and training.",
+    "longDescription": "Nielsen Norman Group is included in The Creative Vault as a learning resource. UX research, usability articles, reports, and training.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Learning",
+      "Design Education",
+      "UX",
+      "Research"
+    ],
+    "bestFor": [
+      "Design Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-figma-learn",
+    "title": "Figma Learn",
+    "shortName": "Figma Learn",
+    "company": "Figma",
+    "website": "https://www.figma.com/resource-library/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Design Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Official Figma tutorials, templates, and design resources.",
+    "longDescription": "Figma Learn is included in The Creative Vault as a learning resource. Official Figma tutorials, templates, and design resources.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Design Education",
+      "Figma",
+      "UI"
+    ],
+    "bestFor": [
+      "Design Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-designlab",
+    "title": "Designlab",
+    "shortName": "Designlab",
+    "company": "Designlab",
+    "website": "https://designlab.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Design Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "UX and UI design bootcamps and mentorship.",
+    "longDescription": "Designlab is included in The Creative Vault as a learning resource. UX and UI design bootcamps and mentorship.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Learning",
+      "Design Education",
+      "UX",
+      "Bootcamp"
+    ],
+    "bestFor": [
+      "Design Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-memorisely",
+    "title": "Memorisely",
+    "shortName": "Memorisely",
+    "company": "Memorisely",
+    "website": "https://www.memorisely.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Design Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Live UX/UI design bootcamps and classes.",
+    "longDescription": "Memorisely is included in The Creative Vault as a learning resource. Live UX/UI design bootcamps and classes.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Learning",
+      "Design Education",
+      "UX",
+      "UI"
+    ],
+    "bestFor": [
+      "Design Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-flux-academy",
+    "title": "Flux Academy",
+    "shortName": "Flux Academy",
+    "company": "Flux Academy",
+    "website": "https://www.flux-academy.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Design Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Web design, freelancing, and creative business courses.",
+    "longDescription": "Flux Academy is included in The Creative Vault as a learning resource. Web design, freelancing, and creative business courses.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Learning",
+      "Design Education",
+      "Web Design",
+      "Freelance"
+    ],
+    "bestFor": [
+      "Design Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-the-futur",
+    "title": "The Futur",
+    "shortName": "The Futur",
+    "company": "The Futur",
+    "website": "https://thefutur.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Design Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Design business, branding, sales, and creative career education.",
+    "longDescription": "The Futur is included in The Creative Vault as a learning resource. Design business, branding, sales, and creative career education.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Learning",
+      "Design Education",
+      "Branding",
+      "Business"
+    ],
+    "bestFor": [
+      "Design Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-awwwards-academy",
+    "title": "Awwwards Academy",
+    "shortName": "Awwwards Academy",
+    "company": "Awwwards",
+    "website": "https://www.awwwards.com/academy/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Design Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Web design, creative coding, UI, UX, and digital design courses.",
+    "longDescription": "Awwwards Academy is included in The Creative Vault as a learning resource. Web design, creative coding, UI, UX, and digital design courses.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Learning",
+      "Design Education",
+      "Web Design",
+      "Creative Coding"
+    ],
+    "bestFor": [
+      "Design Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-design-code",
+    "title": "Design+Code",
+    "shortName": "Design+Code",
+    "company": "Design+Code",
+    "website": "https://designcode.io/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Design Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "UI design, SwiftUI, React, and product design courses.",
+    "longDescription": "Design+Code is included in The Creative Vault as a learning resource. UI design, SwiftUI, React, and product design courses.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Learning",
+      "Design Education",
+      "UI",
+      "Code"
+    ],
+    "bestFor": [
+      "Design Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-learn-ui-design",
+    "title": "Learn UI Design",
+    "shortName": "Learn UI Design",
+    "company": "Erik Kennedy",
+    "website": "https://learnui.design/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Design Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Practical UI design course focused on visual interface skills.",
+    "longDescription": "Learn UI Design is included in The Creative Vault as a learning resource. Practical UI design course focused on visual interface skills.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Learning",
+      "Design Education",
+      "UI"
+    ],
+    "bestFor": [
+      "Design Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-refactoring-ui",
+    "title": "Refactoring UI",
+    "shortName": "Refactoring UI",
+    "company": "Adam Wathan and Steve Schoger",
+    "website": "https://www.refactoringui.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Design Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "UI design book and resources for developers.",
+    "longDescription": "Refactoring UI is included in The Creative Vault as a learning resource. UI design book and resources for developers.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Learning",
+      "Design Education",
+      "UI",
+      "Developers"
+    ],
+    "bestFor": [
+      "Design Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-laws-of-ux",
+    "title": "Laws of UX",
+    "shortName": "Laws of UX",
+    "company": "Jon Yablonski",
+    "website": "https://lawsofux.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Design Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Collection of UX principles and psychology concepts.",
+    "longDescription": "Laws of UX is included in The Creative Vault as a learning resource. Collection of UX principles and psychology concepts.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Design Education",
+      "UX",
+      "Principles"
+    ],
+    "bestFor": [
+      "Design Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-growth-design-case-studies",
+    "title": "Growth Design Case Studies",
+    "shortName": "Growth Design Case Studies",
+    "company": "Growth Design",
+    "website": "https://growth.design/case-studies",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Design Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "UX and product psychology case studies.",
+    "longDescription": "Growth Design Case Studies is included in The Creative Vault as a learning resource. UX and product psychology case studies.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Learning",
+      "Design Education",
+      "UX",
+      "Product"
+    ],
+    "bestFor": [
+      "Design Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-checklist-design",
+    "title": "Checklist Design",
+    "shortName": "Checklist Design",
+    "company": "Checklist Design",
+    "website": "https://www.checklist.design/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Design Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Design checklist collection for UI elements and product flows.",
+    "longDescription": "Checklist Design is included in The Creative Vault as a learning resource. Design checklist collection for UI elements and product flows.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Design Education",
+      "UI",
+      "Checklist"
+    ],
+    "bestFor": [
+      "Design Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-ux-collective",
+    "title": "UX Collective",
+    "shortName": "UX Collective",
+    "company": "UX Collective",
+    "website": "https://uxdesign.cc/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Design Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "UX, product design, and design thinking publication.",
+    "longDescription": "UX Collective is included in The Creative Vault as a learning resource. UX, product design, and design thinking publication.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Design Education",
+      "UX",
+      "Articles"
+    ],
+    "bestFor": [
+      "Design Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-smashing-magazine",
+    "title": "Smashing Magazine",
+    "shortName": "Smashing Magazine",
+    "company": "Smashing Magazine",
+    "website": "https://www.smashingmagazine.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Design Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Web design, UX, frontend, accessibility, and design systems articles.",
+    "longDescription": "Smashing Magazine is included in The Creative Vault as a learning resource. Web design, UX, frontend, accessibility, and design systems articles.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Learning",
+      "Design Education",
+      "Web",
+      "UX"
+    ],
+    "bestFor": [
+      "Design Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-nn-g-articles",
+    "title": "NN/g Articles",
+    "shortName": "NN/g Articles",
+    "company": "Nielsen Norman Group",
+    "website": "https://www.nngroup.com/articles/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Design Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Usability and UX research articles.",
+    "longDescription": "NN/g Articles is included in The Creative Vault as a learning resource. Usability and UX research articles.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Design Education",
+      "UX",
+      "Research"
+    ],
+    "bestFor": [
+      "Design Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-material-design",
+    "title": "Material Design",
+    "shortName": "Material Design",
+    "company": "Google",
+    "website": "https://m3.material.io/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Design Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Google's design system guidelines and resources.",
+    "longDescription": "Material Design is included in The Creative Vault as a learning resource. Google's design system guidelines and resources.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Design Education",
+      "Design System"
+    ],
+    "bestFor": [
+      "Design Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-apple-human-interface-guidelines",
+    "title": "Apple Human Interface Guidelines",
+    "shortName": "Apple Human Interface Guidelines",
+    "company": "Apple",
+    "website": "https://developer.apple.com/design/human-interface-guidelines/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Design Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Apple platform design guidelines.",
+    "longDescription": "Apple Human Interface Guidelines is included in The Creative Vault as a learning resource. Apple platform design guidelines.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Design Education",
+      "iOS",
+      "Guidelines"
+    ],
+    "bestFor": [
+      "Design Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-microsoft-fluent-design",
+    "title": "Microsoft Fluent Design",
+    "shortName": "Microsoft Fluent Design",
+    "company": "Microsoft",
+    "website": "https://fluent2.microsoft.design/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Design Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Microsoft design system and product design guidance.",
+    "longDescription": "Microsoft Fluent Design is included in The Creative Vault as a learning resource. Microsoft design system and product design guidance.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Design Education",
+      "Design System"
+    ],
+    "bestFor": [
+      "Design Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

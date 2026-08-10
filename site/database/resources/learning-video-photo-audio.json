@@ -1,0 +1,757 @@
+[
+  {
+    "id": "learning-piximperfect",
+    "title": "PiXimperfect",
+    "shortName": "PiXimperfect",
+    "company": "PiXimperfect",
+    "website": "https://www.youtube.com/@PiXimperfect",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Photo and Video Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Photoshop, photo retouching, compositing, and editing tutorials.",
+    "longDescription": "PiXimperfect is included in The Creative Vault as a learning resource. Photoshop, photo retouching, compositing, and editing tutorials.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Photo and Video Education",
+      "Photoshop",
+      "YouTube"
+    ],
+    "bestFor": [
+      "Photo and Video Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-phlearn",
+    "title": "PHLEARN",
+    "shortName": "PHLEARN",
+    "company": "PHLEARN",
+    "website": "https://phlearn.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Photo and Video Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Photoshop, Lightroom, retouching, and photography education.",
+    "longDescription": "PHLEARN is included in The Creative Vault as a learning resource. Photoshop, Lightroom, retouching, and photography education.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Learning",
+      "Photo and Video Education",
+      "Photoshop",
+      "Photography"
+    ],
+    "bestFor": [
+      "Photo and Video Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-photoshop-training-channel",
+    "title": "Photoshop Training Channel",
+    "shortName": "Photoshop Training Channel",
+    "company": "Photoshop Training Channel",
+    "website": "https://www.youtube.com/@PhotoshopTrainingChannel",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Photo and Video Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Photoshop tutorials and editing techniques.",
+    "longDescription": "Photoshop Training Channel is included in The Creative Vault as a learning resource. Photoshop tutorials and editing techniques.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Photo and Video Education",
+      "Photoshop",
+      "YouTube"
+    ],
+    "bestFor": [
+      "Photo and Video Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-mango-street",
+    "title": "Mango Street",
+    "shortName": "Mango Street",
+    "company": "Mango Street",
+    "website": "https://www.youtube.com/@MangoStreet",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Photo and Video Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Photography and filmmaking education.",
+    "longDescription": "Mango Street is included in The Creative Vault as a learning resource. Photography and filmmaking education.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Photo and Video Education",
+      "Photography",
+      "YouTube"
+    ],
+    "bestFor": [
+      "Photo and Video Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-peter-mckinnon",
+    "title": "Peter McKinnon",
+    "shortName": "Peter McKinnon",
+    "company": "Peter McKinnon",
+    "website": "https://www.youtube.com/@PeterMcKinnon",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Photo and Video Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Photography, video, editing, and creator education.",
+    "longDescription": "Peter McKinnon is included in The Creative Vault as a learning resource. Photography, video, editing, and creator education.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Photo and Video Education",
+      "Photography",
+      "YouTube"
+    ],
+    "bestFor": [
+      "Photo and Video Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-chris-hau",
+    "title": "Chris Hau",
+    "shortName": "Chris Hau",
+    "company": "Chris Hau",
+    "website": "https://www.youtube.com/@thechrishau",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Photo and Video Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Photography, filmmaking, creator business, and gear education.",
+    "longDescription": "Chris Hau is included in The Creative Vault as a learning resource. Photography, filmmaking, creator business, and gear education.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Photo and Video Education",
+      "Video",
+      "Photography"
+    ],
+    "bestFor": [
+      "Photo and Video Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-gerald-undone",
+    "title": "Gerald Undone",
+    "shortName": "Gerald Undone",
+    "company": "Gerald Undone",
+    "website": "https://www.youtube.com/@geraldundone",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Photo and Video Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Camera, lighting, video, and technical production education.",
+    "longDescription": "Gerald Undone is included in The Creative Vault as a learning resource. Camera, lighting, video, and technical production education.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Photo and Video Education",
+      "Video",
+      "Cameras"
+    ],
+    "bestFor": [
+      "Photo and Video Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-dslr-video-shooter",
+    "title": "DSLR Video Shooter",
+    "shortName": "DSLR Video Shooter",
+    "company": "Caleb Pike",
+    "website": "https://www.youtube.com/@dslrvideoshooter",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Photo and Video Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Video production, gear, lighting, and camera tutorials.",
+    "longDescription": "DSLR Video Shooter is included in The Creative Vault as a learning resource. Video production, gear, lighting, and camera tutorials.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Photo and Video Education",
+      "Video",
+      "Gear"
+    ],
+    "bestFor": [
+      "Photo and Video Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-film-riot",
+    "title": "Film Riot",
+    "shortName": "Film Riot",
+    "company": "Film Riot",
+    "website": "https://www.youtube.com/@filmriot",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Photo and Video Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Filmmaking, VFX, lighting, production, and directing tutorials.",
+    "longDescription": "Film Riot is included in The Creative Vault as a learning resource. Filmmaking, VFX, lighting, production, and directing tutorials.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Photo and Video Education",
+      "Film",
+      "VFX"
+    ],
+    "bestFor": [
+      "Photo and Video Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-indy-mogul",
+    "title": "Indy Mogul",
+    "shortName": "Indy Mogul",
+    "company": "Indy Mogul",
+    "website": "https://www.youtube.com/@indymogul",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Photo and Video Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Filmmaking education, production breakdowns, and camera tests.",
+    "longDescription": "Indy Mogul is included in The Creative Vault as a learning resource. Filmmaking education, production breakdowns, and camera tests.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Photo and Video Education",
+      "Film",
+      "Production"
+    ],
+    "bestFor": [
+      "Photo and Video Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-cinecom-net",
+    "title": "Cinecom.net",
+    "shortName": "Cinecom.net",
+    "company": "Cinecom.net",
+    "website": "https://www.youtube.com/@CinecomCrew",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Photo and Video Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Video editing, filmmaking, and visual effects tutorials.",
+    "longDescription": "Cinecom.net is included in The Creative Vault as a learning resource. Video editing, filmmaking, and visual effects tutorials.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Photo and Video Education",
+      "Editing",
+      "VFX"
+    ],
+    "bestFor": [
+      "Photo and Video Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-casey-faris",
+    "title": "Casey Faris",
+    "shortName": "Casey Faris",
+    "company": "Casey Faris",
+    "website": "https://www.youtube.com/@CaseyFaris",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Photo and Video Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "DaVinci Resolve tutorials and post-production education.",
+    "longDescription": "Casey Faris is included in The Creative Vault as a learning resource. DaVinci Resolve tutorials and post-production education.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Photo and Video Education",
+      "DaVinci Resolve"
+    ],
+    "bestFor": [
+      "Photo and Video Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-darren-mostyn",
+    "title": "Darren Mostyn",
+    "shortName": "Darren Mostyn",
+    "company": "Darren Mostyn",
+    "website": "https://www.youtube.com/@DarrenMostyn",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Photo and Video Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Color grading and DaVinci Resolve training.",
+    "longDescription": "Darren Mostyn is included in The Creative Vault as a learning resource. Color grading and DaVinci Resolve training.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Photo and Video Education",
+      "Color Grading"
+    ],
+    "bestFor": [
+      "Photo and Video Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-mixing-light",
+    "title": "Mixing Light",
+    "shortName": "Mixing Light",
+    "company": "Mixing Light",
+    "website": "https://mixinglight.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Photo and Video Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Color grading training and professional post-production education.",
+    "longDescription": "Mixing Light is included in The Creative Vault as a learning resource. Color grading training and professional post-production education.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Learning",
+      "Photo and Video Education",
+      "Color Grading"
+    ],
+    "bestFor": [
+      "Photo and Video Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-ripple-training",
+    "title": "Ripple Training",
+    "shortName": "Ripple Training",
+    "company": "Ripple Training",
+    "website": "https://www.rippletraining.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Photo and Video Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Final Cut Pro, Motion, DaVinci Resolve, and video editing training.",
+    "longDescription": "Ripple Training is included in The Creative Vault as a learning resource. Final Cut Pro, Motion, DaVinci Resolve, and video editing training.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Learning",
+      "Photo and Video Education",
+      "Editing"
+    ],
+    "bestFor": [
+      "Photo and Video Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-no-film-school",
+    "title": "No Film School",
+    "shortName": "No Film School",
+    "company": "No Film School",
+    "website": "https://nofilmschool.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Photo and Video Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Filmmaking news, tutorials, gear, and production education.",
+    "longDescription": "No Film School is included in The Creative Vault as a learning resource. Filmmaking news, tutorials, gear, and production education.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Photo and Video Education",
+      "Film",
+      "Articles"
+    ],
+    "bestFor": [
+      "Photo and Video Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-sound-on-sound",
+    "title": "Sound on Sound",
+    "shortName": "Sound on Sound",
+    "company": "Sound on Sound",
+    "website": "https://www.soundonsound.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Photo and Video Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Audio production, recording, mixing, and music technology education.",
+    "longDescription": "Sound on Sound is included in The Creative Vault as a learning resource. Audio production, recording, mixing, and music technology education.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Learning",
+      "Photo and Video Education",
+      "Audio",
+      "Music"
+    ],
+    "bestFor": [
+      "Photo and Video Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-produce-like-a-pro",
+    "title": "Produce Like A Pro",
+    "shortName": "Produce Like A Pro",
+    "company": "Produce Like A Pro",
+    "website": "https://producelikeapro.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Photo and Video Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Recording, mixing, and music production education.",
+    "longDescription": "Produce Like A Pro is included in The Creative Vault as a learning resource. Recording, mixing, and music production education.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Learning",
+      "Photo and Video Education",
+      "Mixing",
+      "Music"
+    ],
+    "bestFor": [
+      "Photo and Video Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-recording-revolution",
+    "title": "Recording Revolution",
+    "shortName": "Recording Revolution",
+    "company": "Recording Revolution",
+    "website": "https://www.recordingrevolution.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Photo and Video Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Home recording, mixing, and music production education.",
+    "longDescription": "Recording Revolution is included in The Creative Vault as a learning resource. Home recording, mixing, and music production education.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Learning",
+      "Photo and Video Education",
+      "Recording"
+    ],
+    "bestFor": [
+      "Photo and Video Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-izotope-learn",
+    "title": "iZotope Learn",
+    "shortName": "iZotope Learn",
+    "company": "iZotope",
+    "website": "https://www.izotope.com/en/learn.html",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Photo and Video Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Mixing, mastering, audio repair, and music production tutorials.",
+    "longDescription": "iZotope Learn is included in The Creative Vault as a learning resource. Mixing, mastering, audio repair, and music production tutorials.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Photo and Video Education",
+      "Audio",
+      "Mastering"
+    ],
+    "bestFor": [
+      "Photo and Video Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

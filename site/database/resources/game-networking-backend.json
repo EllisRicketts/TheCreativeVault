@@ -1,0 +1,762 @@
+[
+  {
+    "id": "game-dev-photon-engine",
+    "title": "Photon Engine",
+    "shortName": "Photon Engine",
+    "company": "Exit Games",
+    "website": "https://www.photonengine.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Networking"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Multiplayer networking platform for Unity, Unreal, mobile, VR, and real-time games.",
+    "longDescription": "Photon Engine is included in The Creative Vault as a game development resource. Multiplayer networking platform for Unity, Unreal, mobile, VR, and real-time games.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Networking",
+      "Multiplayer"
+    ],
+    "bestFor": [
+      "Networking",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-mirror-networking",
+    "title": "Mirror Networking",
+    "shortName": "Mirror Networking",
+    "company": "Mirror",
+    "website": "https://mirror-networking.gitbook.io/docs/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Networking"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Open-source Unity networking library.",
+    "longDescription": "Mirror Networking is included in The Creative Vault as a game development resource. Open-source Unity networking library.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Networking",
+      "Unity",
+      "Open Source"
+    ],
+    "bestFor": [
+      "Networking",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": true,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-fishnet",
+    "title": "FishNet",
+    "shortName": "FishNet",
+    "company": "FirstGearGames",
+    "website": "https://fish-networking.gitbook.io/docs/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Networking"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "High-performance networking library for Unity.",
+    "longDescription": "FishNet is included in The Creative Vault as a game development resource. High-performance networking library for Unity.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Networking",
+      "Unity",
+      "Networking"
+    ],
+    "bestFor": [
+      "Networking",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-netcode-for-gameobjects",
+    "title": "Netcode for GameObjects",
+    "shortName": "Netcode for GameObjects",
+    "company": "Unity Technologies",
+    "website": "https://docs-multiplayer.unity3d.com/netcode/current/about/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Networking"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Unity multiplayer networking package.",
+    "longDescription": "Netcode for GameObjects is included in The Creative Vault as a game development resource. Unity multiplayer networking package.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Networking",
+      "Unity",
+      "Multiplayer"
+    ],
+    "bestFor": [
+      "Networking",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-epic-online-services",
+    "title": "Epic Online Services",
+    "shortName": "Epic Online Services",
+    "company": "Epic Games",
+    "website": "https://dev.epicgames.com/en-US/services",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Networking"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Online services for authentication, matchmaking, achievements, friends, and crossplay.",
+    "longDescription": "Epic Online Services is included in The Creative Vault as a game development resource. Online services for authentication, matchmaking, achievements, friends, and crossplay.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Networking",
+      "Online Services"
+    ],
+    "bestFor": [
+      "Networking",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-steamworks",
+    "title": "Steamworks",
+    "shortName": "Steamworks",
+    "company": "Valve",
+    "website": "https://partner.steamgames.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Networking"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Steam platform services for multiplayer, achievements, cloud saves, and publishing.",
+    "longDescription": "Steamworks is included in The Creative Vault as a game development resource. Steam platform services for multiplayer, achievements, cloud saves, and publishing.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Networking",
+      "Steam",
+      "Publishing"
+    ],
+    "bestFor": [
+      "Networking",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-playfab",
+    "title": "PlayFab",
+    "shortName": "PlayFab",
+    "company": "Microsoft",
+    "website": "https://playfab.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Backend"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Backend services for live games, economy, analytics, and player accounts.",
+    "longDescription": "PlayFab is included in The Creative Vault as a game development resource. Backend services for live games, economy, analytics, and player accounts.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Backend",
+      "Backend",
+      "Live Ops"
+    ],
+    "bestFor": [
+      "Backend",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-nakama",
+    "title": "Nakama",
+    "shortName": "Nakama",
+    "company": "Heroic Labs",
+    "website": "https://heroiclabs.com/nakama/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Backend"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Open-source game server for multiplayer, social, and real-time features.",
+    "longDescription": "Nakama is included in The Creative Vault as a game development resource. Open-source game server for multiplayer, social, and real-time features.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Backend",
+      "Backend",
+      "Open Source"
+    ],
+    "bestFor": [
+      "Backend",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Linux",
+      "Docker"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": true,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-colyseus",
+    "title": "Colyseus",
+    "shortName": "Colyseus",
+    "company": "Colyseus",
+    "website": "https://colyseus.io/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Networking"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Open-source multiplayer framework for Node.js games.",
+    "longDescription": "Colyseus is included in The Creative Vault as a game development resource. Open-source multiplayer framework for Node.js games.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Networking",
+      "Node.js",
+      "Open Source"
+    ],
+    "bestFor": [
+      "Networking",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": true,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-unity-relay",
+    "title": "Unity Relay",
+    "shortName": "Unity Relay",
+    "company": "Unity Technologies",
+    "website": "https://unity.com/products/relay",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Networking"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Unity service for peer-to-peer multiplayer connectivity.",
+    "longDescription": "Unity Relay is included in The Creative Vault as a game development resource. Unity service for peer-to-peer multiplayer connectivity.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Networking",
+      "Unity",
+      "Multiplayer"
+    ],
+    "bestFor": [
+      "Networking",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-firebase",
+    "title": "Firebase",
+    "shortName": "Firebase",
+    "company": "Google",
+    "website": "https://firebase.google.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Backend"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "App backend platform with auth, database, hosting, and cloud functions.",
+    "longDescription": "Firebase is included in The Creative Vault as a game development resource. App backend platform with auth, database, hosting, and cloud functions.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Backend",
+      "Backend"
+    ],
+    "bestFor": [
+      "Backend",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-supabase",
+    "title": "Supabase",
+    "shortName": "Supabase",
+    "company": "Supabase",
+    "website": "https://supabase.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Backend"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Open-source backend platform with Postgres, auth, storage, and functions.",
+    "longDescription": "Supabase is included in The Creative Vault as a game development resource. Open-source backend platform with Postgres, auth, storage, and functions.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Backend",
+      "Backend",
+      "Open Source"
+    ],
+    "bestFor": [
+      "Backend",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": true,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-appwrite",
+    "title": "Appwrite",
+    "shortName": "Appwrite",
+    "company": "Appwrite",
+    "website": "https://appwrite.io/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Backend"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Open-source backend server for web, mobile, and game projects.",
+    "longDescription": "Appwrite is included in The Creative Vault as a game development resource. Open-source backend server for web, mobile, and game projects.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Backend",
+      "Backend",
+      "Open Source"
+    ],
+    "bestFor": [
+      "Backend",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": true,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-pocketbase",
+    "title": "PocketBase",
+    "shortName": "PocketBase",
+    "company": "PocketBase",
+    "website": "https://pocketbase.io/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Backend"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Open-source backend in one file with database, auth, and realtime features.",
+    "longDescription": "PocketBase is included in The Creative Vault as a game development resource. Open-source backend in one file with database, auth, and realtime features.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Backend",
+      "Backend",
+      "Open Source"
+    ],
+    "bestFor": [
+      "Backend",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": true,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-aws-gamelift",
+    "title": "AWS GameLift",
+    "shortName": "AWS GameLift",
+    "company": "Amazon Web Services",
+    "website": "https://aws.amazon.com/gamelift/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Backend"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Managed game server hosting for multiplayer games.",
+    "longDescription": "AWS GameLift is included in The Creative Vault as a game development resource. Managed game server hosting for multiplayer games.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Backend",
+      "Server Hosting"
+    ],
+    "bestFor": [
+      "Backend",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-beamable",
+    "title": "Beamable",
+    "shortName": "Beamable",
+    "company": "Beamable",
+    "website": "https://beamable.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Backend"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Live game backend services for Unity games.",
+    "longDescription": "Beamable is included in The Creative Vault as a game development resource. Live game backend services for Unity games.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Backend",
+      "Backend",
+      "Unity"
+    ],
+    "bestFor": [
+      "Backend",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-lootlocker",
+    "title": "LootLocker",
+    "shortName": "LootLocker",
+    "company": "LootLocker",
+    "website": "https://lootlocker.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Backend"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Game backend for player accounts, inventories, progression, and live services.",
+    "longDescription": "LootLocker is included in The Creative Vault as a game development resource. Game backend for player accounts, inventories, progression, and live services.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Backend",
+      "Backend",
+      "Live Ops"
+    ],
+    "bestFor": [
+      "Backend",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-accelbyte",
+    "title": "AccelByte",
+    "shortName": "AccelByte",
+    "company": "AccelByte",
+    "website": "https://accelbyte.io/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Backend"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Backend platform for online games, accounts, matchmaking, and live operations.",
+    "longDescription": "AccelByte is included in The Creative Vault as a game development resource. Backend platform for online games, accounts, matchmaking, and live operations.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Backend",
+      "Backend",
+      "Live Ops"
+    ],
+    "bestFor": [
+      "Backend",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-pragma",
+    "title": "Pragma",
+    "shortName": "Pragma",
+    "company": "Pragma",
+    "website": "https://pragma.gg/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Backend"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Backend platform for multiplayer and live service games.",
+    "longDescription": "Pragma is included in The Creative Vault as a game development resource. Backend platform for multiplayer and live service games.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Backend",
+      "Backend",
+      "Live Ops"
+    ],
+    "bestFor": [
+      "Backend",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-gamesparks-archive",
+    "title": "GameSparks Archive",
+    "shortName": "GameSparks Archive",
+    "company": "GameSparks",
+    "website": "https://aws.amazon.com/gamelift/gamesparks/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Backend"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "AWS GameSparks backend service reference for game developers.",
+    "longDescription": "GameSparks Archive is included in The Creative Vault as a game development resource. AWS GameSparks backend service reference for game developers.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Backend",
+      "Backend"
+    ],
+    "bestFor": [
+      "Backend",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

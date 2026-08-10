@@ -1,0 +1,362 @@
+[
+  {
+    "id": "coding-codesandbox",
+    "title": "CodeSandbox",
+    "shortName": "CodeSandbox",
+    "company": "CodeSandbox",
+    "website": "https://codesandbox.io/",
+    "category": "Coding",
+    "categoryId": "coding",
+    "subcategories": [
+      "Dev Environment"
+    ],
+    "type": "Resource",
+    "shortDescription": "Online development environment for web apps and prototypes.",
+    "longDescription": "CodeSandbox is included in The Creative Vault as a dev environment resource. Online development environment for web apps and prototypes.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Coding",
+      "Dev Environment",
+      "Web"
+    ],
+    "bestFor": [
+      "Dev Environment",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "coding-stackblitz",
+    "title": "StackBlitz",
+    "shortName": "StackBlitz",
+    "company": "StackBlitz",
+    "website": "https://stackblitz.com/",
+    "category": "Coding",
+    "categoryId": "coding",
+    "subcategories": [
+      "Dev Environment"
+    ],
+    "type": "Resource",
+    "shortDescription": "Browser-based development environment powered by WebContainers.",
+    "longDescription": "StackBlitz is included in The Creative Vault as a dev environment resource. Browser-based development environment powered by WebContainers.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Coding",
+      "Dev Environment",
+      "Web"
+    ],
+    "bestFor": [
+      "Dev Environment",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "coding-gitpod",
+    "title": "Gitpod",
+    "shortName": "Gitpod",
+    "company": "Gitpod",
+    "website": "https://www.gitpod.io/",
+    "category": "Coding",
+    "categoryId": "coding",
+    "subcategories": [
+      "Cloud Development"
+    ],
+    "type": "Resource",
+    "shortDescription": "Cloud development environments for software projects.",
+    "longDescription": "Gitpod is included in The Creative Vault as a cloud development resource. Cloud development environments for software projects.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Coding",
+      "Cloud Development",
+      "Cloud"
+    ],
+    "bestFor": [
+      "Cloud Development",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "coding-replit",
+    "title": "Replit",
+    "shortName": "Replit",
+    "company": "Replit",
+    "website": "https://replit.com/",
+    "category": "Coding",
+    "categoryId": "coding",
+    "subcategories": [
+      "Cloud Development"
+    ],
+    "type": "Resource",
+    "shortDescription": "Browser-based coding, hosting, and AI app building platform.",
+    "longDescription": "Replit is included in The Creative Vault as a cloud development resource. Browser-based coding, hosting, and AI app building platform.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Coding",
+      "Cloud Development",
+      "Cloud"
+    ],
+    "bestFor": [
+      "Cloud Development",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "coding-codeanywhere",
+    "title": "Codeanywhere",
+    "shortName": "Codeanywhere",
+    "company": "Codeanywhere",
+    "website": "https://codeanywhere.com/",
+    "category": "Coding",
+    "categoryId": "coding",
+    "subcategories": [
+      "Cloud Development"
+    ],
+    "type": "Resource",
+    "shortDescription": "Cloud IDE and development environment.",
+    "longDescription": "Codeanywhere is included in The Creative Vault as a cloud development resource. Cloud IDE and development environment.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Coding",
+      "Cloud Development",
+      "Cloud"
+    ],
+    "bestFor": [
+      "Cloud Development",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "coding-sourcegraph",
+    "title": "Sourcegraph",
+    "shortName": "Sourcegraph",
+    "company": "Sourcegraph",
+    "website": "https://sourcegraph.com/",
+    "category": "Coding",
+    "categoryId": "coding",
+    "subcategories": [
+      "Code Search"
+    ],
+    "type": "Resource",
+    "shortDescription": "Code search and intelligence platform.",
+    "longDescription": "Sourcegraph is included in The Creative Vault as a code search resource. Code search and intelligence platform.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Coding",
+      "Code Search",
+      "Search"
+    ],
+    "bestFor": [
+      "Code Search",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "coding-sonarcloud",
+    "title": "SonarCloud",
+    "shortName": "SonarCloud",
+    "company": "SonarSource",
+    "website": "https://www.sonarsource.com/products/sonarcloud/",
+    "category": "Coding",
+    "categoryId": "coding",
+    "subcategories": [
+      "Code Quality"
+    ],
+    "type": "Resource",
+    "shortDescription": "Cloud code quality and security analysis.",
+    "longDescription": "SonarCloud is included in The Creative Vault as a code quality resource. Cloud code quality and security analysis.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Coding",
+      "Code Quality",
+      "Quality"
+    ],
+    "bestFor": [
+      "Code Quality",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "coding-snyk",
+    "title": "Snyk",
+    "shortName": "Snyk",
+    "company": "Snyk",
+    "website": "https://snyk.io/",
+    "category": "Coding",
+    "categoryId": "coding",
+    "subcategories": [
+      "Security"
+    ],
+    "type": "Resource",
+    "shortDescription": "Developer security platform for code and dependencies.",
+    "longDescription": "Snyk is included in The Creative Vault as a security resource. Developer security platform for code and dependencies.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Coding",
+      "Security",
+      "Security"
+    ],
+    "bestFor": [
+      "Security",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "coding-socket",
+    "title": "Socket",
+    "shortName": "Socket",
+    "company": "Socket",
+    "website": "https://socket.dev/",
+    "category": "Coding",
+    "categoryId": "coding",
+    "subcategories": [
+      "Security"
+    ],
+    "type": "Resource",
+    "shortDescription": "Dependency security and supply chain protection.",
+    "longDescription": "Socket is included in The Creative Vault as a security resource. Dependency security and supply chain protection.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Coding",
+      "Security",
+      "Security"
+    ],
+    "bestFor": [
+      "Security",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "coding-raycast",
+    "title": "Raycast",
+    "shortName": "Raycast",
+    "company": "Raycast",
+    "website": "https://www.raycast.com/",
+    "category": "Coding",
+    "categoryId": "coding",
+    "subcategories": [
+      "Productivity"
+    ],
+    "type": "Resource",
+    "shortDescription": "Launcher and productivity platform for developers and power users.",
+    "longDescription": "Raycast is included in The Creative Vault as a productivity resource. Launcher and productivity platform for developers and power users.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Coding",
+      "Productivity",
+      "Productivity"
+    ],
+    "bestFor": [
+      "Productivity",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

@@ -1,0 +1,1288 @@
+[
+  {
+    "id": "photography-the-photographer-s-ephemeris",
+    "title": "The Photographer's Ephemeris",
+    "shortName": "The Photographer's Ephemeris",
+    "company": "Crookneck Consulting",
+    "website": "https://photoephemeris.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Planning Tools"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Sun, moon, and light planning tool for photographers.",
+    "longDescription": "The Photographer's Ephemeris is included in The Creative Vault as a photography resource. Sun, moon, and light planning tool for photographers.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "Planning Tools",
+      "Planning"
+    ],
+    "bestFor": [
+      "Planning Tools",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": true,
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-photopills",
+    "title": "PhotoPills",
+    "shortName": "PhotoPills",
+    "company": "PhotoPills",
+    "website": "https://www.photopills.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Planning Tools"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Photography planning app for sun, moon, Milky Way, depth of field, and more.",
+    "longDescription": "PhotoPills is included in The Creative Vault as a photography resource. Photography planning app for sun, moon, Milky Way, depth of field, and more.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "Planning Tools",
+      "Planning"
+    ],
+    "bestFor": [
+      "Planning Tools",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": true,
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-suncalc",
+    "title": "SunCalc",
+    "shortName": "SunCalc",
+    "company": "SunCalc",
+    "website": "https://www.suncalc.org/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Planning Tools"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Free sun position and sunlight planning tool.",
+    "longDescription": "SunCalc is included in The Creative Vault as a photography resource. Free sun position and sunlight planning tool.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Planning Tools",
+      "Sun",
+      "Free"
+    ],
+    "bestFor": [
+      "Planning Tools",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": true,
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-mooncalc",
+    "title": "MoonCalc",
+    "shortName": "MoonCalc",
+    "company": "MoonCalc",
+    "website": "https://www.mooncalc.org/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Planning Tools"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Free moon position planning tool.",
+    "longDescription": "MoonCalc is included in The Creative Vault as a photography resource. Free moon position planning tool.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Planning Tools",
+      "Moon",
+      "Free"
+    ],
+    "bestFor": [
+      "Planning Tools",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-clear-outside",
+    "title": "Clear Outside",
+    "shortName": "Clear Outside",
+    "company": "First Light Optics",
+    "website": "https://clearoutside.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Planning Tools"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Weather forecast tool for astronomy and night photography.",
+    "longDescription": "Clear Outside is included in The Creative Vault as a photography resource. Weather forecast tool for astronomy and night photography.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Planning Tools",
+      "Weather",
+      "Astro"
+    ],
+    "bestFor": [
+      "Planning Tools",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-meteoblue",
+    "title": "Meteoblue",
+    "shortName": "Meteoblue",
+    "company": "Meteoblue",
+    "website": "https://www.meteoblue.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Planning Tools"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Weather forecasting and maps useful for outdoor photography.",
+    "longDescription": "Meteoblue is included in The Creative Vault as a photography resource. Weather forecasting and maps useful for outdoor photography.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Photography",
+      "Planning Tools",
+      "Weather"
+    ],
+    "bestFor": [
+      "Planning Tools",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-windy",
+    "title": "Windy",
+    "shortName": "Windy",
+    "company": "Windy",
+    "website": "https://www.windy.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Planning Tools"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Weather maps for wind, clouds, rain, and outdoor planning.",
+    "longDescription": "Windy is included in The Creative Vault as a photography resource. Weather maps for wind, clouds, rain, and outdoor planning.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Planning Tools",
+      "Weather"
+    ],
+    "bestFor": [
+      "Planning Tools",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-dark-site-finder",
+    "title": "Dark Site Finder",
+    "shortName": "Dark Site Finder",
+    "company": "Dark Site Finder",
+    "website": "https://darksitefinder.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Planning Tools"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Light pollution map for astrophotography planning.",
+    "longDescription": "Dark Site Finder is included in The Creative Vault as a photography resource. Light pollution map for astrophotography planning.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Planning Tools",
+      "Astro"
+    ],
+    "bestFor": [
+      "Planning Tools",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-light-pollution-map",
+    "title": "Light Pollution Map",
+    "shortName": "Light Pollution Map",
+    "company": "Light Pollution Map",
+    "website": "https://www.lightpollutionmap.info/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Planning Tools"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Global light pollution map for night photography.",
+    "longDescription": "Light Pollution Map is included in The Creative Vault as a photography resource. Global light pollution map for night photography.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Planning Tools",
+      "Astro"
+    ],
+    "bestFor": [
+      "Planning Tools",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-stellarium-web",
+    "title": "Stellarium Web",
+    "shortName": "Stellarium Web",
+    "company": "Stellarium",
+    "website": "https://stellarium-web.org/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Planning Tools"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Browser-based planetarium for night sky planning.",
+    "longDescription": "Stellarium Web is included in The Creative Vault as a photography resource. Browser-based planetarium for night sky planning.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Planning Tools",
+      "Astro"
+    ],
+    "bestFor": [
+      "Planning Tools",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-dofmaster",
+    "title": "DOFMaster",
+    "shortName": "DOFMaster",
+    "company": "DOFMaster",
+    "website": "https://www.dofmaster.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Planning Tools"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Depth of field calculator and photography tools.",
+    "longDescription": "DOFMaster is included in The Creative Vault as a photography resource. Depth of field calculator and photography tools.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Planning Tools",
+      "Calculator"
+    ],
+    "bestFor": [
+      "Planning Tools",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-cambridge-in-colour",
+    "title": "Cambridge in Colour",
+    "shortName": "Cambridge in Colour",
+    "company": "Cambridge in Colour",
+    "website": "https://www.cambridgeincolour.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Reference"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Photography tutorials, calculators, and technical reference guides.",
+    "longDescription": "Cambridge in Colour is included in The Creative Vault as a photography resource. Photography tutorials, calculators, and technical reference guides.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Photography Reference",
+      "Reference"
+    ],
+    "bestFor": [
+      "Photography Reference",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": true,
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-exposure-calculator",
+    "title": "Exposure Calculator",
+    "shortName": "Exposure Calculator",
+    "company": "Omni Calculator",
+    "website": "https://www.omnicalculator.com/other/exposure",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Planning Tools"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Photography exposure calculator.",
+    "longDescription": "Exposure Calculator is included in The Creative Vault as a photography resource. Photography exposure calculator.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Planning Tools",
+      "Calculator"
+    ],
+    "bestFor": [
+      "Planning Tools",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-depth-of-field-simulator",
+    "title": "Depth of Field Simulator",
+    "shortName": "Depth of Field Simulator",
+    "company": "DOF Simulator",
+    "website": "https://dofsimulator.net/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Planning Tools"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Depth of field and camera/lens visual simulator.",
+    "longDescription": "Depth of Field Simulator is included in The Creative Vault as a photography resource. Depth of field and camera/lens visual simulator.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Planning Tools",
+      "Calculator"
+    ],
+    "bestFor": [
+      "Planning Tools",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-camera-decision",
+    "title": "Camera Decision",
+    "shortName": "Camera Decision",
+    "company": "Camera Decision",
+    "website": "https://cameradecision.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Reference"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Camera comparison and specification database.",
+    "longDescription": "Camera Decision is included in The Creative Vault as a photography resource. Camera comparison and specification database.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Photography Reference",
+      "Camera Comparison"
+    ],
+    "bestFor": [
+      "Photography Reference",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-mpb-camera-guides",
+    "title": "MPB Camera Guides",
+    "shortName": "MPB Camera Guides",
+    "company": "MPB",
+    "website": "https://www.mpb.com/en-us/content",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Reference"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Used camera and lens guides, reviews, and buying advice.",
+    "longDescription": "MPB Camera Guides is included in The Creative Vault as a photography resource. Used camera and lens guides, reviews, and buying advice.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Photography Reference",
+      "Buying Guide"
+    ],
+    "bestFor": [
+      "Photography Reference",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-keh-blog",
+    "title": "KEH Blog",
+    "shortName": "KEH Blog",
+    "company": "KEH Camera",
+    "website": "https://www.keh.com/blog",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Reference"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Used camera gear guides and photography articles.",
+    "longDescription": "KEH Blog is included in The Creative Vault as a photography resource. Used camera gear guides and photography articles.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Photography Reference",
+      "Gear"
+    ],
+    "bestFor": [
+      "Photography Reference",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-shotkit",
+    "title": "Shotkit",
+    "shortName": "Shotkit",
+    "company": "Shotkit",
+    "website": "https://shotkit.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Reference"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Photography gear reviews, inspiration, and business resources.",
+    "longDescription": "Shotkit is included in The Creative Vault as a photography resource. Photography gear reviews, inspiration, and business resources.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Photography Reference",
+      "Gear"
+    ],
+    "bestFor": [
+      "Photography Reference",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-camerasize",
+    "title": "CameraSize",
+    "shortName": "CameraSize",
+    "company": "CameraSize",
+    "website": "https://camerasize.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Reference"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Compare camera body and lens sizes visually.",
+    "longDescription": "CameraSize is included in The Creative Vault as a photography resource. Compare camera body and lens sizes visually.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Photography Reference",
+      "Camera Comparison"
+    ],
+    "bestFor": [
+      "Photography Reference",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-explorecams",
+    "title": "ExploreCams",
+    "shortName": "ExploreCams",
+    "company": "ExploreCams",
+    "website": "https://explorecams.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Reference"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Explore photos by camera and lens metadata.",
+    "longDescription": "ExploreCams is included in The Creative Vault as a photography resource. Explore photos by camera and lens metadata.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Photography Reference",
+      "Reference"
+    ],
+    "bestFor": [
+      "Photography Reference",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-pixelpeeper",
+    "title": "PixelPeeper",
+    "shortName": "PixelPeeper",
+    "company": "PixelPeeper",
+    "website": "https://pixelpeeper.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Reference"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Explore Lightroom settings and EXIF from shared images.",
+    "longDescription": "PixelPeeper is included in The Creative Vault as a photography resource. Explore Lightroom settings and EXIF from shared images.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Photography Reference",
+      "EXIF"
+    ],
+    "bestFor": [
+      "Photography Reference",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-jeffrey-s-image-metadata-viewer",
+    "title": "Jeffrey's Image Metadata Viewer",
+    "shortName": "Jeffrey's Image Metadata Viewer",
+    "company": "Jeffrey Friedl",
+    "website": "http://exif.regex.info/exif.cgi",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Reference"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "View EXIF and metadata from image files.",
+    "longDescription": "Jeffrey's Image Metadata Viewer is included in The Creative Vault as a photography resource. View EXIF and metadata from image files.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Photography Reference",
+      "EXIF"
+    ],
+    "bestFor": [
+      "Photography Reference",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-exiftool",
+    "title": "ExifTool",
+    "shortName": "ExifTool",
+    "company": "Phil Harvey",
+    "website": "https://exiftool.org/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Reference"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Read, write, and edit image metadata.",
+    "longDescription": "ExifTool is included in The Creative Vault as a photography resource. Read, write, and edit image metadata.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Photography Reference",
+      "EXIF"
+    ],
+    "bestFor": [
+      "Photography Reference",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-exif-pilot-free",
+    "title": "Exif Pilot Free",
+    "shortName": "Exif Pilot Free",
+    "company": "Two Pilots",
+    "website": "https://www.colorpilot.com/exif.html",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Reference"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "EXIF editor and metadata tool.",
+    "longDescription": "Exif Pilot Free is included in The Creative Vault as a photography resource. EXIF editor and metadata tool.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Photography Reference",
+      "EXIF"
+    ],
+    "bestFor": [
+      "Photography Reference",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-rawdigger",
+    "title": "RawDigger",
+    "shortName": "RawDigger",
+    "company": "LibRaw",
+    "website": "https://www.rawdigger.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Reference"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "RAW file analysis tool for technical photography workflows.",
+    "longDescription": "RawDigger is included in The Creative Vault as a photography resource. RAW file analysis tool for technical photography workflows.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "Photography Reference",
+      "RAW"
+    ],
+    "bestFor": [
+      "Photography Reference",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-libraw",
+    "title": "LibRaw",
+    "shortName": "LibRaw",
+    "company": "LibRaw",
+    "website": "https://www.libraw.org/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Reference"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Library for reading RAW files from digital cameras.",
+    "longDescription": "LibRaw is included in The Creative Vault as a photography resource. Library for reading RAW files from digital cameras.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Photography Reference",
+      "RAW",
+      "Open Source"
+    ],
+    "bestFor": [
+      "Photography Reference",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-open-photography-forums",
+    "title": "Open Photography Forums",
+    "shortName": "Open Photography Forums",
+    "company": "Open Photography Forums",
+    "website": "https://openphotographyforums.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Community"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Photography discussion and critique community.",
+    "longDescription": "Open Photography Forums is included in The Creative Vault as a photography resource. Photography discussion and critique community.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Photography Community",
+      "Community"
+    ],
+    "bestFor": [
+      "Photography Community",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-fred-miranda-forums",
+    "title": "Fred Miranda Forums",
+    "shortName": "Fred Miranda Forums",
+    "company": "Fred Miranda",
+    "website": "https://www.fredmiranda.com/forum/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Community"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Photography gear, discussion, buy/sell, and community forums.",
+    "longDescription": "Fred Miranda Forums is included in The Creative Vault as a photography resource. Photography gear, discussion, buy/sell, and community forums.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Photography",
+      "Photography Community",
+      "Community"
+    ],
+    "bestFor": [
+      "Photography Community",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-talk-photography",
+    "title": "Talk Photography",
+    "shortName": "Talk Photography",
+    "company": "Talk Photography",
+    "website": "https://www.talkphotography.co.uk/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Community"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Photography forum and community.",
+    "longDescription": "Talk Photography is included in The Creative Vault as a photography resource. Photography forum and community.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Photography Community",
+      "Community"
+    ],
+    "bestFor": [
+      "Photography Community",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-photography-stack-exchange",
+    "title": "Photography Stack Exchange",
+    "shortName": "Photography Stack Exchange",
+    "company": "Stack Exchange",
+    "website": "https://photo.stackexchange.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Community"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Q&A community for photographers.",
+    "longDescription": "Photography Stack Exchange is included in The Creative Vault as a photography resource. Q&A community for photographers.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Photography Community",
+      "Q&A"
+    ],
+    "bestFor": [
+      "Photography Community",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

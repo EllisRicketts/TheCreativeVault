@@ -1,0 +1,1045 @@
+[
+  {
+    "id": "game-dev-unreal-engine",
+    "title": "Unreal Engine",
+    "shortName": "Unreal Engine",
+    "company": "Epic Games",
+    "website": "https://www.unrealengine.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Engine"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "High-end real-time 3D engine for games, film, visualization, and interactive experiences.",
+    "longDescription": "Unreal Engine is included in The Creative Vault as a game development resource. High-end real-time 3D engine for games, film, visualization, and interactive experiences.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Game Engine",
+      "3D",
+      "Realtime",
+      "AAA"
+    ],
+    "bestFor": [
+      "Game Engine",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08",
+    "languages": [
+      "C++",
+      "Blueprints"
+    ],
+    "supports2D": true,
+    "supports3D": true,
+    "assetStore": true,
+    "multiplayer": true
+  },
+  {
+    "id": "game-dev-unity",
+    "title": "Unity",
+    "shortName": "Unity",
+    "company": "Unity Technologies",
+    "website": "https://unity.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Engine"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Popular cross-platform game engine for 2D, 3D, mobile, VR, AR, and indie development.",
+    "longDescription": "Unity is included in The Creative Vault as a game development resource. Popular cross-platform game engine for 2D, 3D, mobile, VR, AR, and indie development.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Game Engine",
+      "2D",
+      "3D",
+      "Mobile",
+      "VR"
+    ],
+    "bestFor": [
+      "Game Engine",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08",
+    "languages": [
+      "C#"
+    ],
+    "supports2D": true,
+    "supports3D": true,
+    "assetStore": true,
+    "multiplayer": true
+  },
+  {
+    "id": "game-dev-godot",
+    "title": "Godot",
+    "shortName": "Godot",
+    "company": "Godot Foundation",
+    "website": "https://godotengine.org/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Engine"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Free open-source game engine for 2D and 3D development.",
+    "longDescription": "Godot is included in The Creative Vault as a game development resource. Free open-source game engine for 2D and 3D development.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Game Engine",
+      "Open Source",
+      "2D",
+      "3D"
+    ],
+    "bestFor": [
+      "Game Engine",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": true,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08",
+    "languages": [
+      "GDScript",
+      "C#",
+      "C++"
+    ],
+    "supports2D": true,
+    "supports3D": true,
+    "assetStore": true
+  },
+  {
+    "id": "game-dev-gamemaker",
+    "title": "GameMaker",
+    "shortName": "GameMaker",
+    "company": "Opera",
+    "website": "https://gamemaker.io/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Engine"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Beginner-friendly 2D game engine used for indie games and rapid development.",
+    "longDescription": "GameMaker is included in The Creative Vault as a game development resource. Beginner-friendly 2D game engine used for indie games and rapid development.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Game Engine",
+      "2D",
+      "Indie"
+    ],
+    "bestFor": [
+      "Game Engine",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08",
+    "languages": [
+      "GML"
+    ],
+    "supports2D": true,
+    "supports3D": false
+  },
+  {
+    "id": "game-dev-construct-3",
+    "title": "Construct 3",
+    "shortName": "Construct 3",
+    "company": "Scirra",
+    "website": "https://www.construct.net/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Engine"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Browser-based no-code and low-code game engine for 2D games.",
+    "longDescription": "Construct 3 is included in The Creative Vault as a game development resource. Browser-based no-code and low-code game engine for 2D games.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Game Dev",
+      "Game Engine",
+      "No Code",
+      "2D",
+      "Browser"
+    ],
+    "bestFor": [
+      "Game Engine",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08",
+    "supports2D": true,
+    "supports3D": false
+  },
+  {
+    "id": "game-dev-defold",
+    "title": "Defold",
+    "shortName": "Defold",
+    "company": "Defold Foundation",
+    "website": "https://defold.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Engine"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Free game engine for 2D games, mobile titles, and lightweight cross-platform projects.",
+    "longDescription": "Defold is included in The Creative Vault as a game development resource. Free game engine for 2D games, mobile titles, and lightweight cross-platform projects.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Game Engine",
+      "2D",
+      "Mobile"
+    ],
+    "bestFor": [
+      "Game Engine",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": true,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08",
+    "languages": [
+      "Lua"
+    ],
+    "supports2D": true
+  },
+  {
+    "id": "game-dev-cryengine",
+    "title": "CryEngine",
+    "shortName": "CryEngine",
+    "company": "Crytek",
+    "website": "https://www.cryengine.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Engine"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Powerful real-time 3D game engine known for high-end visuals.",
+    "longDescription": "CryEngine is included in The Creative Vault as a game development resource. Powerful real-time 3D game engine known for high-end visuals.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Game Engine",
+      "3D",
+      "Realtime"
+    ],
+    "bestFor": [
+      "Game Engine",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08",
+    "languages": [
+      "C++"
+    ],
+    "supports3D": true
+  },
+  {
+    "id": "game-dev-o3de",
+    "title": "O3DE",
+    "shortName": "O3DE",
+    "company": "Open 3D Foundation",
+    "website": "https://o3de.org/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Engine"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Open-source 3D engine for games, simulations, and real-time applications.",
+    "longDescription": "O3DE is included in The Creative Vault as a game development resource. Open-source 3D engine for games, simulations, and real-time applications.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Game Engine",
+      "Open Source",
+      "3D"
+    ],
+    "bestFor": [
+      "Game Engine",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": true,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08",
+    "languages": [
+      "C++",
+      "Lua",
+      "Script Canvas"
+    ],
+    "supports3D": true
+  },
+  {
+    "id": "game-dev-rpg-maker",
+    "title": "RPG Maker",
+    "shortName": "RPG Maker",
+    "company": "Gotcha Gotcha Games",
+    "website": "https://www.rpgmakerweb.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Engine"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Game engine and toolset for making 2D role-playing games.",
+    "longDescription": "RPG Maker is included in The Creative Vault as a game development resource. Game engine and toolset for making 2D role-playing games.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Game Engine",
+      "RPG",
+      "2D"
+    ],
+    "bestFor": [
+      "Game Engine",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-gdevelop",
+    "title": "GDevelop",
+    "shortName": "GDevelop",
+    "company": "GDevelop",
+    "website": "https://gdevelop.io/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Engine"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Open-source no-code game engine for 2D games.",
+    "longDescription": "GDevelop is included in The Creative Vault as a game development resource. Open-source no-code game engine for 2D games.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Game Engine",
+      "No Code",
+      "2D",
+      "Open Source"
+    ],
+    "bestFor": [
+      "Game Engine",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux",
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": true,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-cocos-creator",
+    "title": "Cocos Creator",
+    "shortName": "Cocos Creator",
+    "company": "Cocos",
+    "website": "https://www.cocos.com/en/creator",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Engine"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Cross-platform game engine for 2D and 3D games.",
+    "longDescription": "Cocos Creator is included in The Creative Vault as a game development resource. Cross-platform game engine for 2D and 3D games.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Game Engine",
+      "2D",
+      "3D",
+      "Mobile"
+    ],
+    "bestFor": [
+      "Game Engine",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-bevy-engine",
+    "title": "Bevy Engine",
+    "shortName": "Bevy Engine",
+    "company": "Bevy Foundation",
+    "website": "https://bevyengine.org/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Engine"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Open-source Rust game engine built around ECS architecture.",
+    "longDescription": "Bevy Engine is included in The Creative Vault as a game development resource. Open-source Rust game engine built around ECS architecture.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Game Engine",
+      "Rust",
+      "Open Source"
+    ],
+    "bestFor": [
+      "Game Engine",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": true,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-monogame",
+    "title": "MonoGame",
+    "shortName": "MonoGame",
+    "company": "MonoGame Foundation",
+    "website": "https://www.monogame.net/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Engine"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Open-source framework for cross-platform game development.",
+    "longDescription": "MonoGame is included in The Creative Vault as a game development resource. Open-source framework for cross-platform game development.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Game Engine",
+      "Framework",
+      "Open Source"
+    ],
+    "bestFor": [
+      "Game Engine",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": true,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-stride",
+    "title": "Stride",
+    "shortName": "Stride",
+    "company": "Stride3D",
+    "website": "https://www.stride3d.net/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Engine"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Open-source C# game engine for realistic rendering and cross-platform games.",
+    "longDescription": "Stride is included in The Creative Vault as a game development resource. Open-source C# game engine for realistic rendering and cross-platform games.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Game Engine",
+      "C#",
+      "Open Source",
+      "3D"
+    ],
+    "bestFor": [
+      "Game Engine",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": true,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-phaser",
+    "title": "Phaser",
+    "shortName": "Phaser",
+    "company": "Phaser Studio",
+    "website": "https://phaser.io/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Engine"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Fast open-source HTML5 game framework for browser games.",
+    "longDescription": "Phaser is included in The Creative Vault as a game development resource. Fast open-source HTML5 game framework for browser games.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Game Engine",
+      "HTML5",
+      "2D",
+      "Open Source"
+    ],
+    "bestFor": [
+      "Game Engine",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": true,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-solar2d",
+    "title": "Solar2D",
+    "shortName": "Solar2D",
+    "company": "Solar2D",
+    "website": "https://solar2d.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Engine"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Open-source Lua-based 2D game engine formerly known as Corona SDK.",
+    "longDescription": "Solar2D is included in The Creative Vault as a game development resource. Open-source Lua-based 2D game engine formerly known as Corona SDK.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Game Engine",
+      "Lua",
+      "2D",
+      "Mobile"
+    ],
+    "bestFor": [
+      "Game Engine",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": true,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-armory3d",
+    "title": "Armory3D",
+    "shortName": "Armory3D",
+    "company": "Armory",
+    "website": "https://armory3d.org/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Engine"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Open-source 3D game engine integrated with Blender.",
+    "longDescription": "Armory3D is included in The Creative Vault as a game development resource. Open-source 3D game engine integrated with Blender.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Game Engine",
+      "Blender",
+      "Open Source",
+      "3D"
+    ],
+    "bestFor": [
+      "Game Engine",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": true,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-panda3d",
+    "title": "Panda3D",
+    "shortName": "Panda3D",
+    "company": "Carnegie Mellon University",
+    "website": "https://www.panda3d.org/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Engine"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Open-source 3D engine and framework for Python and C++ games.",
+    "longDescription": "Panda3D is included in The Creative Vault as a game development resource. Open-source 3D engine and framework for Python and C++ games.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Game Engine",
+      "Python",
+      "Open Source",
+      "3D"
+    ],
+    "bestFor": [
+      "Game Engine",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": true,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-love2d",
+    "title": "LOVE2D",
+    "shortName": "LOVE2D",
+    "company": "LOVE Development Team",
+    "website": "https://love2d.org/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Engine"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Lua framework for making 2D games.",
+    "longDescription": "LOVE2D is included in The Creative Vault as a game development resource. Lua framework for making 2D games.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Game Engine",
+      "Lua",
+      "2D",
+      "Open Source"
+    ],
+    "bestFor": [
+      "Game Engine",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": true,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-buildbox",
+    "title": "Buildbox",
+    "shortName": "Buildbox",
+    "company": "Buildbox",
+    "website": "https://www.buildbox.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Engine"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "No-code game engine for mobile and casual games.",
+    "longDescription": "Buildbox is included in The Creative Vault as a game development resource. No-code game engine for mobile and casual games.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Game Engine",
+      "No Code",
+      "Mobile"
+    ],
+    "bestFor": [
+      "Game Engine",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-ren-py",
+    "title": "Ren'Py",
+    "shortName": "Ren'Py",
+    "company": "Ren'Py",
+    "website": "https://www.renpy.org/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Engine"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Free visual novel engine used for interactive fiction and narrative games.",
+    "longDescription": "Ren'Py is included in The Creative Vault as a game development resource. Free visual novel engine used for interactive fiction and narrative games.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Game Engine",
+      "Visual Novel",
+      "Open Source"
+    ],
+    "bestFor": [
+      "Game Engine",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": true,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-twine",
+    "title": "Twine",
+    "shortName": "Twine",
+    "company": "Twine",
+    "website": "https://twinery.org/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Engine"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Open-source tool for interactive fiction and branching narrative games.",
+    "longDescription": "Twine is included in The Creative Vault as a game development resource. Open-source tool for interactive fiction and branching narrative games.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Game Engine",
+      "Interactive Fiction",
+      "No Code"
+    ],
+    "bestFor": [
+      "Game Engine",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser",
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": true,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-bitsy",
+    "title": "Bitsy",
+    "shortName": "Bitsy",
+    "company": "Bitsy",
+    "website": "https://ledoux.itch.io/bitsy",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Engine"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Tiny editor for making small narrative pixel games.",
+    "longDescription": "Bitsy is included in The Creative Vault as a game development resource. Tiny editor for making small narrative pixel games.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Game Engine",
+      "Pixel Art",
+      "Tiny Games"
+    ],
+    "bestFor": [
+      "Game Engine",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": true,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-gb-studio",
+    "title": "GB Studio",
+    "shortName": "GB Studio",
+    "company": "GB Studio",
+    "website": "https://www.gbstudio.dev/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Engine"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Visual game builder for Game Boy-style games.",
+    "longDescription": "GB Studio is included in The Creative Vault as a game development resource. Visual game builder for Game Boy-style games.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Game Engine",
+      "Retro",
+      "No Code"
+    ],
+    "bestFor": [
+      "Game Engine",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": true,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-pixel-vision-8",
+    "title": "Pixel Vision 8",
+    "shortName": "Pixel Vision 8",
+    "company": "Pixel Vision 8",
+    "website": "https://www.pixelvision8.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Engine"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Fantasy console and retro game development system.",
+    "longDescription": "Pixel Vision 8 is included in The Creative Vault as a game development resource. Fantasy console and retro game development system.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Game Engine",
+      "Retro",
+      "Pixel Art"
+    ],
+    "bestFor": [
+      "Game Engine",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

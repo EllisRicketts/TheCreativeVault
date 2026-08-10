@@ -1,0 +1,362 @@
+[
+  {
+    "id": "film-studiobinder",
+    "title": "StudioBinder",
+    "shortName": "StudioBinder",
+    "company": "StudioBinder",
+    "website": "https://www.studiobinder.com/",
+    "category": "Film",
+    "categoryId": "film",
+    "subcategories": [
+      "Film Production"
+    ],
+    "type": "Resource",
+    "shortDescription": "Production management, shot lists, call sheets, and filmmaking education.",
+    "longDescription": "StudioBinder is included in The Creative Vault as a film production resource. Production management, shot lists, call sheets, and filmmaking education.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Film",
+      "Film Production",
+      "Production"
+    ],
+    "bestFor": [
+      "Film Production",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "film-celtx",
+    "title": "Celtx",
+    "shortName": "Celtx",
+    "company": "Celtx",
+    "website": "https://www.celtx.com/",
+    "category": "Film",
+    "categoryId": "film",
+    "subcategories": [
+      "Screenwriting"
+    ],
+    "type": "Resource",
+    "shortDescription": "Scriptwriting and pre-production platform.",
+    "longDescription": "Celtx is included in The Creative Vault as a screenwriting resource. Scriptwriting and pre-production platform.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Film",
+      "Screenwriting",
+      "Screenwriting"
+    ],
+    "bestFor": [
+      "Screenwriting",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "film-writerduet",
+    "title": "WriterDuet",
+    "shortName": "WriterDuet",
+    "company": "WriterDuet",
+    "website": "https://www.writerduet.com/",
+    "category": "Film",
+    "categoryId": "film",
+    "subcategories": [
+      "Screenwriting"
+    ],
+    "type": "Resource",
+    "shortDescription": "Collaborative screenwriting software.",
+    "longDescription": "WriterDuet is included in The Creative Vault as a screenwriting resource. Collaborative screenwriting software.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Film",
+      "Screenwriting",
+      "Screenwriting"
+    ],
+    "bestFor": [
+      "Screenwriting",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "film-fade-in",
+    "title": "Fade In",
+    "shortName": "Fade In",
+    "company": "Fade In",
+    "website": "https://www.fadeinpro.com/",
+    "category": "Film",
+    "categoryId": "film",
+    "subcategories": [
+      "Screenwriting"
+    ],
+    "type": "Resource",
+    "shortDescription": "Professional screenwriting software.",
+    "longDescription": "Fade In is included in The Creative Vault as a screenwriting resource. Professional screenwriting software.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Film",
+      "Screenwriting",
+      "Screenwriting"
+    ],
+    "bestFor": [
+      "Screenwriting",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "film-final-draft",
+    "title": "Final Draft",
+    "shortName": "Final Draft",
+    "company": "Final Draft",
+    "website": "https://www.finaldraft.com/",
+    "category": "Film",
+    "categoryId": "film",
+    "subcategories": [
+      "Screenwriting"
+    ],
+    "type": "Resource",
+    "shortDescription": "Industry-standard screenwriting software.",
+    "longDescription": "Final Draft is included in The Creative Vault as a screenwriting resource. Industry-standard screenwriting software.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Film",
+      "Screenwriting",
+      "Screenwriting"
+    ],
+    "bestFor": [
+      "Screenwriting",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "film-shot-lister",
+    "title": "Shot Lister",
+    "shortName": "Shot Lister",
+    "company": "Shot Lister",
+    "website": "https://www.shotlister.com/",
+    "category": "Film",
+    "categoryId": "film",
+    "subcategories": [
+      "Shot Listing"
+    ],
+    "type": "Resource",
+    "shortDescription": "Shot list and scheduling app for film production.",
+    "longDescription": "Shot Lister is included in The Creative Vault as a shot listing resource. Shot list and scheduling app for film production.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Film",
+      "Shot Listing",
+      "Shot Lists"
+    ],
+    "bestFor": [
+      "Shot Listing",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "film-frame-io-camera-to-cloud",
+    "title": "Frame.io Camera to Cloud",
+    "shortName": "Frame.io Camera to Cloud",
+    "company": "Adobe",
+    "website": "https://frame.io/camera-to-cloud/",
+    "category": "Film",
+    "categoryId": "film",
+    "subcategories": [
+      "Production Workflow"
+    ],
+    "type": "Resource",
+    "shortDescription": "Cloud workflow for video production and review.",
+    "longDescription": "Frame.io Camera to Cloud is included in The Creative Vault as a production workflow resource. Cloud workflow for video production and review.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Film",
+      "Production Workflow",
+      "Review"
+    ],
+    "bestFor": [
+      "Production Workflow",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "film-sethero",
+    "title": "SetHero",
+    "shortName": "SetHero",
+    "company": "SetHero",
+    "website": "https://sethero.com/",
+    "category": "Film",
+    "categoryId": "film",
+    "subcategories": [
+      "Call Sheets"
+    ],
+    "type": "Resource",
+    "shortDescription": "Call sheet creation and production management tool.",
+    "longDescription": "SetHero is included in The Creative Vault as a call sheets resource. Call sheet creation and production management tool.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Film",
+      "Call Sheets",
+      "Call Sheets"
+    ],
+    "bestFor": [
+      "Call Sheets",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "film-yamdu",
+    "title": "Yamdu",
+    "shortName": "Yamdu",
+    "company": "Yamdu",
+    "website": "https://yamdu.com/",
+    "category": "Film",
+    "categoryId": "film",
+    "subcategories": [
+      "Production Management"
+    ],
+    "type": "Resource",
+    "shortDescription": "Film and TV production management platform.",
+    "longDescription": "Yamdu is included in The Creative Vault as a production management resource. Film and TV production management platform.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Film",
+      "Production Management",
+      "Production"
+    ],
+    "bestFor": [
+      "Production Management",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "film-boords",
+    "title": "Boords",
+    "shortName": "Boords",
+    "company": "Boords",
+    "website": "https://boords.com/",
+    "category": "Film",
+    "categoryId": "film",
+    "subcategories": [
+      "Storyboarding"
+    ],
+    "type": "Resource",
+    "shortDescription": "Storyboard creation and animatic platform.",
+    "longDescription": "Boords is included in The Creative Vault as a storyboarding resource. Storyboard creation and animatic platform.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Film",
+      "Storyboarding",
+      "Storyboards"
+    ],
+    "bestFor": [
+      "Storyboarding",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

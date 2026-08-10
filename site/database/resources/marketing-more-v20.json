@@ -1,0 +1,362 @@
+[
+  {
+    "id": "marketing-ahrefs",
+    "title": "Ahrefs",
+    "shortName": "Ahrefs",
+    "company": "Ahrefs",
+    "website": "https://ahrefs.com/",
+    "category": "Marketing",
+    "categoryId": "marketing",
+    "subcategories": [
+      "SEO"
+    ],
+    "type": "Resource",
+    "shortDescription": "SEO toolset for keyword research, backlinks, and content analysis.",
+    "longDescription": "Ahrefs is included in The Creative Vault as a seo resource. SEO toolset for keyword research, backlinks, and content analysis.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Marketing",
+      "SEO",
+      "SEO"
+    ],
+    "bestFor": [
+      "SEO",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "marketing-semrush",
+    "title": "Semrush",
+    "shortName": "Semrush",
+    "company": "Semrush",
+    "website": "https://www.semrush.com/",
+    "category": "Marketing",
+    "categoryId": "marketing",
+    "subcategories": [
+      "SEO"
+    ],
+    "type": "Resource",
+    "shortDescription": "SEO, content, competitor research, and marketing platform.",
+    "longDescription": "Semrush is included in The Creative Vault as a seo resource. SEO, content, competitor research, and marketing platform.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Marketing",
+      "SEO",
+      "SEO"
+    ],
+    "bestFor": [
+      "SEO",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "marketing-moz",
+    "title": "Moz",
+    "shortName": "Moz",
+    "company": "Moz",
+    "website": "https://moz.com/",
+    "category": "Marketing",
+    "categoryId": "marketing",
+    "subcategories": [
+      "SEO"
+    ],
+    "type": "Resource",
+    "shortDescription": "SEO software and learning resources.",
+    "longDescription": "Moz is included in The Creative Vault as a seo resource. SEO software and learning resources.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Marketing",
+      "SEO",
+      "SEO"
+    ],
+    "bestFor": [
+      "SEO",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "marketing-ubersuggest",
+    "title": "Ubersuggest",
+    "shortName": "Ubersuggest",
+    "company": "Neil Patel",
+    "website": "https://neilpatel.com/ubersuggest/",
+    "category": "Marketing",
+    "categoryId": "marketing",
+    "subcategories": [
+      "SEO"
+    ],
+    "type": "Resource",
+    "shortDescription": "Keyword and SEO research tool.",
+    "longDescription": "Ubersuggest is included in The Creative Vault as a seo resource. Keyword and SEO research tool.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Marketing",
+      "SEO",
+      "SEO"
+    ],
+    "bestFor": [
+      "SEO",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "marketing-answerthepublic",
+    "title": "AnswerThePublic",
+    "shortName": "AnswerThePublic",
+    "company": "NP Digital",
+    "website": "https://answerthepublic.com/",
+    "category": "Marketing",
+    "categoryId": "marketing",
+    "subcategories": [
+      "Content Research"
+    ],
+    "type": "Resource",
+    "shortDescription": "Search listening and question research tool.",
+    "longDescription": "AnswerThePublic is included in The Creative Vault as a content research resource. Search listening and question research tool.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Marketing",
+      "Content Research",
+      "Content"
+    ],
+    "bestFor": [
+      "Content Research",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "marketing-sparktoro",
+    "title": "SparkToro",
+    "shortName": "SparkToro",
+    "company": "SparkToro",
+    "website": "https://sparktoro.com/",
+    "category": "Marketing",
+    "categoryId": "marketing",
+    "subcategories": [
+      "Audience Research"
+    ],
+    "type": "Resource",
+    "shortDescription": "Audience research tool for marketers and creators.",
+    "longDescription": "SparkToro is included in The Creative Vault as a audience research resource. Audience research tool for marketers and creators.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Marketing",
+      "Audience Research",
+      "Audience"
+    ],
+    "bestFor": [
+      "Audience Research",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "marketing-mailchimp",
+    "title": "Mailchimp",
+    "shortName": "Mailchimp",
+    "company": "Intuit",
+    "website": "https://mailchimp.com/",
+    "category": "Marketing",
+    "categoryId": "marketing",
+    "subcategories": [
+      "Email Marketing"
+    ],
+    "type": "Resource",
+    "shortDescription": "Email marketing and automation platform.",
+    "longDescription": "Mailchimp is included in The Creative Vault as a email marketing resource. Email marketing and automation platform.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Marketing",
+      "Email Marketing",
+      "Email"
+    ],
+    "bestFor": [
+      "Email Marketing",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "marketing-kit",
+    "title": "Kit",
+    "shortName": "Kit",
+    "company": "Kit",
+    "website": "https://kit.com/",
+    "category": "Marketing",
+    "categoryId": "marketing",
+    "subcategories": [
+      "Email Marketing"
+    ],
+    "type": "Resource",
+    "shortDescription": "Email marketing platform for creators formerly ConvertKit.",
+    "longDescription": "Kit is included in The Creative Vault as a email marketing resource. Email marketing platform for creators formerly ConvertKit.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Marketing",
+      "Email Marketing",
+      "Email"
+    ],
+    "bestFor": [
+      "Email Marketing",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "marketing-klaviyo",
+    "title": "Klaviyo",
+    "shortName": "Klaviyo",
+    "company": "Klaviyo",
+    "website": "https://www.klaviyo.com/",
+    "category": "Marketing",
+    "categoryId": "marketing",
+    "subcategories": [
+      "Email Marketing"
+    ],
+    "type": "Resource",
+    "shortDescription": "Email and SMS marketing platform for ecommerce.",
+    "longDescription": "Klaviyo is included in The Creative Vault as a email marketing resource. Email and SMS marketing platform for ecommerce.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Marketing",
+      "Email Marketing",
+      "Email"
+    ],
+    "bestFor": [
+      "Email Marketing",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "marketing-metricool",
+    "title": "Metricool",
+    "shortName": "Metricool",
+    "company": "Metricool",
+    "website": "https://metricool.com/",
+    "category": "Marketing",
+    "categoryId": "marketing",
+    "subcategories": [
+      "Social Media"
+    ],
+    "type": "Resource",
+    "shortDescription": "Social media scheduling, analytics, and reporting tool.",
+    "longDescription": "Metricool is included in The Creative Vault as a social media resource. Social media scheduling, analytics, and reporting tool.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Marketing",
+      "Social Media",
+      "Social"
+    ],
+    "bestFor": [
+      "Social Media",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

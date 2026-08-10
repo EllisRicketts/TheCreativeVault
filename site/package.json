@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "compile": "node tools/compile-database.js",
+    "build": "node tools/compile-database.js"
+  },
+  "devDependencies": {},
+  "compile": "node tools/compile-database.js"
+}

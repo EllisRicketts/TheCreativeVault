@@ -1,0 +1,988 @@
+[
+  {
+    "id": "essential-chatbot-arena",
+    "title": "Chatbot Arena",
+    "shortName": "Chatbot Arena",
+    "company": "LMSYS",
+    "website": "https://lmarena.ai/",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "categories": [
+      "AI Tools",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "ai-tools",
+      "creative-essentials"
+    ],
+    "primaryCategory": "AI Tools",
+    "subcategories": [
+      "AI Model Comparison",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Compare AI model outputs and evaluate language model responses.",
+    "longDescription": "Chatbot Arena is included in The Creative Vault Creative Essentials Pack. Compare AI model outputs and evaluate language model responses.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "AI Tools",
+      "AI Model Comparison",
+      "AI",
+      "Research"
+    ],
+    "bestFor": [
+      "AI Model Comparison",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-hugging-face-papers",
+    "title": "Hugging Face Papers",
+    "shortName": "Hugging Face Papers",
+    "company": "Hugging Face",
+    "website": "https://huggingface.co/papers",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "categories": [
+      "AI Tools",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "ai-tools",
+      "creative-essentials"
+    ],
+    "primaryCategory": "AI Tools",
+    "subcategories": [
+      "AI Research",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Browse trending AI papers and research discussions.",
+    "longDescription": "Hugging Face Papers is included in The Creative Vault Creative Essentials Pack. Browse trending AI papers and research discussions.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "AI Tools",
+      "AI Research",
+      "AI",
+      "Papers"
+    ],
+    "bestFor": [
+      "AI Research",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-papers-with-code",
+    "title": "Papers with Code",
+    "shortName": "Papers with Code",
+    "company": "Papers with Code",
+    "website": "https://paperswithcode.com/",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "categories": [
+      "AI Tools",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "ai-tools",
+      "creative-essentials"
+    ],
+    "primaryCategory": "AI Tools",
+    "subcategories": [
+      "AI Research",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Find machine learning papers, code, benchmarks, and datasets.",
+    "longDescription": "Papers with Code is included in The Creative Vault Creative Essentials Pack. Find machine learning papers, code, benchmarks, and datasets.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "AI Tools",
+      "AI Research",
+      "AI",
+      "Machine Learning"
+    ],
+    "bestFor": [
+      "AI Research",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-arxiv",
+    "title": "arXiv",
+    "shortName": "arXiv",
+    "company": "Cornell University",
+    "website": "https://arxiv.org/",
+    "category": "Research",
+    "categoryId": "research",
+    "categories": [
+      "Research",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "research",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Research",
+    "subcategories": [
+      "Research Archive",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Open-access archive for research papers in AI, science, math, physics, and computing.",
+    "longDescription": "arXiv is included in The Creative Vault Creative Essentials Pack. Open-access archive for research papers in AI, science, math, physics, and computing.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Research",
+      "Research Archive",
+      "Papers"
+    ],
+    "bestFor": [
+      "Research Archive",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-semantic-scholar",
+    "title": "Semantic Scholar",
+    "shortName": "Semantic Scholar",
+    "company": "Allen Institute for AI",
+    "website": "https://www.semanticscholar.org/",
+    "category": "Research",
+    "categoryId": "research",
+    "categories": [
+      "Research",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "research",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Research",
+    "subcategories": [
+      "Academic Search",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "AI-powered academic search engine for research papers.",
+    "longDescription": "Semantic Scholar is included in The Creative Vault Creative Essentials Pack. AI-powered academic search engine for research papers.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Research",
+      "Academic Search",
+      "Papers",
+      "Search"
+    ],
+    "bestFor": [
+      "Academic Search",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-connected-papers",
+    "title": "Connected Papers",
+    "shortName": "Connected Papers",
+    "company": "Connected Papers",
+    "website": "https://www.connectedpapers.com/",
+    "category": "Research",
+    "categoryId": "research",
+    "categories": [
+      "Research",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "research",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Research",
+    "subcategories": [
+      "Paper Discovery",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Visualize connections between academic papers.",
+    "longDescription": "Connected Papers is included in The Creative Vault Creative Essentials Pack. Visualize connections between academic papers.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Research",
+      "Paper Discovery",
+      "Research"
+    ],
+    "bestFor": [
+      "Paper Discovery",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-research-rabbit",
+    "title": "Research Rabbit",
+    "shortName": "Research Rabbit",
+    "company": "Research Rabbit",
+    "website": "https://www.researchrabbit.ai/",
+    "category": "Research",
+    "categoryId": "research",
+    "categories": [
+      "Research",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "research",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Research",
+    "subcategories": [
+      "Paper Discovery",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Explore papers, authors, and citation networks visually.",
+    "longDescription": "Research Rabbit is included in The Creative Vault Creative Essentials Pack. Explore papers, authors, and citation networks visually.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Research",
+      "Paper Discovery",
+      "Research"
+    ],
+    "bestFor": [
+      "Paper Discovery",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-openalex",
+    "title": "OpenAlex",
+    "shortName": "OpenAlex",
+    "company": "OpenAlex",
+    "website": "https://openalex.org/",
+    "category": "Research",
+    "categoryId": "research",
+    "categories": [
+      "Research",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "research",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Research",
+    "subcategories": [
+      "Research Database",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Open catalog of scholarly papers, authors, institutions, and concepts.",
+    "longDescription": "OpenAlex is included in The Creative Vault Creative Essentials Pack. Open catalog of scholarly papers, authors, institutions, and concepts.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Research",
+      "Research Database",
+      "Open Data"
+    ],
+    "bestFor": [
+      "Research Database",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-doaj",
+    "title": "DOAJ",
+    "shortName": "DOAJ",
+    "company": "DOAJ",
+    "website": "https://doaj.org/",
+    "category": "Research",
+    "categoryId": "research",
+    "categories": [
+      "Research",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "research",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Research",
+    "subcategories": [
+      "Open Journals",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Directory of open access journals.",
+    "longDescription": "DOAJ is included in The Creative Vault Creative Essentials Pack. Directory of open access journals.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Research",
+      "Open Journals",
+      "Open Access"
+    ],
+    "bestFor": [
+      "Open Journals",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-core",
+    "title": "CORE",
+    "shortName": "CORE",
+    "company": "CORE",
+    "website": "https://core.ac.uk/",
+    "category": "Research",
+    "categoryId": "research",
+    "categories": [
+      "Research",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "research",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Research",
+    "subcategories": [
+      "Open Research",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Search open-access research papers from repositories worldwide.",
+    "longDescription": "CORE is included in The Creative Vault Creative Essentials Pack. Search open-access research papers from repositories worldwide.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Research",
+      "Open Research",
+      "Open Access"
+    ],
+    "bestFor": [
+      "Open Research",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-internet-archive-scholar",
+    "title": "Internet Archive Scholar",
+    "shortName": "Internet Archive Scholar",
+    "company": "Internet Archive",
+    "website": "https://scholar.archive.org/",
+    "category": "Research",
+    "categoryId": "research",
+    "categories": [
+      "Research",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "research",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Research",
+    "subcategories": [
+      "Research Archive",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Full-text search index for scholarly materials in Internet Archive.",
+    "longDescription": "Internet Archive Scholar is included in The Creative Vault Creative Essentials Pack. Full-text search index for scholarly materials in Internet Archive.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Research",
+      "Research Archive",
+      "Research"
+    ],
+    "bestFor": [
+      "Research Archive",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-google-dataset-search",
+    "title": "Google Dataset Search",
+    "shortName": "Google Dataset Search",
+    "company": "Google",
+    "website": "https://datasetsearch.research.google.com/",
+    "category": "Research",
+    "categoryId": "research",
+    "categories": [
+      "Research",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "research",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Research",
+    "subcategories": [
+      "Dataset Search",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Search for datasets across the web.",
+    "longDescription": "Google Dataset Search is included in The Creative Vault Creative Essentials Pack. Search for datasets across the web.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Research",
+      "Dataset Search",
+      "Data"
+    ],
+    "bestFor": [
+      "Dataset Search",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-data-gov",
+    "title": "Data.gov",
+    "shortName": "Data.gov",
+    "company": "U.S. Government",
+    "website": "https://data.gov/",
+    "category": "Research",
+    "categoryId": "research",
+    "categories": [
+      "Research",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "research",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Research",
+    "subcategories": [
+      "Open Data",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Open U.S. government datasets.",
+    "longDescription": "Data.gov is included in The Creative Vault Creative Essentials Pack. Open U.S. government datasets.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Research",
+      "Open Data",
+      "Open Data"
+    ],
+    "bestFor": [
+      "Open Data",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-our-world-in-data",
+    "title": "Our World in Data",
+    "shortName": "Our World in Data",
+    "company": "Our World in Data",
+    "website": "https://ourworldindata.org/",
+    "category": "Research",
+    "categoryId": "research",
+    "categories": [
+      "Research",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "research",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Research",
+    "subcategories": [
+      "Data Visualization",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Research and data visualizations on global issues.",
+    "longDescription": "Our World in Data is included in The Creative Vault Creative Essentials Pack. Research and data visualizations on global issues.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Research",
+      "Data Visualization",
+      "Data",
+      "Charts"
+    ],
+    "bestFor": [
+      "Data Visualization",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-wolframalpha",
+    "title": "WolframAlpha",
+    "shortName": "WolframAlpha",
+    "company": "Wolfram",
+    "website": "https://www.wolframalpha.com/",
+    "category": "Research",
+    "categoryId": "research",
+    "categories": [
+      "Research",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "research",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Research",
+    "subcategories": [
+      "Computational Knowledge",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Computational knowledge engine for calculations, data, and factual queries.",
+    "longDescription": "WolframAlpha is included in The Creative Vault Creative Essentials Pack. Computational knowledge engine for calculations, data, and factual queries.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Research",
+      "Computational Knowledge",
+      "Calculator"
+    ],
+    "bestFor": [
+      "Computational Knowledge",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-perplexity-pages",
+    "title": "Perplexity Pages",
+    "shortName": "Perplexity Pages",
+    "company": "Perplexity",
+    "website": "https://www.perplexity.ai/",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "categories": [
+      "AI Tools",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "ai-tools",
+      "creative-essentials"
+    ],
+    "primaryCategory": "AI Tools",
+    "subcategories": [
+      "AI Research",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "AI research and answer engine with cited web results.",
+    "longDescription": "Perplexity Pages is included in The Creative Vault Creative Essentials Pack. AI research and answer engine with cited web results.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "AI Tools",
+      "AI Research",
+      "AI",
+      "Search"
+    ],
+    "bestFor": [
+      "AI Research",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-google-scholar",
+    "title": "Google Scholar",
+    "shortName": "Google Scholar",
+    "company": "Google",
+    "website": "https://scholar.google.com/",
+    "category": "Research",
+    "categoryId": "research",
+    "categories": [
+      "Research",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "research",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Research",
+    "subcategories": [
+      "Academic Search",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Search scholarly literature across disciplines.",
+    "longDescription": "Google Scholar is included in The Creative Vault Creative Essentials Pack. Search scholarly literature across disciplines.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Research",
+      "Academic Search",
+      "Papers"
+    ],
+    "bestFor": [
+      "Academic Search",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-openverse",
+    "title": "Openverse",
+    "shortName": "Openverse",
+    "company": "WordPress Foundation",
+    "website": "https://openverse.org/",
+    "category": "Assets",
+    "categoryId": "assets",
+    "categories": [
+      "Assets",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "assets",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Assets",
+    "subcategories": [
+      "Open Media Search",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Search openly licensed images and audio.",
+    "longDescription": "Openverse is included in The Creative Vault Creative Essentials Pack. Search openly licensed images and audio.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Assets",
+      "Open Media Search",
+      "Open Media"
+    ],
+    "bestFor": [
+      "Open Media Search",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-wikidata",
+    "title": "Wikidata",
+    "shortName": "Wikidata",
+    "company": "Wikimedia Foundation",
+    "website": "https://www.wikidata.org/",
+    "category": "Research",
+    "categoryId": "research",
+    "categories": [
+      "Research",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "research",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Research",
+    "subcategories": [
+      "Knowledge Database",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free structured knowledge database.",
+    "longDescription": "Wikidata is included in The Creative Vault Creative Essentials Pack. Free structured knowledge database.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Research",
+      "Knowledge Database",
+      "Data"
+    ],
+    "bestFor": [
+      "Knowledge Database",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-dbpedia",
+    "title": "DBpedia",
+    "shortName": "DBpedia",
+    "company": "DBpedia",
+    "website": "https://www.dbpedia.org/",
+    "category": "Research",
+    "categoryId": "research",
+    "categories": [
+      "Research",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "research",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Research",
+    "subcategories": [
+      "Knowledge Database",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Structured data extracted from Wikipedia.",
+    "longDescription": "DBpedia is included in The Creative Vault Creative Essentials Pack. Structured data extracted from Wikipedia.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Research",
+      "Knowledge Database",
+      "Data"
+    ],
+    "bestFor": [
+      "Knowledge Database",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

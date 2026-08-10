@@ -1,0 +1,761 @@
+[
+  {
+    "id": "learning-internet-archive",
+    "title": "Internet Archive",
+    "shortName": "Internet Archive",
+    "company": "Internet Archive",
+    "website": "https://archive.org/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Reference Library"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Massive digital library of books, media, software, music, and public archives.",
+    "longDescription": "Internet Archive is included in The Creative Vault as a learning resource. Massive digital library of books, media, software, music, and public archives.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Reference Library",
+      "Archive",
+      "Books"
+    ],
+    "bestFor": [
+      "Reference Library",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-project-gutenberg",
+    "title": "Project Gutenberg",
+    "shortName": "Project Gutenberg",
+    "company": "Project Gutenberg",
+    "website": "https://www.gutenberg.org/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Reference Library"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Free public domain ebooks and texts.",
+    "longDescription": "Project Gutenberg is included in The Creative Vault as a learning resource. Free public domain ebooks and texts.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Reference Library",
+      "Books",
+      "Public Domain"
+    ],
+    "bestFor": [
+      "Reference Library",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-open-library",
+    "title": "Open Library",
+    "shortName": "Open Library",
+    "company": "Internet Archive",
+    "website": "https://openlibrary.org/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Reference Library"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Open catalog and digital lending library.",
+    "longDescription": "Open Library is included in The Creative Vault as a learning resource. Open catalog and digital lending library.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Reference Library",
+      "Books"
+    ],
+    "bestFor": [
+      "Reference Library",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-library-of-congress-digital-collections",
+    "title": "Library of Congress Digital Collections",
+    "shortName": "Library of Congress Digital Collections",
+    "company": "Library of Congress",
+    "website": "https://www.loc.gov/collections/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Reference Library"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Digital archive of images, maps, manuscripts, recordings, and cultural materials.",
+    "longDescription": "Library of Congress Digital Collections is included in The Creative Vault as a learning resource. Digital archive of images, maps, manuscripts, recordings, and cultural materials.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Reference Library",
+      "Archive",
+      "Public Domain"
+    ],
+    "bestFor": [
+      "Reference Library",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-the-met-open-access",
+    "title": "The Met Open Access",
+    "shortName": "The Met Open Access",
+    "company": "The Metropolitan Museum of Art",
+    "website": "https://www.metmuseum.org/art/collection",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Reference Library"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Open access museum collection and artwork images.",
+    "longDescription": "The Met Open Access is included in The Creative Vault as a learning resource. Open access museum collection and artwork images.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Reference Library",
+      "Art",
+      "Museum"
+    ],
+    "bestFor": [
+      "Reference Library",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-rijksmuseum-rijksstudio",
+    "title": "Rijksmuseum Rijksstudio",
+    "shortName": "Rijksmuseum Rijksstudio",
+    "company": "Rijksmuseum",
+    "website": "https://www.rijksmuseum.nl/en/rijksstudio",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Reference Library"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "High-resolution public domain art and museum collection resources.",
+    "longDescription": "Rijksmuseum Rijksstudio is included in The Creative Vault as a learning resource. High-resolution public domain art and museum collection resources.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Reference Library",
+      "Art",
+      "Museum"
+    ],
+    "bestFor": [
+      "Reference Library",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-smithsonian-open-access",
+    "title": "Smithsonian Open Access",
+    "shortName": "Smithsonian Open Access",
+    "company": "Smithsonian",
+    "website": "https://www.si.edu/openaccess",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Reference Library"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Open access images, data, and cultural collections from the Smithsonian.",
+    "longDescription": "Smithsonian Open Access is included in The Creative Vault as a learning resource. Open access images, data, and cultural collections from the Smithsonian.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Reference Library",
+      "Museum",
+      "Archive"
+    ],
+    "bestFor": [
+      "Reference Library",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-europeana",
+    "title": "Europeana",
+    "shortName": "Europeana",
+    "company": "Europeana",
+    "website": "https://www.europeana.eu/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Reference Library"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "European cultural heritage archive for art, images, objects, and records.",
+    "longDescription": "Europeana is included in The Creative Vault as a learning resource. European cultural heritage archive for art, images, objects, and records.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Reference Library",
+      "Archive",
+      "Culture"
+    ],
+    "bestFor": [
+      "Reference Library",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-wikimedia-commons",
+    "title": "Wikimedia Commons",
+    "shortName": "Wikimedia Commons",
+    "company": "Wikimedia Foundation",
+    "website": "https://commons.wikimedia.org/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Reference Library"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Free-use media repository for images, audio, video, and documents.",
+    "longDescription": "Wikimedia Commons is included in The Creative Vault as a learning resource. Free-use media repository for images, audio, video, and documents.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Reference Library",
+      "Media",
+      "Free"
+    ],
+    "bestFor": [
+      "Reference Library",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-open-culture",
+    "title": "Open Culture",
+    "shortName": "Open Culture",
+    "company": "Open Culture",
+    "website": "https://www.openculture.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Reference Library"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Free cultural and educational media, courses, books, and films.",
+    "longDescription": "Open Culture is included in The Creative Vault as a learning resource. Free cultural and educational media, courses, books, and films.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Reference Library",
+      "Education",
+      "Culture"
+    ],
+    "bestFor": [
+      "Reference Library",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-google-arts-and-culture",
+    "title": "Google Arts & Culture",
+    "shortName": "Google Arts & Culture",
+    "company": "Google",
+    "website": "https://artsandculture.google.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Reference Library"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Digital museum, culture, and art discovery platform.",
+    "longDescription": "Google Arts & Culture is included in The Creative Vault as a learning resource. Digital museum, culture, and art discovery platform.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Reference Library",
+      "Art",
+      "Museum"
+    ],
+    "bestFor": [
+      "Reference Library",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-david-rumsey-map-collection",
+    "title": "David Rumsey Map Collection",
+    "shortName": "David Rumsey Map Collection",
+    "company": "David Rumsey",
+    "website": "https://www.davidrumsey.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Reference Library"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Large collection of historical maps and cartographic images.",
+    "longDescription": "David Rumsey Map Collection is included in The Creative Vault as a learning resource. Large collection of historical maps and cartographic images.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Reference Library",
+      "Maps",
+      "History"
+    ],
+    "bestFor": [
+      "Reference Library",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-biodiversity-heritage-library",
+    "title": "Biodiversity Heritage Library",
+    "shortName": "Biodiversity Heritage Library",
+    "company": "Biodiversity Heritage Library",
+    "website": "https://www.biodiversitylibrary.org/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Reference Library"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Open biodiversity literature and natural history archive.",
+    "longDescription": "Biodiversity Heritage Library is included in The Creative Vault as a learning resource. Open biodiversity literature and natural history archive.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Reference Library",
+      "Nature",
+      "Archive"
+    ],
+    "bestFor": [
+      "Reference Library",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-wellcome-collection",
+    "title": "Wellcome Collection",
+    "shortName": "Wellcome Collection",
+    "company": "Wellcome Collection",
+    "website": "https://wellcomecollection.org/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Reference Library"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Medicine, science, art, and cultural history collection.",
+    "longDescription": "Wellcome Collection is included in The Creative Vault as a learning resource. Medicine, science, art, and cultural history collection.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Reference Library",
+      "Archive",
+      "Science"
+    ],
+    "bestFor": [
+      "Reference Library",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-public-domain-review",
+    "title": "Public Domain Review",
+    "shortName": "Public Domain Review",
+    "company": "The Public Domain Review",
+    "website": "https://publicdomainreview.org/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Reference Library"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Curated essays and collections of public domain art and media.",
+    "longDescription": "Public Domain Review is included in The Creative Vault as a learning resource. Curated essays and collections of public domain art and media.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Reference Library",
+      "Public Domain",
+      "Inspiration"
+    ],
+    "bestFor": [
+      "Reference Library",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-nasa-image-and-video-library",
+    "title": "NASA Image and Video Library",
+    "shortName": "NASA Image and Video Library",
+    "company": "NASA",
+    "website": "https://images.nasa.gov/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Reference Library"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "NASA image, video, and audio archive.",
+    "longDescription": "NASA Image and Video Library is included in The Creative Vault as a learning resource. NASA image, video, and audio archive.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Reference Library",
+      "Space",
+      "Archive"
+    ],
+    "bestFor": [
+      "Reference Library",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-national-gallery-of-art-open-access",
+    "title": "National Gallery of Art Open Access",
+    "shortName": "National Gallery of Art Open Access",
+    "company": "National Gallery of Art",
+    "website": "https://www.nga.gov/open-access-images.html",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Reference Library"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Open access art images from the National Gallery of Art.",
+    "longDescription": "National Gallery of Art Open Access is included in The Creative Vault as a learning resource. Open access art images from the National Gallery of Art.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Reference Library",
+      "Art",
+      "Museum"
+    ],
+    "bestFor": [
+      "Reference Library",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-art-institute-of-chicago-collection",
+    "title": "Art Institute of Chicago Collection",
+    "shortName": "Art Institute of Chicago Collection",
+    "company": "Art Institute of Chicago",
+    "website": "https://www.artic.edu/collection",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Reference Library"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Museum collection with public API and high-quality art references.",
+    "longDescription": "Art Institute of Chicago Collection is included in The Creative Vault as a learning resource. Museum collection with public API and high-quality art references.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Reference Library",
+      "Art",
+      "Museum"
+    ],
+    "bestFor": [
+      "Reference Library",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-harvard-art-museums-collections",
+    "title": "Harvard Art Museums Collections",
+    "shortName": "Harvard Art Museums Collections",
+    "company": "Harvard Art Museums",
+    "website": "https://harvardartmuseums.org/collections",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Reference Library"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Art collection database and museum reference archive.",
+    "longDescription": "Harvard Art Museums Collections is included in The Creative Vault as a learning resource. Art collection database and museum reference archive.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Reference Library",
+      "Art",
+      "Museum"
+    ],
+    "bestFor": [
+      "Reference Library",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-cleveland-museum-of-art-open-access",
+    "title": "Cleveland Museum of Art Open Access",
+    "shortName": "Cleveland Museum of Art Open Access",
+    "company": "Cleveland Museum of Art",
+    "website": "https://www.clevelandart.org/open-access",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Reference Library"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Open access museum collection images and data.",
+    "longDescription": "Cleveland Museum of Art Open Access is included in The Creative Vault as a learning resource. Open access museum collection images and data.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Reference Library",
+      "Art",
+      "Museum"
+    ],
+    "bestFor": [
+      "Reference Library",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

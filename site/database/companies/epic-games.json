@@ -1,0 +1,24 @@
+{
+  "id": "epic-games",
+  "name": "Epic Games",
+  "website": "https://www.epicgames.com/",
+  "logo": "",
+  "country": "USA",
+  "founded": 1991,
+  "description": "Company behind Unreal Engine, Fab, Quixel Megascans, MetaHuman Creator, Twinmotion, RealityCapture, and Sketchfab.",
+  "resources": [
+    "unreal-engine",
+    "fab",
+    "quixel-megascans",
+    "metahuman-creator",
+    "twinmotion",
+    "realitycapture",
+    "sketchfab"
+  ],
+  "tags": [
+    "Game Dev",
+    "Realtime 3D",
+    "Assets",
+    "Scanning"
+  ]
+}

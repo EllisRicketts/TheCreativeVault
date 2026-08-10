@@ -1,0 +1,362 @@
+[
+  {
+    "id": "public-domain-europeana-pro",
+    "title": "Europeana Pro",
+    "shortName": "Europeana Pro",
+    "company": "Europeana",
+    "website": "https://pro.europeana.eu/",
+    "category": "Public Domain",
+    "categoryId": "public-domain",
+    "subcategories": [
+      "Cultural Archives"
+    ],
+    "type": "Resource",
+    "shortDescription": "Professional access and resources for European cultural heritage data.",
+    "longDescription": "Europeana Pro is included in The Creative Vault as a cultural archives resource. Professional access and resources for European cultural heritage data.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Public Domain",
+      "Cultural Archives",
+      "Archive"
+    ],
+    "bestFor": [
+      "Cultural Archives",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "public-domain-digitalnz",
+    "title": "DigitalNZ",
+    "shortName": "DigitalNZ",
+    "company": "DigitalNZ",
+    "website": "https://digitalnz.org/",
+    "category": "Public Domain",
+    "categoryId": "public-domain",
+    "subcategories": [
+      "Cultural Archives"
+    ],
+    "type": "Resource",
+    "shortDescription": "New Zealand digital cultural heritage search platform.",
+    "longDescription": "DigitalNZ is included in The Creative Vault as a cultural archives resource. New Zealand digital cultural heritage search platform.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Public Domain",
+      "Cultural Archives",
+      "Archive"
+    ],
+    "bestFor": [
+      "Cultural Archives",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "public-domain-trove",
+    "title": "Trove",
+    "shortName": "Trove",
+    "company": "National Library of Australia",
+    "website": "https://trove.nla.gov.au/",
+    "category": "Public Domain",
+    "categoryId": "public-domain",
+    "subcategories": [
+      "Cultural Archives"
+    ],
+    "type": "Resource",
+    "shortDescription": "Australian digital archive for newspapers, images, maps, and cultural materials.",
+    "longDescription": "Trove is included in The Creative Vault as a cultural archives resource. Australian digital archive for newspapers, images, maps, and cultural materials.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Public Domain",
+      "Cultural Archives",
+      "Archive"
+    ],
+    "bestFor": [
+      "Cultural Archives",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "public-domain-dpla",
+    "title": "DPLA",
+    "shortName": "DPLA",
+    "company": "Digital Public Library of America",
+    "website": "https://dp.la/",
+    "category": "Public Domain",
+    "categoryId": "public-domain",
+    "subcategories": [
+      "Cultural Archives"
+    ],
+    "type": "Resource",
+    "shortDescription": "US digital library platform aggregating cultural heritage collections.",
+    "longDescription": "DPLA is included in The Creative Vault as a cultural archives resource. US digital library platform aggregating cultural heritage collections.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Public Domain",
+      "Cultural Archives",
+      "Archive"
+    ],
+    "bestFor": [
+      "Cultural Archives",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "public-domain-calisphere",
+    "title": "Calisphere",
+    "shortName": "Calisphere",
+    "company": "University of California",
+    "website": "https://calisphere.org/",
+    "category": "Public Domain",
+    "categoryId": "public-domain",
+    "subcategories": [
+      "Cultural Archives"
+    ],
+    "type": "Resource",
+    "shortDescription": "California digital collections and cultural heritage archive.",
+    "longDescription": "Calisphere is included in The Creative Vault as a cultural archives resource. California digital collections and cultural heritage archive.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Public Domain",
+      "Cultural Archives",
+      "Archive"
+    ],
+    "bestFor": [
+      "Cultural Archives",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "public-domain-digital-public-library-of-japan",
+    "title": "Digital Public Library of Japan",
+    "shortName": "Digital Public Library of Japan",
+    "company": "NDL",
+    "website": "https://www.ndl.go.jp/en/",
+    "category": "Public Domain",
+    "categoryId": "public-domain",
+    "subcategories": [
+      "Cultural Archives"
+    ],
+    "type": "Resource",
+    "shortDescription": "National Diet Library digital collections and resources.",
+    "longDescription": "Digital Public Library of Japan is included in The Creative Vault as a cultural archives resource. National Diet Library digital collections and resources.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Public Domain",
+      "Cultural Archives",
+      "Archive"
+    ],
+    "bestFor": [
+      "Cultural Archives",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "public-domain-gallica",
+    "title": "Gallica",
+    "shortName": "Gallica",
+    "company": "BnF",
+    "website": "https://gallica.bnf.fr/",
+    "category": "Public Domain",
+    "categoryId": "public-domain",
+    "subcategories": [
+      "Cultural Archives"
+    ],
+    "type": "Resource",
+    "shortDescription": "Digital library from the Bibliothèque nationale de France.",
+    "longDescription": "Gallica is included in The Creative Vault as a cultural archives resource. Digital library from the Bibliothèque nationale de France.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Public Domain",
+      "Cultural Archives",
+      "Archive"
+    ],
+    "bestFor": [
+      "Cultural Archives",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "public-domain-deutsche-digitale-bibliothek",
+    "title": "Deutsche Digitale Bibliothek",
+    "shortName": "Deutsche Digitale Bibliothek",
+    "company": "DDB",
+    "website": "https://www.deutsche-digitale-bibliothek.de/",
+    "category": "Public Domain",
+    "categoryId": "public-domain",
+    "subcategories": [
+      "Cultural Archives"
+    ],
+    "type": "Resource",
+    "shortDescription": "German digital cultural heritage platform.",
+    "longDescription": "Deutsche Digitale Bibliothek is included in The Creative Vault as a cultural archives resource. German digital cultural heritage platform.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Public Domain",
+      "Cultural Archives",
+      "Archive"
+    ],
+    "bestFor": [
+      "Cultural Archives",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "public-domain-digital-commonwealth",
+    "title": "Digital Commonwealth",
+    "shortName": "Digital Commonwealth",
+    "company": "Digital Commonwealth",
+    "website": "https://www.digitalcommonwealth.org/",
+    "category": "Public Domain",
+    "categoryId": "public-domain",
+    "subcategories": [
+      "Cultural Archives"
+    ],
+    "type": "Resource",
+    "shortDescription": "Massachusetts digital collections platform.",
+    "longDescription": "Digital Commonwealth is included in The Creative Vault as a cultural archives resource. Massachusetts digital collections platform.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Public Domain",
+      "Cultural Archives",
+      "Archive"
+    ],
+    "bestFor": [
+      "Cultural Archives",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "public-domain-bhl-flickr",
+    "title": "BHL Flickr",
+    "shortName": "BHL Flickr",
+    "company": "Biodiversity Heritage Library",
+    "website": "https://www.flickr.com/photos/biodivlibrary/",
+    "category": "Public Domain",
+    "categoryId": "public-domain",
+    "subcategories": [
+      "Natural History Images"
+    ],
+    "type": "Resource",
+    "shortDescription": "Public domain biodiversity and natural history images on Flickr.",
+    "longDescription": "BHL Flickr is included in The Creative Vault as a natural history images resource. Public domain biodiversity and natural history images on Flickr.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Public Domain",
+      "Natural History Images",
+      "Nature"
+    ],
+    "bestFor": [
+      "Natural History Images",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

@@ -1,0 +1,855 @@
+[
+  {
+    "id": "photography-profoto",
+    "title": "Profoto",
+    "shortName": "Profoto",
+    "company": "Profoto",
+    "website": "https://profoto.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Lighting"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Professional studio lighting, strobes, modifiers, and lighting education.",
+    "longDescription": "Profoto is included in The Creative Vault as a photography resource. Professional studio lighting, strobes, modifiers, and lighting education.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Lighting",
+      "Lighting Brand"
+    ],
+    "bestFor": [
+      "Lighting",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": true,
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-godox",
+    "title": "Godox",
+    "shortName": "Godox",
+    "company": "Godox",
+    "website": "https://www.godox.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Lighting"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Popular lighting ecosystem for flash, LED, studio, and location lighting.",
+    "longDescription": "Godox is included in The Creative Vault as a photography resource. Popular lighting ecosystem for flash, LED, studio, and location lighting.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Lighting",
+      "Lighting Brand"
+    ],
+    "bestFor": [
+      "Lighting",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": true,
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-aputure",
+    "title": "Aputure",
+    "shortName": "Aputure",
+    "company": "Aputure",
+    "website": "https://www.aputure.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Lighting"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "LED lighting ecosystem used in photo, video, and cinema workflows.",
+    "longDescription": "Aputure is included in The Creative Vault as a photography resource. LED lighting ecosystem used in photo, video, and cinema workflows.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Lighting",
+      "Lighting Brand"
+    ],
+    "bestFor": [
+      "Lighting",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": true,
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-amaran",
+    "title": "Amaran",
+    "shortName": "Amaran",
+    "company": "Aputure",
+    "website": "https://www.amarancreators.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Lighting"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Creator-focused lighting tools from Aputure.",
+    "longDescription": "Amaran is included in The Creative Vault as a photography resource. Creator-focused lighting tools from Aputure.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Lighting",
+      "Lighting Brand"
+    ],
+    "bestFor": [
+      "Lighting",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-nanlite",
+    "title": "Nanlite",
+    "shortName": "Nanlite",
+    "company": "Nanlite",
+    "website": "https://nanliteus.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Lighting"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "LED lights, tubes, panels, modifiers, and creator lighting tools.",
+    "longDescription": "Nanlite is included in The Creative Vault as a photography resource. LED lights, tubes, panels, modifiers, and creator lighting tools.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Lighting",
+      "Lighting Brand"
+    ],
+    "bestFor": [
+      "Lighting",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-westcott",
+    "title": "Westcott",
+    "shortName": "Westcott",
+    "company": "Westcott",
+    "website": "https://www.fjwestcott.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Lighting"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Photography lighting, softboxes, reflectors, and studio tools.",
+    "longDescription": "Westcott is included in The Creative Vault as a photography resource. Photography lighting, softboxes, reflectors, and studio tools.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Lighting",
+      "Lighting Brand"
+    ],
+    "bestFor": [
+      "Lighting",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-elinchrom",
+    "title": "Elinchrom",
+    "shortName": "Elinchrom",
+    "company": "Elinchrom",
+    "website": "https://www.elinchrom.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Lighting"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Studio flash, modifiers, and lighting systems.",
+    "longDescription": "Elinchrom is included in The Creative Vault as a photography resource. Studio flash, modifiers, and lighting systems.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Lighting",
+      "Lighting Brand"
+    ],
+    "bestFor": [
+      "Lighting",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-broncolor",
+    "title": "Broncolor",
+    "shortName": "Broncolor",
+    "company": "Broncolor",
+    "website": "https://broncolor.swiss/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Lighting"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "High-end studio flash and professional lighting systems.",
+    "longDescription": "Broncolor is included in The Creative Vault as a photography resource. High-end studio flash and professional lighting systems.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Lighting",
+      "Lighting Brand"
+    ],
+    "bestFor": [
+      "Lighting",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-paul-c-buff",
+    "title": "Paul C. Buff",
+    "shortName": "Paul C. Buff",
+    "company": "Paul C. Buff",
+    "website": "https://www.paulcbuff.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Lighting"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Studio strobes and photography lighting equipment.",
+    "longDescription": "Paul C. Buff is included in The Creative Vault as a photography resource. Studio strobes and photography lighting equipment.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Lighting",
+      "Lighting Brand"
+    ],
+    "bestFor": [
+      "Lighting",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-rotolight",
+    "title": "Rotolight",
+    "shortName": "Rotolight",
+    "company": "Rotolight",
+    "website": "https://www.rotolight.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Lighting"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "LED lighting for photo and video workflows.",
+    "longDescription": "Rotolight is included in The Creative Vault as a photography resource. LED lighting for photo and video workflows.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Lighting",
+      "Lighting Brand"
+    ],
+    "bestFor": [
+      "Lighting",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-lume-cube",
+    "title": "Lume Cube",
+    "shortName": "Lume Cube",
+    "company": "Lume Cube",
+    "website": "https://lumecube.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Lighting"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Portable LED lights and creator lighting accessories.",
+    "longDescription": "Lume Cube is included in The Creative Vault as a photography resource. Portable LED lights and creator lighting accessories.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Lighting",
+      "Lighting Brand"
+    ],
+    "bestFor": [
+      "Lighting",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-smallrig-lighting",
+    "title": "SmallRig Lighting",
+    "shortName": "SmallRig Lighting",
+    "company": "SmallRig",
+    "website": "https://www.smallrig.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Lighting"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Creator lighting, rigs, cages, and accessories.",
+    "longDescription": "SmallRig Lighting is included in The Creative Vault as a photography resource. Creator lighting, rigs, cages, and accessories.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Lighting",
+      "Lighting",
+      "Accessories"
+    ],
+    "bestFor": [
+      "Lighting",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-manfrotto",
+    "title": "Manfrotto",
+    "shortName": "Manfrotto",
+    "company": "Manfrotto",
+    "website": "https://www.manfrotto.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Studio Gear"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Tripods, lighting stands, studio gear, and accessories.",
+    "longDescription": "Manfrotto is included in The Creative Vault as a photography resource. Tripods, lighting stands, studio gear, and accessories.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Studio Gear",
+      "Tripods"
+    ],
+    "bestFor": [
+      "Studio Gear",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-gitzo",
+    "title": "Gitzo",
+    "shortName": "Gitzo",
+    "company": "Gitzo",
+    "website": "https://www.gitzo.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Studio Gear"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Premium tripods and support systems.",
+    "longDescription": "Gitzo is included in The Creative Vault as a photography resource. Premium tripods and support systems.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Studio Gear",
+      "Tripods"
+    ],
+    "bestFor": [
+      "Studio Gear",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-peak-design",
+    "title": "Peak Design",
+    "shortName": "Peak Design",
+    "company": "Peak Design",
+    "website": "https://www.peakdesign.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Studio Gear"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Camera bags, straps, capture clips, and mobile creator accessories.",
+    "longDescription": "Peak Design is included in The Creative Vault as a photography resource. Camera bags, straps, capture clips, and mobile creator accessories.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Studio Gear",
+      "Accessories"
+    ],
+    "bestFor": [
+      "Studio Gear",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-think-tank-photo",
+    "title": "Think Tank Photo",
+    "shortName": "Think Tank Photo",
+    "company": "Think Tank Photo",
+    "website": "https://www.thinktankphoto.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Studio Gear"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Photography bags, cases, and professional carrying systems.",
+    "longDescription": "Think Tank Photo is included in The Creative Vault as a photography resource. Photography bags, cases, and professional carrying systems.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Studio Gear",
+      "Bags"
+    ],
+    "bestFor": [
+      "Studio Gear",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-lowepro",
+    "title": "Lowepro",
+    "shortName": "Lowepro",
+    "company": "Lowepro",
+    "website": "https://www.lowepro.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Studio Gear"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Camera bags and carrying systems.",
+    "longDescription": "Lowepro is included in The Creative Vault as a photography resource. Camera bags and carrying systems.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Studio Gear",
+      "Bags"
+    ],
+    "bestFor": [
+      "Studio Gear",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-tether-tools",
+    "title": "Tether Tools",
+    "shortName": "Tether Tools",
+    "company": "Tether Tools",
+    "website": "https://tethertools.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Studio Gear"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Tethering tools, cables, power, mounts, and studio workflow gear.",
+    "longDescription": "Tether Tools is included in The Creative Vault as a photography resource. Tethering tools, cables, power, mounts, and studio workflow gear.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Studio Gear",
+      "Tethering"
+    ],
+    "bestFor": [
+      "Studio Gear",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": true,
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-camranger",
+    "title": "CamRanger",
+    "shortName": "CamRanger",
+    "company": "CamRanger",
+    "website": "https://camranger.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Studio Gear"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Wireless camera control, tethering, and remote shooting systems.",
+    "longDescription": "CamRanger is included in The Creative Vault as a photography resource. Wireless camera control, tethering, and remote shooting systems.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Studio Gear",
+      "Tethering"
+    ],
+    "bestFor": [
+      "Studio Gear",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-triggertrap-archive",
+    "title": "Triggertrap Archive",
+    "shortName": "Triggertrap Archive",
+    "company": "Triggertrap",
+    "website": "https://github.com/triggertrap",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Studio Gear"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Open-source archive of Triggertrap camera triggering tools.",
+    "longDescription": "Triggertrap Archive is included in The Creative Vault as a photography resource. Open-source archive of Triggertrap camera triggering tools.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Studio Gear",
+      "Camera Triggering"
+    ],
+    "bestFor": [
+      "Studio Gear",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

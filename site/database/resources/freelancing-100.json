@@ -1,0 +1,3494 @@
+[
+  {
+    "id": "freelancing-upwork",
+    "title": "Upwork",
+    "shortName": "Upwork",
+    "company": "",
+    "website": "https://www.upwork.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Freelance marketplace for creative, technical, marketing, and business services.",
+    "longDescription": "Upwork is included in The Creative Vault as a freelancing resource. Freelance marketplace for creative, technical, marketing, and business services.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-fiverr",
+    "title": "Fiverr",
+    "shortName": "Fiverr",
+    "company": "",
+    "website": "https://www.fiverr.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Marketplace for selling packaged creative and professional services.",
+    "longDescription": "Fiverr is included in The Creative Vault as a freelancing resource. Marketplace for selling packaged creative and professional services.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-contra",
+    "title": "Contra",
+    "shortName": "Contra",
+    "company": "",
+    "website": "https://contra.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Commission-free freelance platform for independent creatives and professionals.",
+    "longDescription": "Contra is included in The Creative Vault as a freelancing resource. Commission-free freelance platform for independent creatives and professionals.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-toptal",
+    "title": "Toptal",
+    "shortName": "Toptal",
+    "company": "",
+    "website": "https://www.toptal.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Premium freelance talent network for developers, designers, finance experts, and project managers.",
+    "longDescription": "Toptal is included in The Creative Vault as a freelancing resource. Premium freelance talent network for developers, designers, finance experts, and project managers.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-peopleperhour",
+    "title": "PeoplePerHour",
+    "shortName": "PeoplePerHour",
+    "company": "",
+    "website": "https://www.peopleperhour.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Freelance marketplace for project-based work and hourly services.",
+    "longDescription": "PeoplePerHour is included in The Creative Vault as a freelancing resource. Freelance marketplace for project-based work and hourly services.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-freelancer",
+    "title": "Freelancer",
+    "shortName": "Freelancer",
+    "company": "",
+    "website": "https://www.freelancer.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Large freelance marketplace for jobs, contests, and service providers.",
+    "longDescription": "Freelancer is included in The Creative Vault as a freelancing resource. Large freelance marketplace for jobs, contests, and service providers.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-guru",
+    "title": "Guru",
+    "shortName": "Guru",
+    "company": "",
+    "website": "https://www.guru.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Freelance job platform for professional services and project work.",
+    "longDescription": "Guru is included in The Creative Vault as a freelancing resource. Freelance job platform for professional services and project work.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-99designs",
+    "title": "99designs",
+    "shortName": "99designs",
+    "company": "",
+    "website": "https://99designs.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Design contest and freelance marketplace for logos, branding, and design work.",
+    "longDescription": "99designs is included in The Creative Vault as a freelancing resource. Design contest and freelance marketplace for logos, branding, and design work.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-designcrowd",
+    "title": "DesignCrowd",
+    "shortName": "DesignCrowd",
+    "company": "",
+    "website": "https://www.designcrowd.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Design crowdsourcing platform for logos, graphics, and creative services.",
+    "longDescription": "DesignCrowd is included in The Creative Vault as a freelancing resource. Design crowdsourcing platform for logos, graphics, and creative services.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-dribbble-jobs",
+    "title": "Dribbble Jobs",
+    "shortName": "Dribbble Jobs",
+    "company": "",
+    "website": "https://dribbble.com/jobs",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Job board and freelance opportunities for designers and creative professionals.",
+    "longDescription": "Dribbble Jobs is included in The Creative Vault as a freelancing resource. Job board and freelance opportunities for designers and creative professionals.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-behance-jobs",
+    "title": "Behance Jobs",
+    "shortName": "Behance Jobs",
+    "company": "",
+    "website": "https://www.behance.net/joblist",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Creative job board connected to the Behance portfolio ecosystem.",
+    "longDescription": "Behance Jobs is included in The Creative Vault as a freelancing resource. Creative job board connected to the Behance portfolio ecosystem.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-artstation-jobs",
+    "title": "ArtStation Jobs",
+    "shortName": "ArtStation Jobs",
+    "company": "",
+    "website": "https://www.artstation.com/jobs",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Job board for game, film, concept art, 3D, animation, and entertainment art careers.",
+    "longDescription": "ArtStation Jobs is included in The Creative Vault as a freelancing resource. Job board for game, film, concept art, 3D, animation, and entertainment art careers.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-working-not-working",
+    "title": "Working Not Working",
+    "shortName": "Working Not Working",
+    "company": "",
+    "website": "https://workingnotworking.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Creative talent network for freelancers and companies.",
+    "longDescription": "Working Not Working is included in The Creative Vault as a freelancing resource. Creative talent network for freelancers and companies.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-yunojuno",
+    "title": "YunoJuno",
+    "shortName": "YunoJuno",
+    "company": "",
+    "website": "https://www.yunojuno.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Freelance marketplace for creative, marketing, and tech talent.",
+    "longDescription": "YunoJuno is included in The Creative Vault as a freelancing resource. Freelance marketplace for creative, marketing, and tech talent.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-we-work-remotely",
+    "title": "We Work Remotely",
+    "shortName": "We Work Remotely",
+    "company": "",
+    "website": "https://weworkremotely.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Remote job board with design, programming, marketing, and support roles.",
+    "longDescription": "We Work Remotely is included in The Creative Vault as a freelancing resource. Remote job board with design, programming, marketing, and support roles.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-remote-ok",
+    "title": "Remote OK",
+    "shortName": "Remote OK",
+    "company": "",
+    "website": "https://remoteok.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Remote job board with tech, design, marketing, and startup roles.",
+    "longDescription": "Remote OK is included in The Creative Vault as a freelancing resource. Remote job board with tech, design, marketing, and startup roles.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-wellfound",
+    "title": "Wellfound",
+    "shortName": "Wellfound",
+    "company": "",
+    "website": "https://wellfound.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Startup jobs and recruiting platform formerly known as AngelList Talent.",
+    "longDescription": "Wellfound is included in The Creative Vault as a freelancing resource. Startup jobs and recruiting platform formerly known as AngelList Talent.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-flexjobs",
+    "title": "FlexJobs",
+    "shortName": "FlexJobs",
+    "company": "",
+    "website": "https://www.flexjobs.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Curated remote, freelance, flexible, and part-time job board.",
+    "longDescription": "FlexJobs is included in The Creative Vault as a freelancing resource. Curated remote, freelance, flexible, and part-time job board.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-solidgigs",
+    "title": "SolidGigs",
+    "shortName": "SolidGigs",
+    "company": "",
+    "website": "https://solidgigs.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Curated freelance lead service and business training platform.",
+    "longDescription": "SolidGigs is included in The Creative Vault as a freelancing resource. Curated freelance lead service and business training platform.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-designhill",
+    "title": "Designhill",
+    "shortName": "Designhill",
+    "company": "",
+    "website": "https://www.designhill.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Creative marketplace for design contests, freelance designers, and print services.",
+    "longDescription": "Designhill is included in The Creative Vault as a freelancing resource. Creative marketplace for design contests, freelance designers, and print services.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-crowdspring",
+    "title": "CrowdSpring",
+    "shortName": "CrowdSpring",
+    "company": "",
+    "website": "https://www.crowdspring.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Crowdsourced design, naming, and creative services marketplace.",
+    "longDescription": "CrowdSpring is included in The Creative Vault as a freelancing resource. Crowdsourced design, naming, and creative services marketplace.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-twine",
+    "title": "Twine",
+    "shortName": "Twine",
+    "company": "",
+    "website": "https://www.twine.net",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Freelance marketplace for creatives, musicians, designers, and developers.",
+    "longDescription": "Twine is included in The Creative Vault as a freelancing resource. Freelance marketplace for creatives, musicians, designers, and developers.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-malt",
+    "title": "Malt",
+    "shortName": "Malt",
+    "company": "",
+    "website": "https://www.malt.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Freelance platform for consultants, developers, designers, and business talent.",
+    "longDescription": "Malt is included in The Creative Vault as a freelancing resource. Freelance platform for consultants, developers, designers, and business talent.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-worksome",
+    "title": "Worksome",
+    "shortName": "Worksome",
+    "company": "",
+    "website": "https://www.worksome.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Freelance workforce and contractor management platform.",
+    "longDescription": "Worksome is included in The Creative Vault as a freelancing resource. Freelance workforce and contractor management platform.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-aquent",
+    "title": "Aquent",
+    "shortName": "Aquent",
+    "company": "",
+    "website": "https://aquent.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Staffing and talent agency for creative, marketing, and digital roles.",
+    "longDescription": "Aquent is included in The Creative Vault as a freelancing resource. Staffing and talent agency for creative, marketing, and digital roles.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-creative-circle",
+    "title": "Creative Circle",
+    "shortName": "Creative Circle",
+    "company": "",
+    "website": "https://www.creativecircle.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Creative staffing agency for design, marketing, content, and digital talent.",
+    "longDescription": "Creative Circle is included in The Creative Vault as a freelancing resource. Creative staffing agency for design, marketing, content, and digital talent.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-robert-half-creative",
+    "title": "Robert Half Creative",
+    "shortName": "Robert Half Creative",
+    "company": "",
+    "website": "https://www.roberthalf.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Staffing agency with creative, marketing, and technology roles.",
+    "longDescription": "Robert Half Creative is included in The Creative Vault as a freelancing resource. Staffing agency with creative, marketing, and technology roles.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-the-dots",
+    "title": "The Dots",
+    "shortName": "The Dots",
+    "company": "",
+    "website": "https://the-dots.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Professional network and jobs platform for creative industries.",
+    "longDescription": "The Dots is included in The Creative Vault as a freelancing resource. Professional network and jobs platform for creative industries.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-mandy-network",
+    "title": "Mandy Network",
+    "shortName": "Mandy Network",
+    "company": "",
+    "website": "https://www.mandy.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Film, TV, voiceover, theatre, and creative production job platform.",
+    "longDescription": "Mandy Network is included in The Creative Vault as a freelancing resource. Film, TV, voiceover, theatre, and creative production job platform.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-productionhub",
+    "title": "ProductionHUB",
+    "shortName": "ProductionHUB",
+    "company": "",
+    "website": "https://www.productionhub.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Production industry directory and job platform for film, video, and media pros.",
+    "longDescription": "ProductionHUB is included in The Creative Vault as a freelancing resource. Production industry directory and job platform for film, video, and media pros.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-stage-32-jobs",
+    "title": "Stage 32 Jobs",
+    "shortName": "Stage 32 Jobs",
+    "company": "",
+    "website": "https://www.stage32.com/jobs",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Creative industry network with film, TV, writing, and production opportunities.",
+    "longDescription": "Stage 32 Jobs is included in The Creative Vault as a freelancing resource. Creative industry network with film, TV, writing, and production opportunities.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-backstage",
+    "title": "Backstage",
+    "shortName": "Backstage",
+    "company": "",
+    "website": "https://www.backstage.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Casting, crew, and creative opportunity platform.",
+    "longDescription": "Backstage is included in The Creative Vault as a freelancing resource. Casting, crew, and creative opportunity platform.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-staff-me-up",
+    "title": "Staff Me Up",
+    "shortName": "Staff Me Up",
+    "company": "",
+    "website": "https://staffmeup.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Production job platform for film, TV, and media crew.",
+    "longDescription": "Staff Me Up is included in The Creative Vault as a freelancing resource. Production job platform for film, TV, and media crew.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-entertainmentcareers",
+    "title": "EntertainmentCareers",
+    "shortName": "EntertainmentCareers",
+    "company": "",
+    "website": "https://www.entertainmentcareers.net",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Job board for film, TV, music, digital media, and entertainment companies.",
+    "longDescription": "EntertainmentCareers is included in The Creative Vault as a freelancing resource. Job board for film, TV, music, digital media, and entertainment companies.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-productionbeast",
+    "title": "ProductionBeast",
+    "shortName": "ProductionBeast",
+    "company": "",
+    "website": "https://www.productionbeast.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Crew database and production hiring platform.",
+    "longDescription": "ProductionBeast is included in The Creative Vault as a freelancing resource. Crew database and production hiring platform.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-voices",
+    "title": "Voices",
+    "shortName": "Voices",
+    "company": "",
+    "website": "https://www.voices.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Voiceover marketplace for voice actors and audio talent.",
+    "longDescription": "Voices is included in The Creative Vault as a freelancing resource. Voiceover marketplace for voice actors and audio talent.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-voice123",
+    "title": "Voice123",
+    "shortName": "Voice123",
+    "company": "",
+    "website": "https://voice123.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Voiceover casting and freelance voice talent marketplace.",
+    "longDescription": "Voice123 is included in The Creative Vault as a freelancing resource. Voiceover casting and freelance voice talent marketplace.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-bunny-studio",
+    "title": "Bunny Studio",
+    "shortName": "Bunny Studio",
+    "company": "",
+    "website": "https://bunnystudio.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Creative services platform for voice, writing, video, and design.",
+    "longDescription": "Bunny Studio is included in The Creative Vault as a freelancing resource. Creative services platform for voice, writing, video, and design.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-reedsy",
+    "title": "Reedsy",
+    "shortName": "Reedsy",
+    "company": "",
+    "website": "https://reedsy.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Marketplace for editors, designers, marketers, and publishing professionals.",
+    "longDescription": "Reedsy is included in The Creative Vault as a freelancing resource. Marketplace for editors, designers, marketers, and publishing professionals.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-writeraccess",
+    "title": "WriterAccess",
+    "shortName": "WriterAccess",
+    "company": "",
+    "website": "https://www.writeraccess.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Content writing marketplace for businesses and freelance writers.",
+    "longDescription": "WriterAccess is included in The Creative Vault as a freelancing resource. Content writing marketplace for businesses and freelance writers.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-contently",
+    "title": "Contently",
+    "shortName": "Contently",
+    "company": "",
+    "website": "https://contently.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Content marketing platform and freelance writer network.",
+    "longDescription": "Contently is included in The Creative Vault as a freelancing resource. Content marketing platform and freelance writer network.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-clearvoice",
+    "title": "ClearVoice",
+    "shortName": "ClearVoice",
+    "company": "",
+    "website": "https://www.clearvoice.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Content marketing platform with freelance creator marketplace.",
+    "longDescription": "ClearVoice is included in The Creative Vault as a freelancing resource. Content marketing platform with freelance creator marketplace.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-ndash",
+    "title": "nDash",
+    "shortName": "nDash",
+    "company": "",
+    "website": "https://www.ndash.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Freelance writing platform for content marketers and writers.",
+    "longDescription": "nDash is included in The Creative Vault as a freelancing resource. Freelance writing platform for content marketers and writers.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-problogger-jobs",
+    "title": "ProBlogger Jobs",
+    "shortName": "ProBlogger Jobs",
+    "company": "",
+    "website": "https://problogger.com/jobs",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Job board for blogging, writing, and content marketing gigs.",
+    "longDescription": "ProBlogger Jobs is included in The Creative Vault as a freelancing resource. Job board for blogging, writing, and content marketing gigs.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-mediabistro-jobs",
+    "title": "Mediabistro Jobs",
+    "shortName": "Mediabistro Jobs",
+    "company": "",
+    "website": "https://www.mediabistro.com/jobs",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Media, writing, publishing, and marketing job board.",
+    "longDescription": "Mediabistro Jobs is included in The Creative Vault as a freelancing resource. Media, writing, publishing, and marketing job board.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-journalismjobs",
+    "title": "JournalismJobs",
+    "shortName": "JournalismJobs",
+    "company": "",
+    "website": "https://www.journalismjobs.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Journalism, editorial, and media job board.",
+    "longDescription": "JournalismJobs is included in The Creative Vault as a freelancing resource. Journalism, editorial, and media job board.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-textbroker",
+    "title": "Textbroker",
+    "shortName": "Textbroker",
+    "company": "",
+    "website": "https://www.textbroker.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Content writing marketplace for freelance writers.",
+    "longDescription": "Textbroker is included in The Creative Vault as a freelancing resource. Content writing marketplace for freelance writers.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-scripted",
+    "title": "Scripted",
+    "shortName": "Scripted",
+    "company": "",
+    "website": "https://www.scripted.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Freelance writing platform for business content.",
+    "longDescription": "Scripted is included in The Creative Vault as a freelancing resource. Freelance writing platform for business content.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-clearvoice-talent-network",
+    "title": "ClearVoice Talent Network",
+    "shortName": "ClearVoice Talent Network",
+    "company": "",
+    "website": "https://www.clearvoice.com/talent-network/",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Freelance creator network for content marketing work.",
+    "longDescription": "ClearVoice Talent Network is included in The Creative Vault as a freelancing resource. Freelance creator network for content marketing work.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-designbro",
+    "title": "DesignBro",
+    "shortName": "DesignBro",
+    "company": "",
+    "website": "https://designbro.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Design contest platform focused on branding and packaging.",
+    "longDescription": "DesignBro is included in The Creative Vault as a freelancing resource. Design contest platform focused on branding and packaging.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-logotournament",
+    "title": "LogoTournament",
+    "shortName": "LogoTournament",
+    "company": "",
+    "website": "https://logotournament.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Logo design contest platform.",
+    "longDescription": "LogoTournament is included in The Creative Vault as a freelancing resource. Logo design contest platform.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-brandcrowd-designers",
+    "title": "BrandCrowd Designers",
+    "shortName": "BrandCrowd Designers",
+    "company": "",
+    "website": "https://www.brandcrowd.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Logo and brand design marketplace.",
+    "longDescription": "BrandCrowd Designers is included in The Creative Vault as a freelancing resource. Logo and brand design marketplace.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-taskrabbit",
+    "title": "TaskRabbit",
+    "shortName": "TaskRabbit",
+    "company": "",
+    "website": "https://www.taskrabbit.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Local service marketplace for task-based freelance work.",
+    "longDescription": "TaskRabbit is included in The Creative Vault as a freelancing resource. Local service marketplace for task-based freelance work.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-thumbtack",
+    "title": "Thumbtack",
+    "shortName": "Thumbtack",
+    "company": "",
+    "website": "https://www.thumbtack.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Local services marketplace for professionals and clients.",
+    "longDescription": "Thumbtack is included in The Creative Vault as a freelancing resource. Local services marketplace for professionals and clients.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-bark",
+    "title": "Bark",
+    "shortName": "Bark",
+    "company": "",
+    "website": "https://www.bark.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Lead generation platform for local and professional services.",
+    "longDescription": "Bark is included in The Creative Vault as a freelancing resource. Lead generation platform for local and professional services.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-houzz-pro",
+    "title": "Houzz Pro",
+    "shortName": "Houzz Pro",
+    "company": "",
+    "website": "https://www.houzz.com/pro",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Business and lead platform for designers, contractors, and home professionals.",
+    "longDescription": "Houzz Pro is included in The Creative Vault as a freelancing resource. Business and lead platform for designers, contractors, and home professionals.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-angi-leads",
+    "title": "Angi Leads",
+    "shortName": "Angi Leads",
+    "company": "",
+    "website": "https://www.angi.com/leads",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Lead generation platform for home service professionals.",
+    "longDescription": "Angi Leads is included in The Creative Vault as a freelancing resource. Lead generation platform for home service professionals.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-honeybook",
+    "title": "HoneyBook",
+    "shortName": "HoneyBook",
+    "company": "",
+    "website": "https://www.honeybook.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Clientflow platform for proposals, contracts, invoices, and projects.",
+    "longDescription": "HoneyBook is included in The Creative Vault as a freelancing resource. Clientflow platform for proposals, contracts, invoices, and projects.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-bonsai",
+    "title": "Bonsai",
+    "shortName": "Bonsai",
+    "company": "",
+    "website": "https://www.hellobonsai.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Freelance business management for contracts, proposals, invoicing, and time tracking.",
+    "longDescription": "Bonsai is included in The Creative Vault as a freelancing resource. Freelance business management for contracts, proposals, invoicing, and time tracking.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-dubsado",
+    "title": "Dubsado",
+    "shortName": "Dubsado",
+    "company": "",
+    "website": "https://www.dubsado.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Business management platform for client workflows, forms, contracts, and automation.",
+    "longDescription": "Dubsado is included in The Creative Vault as a freelancing resource. Business management platform for client workflows, forms, contracts, and automation.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-17hats",
+    "title": "17hats",
+    "shortName": "17hats",
+    "company": "",
+    "website": "https://www.17hats.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Small business CRM for freelancers and creative service providers.",
+    "longDescription": "17hats is included in The Creative Vault as a freelancing resource. Small business CRM for freelancers and creative service providers.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-bloom-io",
+    "title": "Bloom.io",
+    "shortName": "Bloom.io",
+    "company": "",
+    "website": "https://www.bloom.io",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Business management platform for freelancers and creative professionals.",
+    "longDescription": "Bloom.io is included in The Creative Vault as a freelancing resource. Business management platform for freelancers and creative professionals.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-plutio",
+    "title": "Plutio",
+    "shortName": "Plutio",
+    "company": "",
+    "website": "https://www.plutio.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Project management, proposals, invoices, and CRM for freelancers.",
+    "longDescription": "Plutio is included in The Creative Vault as a freelancing resource. Project management, proposals, invoices, and CRM for freelancers.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-indy",
+    "title": "Indy",
+    "shortName": "Indy",
+    "company": "",
+    "website": "https://weareindy.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Freelance admin platform for contracts, proposals, invoices, and tasks.",
+    "longDescription": "Indy is included in The Creative Vault as a freelancing resource. Freelance admin platform for contracts, proposals, invoices, and tasks.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-moxie",
+    "title": "Moxie",
+    "shortName": "Moxie",
+    "company": "",
+    "website": "https://www.withmoxie.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Freelance business platform for projects, clients, proposals, and accounting.",
+    "longDescription": "Moxie is included in The Creative Vault as a freelancing resource. Freelance business platform for projects, clients, proposals, and accounting.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-hectic",
+    "title": "Hectic",
+    "shortName": "Hectic",
+    "company": "",
+    "website": "https://www.hecticapp.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Freelancer platform for project management, invoices, proposals, and client work.",
+    "longDescription": "Hectic is included in The Creative Vault as a freelancing resource. Freelancer platform for project management, invoices, proposals, and client work.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-and-co",
+    "title": "AND.CO",
+    "shortName": "AND.CO",
+    "company": "",
+    "website": "https://www.fiverr.com/andco",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Freelancer contracts, invoicing, and task management from Fiverr.",
+    "longDescription": "AND.CO is included in The Creative Vault as a freelancing resource. Freelancer contracts, invoicing, and task management from Fiverr.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-wave",
+    "title": "Wave",
+    "shortName": "Wave",
+    "company": "",
+    "website": "https://www.waveapps.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Accounting and invoicing software for freelancers and small businesses.",
+    "longDescription": "Wave is included in The Creative Vault as a freelancing resource. Accounting and invoicing software for freelancers and small businesses.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-freshbooks",
+    "title": "FreshBooks",
+    "shortName": "FreshBooks",
+    "company": "",
+    "website": "https://www.freshbooks.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Accounting and invoicing software for freelancers and small businesses.",
+    "longDescription": "FreshBooks is included in The Creative Vault as a freelancing resource. Accounting and invoicing software for freelancers and small businesses.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-quickbooks",
+    "title": "QuickBooks",
+    "shortName": "QuickBooks",
+    "company": "",
+    "website": "https://quickbooks.intuit.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Accounting, bookkeeping, invoices, and tax tools for businesses.",
+    "longDescription": "QuickBooks is included in The Creative Vault as a freelancing resource. Accounting, bookkeeping, invoices, and tax tools for businesses.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-xero",
+    "title": "Xero",
+    "shortName": "Xero",
+    "company": "",
+    "website": "https://www.xero.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Cloud accounting software for small businesses and freelancers.",
+    "longDescription": "Xero is included in The Creative Vault as a freelancing resource. Cloud accounting software for small businesses and freelancers.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-zoho-invoice",
+    "title": "Zoho Invoice",
+    "shortName": "Zoho Invoice",
+    "company": "",
+    "website": "https://www.zoho.com/invoice/",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Free invoicing software for freelancers and small businesses.",
+    "longDescription": "Zoho Invoice is included in The Creative Vault as a freelancing resource. Free invoicing software for freelancers and small businesses.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-invoice-ninja",
+    "title": "Invoice Ninja",
+    "shortName": "Invoice Ninja",
+    "company": "",
+    "website": "https://www.invoiceninja.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Open-source invoicing, payments, and expense tracking platform.",
+    "longDescription": "Invoice Ninja is included in The Creative Vault as a freelancing resource. Open-source invoicing, payments, and expense tracking platform.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-paypal",
+    "title": "PayPal",
+    "shortName": "PayPal",
+    "company": "",
+    "website": "https://www.paypal.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Online payments platform for freelancers and businesses.",
+    "longDescription": "PayPal is included in The Creative Vault as a freelancing resource. Online payments platform for freelancers and businesses.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-stripe",
+    "title": "Stripe",
+    "shortName": "Stripe",
+    "company": "",
+    "website": "https://stripe.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Online payment infrastructure for invoices, checkout, and businesses.",
+    "longDescription": "Stripe is included in The Creative Vault as a freelancing resource. Online payment infrastructure for invoices, checkout, and businesses.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-wise-business",
+    "title": "Wise Business",
+    "shortName": "Wise Business",
+    "company": "",
+    "website": "https://wise.com/business",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "International business payments and multi-currency accounts.",
+    "longDescription": "Wise Business is included in The Creative Vault as a freelancing resource. International business payments and multi-currency accounts.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-payoneer",
+    "title": "Payoneer",
+    "shortName": "Payoneer",
+    "company": "",
+    "website": "https://www.payoneer.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Global payment platform for freelancers and marketplace sellers.",
+    "longDescription": "Payoneer is included in The Creative Vault as a freelancing resource. Global payment platform for freelancers and marketplace sellers.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-square-invoices",
+    "title": "Square Invoices",
+    "shortName": "Square Invoices",
+    "company": "",
+    "website": "https://squareup.com/us/en/invoices",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Invoice and payment tools for small businesses.",
+    "longDescription": "Square Invoices is included in The Creative Vault as a freelancing resource. Invoice and payment tools for small businesses.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-calendly",
+    "title": "Calendly",
+    "shortName": "Calendly",
+    "company": "",
+    "website": "https://calendly.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Scheduling tool for meetings, consultations, and bookings.",
+    "longDescription": "Calendly is included in The Creative Vault as a freelancing resource. Scheduling tool for meetings, consultations, and bookings.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-cal-com",
+    "title": "Cal.com",
+    "shortName": "Cal.com",
+    "company": "",
+    "website": "https://cal.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Open scheduling infrastructure and booking tool.",
+    "longDescription": "Cal.com is included in The Creative Vault as a freelancing resource. Open scheduling infrastructure and booking tool.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-acuity-scheduling",
+    "title": "Acuity Scheduling",
+    "shortName": "Acuity Scheduling",
+    "company": "",
+    "website": "https://acuityscheduling.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Appointment scheduling software for client bookings.",
+    "longDescription": "Acuity Scheduling is included in The Creative Vault as a freelancing resource. Appointment scheduling software for client bookings.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-tidycal",
+    "title": "TidyCal",
+    "shortName": "TidyCal",
+    "company": "",
+    "website": "https://tidycal.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Simple booking and calendar scheduling tool.",
+    "longDescription": "TidyCal is included in The Creative Vault as a freelancing resource. Simple booking and calendar scheduling tool.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-clockify",
+    "title": "Clockify",
+    "shortName": "Clockify",
+    "company": "",
+    "website": "https://clockify.me",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Time tracking software for freelancers and teams.",
+    "longDescription": "Clockify is included in The Creative Vault as a freelancing resource. Time tracking software for freelancers and teams.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-toggl-track",
+    "title": "Toggl Track",
+    "shortName": "Toggl Track",
+    "company": "",
+    "website": "https://toggl.com/track/",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Time tracking platform for productivity and billing.",
+    "longDescription": "Toggl Track is included in The Creative Vault as a freelancing resource. Time tracking platform for productivity and billing.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-harvest",
+    "title": "Harvest",
+    "shortName": "Harvest",
+    "company": "",
+    "website": "https://www.getharvest.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Time tracking, invoicing, and project budget tool.",
+    "longDescription": "Harvest is included in The Creative Vault as a freelancing resource. Time tracking, invoicing, and project budget tool.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-timely",
+    "title": "Timely",
+    "shortName": "Timely",
+    "company": "",
+    "website": "https://timelyapp.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Automatic time tracking and project time management.",
+    "longDescription": "Timely is included in The Creative Vault as a freelancing resource. Automatic time tracking and project time management.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-rescuetime",
+    "title": "RescueTime",
+    "shortName": "RescueTime",
+    "company": "",
+    "website": "https://www.rescuetime.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Automatic productivity and time tracking software.",
+    "longDescription": "RescueTime is included in The Creative Vault as a freelancing resource. Automatic productivity and time tracking software.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-notion",
+    "title": "Notion",
+    "shortName": "Notion",
+    "company": "",
+    "website": "https://www.notion.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Flexible workspace for notes, databases, projects, and client systems.",
+    "longDescription": "Notion is included in The Creative Vault as a freelancing resource. Flexible workspace for notes, databases, projects, and client systems.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-airtable",
+    "title": "Airtable",
+    "shortName": "Airtable",
+    "company": "",
+    "website": "https://www.airtable.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Spreadsheet-database platform for organizing creative and business workflows.",
+    "longDescription": "Airtable is included in The Creative Vault as a freelancing resource. Spreadsheet-database platform for organizing creative and business workflows.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-clickup",
+    "title": "ClickUp",
+    "shortName": "ClickUp",
+    "company": "",
+    "website": "https://clickup.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Project management platform for tasks, docs, goals, and client work.",
+    "longDescription": "ClickUp is included in The Creative Vault as a freelancing resource. Project management platform for tasks, docs, goals, and client work.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-asana",
+    "title": "Asana",
+    "shortName": "Asana",
+    "company": "",
+    "website": "https://asana.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Project and task management platform for teams and freelancers.",
+    "longDescription": "Asana is included in The Creative Vault as a freelancing resource. Project and task management platform for teams and freelancers.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-trello",
+    "title": "Trello",
+    "shortName": "Trello",
+    "company": "",
+    "website": "https://trello.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Kanban project management tool for boards, lists, and tasks.",
+    "longDescription": "Trello is included in The Creative Vault as a freelancing resource. Kanban project management tool for boards, lists, and tasks.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-monday-com",
+    "title": "Monday.com",
+    "shortName": "Monday.com",
+    "company": "",
+    "website": "https://monday.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Work management platform for projects, CRM, and operations.",
+    "longDescription": "Monday.com is included in The Creative Vault as a freelancing resource. Work management platform for projects, CRM, and operations.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-basecamp",
+    "title": "Basecamp",
+    "shortName": "Basecamp",
+    "company": "",
+    "website": "https://basecamp.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Project management and team communication platform.",
+    "longDescription": "Basecamp is included in The Creative Vault as a freelancing resource. Project management and team communication platform.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-slack",
+    "title": "Slack",
+    "shortName": "Slack",
+    "company": "",
+    "website": "https://slack.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Team communication platform for client and team collaboration.",
+    "longDescription": "Slack is included in The Creative Vault as a freelancing resource. Team communication platform for client and team collaboration.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-discord",
+    "title": "Discord",
+    "shortName": "Discord",
+    "company": "",
+    "website": "https://discord.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Community and communication platform for creators and teams.",
+    "longDescription": "Discord is included in The Creative Vault as a freelancing resource. Community and communication platform for creators and teams.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "freelancing-loom",
+    "title": "Loom",
+    "shortName": "Loom",
+    "company": "",
+    "website": "https://www.loom.com",
+    "category": "Freelancing",
+    "categoryId": "freelancing",
+    "subcategories": [
+      "Freelance Platform"
+    ],
+    "type": "Resource",
+    "shortDescription": "Screen recording and async video communication tool.",
+    "longDescription": "Loom is included in The Creative Vault as a freelancing resource. Screen recording and async video communication tool.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Freelancing",
+      "Business",
+      "Client Work"
+    ],
+    "bestFor": [
+      "Finding clients",
+      "Managing freelance work",
+      "Creative business workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

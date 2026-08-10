@@ -1,0 +1,238 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Creative Vault V2 Resource",
+  "description": "Supports cross-categorized creative resources. A resource can live in many categories without being duplicated.",
+  "type": "object",
+  "required": [
+    "id",
+    "title",
+    "website"
+  ],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "shortName": {
+      "type": "string"
+    },
+    "company": {
+      "type": "string"
+    },
+    "companyWebsite": {
+      "type": "string"
+    },
+    "website": {
+      "type": "string"
+    },
+    "logo": {
+      "type": "string"
+    },
+    "favicon": {
+      "type": "string"
+    },
+    "heroImage": {
+      "type": "string"
+    },
+    "screenshots": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "primaryCategory": {
+      "type": "string"
+    },
+    "category": {
+      "type": "string",
+      "description": "Legacy single-category field. Compiler maps this to primaryCategory."
+    },
+    "categories": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "All categories this resource should appear under."
+    },
+    "categoryIds": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "subcategories": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "industries": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "creativeFields": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "useCases": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "collections": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "type": {
+      "type": "string"
+    },
+    "shortDescription": {
+      "type": "string"
+    },
+    "longDescription": {
+      "type": "string"
+    },
+    "whyUseIt": {
+      "type": "string"
+    },
+    "bestFor": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "pros": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "cons": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "platforms": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "operatingSystems": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "fileFormats": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "integrations": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "api": {
+      "type": "boolean"
+    },
+    "plugins": {
+      "type": "boolean"
+    },
+    "extensions": {
+      "type": "boolean"
+    },
+    "ai": {
+      "type": "boolean"
+    },
+    "price": {
+      "type": "string"
+    },
+    "pricingModel": {
+      "type": "string"
+    },
+    "pricingDetails": {
+      "type": "string"
+    },
+    "commercialUse": {},
+    "license": {
+      "type": "string"
+    },
+    "rating": {
+      "type": "number"
+    },
+    "popularity": {
+      "type": "number"
+    },
+    "beginnerFriendly": {
+      "type": "boolean"
+    },
+    "professional": {
+      "type": "boolean"
+    },
+    "industryStandard": {
+      "type": "boolean"
+    },
+    "openSource": {
+      "type": "boolean"
+    },
+    "verified": {
+      "type": "boolean"
+    },
+    "alternatives": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "related": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "documentation": {
+      "type": "string"
+    },
+    "github": {
+      "type": "string"
+    },
+    "reddit": {
+      "type": "string"
+    },
+    "discord": {
+      "type": "string"
+    },
+    "featured": {
+      "type": "boolean"
+    },
+    "editorPick": {
+      "type": "boolean"
+    },
+    "dateAdded": {
+      "type": "string"
+    },
+    "lastReviewed": {
+      "type": "string"
+    }
+  }
+}

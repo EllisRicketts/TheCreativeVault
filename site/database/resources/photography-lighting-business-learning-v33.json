@@ -1,0 +1,1077 @@
+[
+  {
+    "id": "photography-profoto",
+    "title": "Profoto",
+    "shortName": "Profoto",
+    "company": "Profoto",
+    "website": "https://profoto.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Lighting"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Professional studio lighting, strobes, modifiers, and lighting education.",
+    "longDescription": "Profoto is included in The Creative Vault as a photography resource. Professional studio lighting, strobes, modifiers, and lighting education.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Lighting",
+      "Lighting Brand"
+    ],
+    "bestFor": [
+      "Lighting",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-godox",
+    "title": "Godox",
+    "shortName": "Godox",
+    "company": "Godox",
+    "website": "https://www.godox.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Lighting"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Popular lighting ecosystem for flash, LED, studio, and location lighting.",
+    "longDescription": "Godox is included in The Creative Vault as a photography resource. Popular lighting ecosystem for flash, LED, studio, and location lighting.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Lighting",
+      "Lighting Brand"
+    ],
+    "bestFor": [
+      "Lighting",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-aputure",
+    "title": "Aputure",
+    "shortName": "Aputure",
+    "company": "Aputure",
+    "website": "https://www.aputure.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Lighting"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "LED lighting ecosystem used in photo, video, and cinema workflows.",
+    "longDescription": "Aputure is included in The Creative Vault as a photography resource. LED lighting ecosystem used in photo, video, and cinema workflows.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Lighting",
+      "Lighting Brand"
+    ],
+    "bestFor": [
+      "Lighting",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-nanlite",
+    "title": "Nanlite",
+    "shortName": "Nanlite",
+    "company": "Nanlite",
+    "website": "https://nanliteus.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Lighting"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "LED lights, tubes, panels, modifiers, and creator lighting tools.",
+    "longDescription": "Nanlite is included in The Creative Vault as a photography resource. LED lights, tubes, panels, modifiers, and creator lighting tools.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Lighting",
+      "Lighting Brand"
+    ],
+    "bestFor": [
+      "Lighting",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-westcott",
+    "title": "Westcott",
+    "shortName": "Westcott",
+    "company": "Westcott",
+    "website": "https://www.fjwestcott.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Lighting"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Photography lighting, softboxes, reflectors, and studio tools.",
+    "longDescription": "Westcott is included in The Creative Vault as a photography resource. Photography lighting, softboxes, reflectors, and studio tools.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Lighting",
+      "Lighting Brand"
+    ],
+    "bestFor": [
+      "Lighting",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-elinchrom",
+    "title": "Elinchrom",
+    "shortName": "Elinchrom",
+    "company": "Elinchrom",
+    "website": "https://www.elinchrom.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Lighting"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Studio flash, modifiers, and lighting systems.",
+    "longDescription": "Elinchrom is included in The Creative Vault as a photography resource. Studio flash, modifiers, and lighting systems.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Lighting",
+      "Lighting Brand"
+    ],
+    "bestFor": [
+      "Lighting",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-manfrotto",
+    "title": "Manfrotto",
+    "shortName": "Manfrotto",
+    "company": "Manfrotto",
+    "website": "https://www.manfrotto.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Studio Gear"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Tripods, lighting stands, studio gear, and accessories.",
+    "longDescription": "Manfrotto is included in The Creative Vault as a photography resource. Tripods, lighting stands, studio gear, and accessories.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Studio Gear",
+      "Tripods"
+    ],
+    "bestFor": [
+      "Studio Gear",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-peak-design",
+    "title": "Peak Design",
+    "shortName": "Peak Design",
+    "company": "Peak Design",
+    "website": "https://www.peakdesign.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Studio Gear"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Camera bags, straps, capture clips, and mobile creator accessories.",
+    "longDescription": "Peak Design is included in The Creative Vault as a photography resource. Camera bags, straps, capture clips, and mobile creator accessories.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Studio Gear",
+      "Accessories"
+    ],
+    "bestFor": [
+      "Studio Gear",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-tether-tools",
+    "title": "Tether Tools",
+    "shortName": "Tether Tools",
+    "company": "Tether Tools",
+    "website": "https://tethertools.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Studio Gear"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Tethering tools, cables, power, mounts, and studio workflow gear.",
+    "longDescription": "Tether Tools is included in The Creative Vault as a photography resource. Tethering tools, cables, power, mounts, and studio workflow gear.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Studio Gear",
+      "Tethering"
+    ],
+    "bestFor": [
+      "Studio Gear",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-pixieset",
+    "title": "Pixieset",
+    "shortName": "Pixieset",
+    "company": "Pixieset",
+    "website": "https://pixieset.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Client Galleries"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Client galleries, websites, stores, and studio tools for photographers.",
+    "longDescription": "Pixieset is included in The Creative Vault as a photography resource. Client galleries, websites, stores, and studio tools for photographers.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Photography",
+      "Client Galleries",
+      "Client Galleries"
+    ],
+    "bestFor": [
+      "Client Galleries",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-pic-time",
+    "title": "Pic-Time",
+    "shortName": "Pic-Time",
+    "company": "Pic-Time",
+    "website": "https://www.pic-time.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Client Galleries"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Client gallery and sales automation platform for photographers.",
+    "longDescription": "Pic-Time is included in The Creative Vault as a photography resource. Client gallery and sales automation platform for photographers.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Photography",
+      "Client Galleries",
+      "Client Galleries"
+    ],
+    "bestFor": [
+      "Client Galleries",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-shootproof",
+    "title": "ShootProof",
+    "shortName": "ShootProof",
+    "company": "ShootProof",
+    "website": "https://www.shootproof.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Client Galleries"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Client galleries, proofing, contracts, invoices, and sales tools.",
+    "longDescription": "ShootProof is included in The Creative Vault as a photography resource. Client galleries, proofing, contracts, invoices, and sales tools.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Photography",
+      "Client Galleries",
+      "Client Galleries"
+    ],
+    "bestFor": [
+      "Client Galleries",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-cloudspot",
+    "title": "CloudSpot",
+    "shortName": "CloudSpot",
+    "company": "CloudSpot",
+    "website": "https://www.cloudspot.io/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Client Galleries"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Photo gallery delivery and client proofing platform.",
+    "longDescription": "CloudSpot is included in The Creative Vault as a photography resource. Photo gallery delivery and client proofing platform.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Photography",
+      "Client Galleries",
+      "Client Galleries"
+    ],
+    "bestFor": [
+      "Client Galleries",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-whitewall",
+    "title": "WhiteWall",
+    "shortName": "WhiteWall",
+    "company": "WhiteWall",
+    "website": "https://www.whitewall.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Printing Services"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Gallery-quality photo printing, framing, and wall art.",
+    "longDescription": "WhiteWall is included in The Creative Vault as a photography resource. Gallery-quality photo printing, framing, and wall art.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "Printing Services",
+      "Printing"
+    ],
+    "bestFor": [
+      "Printing Services",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-bay-photo",
+    "title": "Bay Photo",
+    "shortName": "Bay Photo",
+    "company": "Bay Photo",
+    "website": "https://www.bayphoto.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Printing Services"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Professional photo lab for prints, albums, wall art, and photo products.",
+    "longDescription": "Bay Photo is included in The Creative Vault as a photography resource. Professional photo lab for prints, albums, wall art, and photo products.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "Printing Services",
+      "Printing"
+    ],
+    "bestFor": [
+      "Printing Services",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-whcc",
+    "title": "WHCC",
+    "shortName": "WHCC",
+    "company": "WHCC",
+    "website": "https://www.whcc.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Printing Services"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Professional photo printing lab and product fulfillment.",
+    "longDescription": "WHCC is included in The Creative Vault as a photography resource. Professional photo printing lab and product fulfillment.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "Printing Services",
+      "Printing"
+    ],
+    "bestFor": [
+      "Printing Services",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-the-lawtog",
+    "title": "The LawTog",
+    "shortName": "The LawTog",
+    "company": "The LawTog",
+    "website": "https://thelawtog.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Business"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Legal templates, contracts, and business education for photographers.",
+    "longDescription": "The LawTog is included in The Creative Vault as a photography resource. Legal templates, contracts, and business education for photographers.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "Photography Business",
+      "Contracts"
+    ],
+    "bestFor": [
+      "Photography Business",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-studio-ninja",
+    "title": "Studio Ninja",
+    "shortName": "Studio Ninja",
+    "company": "Studio Ninja",
+    "website": "https://www.studioninja.co/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Business"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "CRM, invoicing, workflows, and photography business management.",
+    "longDescription": "Studio Ninja is included in The Creative Vault as a photography resource. CRM, invoicing, workflows, and photography business management.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Photography",
+      "Photography Business",
+      "CRM"
+    ],
+    "bestFor": [
+      "Photography Business",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-t-ve",
+    "title": "Táve",
+    "shortName": "Táve",
+    "company": "Táve",
+    "website": "https://tave.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Business"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Studio management CRM for photographers.",
+    "longDescription": "Táve is included in The Creative Vault as a photography resource. Studio management CRM for photographers.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Photography",
+      "Photography Business",
+      "CRM"
+    ],
+    "bestFor": [
+      "Photography Business",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-asmp",
+    "title": "ASMP",
+    "shortName": "ASMP",
+    "company": "ASMP",
+    "website": "https://www.asmp.org/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Business"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Professional association for photographers with business and legal resources.",
+    "longDescription": "ASMP is included in The Creative Vault as a photography resource. Professional association for photographers with business and legal resources.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Photography",
+      "Photography Business",
+      "Association"
+    ],
+    "bestFor": [
+      "Photography Business",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-strobist",
+    "title": "Strobist",
+    "shortName": "Strobist",
+    "company": "David Hobby",
+    "website": "https://strobist.blogspot.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Education"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Classic free lighting education resource for photographers.",
+    "longDescription": "Strobist is included in The Creative Vault as a photography resource. Classic free lighting education resource for photographers.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Photography Education",
+      "Lighting Education"
+    ],
+    "bestFor": [
+      "Photography Education",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-fstoppers",
+    "title": "Fstoppers",
+    "shortName": "Fstoppers",
+    "company": "Fstoppers",
+    "website": "https://fstoppers.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Education"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Photography education, news, tutorials, and gear reviews.",
+    "longDescription": "Fstoppers is included in The Creative Vault as a photography resource. Photography education, news, tutorials, and gear reviews.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Photography Education",
+      "Education"
+    ],
+    "bestFor": [
+      "Photography Education",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-petapixel",
+    "title": "PetaPixel",
+    "shortName": "PetaPixel",
+    "company": "PetaPixel",
+    "website": "https://petapixel.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Education"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Photography news, tutorials, reviews, and inspiration.",
+    "longDescription": "PetaPixel is included in The Creative Vault as a photography resource. Photography news, tutorials, reviews, and inspiration.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Photography Education",
+      "News"
+    ],
+    "bestFor": [
+      "Photography Education",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-dpreview-archive",
+    "title": "DPReview Archive",
+    "shortName": "DPReview Archive",
+    "company": "DPReview",
+    "website": "https://www.dpreview.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Education"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Camera reviews, forums, samples, and photography gear reference.",
+    "longDescription": "DPReview Archive is included in The Creative Vault as a photography resource. Camera reviews, forums, samples, and photography gear reference.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Photography Education",
+      "Gear Reviews"
+    ],
+    "bestFor": [
+      "Photography Education",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-photography-life",
+    "title": "Photography Life",
+    "shortName": "Photography Life",
+    "company": "Photography Life",
+    "website": "https://photographylife.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Education"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Photography tutorials, reviews, technique guides, and education.",
+    "longDescription": "Photography Life is included in The Creative Vault as a photography resource. Photography tutorials, reviews, technique guides, and education.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Photography Education",
+      "Education"
+    ],
+    "bestFor": [
+      "Photography Education",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

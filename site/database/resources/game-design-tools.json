@@ -1,0 +1,968 @@
+[
+  {
+    "id": "game-dev-extra-milanote",
+    "title": "Milanote",
+    "shortName": "Milanote",
+    "company": "Milanote",
+    "website": "https://milanote.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Design Tool"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Visual planning tool for moodboards, storyboards, game design documents, and creative planning.",
+    "longDescription": "Milanote is included in The Creative Vault as a game development resource. Visual planning tool for moodboards, storyboards, game design documents, and creative planning.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Game Design Tool",
+      "Planning",
+      "Moodboard"
+    ],
+    "bestFor": [
+      "Game Design Tool",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-miro",
+    "title": "Miro",
+    "shortName": "Miro",
+    "company": "Miro",
+    "website": "https://miro.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Design Tool"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Collaborative whiteboard for design, planning, maps, and team ideation.",
+    "longDescription": "Miro is included in The Creative Vault as a game development resource. Collaborative whiteboard for design, planning, maps, and team ideation.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Game Design Tool",
+      "Whiteboard",
+      "Team"
+    ],
+    "bestFor": [
+      "Game Design Tool",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-figjam",
+    "title": "FigJam",
+    "shortName": "FigJam",
+    "company": "Figma",
+    "website": "https://www.figma.com/figjam/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Design Tool"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Online whiteboard for brainstorming, flowcharts, and collaborative planning.",
+    "longDescription": "FigJam is included in The Creative Vault as a game development resource. Online whiteboard for brainstorming, flowcharts, and collaborative planning.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Game Design Tool",
+      "Whiteboard",
+      "Figma"
+    ],
+    "bestFor": [
+      "Game Design Tool",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-notion",
+    "title": "Notion",
+    "shortName": "Notion",
+    "company": "Notion Labs",
+    "website": "https://www.notion.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Design Tool"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Workspace for game design documents, databases, wikis, and project planning.",
+    "longDescription": "Notion is included in The Creative Vault as a game development resource. Workspace for game design documents, databases, wikis, and project planning.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Game Design Tool",
+      "Docs",
+      "Wiki"
+    ],
+    "bestFor": [
+      "Game Design Tool",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser",
+      "Windows",
+      "Mac",
+      "iPhone",
+      "Android"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-nuclino",
+    "title": "Nuclino",
+    "shortName": "Nuclino",
+    "company": "Nuclino",
+    "website": "https://www.nuclino.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Design Tool"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Team wiki and lightweight documentation tool for game design docs.",
+    "longDescription": "Nuclino is included in The Creative Vault as a game development resource. Team wiki and lightweight documentation tool for game design docs.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Game Design Tool",
+      "Wiki",
+      "Docs"
+    ],
+    "bestFor": [
+      "Game Design Tool",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-hacknplan",
+    "title": "HacknPlan",
+    "shortName": "HacknPlan",
+    "company": "HacknPlan",
+    "website": "https://hacknplan.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Design Tool"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Project management platform built specifically for game development.",
+    "longDescription": "HacknPlan is included in The Creative Vault as a game development resource. Project management platform built specifically for game development.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Game Design Tool",
+      "Project Management"
+    ],
+    "bestFor": [
+      "Game Design Tool",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-codecks",
+    "title": "Codecks",
+    "shortName": "Codecks",
+    "company": "Codecks",
+    "website": "https://www.codecks.io/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Design Tool"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Project management tool designed for game development teams.",
+    "longDescription": "Codecks is included in The Creative Vault as a game development resource. Project management tool designed for game development teams.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Game Design Tool",
+      "Project Management"
+    ],
+    "bestFor": [
+      "Game Design Tool",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-machinations",
+    "title": "Machinations",
+    "shortName": "Machinations",
+    "company": "Machinations",
+    "website": "https://machinations.io/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Design Tool"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Game economy and systems design simulation platform.",
+    "longDescription": "Machinations is included in The Creative Vault as a game development resource. Game economy and systems design simulation platform.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Game Design Tool",
+      "Economy",
+      "Systems"
+    ],
+    "bestFor": [
+      "Game Design Tool",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-articy-draft",
+    "title": "Articy Draft",
+    "shortName": "Articy Draft",
+    "company": "Articy",
+    "website": "https://www.articy.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Design Tool"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Narrative design, branching story, quest, and game writing tool.",
+    "longDescription": "Articy Draft is included in The Creative Vault as a game development resource. Narrative design, branching story, quest, and game writing tool.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Game Design Tool",
+      "Narrative",
+      "Quest Design"
+    ],
+    "bestFor": [
+      "Game Design Tool",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-arcweave",
+    "title": "Arcweave",
+    "shortName": "Arcweave",
+    "company": "Arcweave",
+    "website": "https://arcweave.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Design Tool"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Collaborative tool for interactive narratives, branching stories, and game design.",
+    "longDescription": "Arcweave is included in The Creative Vault as a game development resource. Collaborative tool for interactive narratives, branching stories, and game design.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Game Design Tool",
+      "Narrative",
+      "Branching"
+    ],
+    "bestFor": [
+      "Game Design Tool",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-twine",
+    "title": "Twine",
+    "shortName": "Twine",
+    "company": "Twine",
+    "website": "https://twinery.org/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Design Tool"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Open-source tool for branching interactive fiction and narrative prototypes.",
+    "longDescription": "Twine is included in The Creative Vault as a game development resource. Open-source tool for branching interactive fiction and narrative prototypes.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Game Design Tool",
+      "Narrative",
+      "Open Source"
+    ],
+    "bestFor": [
+      "Game Design Tool",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser",
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": true,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-ink",
+    "title": "Ink",
+    "shortName": "Ink",
+    "company": "Inkle",
+    "website": "https://www.inklestudios.com/ink/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Design Tool"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Narrative scripting language for branching interactive stories.",
+    "longDescription": "Ink is included in The Creative Vault as a game development resource. Narrative scripting language for branching interactive stories.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Game Design Tool",
+      "Narrative",
+      "Scripting"
+    ],
+    "bestFor": [
+      "Game Design Tool",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": true,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-inky",
+    "title": "Inky",
+    "shortName": "Inky",
+    "company": "Inkle",
+    "website": "https://www.inklestudios.com/ink/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Design Tool"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Editor for writing and testing Ink narrative scripts.",
+    "longDescription": "Inky is included in The Creative Vault as a game development resource. Editor for writing and testing Ink narrative scripts.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Game Design Tool",
+      "Narrative",
+      "Editor"
+    ],
+    "bestFor": [
+      "Game Design Tool",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": true,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-yarn-spinner",
+    "title": "Yarn Spinner",
+    "shortName": "Yarn Spinner",
+    "company": "Secret Lab",
+    "website": "https://yarnspinner.dev/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Design Tool"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Dialogue system and narrative scripting tool for Unity.",
+    "longDescription": "Yarn Spinner is included in The Creative Vault as a game development resource. Dialogue system and narrative scripting tool for Unity.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Game Design Tool",
+      "Dialogue",
+      "Unity"
+    ],
+    "bestFor": [
+      "Game Design Tool",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": true,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-dialogue-system-for-unity",
+    "title": "Dialogue System for Unity",
+    "shortName": "Dialogue System for Unity",
+    "company": "Pixel Crushers",
+    "website": "https://www.pixelcrushers.com/dialogue-system/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Design Tool"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Dialogue and quest system for Unity.",
+    "longDescription": "Dialogue System for Unity is included in The Creative Vault as a game development resource. Dialogue and quest system for Unity.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Game Design Tool",
+      "Dialogue",
+      "Unity"
+    ],
+    "bestFor": [
+      "Game Design Tool",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-chat-mapper",
+    "title": "Chat Mapper",
+    "shortName": "Chat Mapper",
+    "company": "Chat Mapper",
+    "website": "https://www.chatmapper.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Design Tool"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Dialogue and narrative design software for games.",
+    "longDescription": "Chat Mapper is included in The Creative Vault as a game development resource. Dialogue and narrative design software for games.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Game Design Tool",
+      "Dialogue",
+      "Narrative"
+    ],
+    "bestFor": [
+      "Game Design Tool",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-world-anvil",
+    "title": "World Anvil",
+    "shortName": "World Anvil",
+    "company": "World Anvil",
+    "website": "https://www.worldanvil.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Design Tool"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Worldbuilding platform for lore, settings, maps, timelines, and campaigns.",
+    "longDescription": "World Anvil is included in The Creative Vault as a game development resource. Worldbuilding platform for lore, settings, maps, timelines, and campaigns.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Game Design Tool",
+      "Worldbuilding",
+      "Lore"
+    ],
+    "bestFor": [
+      "Game Design Tool",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-campfire",
+    "title": "Campfire",
+    "shortName": "Campfire",
+    "company": "Campfire",
+    "website": "https://www.campfirewriting.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Design Tool"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Writing and worldbuilding software for stories, games, and fictional universes.",
+    "longDescription": "Campfire is included in The Creative Vault as a game development resource. Writing and worldbuilding software for stories, games, and fictional universes.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Game Design Tool",
+      "Worldbuilding",
+      "Writing"
+    ],
+    "bestFor": [
+      "Game Design Tool",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-legendkeeper",
+    "title": "LegendKeeper",
+    "shortName": "LegendKeeper",
+    "company": "LegendKeeper",
+    "website": "https://www.legendkeeper.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Design Tool"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Worldbuilding wiki and map tool for games and tabletop settings.",
+    "longDescription": "LegendKeeper is included in The Creative Vault as a game development resource. Worldbuilding wiki and map tool for games and tabletop settings.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Game Dev",
+      "Game Design Tool",
+      "Worldbuilding",
+      "Maps"
+    ],
+    "bestFor": [
+      "Game Design Tool",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-kanka",
+    "title": "Kanka",
+    "shortName": "Kanka",
+    "company": "Kanka",
+    "website": "https://kanka.io/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Design Tool"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Worldbuilding and campaign management platform.",
+    "longDescription": "Kanka is included in The Creative Vault as a game development resource. Worldbuilding and campaign management platform.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Game Design Tool",
+      "Worldbuilding",
+      "Lore"
+    ],
+    "bestFor": [
+      "Game Design Tool",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-maptoglobe",
+    "title": "Maptoglobe",
+    "shortName": "Maptoglobe",
+    "company": "Maptoglobe",
+    "website": "https://www.maptoglobe.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Design Tool"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Tool for turning maps into interactive globes.",
+    "longDescription": "Maptoglobe is included in The Creative Vault as a game development resource. Tool for turning maps into interactive globes.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Game Design Tool",
+      "Maps",
+      "Worldbuilding"
+    ],
+    "bestFor": [
+      "Game Design Tool",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-wonderdraft",
+    "title": "Wonderdraft",
+    "shortName": "Wonderdraft",
+    "company": "Megasploot",
+    "website": "https://www.wonderdraft.net/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Design Tool"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Fantasy map creation software.",
+    "longDescription": "Wonderdraft is included in The Creative Vault as a game development resource. Fantasy map creation software.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Game Design Tool",
+      "Maps",
+      "Worldbuilding"
+    ],
+    "bestFor": [
+      "Game Design Tool",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-dungeondraft",
+    "title": "Dungeondraft",
+    "shortName": "Dungeondraft",
+    "company": "Megasploot",
+    "website": "https://dungeondraft.net/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Design Tool"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Battlemap and dungeon map creation software.",
+    "longDescription": "Dungeondraft is included in The Creative Vault as a game development resource. Battlemap and dungeon map creation software.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Game Design Tool",
+      "Maps",
+      "Level Design"
+    ],
+    "bestFor": [
+      "Game Design Tool",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-dungeon-scrawl",
+    "title": "Dungeon Scrawl",
+    "shortName": "Dungeon Scrawl",
+    "company": "ProbableTrain",
+    "website": "https://www.dungeonscrawl.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Design Tool"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Browser-based dungeon map drawing tool.",
+    "longDescription": "Dungeon Scrawl is included in The Creative Vault as a game development resource. Browser-based dungeon map drawing tool.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Game Design Tool",
+      "Maps",
+      "Dungeons"
+    ],
+    "bestFor": [
+      "Game Design Tool",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-azgaar-s-fantasy-map-generator",
+    "title": "Azgaar's Fantasy Map Generator",
+    "shortName": "Azgaar's Fantasy Map Generator",
+    "company": "Azgaar",
+    "website": "https://azgaar.github.io/Fantasy-Map-Generator/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Design Tool"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Procedural fantasy map generator.",
+    "longDescription": "Azgaar's Fantasy Map Generator is included in The Creative Vault as a game development resource. Procedural fantasy map generator.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Game Design Tool",
+      "Maps",
+      "Procedural"
+    ],
+    "bestFor": [
+      "Game Design Tool",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": true,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

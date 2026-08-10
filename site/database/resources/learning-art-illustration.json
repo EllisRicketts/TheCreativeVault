@@ -1,0 +1,757 @@
+[
+  {
+    "id": "learning-proko",
+    "title": "Proko",
+    "shortName": "Proko",
+    "company": "Proko",
+    "website": "https://www.proko.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Art Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Drawing, anatomy, painting, caricature, and art fundamentals courses.",
+    "longDescription": "Proko is included in The Creative Vault as a learning resource. Drawing, anatomy, painting, caricature, and art fundamentals courses.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Learning",
+      "Art Education",
+      "Drawing",
+      "Anatomy"
+    ],
+    "bestFor": [
+      "Art Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-new-masters-academy",
+    "title": "New Masters Academy",
+    "shortName": "New Masters Academy",
+    "company": "New Masters Academy",
+    "website": "https://www.nma.art/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Art Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Classical art training, figure drawing, anatomy, painting, and reference library.",
+    "longDescription": "New Masters Academy is included in The Creative Vault as a learning resource. Classical art training, figure drawing, anatomy, painting, and reference library.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Learning",
+      "Art Education",
+      "Drawing",
+      "Painting"
+    ],
+    "bestFor": [
+      "Art Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-schoolism",
+    "title": "Schoolism",
+    "shortName": "Schoolism",
+    "company": "Schoolism",
+    "website": "https://schoolism.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Art Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Online art school for illustration, concept art, painting, and visual development.",
+    "longDescription": "Schoolism is included in The Creative Vault as a learning resource. Online art school for illustration, concept art, painting, and visual development.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Learning",
+      "Art Education",
+      "Illustration",
+      "Concept Art"
+    ],
+    "bestFor": [
+      "Art Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-cgma",
+    "title": "CGMA",
+    "shortName": "CGMA",
+    "company": "CG Master Academy",
+    "website": "https://www.cgmasteracademy.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Art Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Online academy for concept art, 3D, games, animation, and entertainment design.",
+    "longDescription": "CGMA is included in The Creative Vault as a learning resource. Online academy for concept art, 3D, games, animation, and entertainment design.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Learning",
+      "Art Education",
+      "Concept Art",
+      "Entertainment"
+    ],
+    "bestFor": [
+      "Art Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-gnomon-workshop",
+    "title": "Gnomon Workshop",
+    "shortName": "Gnomon Workshop",
+    "company": "Gnomon",
+    "website": "https://www.thegnomonworkshop.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Art Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Professional training for concept art, 3D, VFX, games, and entertainment design.",
+    "longDescription": "Gnomon Workshop is included in The Creative Vault as a learning resource. Professional training for concept art, 3D, VFX, games, and entertainment design.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Learning",
+      "Art Education",
+      "3D",
+      "Concept Art"
+    ],
+    "bestFor": [
+      "Art Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-watts-atelier-online",
+    "title": "Watts Atelier Online",
+    "shortName": "Watts Atelier Online",
+    "company": "Watts Atelier",
+    "website": "https://www.wattsatelier.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Art Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Classical drawing and painting training online.",
+    "longDescription": "Watts Atelier Online is included in The Creative Vault as a learning resource. Classical drawing and painting training online.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Learning",
+      "Art Education",
+      "Drawing",
+      "Painting"
+    ],
+    "bestFor": [
+      "Art Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-drawabox",
+    "title": "DrawABox",
+    "shortName": "DrawABox",
+    "company": "DrawABox",
+    "website": "https://drawabox.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Art Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Free structured drawing fundamentals course.",
+    "longDescription": "DrawABox is included in The Creative Vault as a learning resource. Free structured drawing fundamentals course.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Art Education",
+      "Drawing",
+      "Fundamentals"
+    ],
+    "bestFor": [
+      "Art Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-ctrl-paint",
+    "title": "Ctrl+Paint",
+    "shortName": "Ctrl+Paint",
+    "company": "Ctrl+Paint",
+    "website": "https://www.ctrlpaint.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Art Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Digital painting tutorials and structured art lessons.",
+    "longDescription": "Ctrl+Paint is included in The Creative Vault as a learning resource. Digital painting tutorials and structured art lessons.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Learning",
+      "Art Education",
+      "Digital Painting"
+    ],
+    "bestFor": [
+      "Art Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-svs-learn",
+    "title": "SVS Learn",
+    "shortName": "SVS Learn",
+    "company": "Society of Visual Storytelling",
+    "website": "https://www.svslearn.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Art Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Illustration and children's book art education platform.",
+    "longDescription": "SVS Learn is included in The Creative Vault as a learning resource. Illustration and children's book art education platform.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Learning",
+      "Art Education",
+      "Illustration",
+      "Storytelling"
+    ],
+    "bestFor": [
+      "Art Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-21-draw",
+    "title": "21 Draw",
+    "shortName": "21 Draw",
+    "company": "21 Draw",
+    "website": "https://www.21-draw.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Art Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Illustration, character design, and digital art courses.",
+    "longDescription": "21 Draw is included in The Creative Vault as a learning resource. Illustration, character design, and digital art courses.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Learning",
+      "Art Education",
+      "Character Design"
+    ],
+    "bestFor": [
+      "Art Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-creature-art-teacher",
+    "title": "Creature Art Teacher",
+    "shortName": "Creature Art Teacher",
+    "company": "Aaron Blaise",
+    "website": "https://creatureartteacher.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Art Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Animation, creature design, painting, and drawing lessons from Aaron Blaise.",
+    "longDescription": "Creature Art Teacher is included in The Creative Vault as a learning resource. Animation, creature design, painting, and drawing lessons from Aaron Blaise.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Learning",
+      "Art Education",
+      "Animation",
+      "Drawing"
+    ],
+    "bestFor": [
+      "Art Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-artstation-learning",
+    "title": "ArtStation Learning",
+    "shortName": "ArtStation Learning",
+    "company": "ArtStation",
+    "website": "https://www.artstation.com/learning",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Art Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Learning platform for art, game art, entertainment design, and creative workflows.",
+    "longDescription": "ArtStation Learning is included in The Creative Vault as a learning resource. Learning platform for art, game art, entertainment design, and creative workflows.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Learning",
+      "Art Education",
+      "Game Art",
+      "Concept Art"
+    ],
+    "bestFor": [
+      "Art Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-domestika-illustration-courses",
+    "title": "Domestika Illustration Courses",
+    "shortName": "Domestika Illustration Courses",
+    "company": "Domestika",
+    "website": "https://www.domestika.org/en/courses/category/3-illustration",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Art Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Illustration courses across styles, media, and professional workflows.",
+    "longDescription": "Domestika Illustration Courses is included in The Creative Vault as a learning resource. Illustration courses across styles, media, and professional workflows.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Learning",
+      "Art Education",
+      "Illustration"
+    ],
+    "bestFor": [
+      "Art Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-skillshare-illustration",
+    "title": "Skillshare Illustration",
+    "shortName": "Skillshare Illustration",
+    "company": "Skillshare",
+    "website": "https://www.skillshare.com/en/browse/illustration",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Art Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Illustration classes from independent artists and teachers.",
+    "longDescription": "Skillshare Illustration is included in The Creative Vault as a learning resource. Illustration classes from independent artists and teachers.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Learning",
+      "Art Education",
+      "Illustration"
+    ],
+    "bestFor": [
+      "Art Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-love-life-drawing",
+    "title": "Love Life Drawing",
+    "shortName": "Love Life Drawing",
+    "company": "Love Life Drawing",
+    "website": "https://www.lovelifedrawing.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Art Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Figure drawing lessons and practice resources.",
+    "longDescription": "Love Life Drawing is included in The Creative Vault as a learning resource. Figure drawing lessons and practice resources.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Learning",
+      "Art Education",
+      "Figure Drawing"
+    ],
+    "bestFor": [
+      "Art Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-line-of-action-practice",
+    "title": "Line of Action Practice",
+    "shortName": "Line of Action Practice",
+    "company": "Line of Action",
+    "website": "https://line-of-action.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Art Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Timed figure drawing and reference practice tools.",
+    "longDescription": "Line of Action Practice is included in The Creative Vault as a learning resource. Timed figure drawing and reference practice tools.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Art Education",
+      "Figure Drawing",
+      "Reference"
+    ],
+    "bestFor": [
+      "Art Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-quickposes",
+    "title": "Quickposes",
+    "shortName": "Quickposes",
+    "company": "Quickposes",
+    "website": "https://quickposes.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Art Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Timed pose practice for gesture drawing.",
+    "longDescription": "Quickposes is included in The Creative Vault as a learning resource. Timed pose practice for gesture drawing.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Art Education",
+      "Gesture",
+      "Reference"
+    ],
+    "bestFor": [
+      "Art Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-sinix-design",
+    "title": "Sinix Design",
+    "shortName": "Sinix Design",
+    "company": "Sinix Design",
+    "website": "https://www.youtube.com/user/sinixdesign",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Art Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Digital painting, anatomy, and design tutorials on YouTube.",
+    "longDescription": "Sinix Design is included in The Creative Vault as a learning resource. Digital painting, anatomy, and design tutorials on YouTube.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Art Education",
+      "YouTube",
+      "Painting"
+    ],
+    "bestFor": [
+      "Art Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-marc-brunet",
+    "title": "Marc Brunet",
+    "shortName": "Marc Brunet",
+    "company": "Marc Brunet",
+    "website": "https://www.youtube.com/@YTartschool",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Art Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Digital art, character design, and illustration education.",
+    "longDescription": "Marc Brunet is included in The Creative Vault as a learning resource. Digital art, character design, and illustration education.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Art Education",
+      "YouTube",
+      "Character Design"
+    ],
+    "bestFor": [
+      "Art Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-ethan-becker",
+    "title": "Ethan Becker",
+    "shortName": "Ethan Becker",
+    "company": "Ethan Becker",
+    "website": "https://www.youtube.com/@EthanBecker70",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Art Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Animation, art critique, posing, and character design lessons.",
+    "longDescription": "Ethan Becker is included in The Creative Vault as a learning resource. Animation, art critique, posing, and character design lessons.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Art Education",
+      "YouTube",
+      "Animation"
+    ],
+    "bestFor": [
+      "Art Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

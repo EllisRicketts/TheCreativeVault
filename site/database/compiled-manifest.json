@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-07-09T01:53:03.397Z",
+  "output": {
+    "resources": "data/generated-resources.js",
+    "indexes": "data/generated-indexes.js",
+    "databaseResources": "database/generated/resources.json"
+  },
+  "resourceCount": 1510,
+  "sourceResourceFiles": 59,
+  "sourceAssetFiles": 20,
+  "databaseResources": 1327,
+  "assetResources": 187,
+  "duplicateCount": 4,
+  "categoryCount": 27,
+  "tagCount": 602,
+  "companyCount": 898,
+  "duplicates": [
+    {
+      "id": "game-dev-extra-milanote",
+      "kept": "database/resources/game-production-collaboration.json",
+      "overwrittenPrevious": "database/resources/game-design-tools.json"
+    },
+    {
+      "id": "game-dev-extra-notion",
+      "kept": "database/resources/game-production-collaboration.json",
+      "overwrittenPrevious": "database/resources/game-design-tools.json"
+    },
+    {
+      "id": "game-dev-steamworks",
+      "kept": "database/resources/game-publishing.json",
+      "overwrittenPrevious": "database/resources/game-networking-backend.json"
+    },
+    {
+      "id": "game-dev-extra-linear",
+      "kept": "database/resources/game-testing-analytics.json",
+      "overwrittenPrevious": "database/resources/game-production-collaboration.json"
+    }
+  ]
+}

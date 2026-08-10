@@ -1,0 +1,80 @@
+[
+  {
+    "title": "OpenStreetMap",
+    "website": "https://www.openstreetmap.org",
+    "price": "Free",
+    "logo": "",
+    "description": "Open map data and mapping platform.",
+    "assetType": "maps",
+    "commercialUse": "Check license",
+    "attribution": "Check license",
+    "formats": [],
+    "featured": true,
+    "lastReviewed": "2026-07-07"
+  },
+  {
+    "title": "Natural Earth",
+    "website": "https://www.naturalearthdata.com",
+    "price": "Free",
+    "logo": "",
+    "description": "Free public-domain map dataset.",
+    "assetType": "maps",
+    "commercialUse": "Check license",
+    "attribution": "Check license",
+    "formats": [],
+    "featured": true,
+    "lastReviewed": "2026-07-07"
+  },
+  {
+    "title": "Mapbox",
+    "website": "https://www.mapbox.com",
+    "price": "Freemium",
+    "logo": "",
+    "description": "Custom maps and geospatial design platform.",
+    "assetType": "maps",
+    "commercialUse": "Check license",
+    "attribution": "Check license",
+    "formats": [],
+    "featured": false,
+    "lastReviewed": "2026-07-07"
+  },
+  {
+    "title": "Google Maps Platform",
+    "website": "https://mapsplatform.google.com",
+    "price": "Paid",
+    "logo": "",
+    "description": "Google mapping APIs and location services.",
+    "assetType": "maps",
+    "commercialUse": "Check license",
+    "attribution": "Check license",
+    "formats": [],
+    "featured": false,
+    "lastReviewed": "2026-07-07"
+  },
+  {
+    "title": "Stamen Maps",
+    "website": "https://stamen.com/open-source/",
+    "price": "Free",
+    "logo": "",
+    "description": "Open-source map styles and cartography resources.",
+    "assetType": "maps",
+    "commercialUse": "Check license",
+    "attribution": "Check license",
+    "formats": [],
+    "featured": true,
+    "lastReviewed": "2026-07-07"
+  },
+  {
+    "title": "QGIS",
+    "website": "https://qgis.org",
+    "price": "Free",
+    "logo": "",
+    "description": "Open-source geographic information system.",
+    "assetType": "maps",
+    "commercialUse": "Check license",
+    "attribution": "Check license",
+    "formats": [],
+    "featured": true,
+    "lastReviewed": "2026-07-07"
+  }
+]

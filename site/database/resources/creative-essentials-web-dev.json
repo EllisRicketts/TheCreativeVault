@@ -1,0 +1,982 @@
+[
+  {
+    "id": "essential-can-i-use",
+    "title": "Can I Use",
+    "shortName": "Can I Use",
+    "company": "Can I Use",
+    "website": "https://caniuse.com/",
+    "category": "Web",
+    "categoryId": "web",
+    "categories": [
+      "Web",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "web",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Web",
+    "subcategories": [
+      "Browser Compatibility",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Check browser support for web features.",
+    "longDescription": "Can I Use is included in The Creative Vault Creative Essentials Pack. Check browser support for web features.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Web",
+      "Browser Compatibility",
+      "Web"
+    ],
+    "bestFor": [
+      "Browser Compatibility",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-mdn-web-docs",
+    "title": "MDN Web Docs",
+    "shortName": "MDN Web Docs",
+    "company": "Mozilla",
+    "website": "https://developer.mozilla.org/",
+    "category": "Web",
+    "categoryId": "web",
+    "categories": [
+      "Web",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "web",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Web",
+    "subcategories": [
+      "Documentation",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Web development documentation and learning resources.",
+    "longDescription": "MDN Web Docs is included in The Creative Vault Creative Essentials Pack. Web development documentation and learning resources.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Web",
+      "Documentation",
+      "Docs"
+    ],
+    "bestFor": [
+      "Documentation",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-web-dev",
+    "title": "web.dev",
+    "shortName": "web.dev",
+    "company": "Google",
+    "website": "https://web.dev/",
+    "category": "Web",
+    "categoryId": "web",
+    "categories": [
+      "Web",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "web",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Web",
+    "subcategories": [
+      "Web Performance",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Modern web development, performance, and best practices.",
+    "longDescription": "web.dev is included in The Creative Vault Creative Essentials Pack. Modern web development, performance, and best practices.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Web",
+      "Web Performance",
+      "Performance"
+    ],
+    "bestFor": [
+      "Web Performance",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-pagespeed-insights",
+    "title": "PageSpeed Insights",
+    "shortName": "PageSpeed Insights",
+    "company": "Google",
+    "website": "https://pagespeed.web.dev/",
+    "category": "Web",
+    "categoryId": "web",
+    "categories": [
+      "Web",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "web",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Web",
+    "subcategories": [
+      "Website Testing",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Analyze website performance and Core Web Vitals.",
+    "longDescription": "PageSpeed Insights is included in The Creative Vault Creative Essentials Pack. Analyze website performance and Core Web Vitals.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Web",
+      "Website Testing",
+      "Performance"
+    ],
+    "bestFor": [
+      "Website Testing",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-lighthouse",
+    "title": "Lighthouse",
+    "shortName": "Lighthouse",
+    "company": "GoogleChrome",
+    "website": "https://developer.chrome.com/docs/lighthouse/overview/",
+    "category": "Web",
+    "categoryId": "web",
+    "categories": [
+      "Web",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "web",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Web",
+    "subcategories": [
+      "Website Testing",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Open-source auditing tool for performance, accessibility, SEO, and best practices.",
+    "longDescription": "Lighthouse is included in The Creative Vault Creative Essentials Pack. Open-source auditing tool for performance, accessibility, SEO, and best practices.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Web",
+      "Website Testing",
+      "Performance"
+    ],
+    "bestFor": [
+      "Website Testing",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-gtmetrix",
+    "title": "GTmetrix",
+    "shortName": "GTmetrix",
+    "company": "GTmetrix",
+    "website": "https://gtmetrix.com/",
+    "category": "Web",
+    "categoryId": "web",
+    "categories": [
+      "Web",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "web",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Web",
+    "subcategories": [
+      "Website Testing",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Website performance testing and optimization insights.",
+    "longDescription": "GTmetrix is included in The Creative Vault Creative Essentials Pack. Website performance testing and optimization insights.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Web",
+      "Website Testing",
+      "Performance"
+    ],
+    "bestFor": [
+      "Website Testing",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-webpagetest",
+    "title": "WebPageTest",
+    "shortName": "WebPageTest",
+    "company": "Catchpoint",
+    "website": "https://www.webpagetest.org/",
+    "category": "Web",
+    "categoryId": "web",
+    "categories": [
+      "Web",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "web",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Web",
+    "subcategories": [
+      "Website Testing",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Advanced website speed testing.",
+    "longDescription": "WebPageTest is included in The Creative Vault Creative Essentials Pack. Advanced website speed testing.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Web",
+      "Website Testing",
+      "Performance"
+    ],
+    "bestFor": [
+      "Website Testing",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-w3c-validator",
+    "title": "W3C Validator",
+    "shortName": "W3C Validator",
+    "company": "W3C",
+    "website": "https://validator.w3.org/",
+    "category": "Web",
+    "categoryId": "web",
+    "categories": [
+      "Web",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "web",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Web",
+    "subcategories": [
+      "HTML Validation",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Validate HTML markup.",
+    "longDescription": "W3C Validator is included in The Creative Vault Creative Essentials Pack. Validate HTML markup.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Web",
+      "HTML Validation",
+      "Validation"
+    ],
+    "bestFor": [
+      "HTML Validation",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-w3c-css-validator",
+    "title": "W3C CSS Validator",
+    "shortName": "W3C CSS Validator",
+    "company": "W3C",
+    "website": "https://jigsaw.w3.org/css-validator/",
+    "category": "Web",
+    "categoryId": "web",
+    "categories": [
+      "Web",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "web",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Web",
+    "subcategories": [
+      "CSS Validation",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Validate CSS stylesheets.",
+    "longDescription": "W3C CSS Validator is included in The Creative Vault Creative Essentials Pack. Validate CSS stylesheets.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Web",
+      "CSS Validation",
+      "Validation"
+    ],
+    "bestFor": [
+      "CSS Validation",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-jsonlint",
+    "title": "JSONLint",
+    "shortName": "JSONLint",
+    "company": "JSONLint",
+    "website": "https://jsonlint.com/",
+    "category": "Coding",
+    "categoryId": "coding",
+    "categories": [
+      "Coding",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "coding",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Coding",
+    "subcategories": [
+      "JSON Tools",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Validate and format JSON.",
+    "longDescription": "JSONLint is included in The Creative Vault Creative Essentials Pack. Validate and format JSON.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Coding",
+      "JSON Tools",
+      "JSON"
+    ],
+    "bestFor": [
+      "JSON Tools",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-json-formatter",
+    "title": "JSON Formatter",
+    "shortName": "JSON Formatter",
+    "company": "JSON Formatter",
+    "website": "https://jsonformatter.org/",
+    "category": "Coding",
+    "categoryId": "coding",
+    "categories": [
+      "Coding",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "coding",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Coding",
+    "subcategories": [
+      "JSON Tools",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Format, validate, and beautify JSON.",
+    "longDescription": "JSON Formatter is included in The Creative Vault Creative Essentials Pack. Format, validate, and beautify JSON.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Coding",
+      "JSON Tools",
+      "JSON"
+    ],
+    "bestFor": [
+      "JSON Tools",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-regex101",
+    "title": "Regex101",
+    "shortName": "Regex101",
+    "company": "Regex101",
+    "website": "https://regex101.com/",
+    "category": "Coding",
+    "categoryId": "coding",
+    "categories": [
+      "Coding",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "coding",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Coding",
+    "subcategories": [
+      "Regex Tools",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Build, test, and explain regular expressions.",
+    "longDescription": "Regex101 is included in The Creative Vault Creative Essentials Pack. Build, test, and explain regular expressions.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Coding",
+      "Regex Tools",
+      "Regex"
+    ],
+    "bestFor": [
+      "Regex Tools",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-regexr",
+    "title": "RegExr",
+    "shortName": "RegExr",
+    "company": "gskinner",
+    "website": "https://regexr.com/",
+    "category": "Coding",
+    "categoryId": "coding",
+    "categories": [
+      "Coding",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "coding",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Coding",
+    "subcategories": [
+      "Regex Tools",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Learn, build, and test regular expressions.",
+    "longDescription": "RegExr is included in The Creative Vault Creative Essentials Pack. Learn, build, and test regular expressions.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Coding",
+      "Regex Tools",
+      "Regex"
+    ],
+    "bestFor": [
+      "Regex Tools",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-carbon",
+    "title": "Carbon",
+    "shortName": "Carbon",
+    "company": "Carbon",
+    "website": "https://carbon.now.sh/",
+    "category": "Coding",
+    "categoryId": "coding",
+    "categories": [
+      "Coding",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "coding",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Coding",
+    "subcategories": [
+      "Code Image Tools",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Create beautiful images of code snippets.",
+    "longDescription": "Carbon is included in The Creative Vault Creative Essentials Pack. Create beautiful images of code snippets.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Coding",
+      "Code Image Tools",
+      "Code Images"
+    ],
+    "bestFor": [
+      "Code Image Tools",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-ray-so",
+    "title": "Ray.so",
+    "shortName": "Ray.so",
+    "company": "Raycast",
+    "website": "https://ray.so/",
+    "category": "Coding",
+    "categoryId": "coding",
+    "categories": [
+      "Coding",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "coding",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Coding",
+    "subcategories": [
+      "Code Image Tools",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Create clean code screenshots.",
+    "longDescription": "Ray.so is included in The Creative Vault Creative Essentials Pack. Create clean code screenshots.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Coding",
+      "Code Image Tools",
+      "Code Images"
+    ],
+    "bestFor": [
+      "Code Image Tools",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-shields-io",
+    "title": "Shields.io",
+    "shortName": "Shields.io",
+    "company": "Shields.io",
+    "website": "https://shields.io/",
+    "category": "Coding",
+    "categoryId": "coding",
+    "categories": [
+      "Coding",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "coding",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Coding",
+    "subcategories": [
+      "Badge Generator",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Generate status badges for projects and READMEs.",
+    "longDescription": "Shields.io is included in The Creative Vault Creative Essentials Pack. Generate status badges for projects and READMEs.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Coding",
+      "Badge Generator",
+      "Badges"
+    ],
+    "bestFor": [
+      "Badge Generator",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-readme-so",
+    "title": "Readme.so",
+    "shortName": "Readme.so",
+    "company": "Katherine Peterson",
+    "website": "https://readme.so/",
+    "category": "Coding",
+    "categoryId": "coding",
+    "categories": [
+      "Coding",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "coding",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Coding",
+    "subcategories": [
+      "README Generator",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Build README files quickly.",
+    "longDescription": "Readme.so is included in The Creative Vault Creative Essentials Pack. Build README files quickly.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Coding",
+      "README Generator",
+      "Docs"
+    ],
+    "bestFor": [
+      "README Generator",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-devdocs",
+    "title": "DevDocs",
+    "shortName": "DevDocs",
+    "company": "DevDocs",
+    "website": "https://devdocs.io/",
+    "category": "Coding",
+    "categoryId": "coding",
+    "categories": [
+      "Coding",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "coding",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Coding",
+    "subcategories": [
+      "Documentation",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Fast offline-style documentation browser.",
+    "longDescription": "DevDocs is included in The Creative Vault Creative Essentials Pack. Fast offline-style documentation browser.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Coding",
+      "Documentation",
+      "Docs"
+    ],
+    "bestFor": [
+      "Documentation",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-explain-shell",
+    "title": "Explain Shell",
+    "shortName": "Explain Shell",
+    "company": "Explain Shell",
+    "website": "https://explainshell.com/",
+    "category": "Coding",
+    "categoryId": "coding",
+    "categories": [
+      "Coding",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "coding",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Coding",
+    "subcategories": [
+      "Command Help",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Break down and explain shell commands.",
+    "longDescription": "Explain Shell is included in The Creative Vault Creative Essentials Pack. Break down and explain shell commands.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Coding",
+      "Command Help",
+      "Shell"
+    ],
+    "bestFor": [
+      "Command Help",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-crontab-guru",
+    "title": "Crontab Guru",
+    "shortName": "Crontab Guru",
+    "company": "Cronitor",
+    "website": "https://crontab.guru/",
+    "category": "Coding",
+    "categoryId": "coding",
+    "categories": [
+      "Coding",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "coding",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Coding",
+    "subcategories": [
+      "Cron Tools",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Cron schedule expression editor.",
+    "longDescription": "Crontab Guru is included in The Creative Vault Creative Essentials Pack. Cron schedule expression editor.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Coding",
+      "Cron Tools",
+      "Cron"
+    ],
+    "bestFor": [
+      "Cron Tools",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

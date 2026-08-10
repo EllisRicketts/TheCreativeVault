@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Unsplash",
+    "website": "https://unsplash.com",
+    "price": "Free",
+    "logo": "",
+    "description": "Unsplash resource library.",
+    "commercialUse": "Check license",
+    "formats": [],
+    "featured": true
+  },
+  {
+    "title": "Pexels",
+    "website": "https://pexels.com",
+    "price": "Free",
+    "logo": "",
+    "description": "Pexels resource library.",
+    "commercialUse": "Check license",
+    "formats": [],
+    "featured": true
+  },
+  {
+    "title": "Pixabay",
+    "website": "https://pixabay.com",
+    "price": "Free",
+    "logo": "",
+    "description": "Pixabay resource library.",
+    "commercialUse": "Check license",
+    "formats": [],
+    "featured": true
+  },
+  {
+    "title": "Adobe Stock",
+    "website": "https://stock.adobe.com",
+    "price": "Paid",
+    "logo": "",
+    "description": "Adobe Stock resource library.",
+    "commercialUse": "Check license",
+    "formats": [],
+    "featured": false
+  },
+  {
+    "title": "Shutterstock",
+    "website": "https://www.shutterstock.com",
+    "price": "Paid",
+    "logo": "",
+    "description": "Shutterstock resource library.",
+    "commercialUse": "Check license",
+    "formats": [],
+    "featured": false
+  },
+  {
+    "title": "Getty Images",
+    "website": "https://www.gettyimages.com",
+    "price": "Paid",
+    "logo": "",
+    "description": "Getty Images resource library.",
+    "commercialUse": "Check license",
+    "formats": [],
+    "featured": false
+  },
+  {
+    "title": "Rawpixel",
+    "website": "https://www.rawpixel.com",
+    "price": "Freemium",
+    "logo": "",
+    "description": "Rawpixel resource library.",
+    "commercialUse": "Check license",
+    "formats": [],
+    "featured": false
+  },
+  {
+    "title": "StockSnap",
+    "website": "https://stocksnap.io",
+    "price": "Free",
+    "logo": "",
+    "description": "StockSnap resource library.",
+    "commercialUse": "Check license",
+    "formats": [],
+    "featured": true
+  },
+  {
+    "title": "Burst",
+    "website": "https://burst.shopify.com",
+    "price": "Free",
+    "logo": "",
+    "description": "Burst resource library.",
+    "commercialUse": "Check license",
+    "formats": [],
+    "featured": true
+  },
+  {
+    "title": "Kaboompics",
+    "website": "https://kaboompics.com",
+    "price": "Free",
+    "logo": "",
+    "description": "Kaboompics resource library.",
+    "commercialUse": "Check license",
+    "formats": [],
+    "featured": true
+  }
+]

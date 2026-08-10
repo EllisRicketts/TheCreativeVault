@@ -1,0 +1,1521 @@
+[
+  {
+    "id": "learning-corridor-crew",
+    "title": "Corridor Crew",
+    "shortName": "Corridor Crew",
+    "company": "Corridor Digital",
+    "website": "https://www.youtube.com/@CorridorCrew",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Creative YouTube Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "VFX, filmmaking, animation, and production breakdowns.",
+    "longDescription": "Corridor Crew is included in The Creative Vault as a learning resource. VFX, filmmaking, animation, and production breakdowns.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Creative YouTube Education",
+      "VFX",
+      "Film"
+    ],
+    "bestFor": [
+      "Creative YouTube Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-blender-secrets",
+    "title": "Blender Secrets",
+    "shortName": "Blender Secrets",
+    "company": "Blender Secrets",
+    "website": "https://www.youtube.com/@BlenderSecrets",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Creative YouTube Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Short Blender tips, modeling tricks, and workflow lessons.",
+    "longDescription": "Blender Secrets is included in The Creative Vault as a learning resource. Short Blender tips, modeling tricks, and workflow lessons.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Creative YouTube Education",
+      "Blender",
+      "3D"
+    ],
+    "bestFor": [
+      "Creative YouTube Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-default-cube",
+    "title": "Default Cube",
+    "shortName": "Default Cube",
+    "company": "Default Cube",
+    "website": "https://www.youtube.com/@DefaultCube",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Creative YouTube Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Blender procedural, geometry nodes, and 3D tutorials.",
+    "longDescription": "Default Cube is included in The Creative Vault as a learning resource. Blender procedural, geometry nodes, and 3D tutorials.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Creative YouTube Education",
+      "Blender",
+      "Geometry Nodes"
+    ],
+    "bestFor": [
+      "Creative YouTube Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-cg-geek",
+    "title": "CG Geek",
+    "shortName": "CG Geek",
+    "company": "CG Geek",
+    "website": "https://www.youtube.com/@CGGeek",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Creative YouTube Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Blender tutorials, 3D environments, simulations, and visual effects.",
+    "longDescription": "CG Geek is included in The Creative Vault as a learning resource. Blender tutorials, 3D environments, simulations, and visual effects.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Creative YouTube Education",
+      "Blender",
+      "3D"
+    ],
+    "bestFor": [
+      "Creative YouTube Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-ian-hubert",
+    "title": "Ian Hubert",
+    "shortName": "Ian Hubert",
+    "company": "Ian Hubert",
+    "website": "https://www.youtube.com/@ianhubert2",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Creative YouTube Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Blender filmmaking, lazy tutorials, VFX, and worldbuilding workflows.",
+    "longDescription": "Ian Hubert is included in The Creative Vault as a learning resource. Blender filmmaking, lazy tutorials, VFX, and worldbuilding workflows.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Creative YouTube Education",
+      "Blender",
+      "Film"
+    ],
+    "bestFor": [
+      "Creative YouTube Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-southernshotty",
+    "title": "SouthernShotty",
+    "shortName": "SouthernShotty",
+    "company": "SouthernShotty",
+    "website": "https://www.youtube.com/@SouthernShotty",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Creative YouTube Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Blender character art, stylized 3D, and animation tutorials.",
+    "longDescription": "SouthernShotty is included in The Creative Vault as a learning resource. Blender character art, stylized 3D, and animation tutorials.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Creative YouTube Education",
+      "Blender",
+      "Character"
+    ],
+    "bestFor": [
+      "Creative YouTube Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-smeaf",
+    "title": "Smeaf",
+    "shortName": "Smeaf",
+    "company": "Smeaf",
+    "website": "https://www.youtube.com/@Smeaf",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Creative YouTube Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Blender character, rigging, and 3D art tutorials.",
+    "longDescription": "Smeaf is included in The Creative Vault as a learning resource. Blender character, rigging, and 3D art tutorials.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Creative YouTube Education",
+      "Blender",
+      "Character"
+    ],
+    "bestFor": [
+      "Creative YouTube Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-crossmind-studio",
+    "title": "CrossMind Studio",
+    "shortName": "CrossMind Studio",
+    "company": "CrossMind Studio",
+    "website": "https://www.youtube.com/@CrossMindStudio",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Creative YouTube Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Blender tutorials focused on modeling, geometry nodes, and visual effects.",
+    "longDescription": "CrossMind Studio is included in The Creative Vault as a learning resource. Blender tutorials focused on modeling, geometry nodes, and visual effects.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Creative YouTube Education",
+      "Blender",
+      "3D"
+    ],
+    "bestFor": [
+      "Creative YouTube Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-polygon-runway",
+    "title": "Polygon Runway",
+    "shortName": "Polygon Runway",
+    "company": "Polygon Runway",
+    "website": "https://www.youtube.com/@polygonrunway",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Creative YouTube Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Stylized low-poly Blender illustration tutorials.",
+    "longDescription": "Polygon Runway is included in The Creative Vault as a learning resource. Stylized low-poly Blender illustration tutorials.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Creative YouTube Education",
+      "Blender",
+      "Low Poly"
+    ],
+    "bestFor": [
+      "Creative YouTube Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-stylized-station",
+    "title": "Stylized Station",
+    "shortName": "Stylized Station",
+    "company": "Stylized Station",
+    "website": "https://www.youtube.com/@StylizedStation",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Creative YouTube Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Stylized 3D art, game art, and environment tutorials.",
+    "longDescription": "Stylized Station is included in The Creative Vault as a learning resource. Stylized 3D art, game art, and environment tutorials.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Creative YouTube Education",
+      "Game Art",
+      "3D"
+    ],
+    "bestFor": [
+      "Creative YouTube Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-jazza",
+    "title": "Jazza",
+    "shortName": "Jazza",
+    "company": "Jazza",
+    "website": "https://www.youtube.com/@Jazza",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Creative YouTube Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Art challenges, illustration, character design, and creative experiments.",
+    "longDescription": "Jazza is included in The Creative Vault as a learning resource. Art challenges, illustration, character design, and creative experiments.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Creative YouTube Education",
+      "Art",
+      "Illustration"
+    ],
+    "bestFor": [
+      "Creative YouTube Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-bobby-chiu",
+    "title": "Bobby Chiu",
+    "shortName": "Bobby Chiu",
+    "company": "Bobby Chiu",
+    "website": "https://www.youtube.com/@BobbyChiu",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Creative YouTube Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Artist interviews, illustration, concept art, and creative career advice.",
+    "longDescription": "Bobby Chiu is included in The Creative Vault as a learning resource. Artist interviews, illustration, concept art, and creative career advice.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Creative YouTube Education",
+      "Concept Art",
+      "Career"
+    ],
+    "bestFor": [
+      "Creative YouTube Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-ahmed-aldoori",
+    "title": "Ahmed Aldoori",
+    "shortName": "Ahmed Aldoori",
+    "company": "Ahmed Aldoori",
+    "website": "https://www.youtube.com/@AhmedAldoori",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Creative YouTube Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Digital painting, concept art, portrait, and art career education.",
+    "longDescription": "Ahmed Aldoori is included in The Creative Vault as a learning resource. Digital painting, concept art, portrait, and art career education.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Creative YouTube Education",
+      "Painting",
+      "Concept Art"
+    ],
+    "bestFor": [
+      "Creative YouTube Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-trent-kaniuga",
+    "title": "Trent Kaniuga",
+    "shortName": "Trent Kaniuga",
+    "company": "Trent Kaniuga",
+    "website": "https://www.youtube.com/@TrentKaniuga",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Creative YouTube Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Concept art, game art, comics, and entertainment design career lessons.",
+    "longDescription": "Trent Kaniuga is included in The Creative Vault as a learning resource. Concept art, game art, comics, and entertainment design career lessons.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Creative YouTube Education",
+      "Concept Art",
+      "Game Art"
+    ],
+    "bestFor": [
+      "Creative YouTube Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-marco-bucci",
+    "title": "Marco Bucci",
+    "shortName": "Marco Bucci",
+    "company": "Marco Bucci",
+    "website": "https://www.youtube.com/@marcobucci",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Creative YouTube Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Painting fundamentals, color, light, shape, and illustration education.",
+    "longDescription": "Marco Bucci is included in The Creative Vault as a learning resource. Painting fundamentals, color, light, shape, and illustration education.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Creative YouTube Education",
+      "Painting",
+      "Color"
+    ],
+    "bestFor": [
+      "Creative YouTube Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-borocg",
+    "title": "BoroCG",
+    "shortName": "BoroCG",
+    "company": "BoroCG",
+    "website": "https://www.youtube.com/@BoroCG",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Creative YouTube Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Blender animation, 3D, and character animation tutorials.",
+    "longDescription": "BoroCG is included in The Creative Vault as a learning resource. Blender animation, 3D, and character animation tutorials.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Creative YouTube Education",
+      "Animation",
+      "Blender"
+    ],
+    "bestFor": [
+      "Creative YouTube Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-sir-wade-neistadt",
+    "title": "Sir Wade Neistadt",
+    "shortName": "Sir Wade Neistadt",
+    "company": "Sir Wade Neistadt",
+    "website": "https://www.youtube.com/@SirWade",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Creative YouTube Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "3D animation, Maya, Blender, and animation career education.",
+    "longDescription": "Sir Wade Neistadt is included in The Creative Vault as a learning resource. 3D animation, Maya, Blender, and animation career education.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Creative YouTube Education",
+      "Animation",
+      "3D"
+    ],
+    "bestFor": [
+      "Creative YouTube Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-bam-animation",
+    "title": "BaM Animation",
+    "shortName": "BaM Animation",
+    "company": "BaM Animation",
+    "website": "https://www.youtube.com/@BaMAnimation",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Creative YouTube Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Animation, drawing, character design, and industry lessons.",
+    "longDescription": "BaM Animation is included in The Creative Vault as a learning resource. Animation, drawing, character design, and industry lessons.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Creative YouTube Education",
+      "Animation",
+      "Drawing"
+    ],
+    "bestFor": [
+      "Creative YouTube Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-toniko-pantoja",
+    "title": "Toniko Pantoja",
+    "shortName": "Toniko Pantoja",
+    "company": "Toniko Pantoja",
+    "website": "https://www.youtube.com/@TonikoPantoja",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Creative YouTube Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "2D animation, storyboarding, and art career education.",
+    "longDescription": "Toniko Pantoja is included in The Creative Vault as a learning resource. 2D animation, storyboarding, and art career education.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Creative YouTube Education",
+      "Animation",
+      "Storyboarding"
+    ],
+    "bestFor": [
+      "Creative YouTube Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-aaron-blaise-youtube",
+    "title": "Aaron Blaise YouTube",
+    "shortName": "Aaron Blaise YouTube",
+    "company": "Aaron Blaise",
+    "website": "https://www.youtube.com/@AaronBlaiseArt",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Creative YouTube Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Animation, animal drawing, painting, and Disney-style art education.",
+    "longDescription": "Aaron Blaise YouTube is included in The Creative Vault as a learning resource. Animation, animal drawing, painting, and Disney-style art education.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Creative YouTube Education",
+      "Animation",
+      "Drawing"
+    ],
+    "bestFor": [
+      "Creative YouTube Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-jake-in-motion",
+    "title": "Jake In Motion",
+    "shortName": "Jake In Motion",
+    "company": "Jake In Motion",
+    "website": "https://www.youtube.com/@JakeInMotion",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Creative YouTube Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "After Effects, motion design, and animation tutorials.",
+    "longDescription": "Jake In Motion is included in The Creative Vault as a learning resource. After Effects, motion design, and animation tutorials.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Creative YouTube Education",
+      "After Effects",
+      "Motion"
+    ],
+    "bestFor": [
+      "Creative YouTube Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-evan-abrams",
+    "title": "Evan Abrams",
+    "shortName": "Evan Abrams",
+    "company": "Evan Abrams",
+    "website": "https://www.youtube.com/@ECAbrams",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Creative YouTube Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "After Effects, motion graphics, and animation education.",
+    "longDescription": "Evan Abrams is included in The Creative Vault as a learning resource. After Effects, motion graphics, and animation education.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Creative YouTube Education",
+      "After Effects",
+      "Motion"
+    ],
+    "bestFor": [
+      "Creative YouTube Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-ukramedia",
+    "title": "Ukramedia",
+    "shortName": "Ukramedia",
+    "company": "Ukramedia",
+    "website": "https://www.youtube.com/@ukramedia",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Creative YouTube Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "After Effects expressions, animation, and motion design tutorials.",
+    "longDescription": "Ukramedia is included in The Creative Vault as a learning resource. After Effects expressions, animation, and motion design tutorials.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Creative YouTube Education",
+      "After Effects",
+      "Expressions"
+    ],
+    "bestFor": [
+      "Creative YouTube Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-sonduckfilm",
+    "title": "SonduckFilm",
+    "shortName": "SonduckFilm",
+    "company": "SonduckFilm",
+    "website": "https://www.youtube.com/@SonduckFilm",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Creative YouTube Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "After Effects, motion graphics, and video editing tutorials.",
+    "longDescription": "SonduckFilm is included in The Creative Vault as a learning resource. After Effects, motion graphics, and video editing tutorials.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Creative YouTube Education",
+      "Motion",
+      "Video"
+    ],
+    "bestFor": [
+      "Creative YouTube Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-premiere-gal",
+    "title": "Premiere Gal",
+    "shortName": "Premiere Gal",
+    "company": "Premiere Gal",
+    "website": "https://www.youtube.com/@PremiereGal",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Creative YouTube Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Premiere Pro, video editing, effects, and creator tutorials.",
+    "longDescription": "Premiere Gal is included in The Creative Vault as a learning resource. Premiere Pro, video editing, effects, and creator tutorials.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Creative YouTube Education",
+      "Premiere",
+      "Video Editing"
+    ],
+    "bestFor": [
+      "Creative YouTube Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-justin-odisho",
+    "title": "Justin Odisho",
+    "shortName": "Justin Odisho",
+    "company": "Justin Odisho",
+    "website": "https://www.youtube.com/@JustinOdisho",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Creative YouTube Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Premiere Pro, Photoshop, video editing, and effects tutorials.",
+    "longDescription": "Justin Odisho is included in The Creative Vault as a learning resource. Premiere Pro, Photoshop, video editing, and effects tutorials.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Creative YouTube Education",
+      "Editing",
+      "Photoshop"
+    ],
+    "bestFor": [
+      "Creative YouTube Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-daniel-schiffer",
+    "title": "Daniel Schiffer",
+    "shortName": "Daniel Schiffer",
+    "company": "Daniel Schiffer",
+    "website": "https://www.youtube.com/@DanielSchiffer",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Creative YouTube Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Product filmmaking, commercials, editing, and creative video production.",
+    "longDescription": "Daniel Schiffer is included in The Creative Vault as a learning resource. Product filmmaking, commercials, editing, and creative video production.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Creative YouTube Education",
+      "Filmmaking",
+      "Commercials"
+    ],
+    "bestFor": [
+      "Creative YouTube Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-think-media",
+    "title": "Think Media",
+    "shortName": "Think Media",
+    "company": "Think Media",
+    "website": "https://www.youtube.com/@ThinkMediaTV",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Creative YouTube Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "YouTube strategy, camera gear, creator business, and video production.",
+    "longDescription": "Think Media is included in The Creative Vault as a learning resource. YouTube strategy, camera gear, creator business, and video production.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Creative YouTube Education",
+      "YouTube",
+      "Creator"
+    ],
+    "bestFor": [
+      "Creative YouTube Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-roberto-blake",
+    "title": "Roberto Blake",
+    "shortName": "Roberto Blake",
+    "company": "Roberto Blake",
+    "website": "https://www.youtube.com/@RobertoBlake",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Creative YouTube Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Creator business, YouTube growth, freelancing, and creative entrepreneurship.",
+    "longDescription": "Roberto Blake is included in The Creative Vault as a learning resource. Creator business, YouTube growth, freelancing, and creative entrepreneurship.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Creative YouTube Education",
+      "Creator Business"
+    ],
+    "bestFor": [
+      "Creative YouTube Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-ali-abdaal",
+    "title": "Ali Abdaal",
+    "shortName": "Ali Abdaal",
+    "company": "Ali Abdaal",
+    "website": "https://www.youtube.com/@aliabdaal",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Creative YouTube Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Productivity, creator business, writing, and online education.",
+    "longDescription": "Ali Abdaal is included in The Creative Vault as a learning resource. Productivity, creator business, writing, and online education.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Creative YouTube Education",
+      "Productivity",
+      "Creator"
+    ],
+    "bestFor": [
+      "Creative YouTube Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-pat-flynn",
+    "title": "Pat Flynn",
+    "shortName": "Pat Flynn",
+    "company": "Pat Flynn",
+    "website": "https://www.smartpassiveincome.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Creative Business Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Online business, podcasting, courses, and creator entrepreneurship education.",
+    "longDescription": "Pat Flynn is included in The Creative Vault as a learning resource. Online business, podcasting, courses, and creator entrepreneurship education.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Learning",
+      "Creative Business Education",
+      "Business",
+      "Podcasting"
+    ],
+    "bestFor": [
+      "Creative Business Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-sean-mccabe",
+    "title": "Sean McCabe",
+    "shortName": "Sean McCabe",
+    "company": "Sean McCabe",
+    "website": "https://seanwes.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Creative Business Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Creative business, pricing, writing, client work, and independent creator education.",
+    "longDescription": "Sean McCabe is included in The Creative Vault as a learning resource. Creative business, pricing, writing, client work, and independent creator education.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Learning",
+      "Creative Business Education",
+      "Freelance",
+      "Business"
+    ],
+    "bestFor": [
+      "Creative Business Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-chris-coyier",
+    "title": "Chris Coyier",
+    "shortName": "Chris Coyier",
+    "company": "Chris Coyier",
+    "website": "https://chriscoyier.net/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Code and Design Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Frontend, CSS, web design, and creative coding writing.",
+    "longDescription": "Chris Coyier is included in The Creative Vault as a learning resource. Frontend, CSS, web design, and creative coding writing.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Code and Design Education",
+      "Web",
+      "CSS"
+    ],
+    "bestFor": [
+      "Code and Design Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-kevin-powell",
+    "title": "Kevin Powell",
+    "shortName": "Kevin Powell",
+    "company": "Kevin Powell",
+    "website": "https://www.youtube.com/@KevinPowell",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Code and Design Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "CSS and frontend design tutorials for web creators.",
+    "longDescription": "Kevin Powell is included in The Creative Vault as a learning resource. CSS and frontend design tutorials for web creators.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Code and Design Education",
+      "CSS",
+      "Frontend"
+    ],
+    "bestFor": [
+      "Code and Design Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-the-net-ninja",
+    "title": "The Net Ninja",
+    "shortName": "The Net Ninja",
+    "company": "The Net Ninja",
+    "website": "https://www.youtube.com/@NetNinja",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Code and Design Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Web development, JavaScript, React, Vue, Firebase, and coding tutorials.",
+    "longDescription": "The Net Ninja is included in The Creative Vault as a learning resource. Web development, JavaScript, React, Vue, Firebase, and coding tutorials.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Code and Design Education",
+      "Coding",
+      "Web"
+    ],
+    "bestFor": [
+      "Code and Design Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-traversy-media",
+    "title": "Traversy Media",
+    "shortName": "Traversy Media",
+    "company": "Traversy Media",
+    "website": "https://www.youtube.com/@TraversyMedia",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Code and Design Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Web development, programming, and project-based coding tutorials.",
+    "longDescription": "Traversy Media is included in The Creative Vault as a learning resource. Web development, programming, and project-based coding tutorials.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Code and Design Education",
+      "Coding",
+      "Web"
+    ],
+    "bestFor": [
+      "Code and Design Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-fireship",
+    "title": "Fireship",
+    "shortName": "Fireship",
+    "company": "Fireship",
+    "website": "https://www.youtube.com/@Fireship",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Code and Design Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Fast programming, web development, AI, and tech explainers.",
+    "longDescription": "Fireship is included in The Creative Vault as a learning resource. Fast programming, web development, AI, and tech explainers.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Code and Design Education",
+      "Coding",
+      "Tech"
+    ],
+    "bestFor": [
+      "Code and Design Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-theo-t3-gg",
+    "title": "Theo - t3.gg",
+    "shortName": "Theo - t3.gg",
+    "company": "Theo Browne",
+    "website": "https://www.youtube.com/@t3dotgg",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Code and Design Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Web development, full-stack apps, TypeScript, React, and developer industry commentary.",
+    "longDescription": "Theo - t3.gg is included in The Creative Vault as a learning resource. Web development, full-stack apps, TypeScript, React, and developer industry commentary.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Code and Design Education",
+      "Web",
+      "TypeScript"
+    ],
+    "bestFor": [
+      "Code and Design Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-designcourse",
+    "title": "DesignCourse",
+    "shortName": "DesignCourse",
+    "company": "DesignCourse",
+    "website": "https://www.youtube.com/@DesignCourse",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Code and Design Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "UI design, frontend development, CSS, and product interface tutorials.",
+    "longDescription": "DesignCourse is included in The Creative Vault as a learning resource. UI design, frontend development, CSS, and product interface tutorials.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Code and Design Education",
+      "UI",
+      "Frontend"
+    ],
+    "bestFor": [
+      "Code and Design Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-envato-tuts",
+    "title": "Envato Tuts+",
+    "shortName": "Envato Tuts+",
+    "company": "Envato",
+    "website": "https://tutsplus.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Creative Learning Library"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Tutorial library for design, code, photography, video, music, and business.",
+    "longDescription": "Envato Tuts+ is included in The Creative Vault as a learning resource. Tutorial library for design, code, photography, video, music, and business.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Learning",
+      "Creative Learning Library",
+      "Tutorials",
+      "Creative"
+    ],
+    "bestFor": [
+      "Creative Learning Library",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

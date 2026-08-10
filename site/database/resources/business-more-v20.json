@@ -1,0 +1,362 @@
+[
+  {
+    "id": "business-carta",
+    "title": "Carta",
+    "shortName": "Carta",
+    "company": "Carta",
+    "website": "https://carta.com/",
+    "category": "Business",
+    "categoryId": "business",
+    "subcategories": [
+      "Equity and Business"
+    ],
+    "type": "Resource",
+    "shortDescription": "Equity management and startup ownership platform.",
+    "longDescription": "Carta is included in The Creative Vault as a equity and business resource. Equity management and startup ownership platform.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Business",
+      "Equity and Business",
+      "Startup"
+    ],
+    "bestFor": [
+      "Equity and Business",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "business-legalzoom",
+    "title": "LegalZoom",
+    "shortName": "LegalZoom",
+    "company": "LegalZoom",
+    "website": "https://www.legalzoom.com/",
+    "category": "Business",
+    "categoryId": "business",
+    "subcategories": [
+      "Legal Tools"
+    ],
+    "type": "Resource",
+    "shortDescription": "Business formation, legal documents, and legal services platform.",
+    "longDescription": "LegalZoom is included in The Creative Vault as a legal tools resource. Business formation, legal documents, and legal services platform.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Business",
+      "Legal Tools",
+      "Legal"
+    ],
+    "bestFor": [
+      "Legal Tools",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "business-rocket-lawyer",
+    "title": "Rocket Lawyer",
+    "shortName": "Rocket Lawyer",
+    "company": "Rocket Lawyer",
+    "website": "https://www.rocketlawyer.com/",
+    "category": "Business",
+    "categoryId": "business",
+    "subcategories": [
+      "Legal Tools"
+    ],
+    "type": "Resource",
+    "shortDescription": "Legal documents and business legal services.",
+    "longDescription": "Rocket Lawyer is included in The Creative Vault as a legal tools resource. Legal documents and business legal services.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Business",
+      "Legal Tools",
+      "Legal"
+    ],
+    "bestFor": [
+      "Legal Tools",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "business-hellosign",
+    "title": "HelloSign",
+    "shortName": "HelloSign",
+    "company": "Dropbox",
+    "website": "https://www.hellosign.com/",
+    "category": "Business",
+    "categoryId": "business",
+    "subcategories": [
+      "Contracts"
+    ],
+    "type": "Resource",
+    "shortDescription": "Electronic signature platform now Dropbox Sign.",
+    "longDescription": "HelloSign is included in The Creative Vault as a contracts resource. Electronic signature platform now Dropbox Sign.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Business",
+      "Contracts",
+      "Contracts"
+    ],
+    "bestFor": [
+      "Contracts",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "business-pandadoc",
+    "title": "PandaDoc",
+    "shortName": "PandaDoc",
+    "company": "PandaDoc",
+    "website": "https://www.pandadoc.com/",
+    "category": "Business",
+    "categoryId": "business",
+    "subcategories": [
+      "Proposals"
+    ],
+    "type": "Resource",
+    "shortDescription": "Proposal, contract, document, and e-signature platform.",
+    "longDescription": "PandaDoc is included in The Creative Vault as a proposals resource. Proposal, contract, document, and e-signature platform.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Business",
+      "Proposals",
+      "Proposals"
+    ],
+    "bestFor": [
+      "Proposals",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "business-better-proposals",
+    "title": "Better Proposals",
+    "shortName": "Better Proposals",
+    "company": "Better Proposals",
+    "website": "https://betterproposals.io/",
+    "category": "Business",
+    "categoryId": "business",
+    "subcategories": [
+      "Proposals"
+    ],
+    "type": "Resource",
+    "shortDescription": "Proposal creation and client closing platform.",
+    "longDescription": "Better Proposals is included in The Creative Vault as a proposals resource. Proposal creation and client closing platform.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Business",
+      "Proposals",
+      "Proposals"
+    ],
+    "bestFor": [
+      "Proposals",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "business-proposify",
+    "title": "Proposify",
+    "shortName": "Proposify",
+    "company": "Proposify",
+    "website": "https://www.proposify.com/",
+    "category": "Business",
+    "categoryId": "business",
+    "subcategories": [
+      "Proposals"
+    ],
+    "type": "Resource",
+    "shortDescription": "Proposal software for sales and creative services.",
+    "longDescription": "Proposify is included in The Creative Vault as a proposals resource. Proposal software for sales and creative services.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Business",
+      "Proposals",
+      "Proposals"
+    ],
+    "bestFor": [
+      "Proposals",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "business-square-appointments",
+    "title": "Square Appointments",
+    "shortName": "Square Appointments",
+    "company": "Square",
+    "website": "https://squareup.com/us/en/appointments",
+    "category": "Business",
+    "categoryId": "business",
+    "subcategories": [
+      "Bookings"
+    ],
+    "type": "Resource",
+    "shortDescription": "Scheduling and booking platform for service businesses.",
+    "longDescription": "Square Appointments is included in The Creative Vault as a bookings resource. Scheduling and booking platform for service businesses.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Business",
+      "Bookings",
+      "Bookings"
+    ],
+    "bestFor": [
+      "Bookings",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "business-honeybook-finance",
+    "title": "HoneyBook Finance",
+    "shortName": "HoneyBook Finance",
+    "company": "HoneyBook",
+    "website": "https://www.honeybook.com/",
+    "category": "Business",
+    "categoryId": "business",
+    "subcategories": [
+      "Client Management"
+    ],
+    "type": "Resource",
+    "shortDescription": "Clientflow system for proposals, invoices, contracts, and projects.",
+    "longDescription": "HoneyBook Finance is included in The Creative Vault as a client management resource. Clientflow system for proposals, invoices, contracts, and projects.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Business",
+      "Client Management",
+      "CRM"
+    ],
+    "bestFor": [
+      "Client Management",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "business-zoho-books",
+    "title": "Zoho Books",
+    "shortName": "Zoho Books",
+    "company": "Zoho",
+    "website": "https://www.zoho.com/books/",
+    "category": "Business",
+    "categoryId": "business",
+    "subcategories": [
+      "Accounting"
+    ],
+    "type": "Resource",
+    "shortDescription": "Accounting software for small businesses.",
+    "longDescription": "Zoho Books is included in The Creative Vault as a accounting resource. Accounting software for small businesses.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Business",
+      "Accounting",
+      "Accounting"
+    ],
+    "bestFor": [
+      "Accounting",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

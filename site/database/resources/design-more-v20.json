@@ -1,0 +1,362 @@
+[
+  {
+    "id": "design-mobbin",
+    "title": "Mobbin",
+    "shortName": "Mobbin",
+    "company": "Mobbin",
+    "website": "https://mobbin.com/",
+    "category": "Design",
+    "categoryId": "design",
+    "subcategories": [
+      "UI Reference"
+    ],
+    "type": "Resource",
+    "shortDescription": "UI and product design pattern library.",
+    "longDescription": "Mobbin is included in The Creative Vault as a ui reference resource. UI and product design pattern library.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Design",
+      "UI Reference",
+      "UI"
+    ],
+    "bestFor": [
+      "UI Reference",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "design-page-flows",
+    "title": "Page Flows",
+    "shortName": "Page Flows",
+    "company": "Page Flows",
+    "website": "https://pageflows.com/",
+    "category": "Design",
+    "categoryId": "design",
+    "subcategories": [
+      "UX Reference"
+    ],
+    "type": "Resource",
+    "shortDescription": "User flow videos and UX pattern library.",
+    "longDescription": "Page Flows is included in The Creative Vault as a ux reference resource. User flow videos and UX pattern library.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Design",
+      "UX Reference",
+      "UX"
+    ],
+    "bestFor": [
+      "UX Reference",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "design-refero",
+    "title": "Refero",
+    "shortName": "Refero",
+    "company": "Refero",
+    "website": "https://refero.design/",
+    "category": "Design",
+    "categoryId": "design",
+    "subcategories": [
+      "Design Inspiration"
+    ],
+    "type": "Resource",
+    "shortDescription": "Design inspiration and UI reference platform.",
+    "longDescription": "Refero is included in The Creative Vault as a design inspiration resource. Design inspiration and UI reference platform.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Design",
+      "Design Inspiration",
+      "UI"
+    ],
+    "bestFor": [
+      "Design Inspiration",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "design-scrnshts",
+    "title": "Scrnshts",
+    "shortName": "Scrnshts",
+    "company": "Scrnshts",
+    "website": "https://scrnshts.club/",
+    "category": "Design",
+    "categoryId": "design",
+    "subcategories": [
+      "App Screenshots"
+    ],
+    "type": "Resource",
+    "shortDescription": "App screenshot and UI inspiration gallery.",
+    "longDescription": "Scrnshts is included in The Creative Vault as a app screenshots resource. App screenshot and UI inspiration gallery.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Design",
+      "App Screenshots",
+      "UI"
+    ],
+    "bestFor": [
+      "App Screenshots",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "design-nicely-done",
+    "title": "Nicely Done",
+    "shortName": "Nicely Done",
+    "company": "Nicely Done",
+    "website": "https://nicelydone.club/",
+    "category": "Design",
+    "categoryId": "design",
+    "subcategories": [
+      "Product Inspiration"
+    ],
+    "type": "Resource",
+    "shortDescription": "Curated product design and UX inspiration.",
+    "longDescription": "Nicely Done is included in The Creative Vault as a product inspiration resource. Curated product design and UX inspiration.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Design",
+      "Product Inspiration",
+      "Product"
+    ],
+    "bestFor": [
+      "Product Inspiration",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "design-landings",
+    "title": "Landings",
+    "shortName": "Landings",
+    "company": "Landings",
+    "website": "https://landings.dev/",
+    "category": "Design",
+    "categoryId": "design",
+    "subcategories": [
+      "Landing Page Inspiration"
+    ],
+    "type": "Resource",
+    "shortDescription": "Landing page inspiration gallery.",
+    "longDescription": "Landings is included in The Creative Vault as a landing page inspiration resource. Landing page inspiration gallery.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Design",
+      "Landing Page Inspiration",
+      "Web"
+    ],
+    "bestFor": [
+      "Landing Page Inspiration",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "design-saas-landing-page",
+    "title": "SaaS Landing Page",
+    "shortName": "SaaS Landing Page",
+    "company": "SaaS Landing Page",
+    "website": "https://saaslandingpage.com/",
+    "category": "Design",
+    "categoryId": "design",
+    "subcategories": [
+      "Landing Page Inspiration"
+    ],
+    "type": "Resource",
+    "shortDescription": "SaaS landing page inspiration and examples.",
+    "longDescription": "SaaS Landing Page is included in The Creative Vault as a landing page inspiration resource. SaaS landing page inspiration and examples.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Design",
+      "Landing Page Inspiration",
+      "SaaS"
+    ],
+    "bestFor": [
+      "Landing Page Inspiration",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "design-dark-mode-design",
+    "title": "Dark Mode Design",
+    "shortName": "Dark Mode Design",
+    "company": "Dark Mode Design",
+    "website": "https://www.darkmodedesign.com/",
+    "category": "Design",
+    "categoryId": "design",
+    "subcategories": [
+      "Design Inspiration"
+    ],
+    "type": "Resource",
+    "shortDescription": "Dark interface design inspiration.",
+    "longDescription": "Dark Mode Design is included in The Creative Vault as a design inspiration resource. Dark interface design inspiration.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Design",
+      "Design Inspiration",
+      "UI"
+    ],
+    "bestFor": [
+      "Design Inspiration",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "design-fonts-in-use",
+    "title": "Fonts In Use",
+    "shortName": "Fonts In Use",
+    "company": "Fonts In Use",
+    "website": "https://fontsinuse.com/",
+    "category": "Design",
+    "categoryId": "design",
+    "subcategories": [
+      "Typography Reference"
+    ],
+    "type": "Resource",
+    "shortDescription": "Typography archive showing typefaces in real-world use.",
+    "longDescription": "Fonts In Use is included in The Creative Vault as a typography reference resource. Typography archive showing typefaces in real-world use.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Design",
+      "Typography Reference",
+      "Typography"
+    ],
+    "bestFor": [
+      "Typography Reference",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "design-typewolf",
+    "title": "Typewolf",
+    "shortName": "Typewolf",
+    "company": "Typewolf",
+    "website": "https://www.typewolf.com/",
+    "category": "Design",
+    "categoryId": "design",
+    "subcategories": [
+      "Typography Reference"
+    ],
+    "type": "Resource",
+    "shortDescription": "Typography inspiration, font recommendations, and type guides.",
+    "longDescription": "Typewolf is included in The Creative Vault as a typography reference resource. Typography inspiration, font recommendations, and type guides.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Design",
+      "Typography Reference",
+      "Typography"
+    ],
+    "bestFor": [
+      "Typography Reference",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

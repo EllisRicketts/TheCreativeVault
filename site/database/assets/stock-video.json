@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Mixkit",
+    "website": "https://mixkit.co",
+    "price": "Free",
+    "logo": "",
+    "description": "Mixkit resource library.",
+    "commercialUse": "Check license",
+    "formats": [],
+    "featured": true
+  },
+  {
+    "title": "Coverr",
+    "website": "https://coverr.co",
+    "price": "Free",
+    "logo": "",
+    "description": "Coverr resource library.",
+    "commercialUse": "Check license",
+    "formats": [],
+    "featured": true
+  },
+  {
+    "title": "Videvo",
+    "website": "https://www.videvo.net",
+    "price": "Freemium",
+    "logo": "",
+    "description": "Videvo resource library.",
+    "commercialUse": "Check license",
+    "formats": [],
+    "featured": false
+  },
+  {
+    "title": "Motion Array",
+    "website": "https://motionarray.com",
+    "price": "Subscription",
+    "logo": "",
+    "description": "Motion Array resource library.",
+    "commercialUse": "Check license",
+    "formats": [],
+    "featured": false
+  },
+  {
+    "title": "Artgrid",
+    "website": "https://artgrid.io",
+    "price": "Subscription",
+    "logo": "",
+    "description": "Artgrid resource library.",
+    "commercialUse": "Check license",
+    "formats": [],
+    "featured": false
+  },
+  {
+    "title": "Storyblocks",
+    "website": "https://www.storyblocks.com",
+    "price": "Subscription",
+    "logo": "",
+    "description": "Storyblocks resource library.",
+    "commercialUse": "Check license",
+    "formats": [],
+    "featured": false
+  },
+  {
+    "title": "Pond5",
+    "website": "https://www.pond5.com",
+    "price": "Paid",
+    "logo": "",
+    "description": "Pond5 resource library.",
+    "commercialUse": "Check license",
+    "formats": [],
+    "featured": false
+  },
+  {
+    "title": "Pexels Video",
+    "website": "https://pexels.com/videos",
+    "price": "Free",
+    "logo": "",
+    "description": "Pexels Video resource library.",
+    "commercialUse": "Check license",
+    "formats": [],
+    "featured": true
+  }
+]

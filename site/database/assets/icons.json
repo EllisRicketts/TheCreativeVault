@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Font Awesome",
+    "website": "https://fontawesome.com",
+    "price": "Freemium",
+    "logo": "",
+    "description": "Font Awesome resource library.",
+    "commercialUse": "Check license",
+    "formats": [],
+    "featured": false
+  },
+  {
+    "title": "Icons8",
+    "website": "https://icons8.com",
+    "price": "Freemium",
+    "logo": "",
+    "description": "Icons8 resource library.",
+    "commercialUse": "Check license",
+    "formats": [],
+    "featured": false
+  },
+  {
+    "title": "Flaticon",
+    "website": "https://flaticon.com",
+    "price": "Freemium",
+    "logo": "",
+    "description": "Flaticon resource library.",
+    "commercialUse": "Check license",
+    "formats": [],
+    "featured": false
+  },
+  {
+    "title": "SVG Repo",
+    "website": "https://www.svgrepo.com",
+    "price": "Free",
+    "logo": "",
+    "description": "SVG Repo resource library.",
+    "commercialUse": "Check license",
+    "formats": [],
+    "featured": true
+  },
+  {
+    "title": "Heroicons",
+    "website": "https://heroicons.com",
+    "price": "Free",
+    "logo": "",
+    "description": "Heroicons resource library.",
+    "commercialUse": "Check license",
+    "formats": [],
+    "featured": true
+  },
+  {
+    "title": "Phosphor Icons",
+    "website": "https://phosphoricons.com",
+    "price": "Free",
+    "logo": "",
+    "description": "Phosphor Icons resource library.",
+    "commercialUse": "Check license",
+    "formats": [],
+    "featured": true
+  }
+]

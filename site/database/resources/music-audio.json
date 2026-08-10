@@ -1,0 +1,342 @@
+[
+  {
+    "id": "cubase",
+    "title": "Cubase",
+    "shortName": "Cubase",
+    "company": "Steinberg",
+    "website": "https://www.steinberg.net/cubase/",
+    "category": "Music",
+    "categoryId": "music",
+    "subcategories": [
+      "Music & Audio"
+    ],
+    "type": "Resource",
+    "shortDescription": "Professional DAW for composing, recording, editing, and mixing.",
+    "longDescription": "Professional DAW for composing, recording, editing, and mixing.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Music & Audio",
+      "Music"
+    ],
+    "bestFor": [
+      "Music & Audio",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "studio-one",
+    "title": "Studio One",
+    "shortName": "Studio One",
+    "company": "PreSonus",
+    "website": "https://www.presonus.com/studio-one.html",
+    "category": "Music",
+    "categoryId": "music",
+    "subcategories": [
+      "Music & Audio"
+    ],
+    "type": "Resource",
+    "shortDescription": "DAW for recording, production, mixing, and mastering.",
+    "longDescription": "DAW for recording, production, mixing, and mastering.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Music & Audio",
+      "Music"
+    ],
+    "bestFor": [
+      "Music & Audio",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "bitwig-studio",
+    "title": "Bitwig Studio",
+    "shortName": "Bitwig Studio",
+    "company": "Bitwig",
+    "website": "https://www.bitwig.com/",
+    "category": "Music",
+    "categoryId": "music",
+    "subcategories": [
+      "Music & Audio"
+    ],
+    "type": "Resource",
+    "shortDescription": "Modular DAW for production, performance, and sound design.",
+    "longDescription": "Modular DAW for production, performance, and sound design.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Music & Audio",
+      "Music"
+    ],
+    "bestFor": [
+      "Music & Audio",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "reason",
+    "title": "Reason",
+    "shortName": "Reason",
+    "company": "Reason Studios",
+    "website": "https://www.reasonstudios.com/",
+    "category": "Music",
+    "categoryId": "music",
+    "subcategories": [
+      "Music & Audio"
+    ],
+    "type": "Resource",
+    "shortDescription": "Music production software with rack-style instruments and effects.",
+    "longDescription": "Music production software with rack-style instruments and effects.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Music & Audio",
+      "Music"
+    ],
+    "bestFor": [
+      "Music & Audio",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "ardour",
+    "title": "Ardour",
+    "shortName": "Ardour",
+    "company": "Ardour",
+    "website": "https://ardour.org/",
+    "category": "Music",
+    "categoryId": "music",
+    "subcategories": [
+      "Music & Audio"
+    ],
+    "type": "Resource",
+    "shortDescription": "Open-source DAW for recording, editing, and mixing.",
+    "longDescription": "Open-source DAW for recording, editing, and mixing.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Music & Audio",
+      "Music"
+    ],
+    "bestFor": [
+      "Music & Audio",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "lmms",
+    "title": "LMMS",
+    "shortName": "LMMS",
+    "company": "LMMS",
+    "website": "https://lmms.io/",
+    "category": "Music",
+    "categoryId": "music",
+    "subcategories": [
+      "Music & Audio"
+    ],
+    "type": "Resource",
+    "shortDescription": "Free open-source music production software.",
+    "longDescription": "Free open-source music production software.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Music & Audio",
+      "Music"
+    ],
+    "bestFor": [
+      "Music & Audio",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "cakewalk",
+    "title": "Cakewalk",
+    "shortName": "Cakewalk",
+    "company": "BandLab",
+    "website": "https://www.bandlab.com/products/cakewalk",
+    "category": "Music",
+    "categoryId": "music",
+    "subcategories": [
+      "Music & Audio"
+    ],
+    "type": "Resource",
+    "shortDescription": "Free Windows DAW for recording and production.",
+    "longDescription": "Free Windows DAW for recording and production.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Music & Audio",
+      "Music"
+    ],
+    "bestFor": [
+      "Music & Audio",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "izotope-rx",
+    "title": "iZotope RX",
+    "shortName": "iZotope RX",
+    "company": "iZotope",
+    "website": "https://www.izotope.com/en/products/rx.html",
+    "category": "Music",
+    "categoryId": "music",
+    "subcategories": [
+      "Music & Audio"
+    ],
+    "type": "Resource",
+    "shortDescription": "Professional audio repair and restoration software.",
+    "longDescription": "Professional audio repair and restoration software.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Music & Audio",
+      "Music"
+    ],
+    "bestFor": [
+      "Music & Audio",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "ozone",
+    "title": "Ozone",
+    "shortName": "Ozone",
+    "company": "iZotope",
+    "website": "https://www.izotope.com/en/products/ozone.html",
+    "category": "Music",
+    "categoryId": "music",
+    "subcategories": [
+      "Music & Audio"
+    ],
+    "type": "Resource",
+    "shortDescription": "Mastering suite for music production.",
+    "longDescription": "Mastering suite for music production.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Music & Audio",
+      "Music"
+    ],
+    "bestFor": [
+      "Music & Audio",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "serum",
+    "title": "Serum",
+    "shortName": "Serum",
+    "company": "Xfer Records",
+    "website": "https://xferrecords.com/products/serum",
+    "category": "Music",
+    "categoryId": "music",
+    "subcategories": [
+      "Music & Audio"
+    ],
+    "type": "Resource",
+    "shortDescription": "Popular wavetable synthesizer plugin.",
+    "longDescription": "Popular wavetable synthesizer plugin.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Music & Audio",
+      "Music"
+    ],
+    "bestFor": [
+      "Music & Audio",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

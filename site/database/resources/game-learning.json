@@ -1,0 +1,944 @@
+[
+  {
+    "id": "game-dev-gamedev-tv",
+    "title": "GameDev.tv",
+    "shortName": "GameDev.tv",
+    "company": "GameDev.tv",
+    "website": "https://www.gamedev.tv/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Learning"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Courses for Unity, Unreal, Blender, coding, and game development.",
+    "longDescription": "GameDev.tv is included in The Creative Vault as a game development resource. Courses for Unity, Unreal, Blender, coding, and game development.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Learning",
+      "Courses"
+    ],
+    "bestFor": [
+      "Learning",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-gdc-vault",
+    "title": "GDC Vault",
+    "shortName": "GDC Vault",
+    "company": "Informa",
+    "website": "https://www.gdcvault.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Learning"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Game Developers Conference talks, lectures, and industry sessions.",
+    "longDescription": "GDC Vault is included in The Creative Vault as a game development resource. Game Developers Conference talks, lectures, and industry sessions.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Learning",
+      "Talks",
+      "Industry"
+    ],
+    "bestFor": [
+      "Learning",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-unity-learn",
+    "title": "Unity Learn",
+    "shortName": "Unity Learn",
+    "company": "Unity Technologies",
+    "website": "https://learn.unity.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Learning"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Official Unity tutorials, courses, and learning pathways.",
+    "longDescription": "Unity Learn is included in The Creative Vault as a game development resource. Official Unity tutorials, courses, and learning pathways.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Learning",
+      "Unity",
+      "Free"
+    ],
+    "bestFor": [
+      "Learning",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-unreal-online-learning",
+    "title": "Unreal Online Learning",
+    "shortName": "Unreal Online Learning",
+    "company": "Epic Games",
+    "website": "https://dev.epicgames.com/community/learning",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Learning"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Official Unreal Engine learning resources and tutorials.",
+    "longDescription": "Unreal Online Learning is included in The Creative Vault as a game development resource. Official Unreal Engine learning resources and tutorials.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Learning",
+      "Unreal",
+      "Free"
+    ],
+    "bestFor": [
+      "Learning",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-gdquest",
+    "title": "GDQuest",
+    "shortName": "GDQuest",
+    "company": "GDQuest",
+    "website": "https://www.gdquest.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Learning"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Godot, game design, and open-source game development learning resources.",
+    "longDescription": "GDQuest is included in The Creative Vault as a game development resource. Godot, game design, and open-source game development learning resources.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Learning",
+      "Godot"
+    ],
+    "bestFor": [
+      "Learning",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-brackeys",
+    "title": "Brackeys",
+    "shortName": "Brackeys",
+    "company": "Brackeys",
+    "website": "https://www.youtube.com/c/Brackeys",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Learning"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Popular game development tutorial channel.",
+    "longDescription": "Brackeys is included in The Creative Vault as a game development resource. Popular game development tutorial channel.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Learning",
+      "YouTube",
+      "Unity"
+    ],
+    "bestFor": [
+      "Learning",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-sebastian-lague",
+    "title": "Sebastian Lague",
+    "shortName": "Sebastian Lague",
+    "company": "Sebastian Lague",
+    "website": "https://www.youtube.com/@SebastianLague",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Learning"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Programming, game development, simulations, and visual coding channel.",
+    "longDescription": "Sebastian Lague is included in The Creative Vault as a game development resource. Programming, game development, simulations, and visual coding channel.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Learning",
+      "YouTube",
+      "Coding"
+    ],
+    "bestFor": [
+      "Learning",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-catlike-coding",
+    "title": "Catlike Coding",
+    "shortName": "Catlike Coding",
+    "company": "Catlike Coding",
+    "website": "https://catlikecoding.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Learning"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Detailed Unity programming and rendering tutorials.",
+    "longDescription": "Catlike Coding is included in The Creative Vault as a game development resource. Detailed Unity programming and rendering tutorials.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Learning",
+      "Unity",
+      "Coding"
+    ],
+    "bestFor": [
+      "Learning",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-code-monkey",
+    "title": "Code Monkey",
+    "shortName": "Code Monkey",
+    "company": "Code Monkey",
+    "website": "https://www.youtube.com/c/CodeMonkeyUnity",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Learning"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Unity tutorials and game development education.",
+    "longDescription": "Code Monkey is included in The Creative Vault as a game development resource. Unity tutorials and game development education.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Learning",
+      "Unity",
+      "YouTube"
+    ],
+    "bestFor": [
+      "Learning",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-jason-weimann",
+    "title": "Jason Weimann",
+    "shortName": "Jason Weimann",
+    "company": "Jason Weimann",
+    "website": "https://www.youtube.com/c/Unity3dCollege",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Learning"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Unity architecture, coding, and game development tutorials.",
+    "longDescription": "Jason Weimann is included in The Creative Vault as a game development resource. Unity architecture, coding, and game development tutorials.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Learning",
+      "Unity",
+      "Coding"
+    ],
+    "bestFor": [
+      "Learning",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-thomas-brush",
+    "title": "Thomas Brush",
+    "shortName": "Thomas Brush",
+    "company": "Thomas Brush",
+    "website": "https://www.youtube.com/@thomasbrush",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Learning"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Indie game development, marketing, and creative business education.",
+    "longDescription": "Thomas Brush is included in The Creative Vault as a game development resource. Indie game development, marketing, and creative business education.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Learning",
+      "Indie",
+      "Marketing"
+    ],
+    "bestFor": [
+      "Learning",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-credits",
+    "title": "Extra Credits",
+    "shortName": "Extra Credits",
+    "company": "Extra Credits",
+    "website": "https://www.youtube.com/user/ExtraCreditz",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Learning"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Game design, history, and creative education channel.",
+    "longDescription": "Extra Credits is included in The Creative Vault as a game development resource. Game design, history, and creative education channel.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Learning",
+      "Design",
+      "YouTube"
+    ],
+    "bestFor": [
+      "Learning",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-game-maker-s-toolkit",
+    "title": "Game Maker's Toolkit",
+    "shortName": "Game Maker's Toolkit",
+    "company": "Mark Brown",
+    "website": "https://www.youtube.com/c/MarkBrownGMT",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Learning"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Game design analysis and game jam education channel.",
+    "longDescription": "Game Maker's Toolkit is included in The Creative Vault as a game development resource. Game design analysis and game jam education channel.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Learning",
+      "Design",
+      "YouTube"
+    ],
+    "bestFor": [
+      "Learning",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-ask-gamedev",
+    "title": "Ask Gamedev",
+    "shortName": "Ask Gamedev",
+    "company": "Ask Gamedev",
+    "website": "https://www.youtube.com/c/AskGamedev",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Learning"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Game development advice, industry tips, and creator education.",
+    "longDescription": "Ask Gamedev is included in The Creative Vault as a game development resource. Game development advice, industry tips, and creator education.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Learning",
+      "YouTube",
+      "Advice"
+    ],
+    "bestFor": [
+      "Learning",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-gamasutra-game-developer",
+    "title": "Gamasutra / Game Developer",
+    "shortName": "Gamasutra / Game Developer",
+    "company": "Game Developer",
+    "website": "https://www.gamedeveloper.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Learning"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Game development articles, industry insights, and postmortems.",
+    "longDescription": "Gamasutra / Game Developer is included in The Creative Vault as a game development resource. Game development articles, industry insights, and postmortems.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Learning",
+      "Articles",
+      "Industry"
+    ],
+    "bestFor": [
+      "Learning",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-80-level",
+    "title": "80 Level",
+    "shortName": "80 Level",
+    "company": "80 Level",
+    "website": "https://80.lv/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Learning"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Game art, 3D, VFX, industry interviews, and production breakdowns.",
+    "longDescription": "80 Level is included in The Creative Vault as a game development resource. Game art, 3D, VFX, industry interviews, and production breakdowns.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Learning",
+      "Game Art",
+      "Industry"
+    ],
+    "bestFor": [
+      "Learning",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-polycount",
+    "title": "Polycount",
+    "shortName": "Polycount",
+    "company": "Polycount",
+    "website": "https://polycount.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Community"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Game art community, forums, and industry critique platform.",
+    "longDescription": "Polycount is included in The Creative Vault as a game development resource. Game art community, forums, and industry critique platform.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Community",
+      "Community",
+      "Game Art"
+    ],
+    "bestFor": [
+      "Community",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-tigsource",
+    "title": "TIGSource",
+    "shortName": "TIGSource",
+    "company": "TIGSource",
+    "website": "https://forums.tigsource.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Community"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Indie game development forum and community.",
+    "longDescription": "TIGSource is included in The Creative Vault as a game development resource. Indie game development forum and community.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Community",
+      "Community",
+      "Indie"
+    ],
+    "bestFor": [
+      "Community",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-gamedev-net",
+    "title": "GameDev.net",
+    "shortName": "GameDev.net",
+    "company": "GameDev.net",
+    "website": "https://www.gamedev.net/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Community"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Game development community, articles, forums, and resources.",
+    "longDescription": "GameDev.net is included in The Creative Vault as a game development resource. Game development community, articles, forums, and resources.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Community",
+      "Community"
+    ],
+    "bestFor": [
+      "Community",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-indiedb",
+    "title": "IndieDB",
+    "shortName": "IndieDB",
+    "company": "IndieDB",
+    "website": "https://www.indiedb.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Community"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Indie game database, community, and news platform.",
+    "longDescription": "IndieDB is included in The Creative Vault as a game development resource. Indie game database, community, and news platform.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Community",
+      "Community",
+      "Indie"
+    ],
+    "bestFor": [
+      "Community",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-global-game-jam",
+    "title": "Global Game Jam",
+    "shortName": "Global Game Jam",
+    "company": "Global Game Jam",
+    "website": "https://globalgamejam.org/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Jam"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Worldwide game jam event and community.",
+    "longDescription": "Global Game Jam is included in The Creative Vault as a game development resource. Worldwide game jam event and community.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Game Jam",
+      "Game Jam"
+    ],
+    "bestFor": [
+      "Game Jam",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-ludum-dare",
+    "title": "Ludum Dare",
+    "shortName": "Ludum Dare",
+    "company": "Ludum Dare",
+    "website": "https://ldjam.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Jam"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Long-running online game jam community and competition.",
+    "longDescription": "Ludum Dare is included in The Creative Vault as a game development resource. Long-running online game jam community and competition.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Game Jam",
+      "Game Jam"
+    ],
+    "bestFor": [
+      "Game Jam",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-itch-io-jams",
+    "title": "itch.io Jams",
+    "shortName": "itch.io Jams",
+    "company": "itch.io",
+    "website": "https://itch.io/jams",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Jam"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Game jam hosting and discovery platform.",
+    "longDescription": "itch.io Jams is included in The Creative Vault as a game development resource. Game jam hosting and discovery platform.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Game Jam",
+      "Game Jam"
+    ],
+    "bestFor": [
+      "Game Jam",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-gmtk-game-jam",
+    "title": "GMTK Game Jam",
+    "shortName": "GMTK Game Jam",
+    "company": "Game Maker's Toolkit",
+    "website": "https://itch.io/jam/gmtk-2024",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Jam"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Large annual game jam hosted by Game Maker's Toolkit.",
+    "longDescription": "GMTK Game Jam is included in The Creative Vault as a game development resource. Large annual game jam hosted by Game Maker's Toolkit.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Game Jam",
+      "Game Jam"
+    ],
+    "bestFor": [
+      "Game Jam",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-pirate-software-game-jam",
+    "title": "Pirate Software Game Jam",
+    "shortName": "Pirate Software Game Jam",
+    "company": "Pirate Software",
+    "website": "https://itch.io/jam/pirate",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Jam"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Community game jam hosted by Pirate Software.",
+    "longDescription": "Pirate Software Game Jam is included in The Creative Vault as a game development resource. Community game jam hosted by Pirate Software.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Game Jam",
+      "Game Jam"
+    ],
+    "bestFor": [
+      "Game Jam",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

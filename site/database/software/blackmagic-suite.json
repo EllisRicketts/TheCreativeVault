@@ -1,0 +1,569 @@
+[
+  {
+    "id": "software-davinci-resolve",
+    "title": "DaVinci Resolve",
+    "shortName": "DaVinci Resolve",
+    "company": "Blackmagic Design",
+    "website": "https://www.blackmagicdesign.com/products/davinciresolve",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Video Editing",
+      "Color Grading",
+      "Post Production"
+    ],
+    "categoryIds": [
+      "software",
+      "video-editing",
+      "color-grading",
+      "post-production"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Video Editing",
+      "Color Grading",
+      "Post Production"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Free",
+    "price": "Free",
+    "license": "Free",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "applications": [
+      "Blackmagic Design",
+      "DaVinci Resolve"
+    ],
+    "applicationEcosystems": [
+      "Blackmagic Design",
+      "DaVinci Resolve"
+    ],
+    "shortDescription": "Professional editing, color, VFX, motion graphics, and audio post software with a powerful free version.",
+    "longDescription": "DaVinci Resolve is a software application in The Creative Vault. Professional editing, color, VFX, motion graphics, and audio post software with a powerful free version.",
+    "bestFor": [
+      "Editing",
+      "Color",
+      "Audio Post"
+    ],
+    "relatedSoftware": [
+      "Premiere Pro",
+      "Final Cut Pro"
+    ],
+    "tags": [
+      "Software",
+      "Blackmagic Design",
+      "DaVinci Resolve",
+      "Video Editing",
+      "Color Grading",
+      "Post Production",
+      "Video",
+      "Color"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-davinci-resolve-studio",
+    "title": "DaVinci Resolve Studio",
+    "shortName": "DaVinci Resolve Studio",
+    "company": "Blackmagic Design",
+    "website": "https://www.blackmagicdesign.com/products/davinciresolve/studio",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Video Editing",
+      "Color Grading",
+      "VFX"
+    ],
+    "categoryIds": [
+      "software",
+      "video-editing",
+      "color-grading",
+      "vfx"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Video Editing",
+      "Color Grading",
+      "VFX"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Paid",
+    "price": "Paid",
+    "license": "Paid",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "applications": [
+      "Blackmagic Design",
+      "DaVinci Resolve"
+    ],
+    "applicationEcosystems": [
+      "Blackmagic Design",
+      "DaVinci Resolve"
+    ],
+    "shortDescription": "Paid Studio version of Resolve with advanced AI, 3D, noise reduction, HDR, and collaborative features.",
+    "longDescription": "DaVinci Resolve Studio is a software application in The Creative Vault. Paid Studio version of Resolve with advanced AI, 3D, noise reduction, HDR, and collaborative features.",
+    "bestFor": [
+      "Professional Post",
+      "Color Grading"
+    ],
+    "relatedSoftware": [
+      "Premiere Pro",
+      "Avid Media Composer"
+    ],
+    "tags": [
+      "Software",
+      "Blackmagic Design",
+      "DaVinci Resolve",
+      "Video Editing",
+      "Color Grading",
+      "VFX",
+      "Video"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-fusion-studio",
+    "title": "Fusion Studio",
+    "shortName": "Fusion Studio",
+    "company": "Blackmagic Design",
+    "website": "https://www.blackmagicdesign.com/products/fusion",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Compositing",
+      "VFX",
+      "Motion Graphics"
+    ],
+    "categoryIds": [
+      "software",
+      "compositing",
+      "vfx",
+      "motion-graphics"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Compositing",
+      "VFX",
+      "Motion Graphics"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Paid",
+    "price": "Paid",
+    "license": "Paid",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "applications": [
+      "Blackmagic Design"
+    ],
+    "applicationEcosystems": [
+      "Blackmagic Design"
+    ],
+    "shortDescription": "Node-based compositing, motion graphics, 3D, and VFX software.",
+    "longDescription": "Fusion Studio is a software application in The Creative Vault. Node-based compositing, motion graphics, 3D, and VFX software.",
+    "bestFor": [
+      "VFX",
+      "Compositing"
+    ],
+    "relatedSoftware": [
+      "After Effects",
+      "Nuke"
+    ],
+    "tags": [
+      "Software",
+      "Blackmagic Design",
+      "Compositing",
+      "VFX",
+      "Motion Graphics"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-fairlight",
+    "title": "Fairlight",
+    "shortName": "Fairlight",
+    "company": "Blackmagic Design",
+    "website": "https://www.blackmagicdesign.com/products/davinciresolve/fairlight",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Audio Post",
+      "Mixing"
+    ],
+    "categoryIds": [
+      "software",
+      "audio-post",
+      "mixing"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Audio Post",
+      "Mixing"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Included",
+    "price": "Included",
+    "license": "Included",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "applications": [
+      "Blackmagic Design",
+      "DaVinci Resolve"
+    ],
+    "applicationEcosystems": [
+      "Blackmagic Design",
+      "DaVinci Resolve"
+    ],
+    "shortDescription": "Integrated audio post-production page inside DaVinci Resolve.",
+    "longDescription": "Fairlight is a software application in The Creative Vault. Integrated audio post-production page inside DaVinci Resolve.",
+    "bestFor": [
+      "Audio Post",
+      "Film Mixing"
+    ],
+    "relatedSoftware": [
+      "Pro Tools",
+      "Nuendo"
+    ],
+    "tags": [
+      "Software",
+      "Blackmagic Design",
+      "DaVinci Resolve",
+      "Audio Post",
+      "Mixing",
+      "Audio"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-blackmagic-cloud",
+    "title": "Blackmagic Cloud",
+    "shortName": "Blackmagic Cloud",
+    "company": "Blackmagic Design",
+    "website": "https://www.blackmagicdesign.com/products/blackmagiccloud",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Cloud Collaboration",
+      "Video Workflow"
+    ],
+    "categoryIds": [
+      "software",
+      "cloud-collaboration",
+      "video-workflow"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Cloud Collaboration",
+      "Video Workflow"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Freemium",
+    "price": "Freemium",
+    "license": "Freemium",
+    "platforms": [
+      "Web"
+    ],
+    "applications": [
+      "Blackmagic Design"
+    ],
+    "applicationEcosystems": [
+      "Blackmagic Design"
+    ],
+    "shortDescription": "Cloud collaboration platform for Resolve projects and media workflows.",
+    "longDescription": "Blackmagic Cloud is a software application in The Creative Vault. Cloud collaboration platform for Resolve projects and media workflows.",
+    "bestFor": [
+      "Video Collaboration"
+    ],
+    "relatedSoftware": [
+      "Frame.io"
+    ],
+    "tags": [
+      "Software",
+      "Blackmagic Design",
+      "Cloud Collaboration",
+      "Video Workflow",
+      "Cloud"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-atem-software-control",
+    "title": "ATEM Software Control",
+    "shortName": "ATEM Software Control",
+    "company": "Blackmagic Design",
+    "website": "https://www.blackmagicdesign.com/products/atemmini",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Live Production",
+      "Switcher Control"
+    ],
+    "categoryIds": [
+      "software",
+      "live-production",
+      "switcher-control"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Live Production",
+      "Switcher Control"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Free",
+    "price": "Free",
+    "license": "Free",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "applications": [
+      "Blackmagic Design"
+    ],
+    "applicationEcosystems": [
+      "Blackmagic Design"
+    ],
+    "shortDescription": "Software control panel for Blackmagic ATEM live production switchers.",
+    "longDescription": "ATEM Software Control is a software application in The Creative Vault. Software control panel for Blackmagic ATEM live production switchers.",
+    "bestFor": [
+      "Live Streaming"
+    ],
+    "relatedSoftware": [
+      "OBS Studio"
+    ],
+    "tags": [
+      "Software",
+      "Blackmagic Design",
+      "Live Production",
+      "Switcher Control",
+      "Live"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-blackmagic-camera-setup",
+    "title": "Blackmagic Camera Setup",
+    "shortName": "Blackmagic Camera Setup",
+    "company": "Blackmagic Design",
+    "website": "https://www.blackmagicdesign.com/support",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Camera Utility",
+      "Firmware"
+    ],
+    "categoryIds": [
+      "software",
+      "camera-utility",
+      "firmware"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Camera Utility",
+      "Firmware"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Free",
+    "price": "Free",
+    "license": "Free",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "applications": [
+      "Blackmagic Design"
+    ],
+    "applicationEcosystems": [
+      "Blackmagic Design"
+    ],
+    "shortDescription": "Camera firmware and setup utility for Blackmagic Design cameras.",
+    "longDescription": "Blackmagic Camera Setup is a software application in The Creative Vault. Camera firmware and setup utility for Blackmagic Design cameras.",
+    "bestFor": [
+      "Camera Management"
+    ],
+    "relatedSoftware": [
+      "Canon EOS Utility"
+    ],
+    "tags": [
+      "Software",
+      "Blackmagic Design",
+      "Camera Utility",
+      "Firmware",
+      "Camera"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-blackmagic-raw-player",
+    "title": "Blackmagic RAW Player",
+    "shortName": "Blackmagic RAW Player",
+    "company": "Blackmagic Design",
+    "website": "https://www.blackmagicdesign.com/products/blackmagicraw",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "RAW Video",
+      "Media Playback"
+    ],
+    "categoryIds": [
+      "software",
+      "raw-video",
+      "media-playback"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "RAW Video",
+      "Media Playback"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Free",
+    "price": "Free",
+    "license": "Free",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "applications": [
+      "Blackmagic Design"
+    ],
+    "applicationEcosystems": [
+      "Blackmagic Design"
+    ],
+    "shortDescription": "Playback utility and codec support for Blackmagic RAW files.",
+    "longDescription": "Blackmagic RAW Player is a software application in The Creative Vault. Playback utility and codec support for Blackmagic RAW files.",
+    "bestFor": [
+      "BRAW Review"
+    ],
+    "relatedSoftware": [
+      "VLC"
+    ],
+    "tags": [
+      "Software",
+      "Blackmagic Design",
+      "RAW Video",
+      "Media Playback",
+      "BRAW"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-blackmagic-proxy-generator",
+    "title": "Blackmagic Proxy Generator",
+    "shortName": "Blackmagic Proxy Generator",
+    "company": "Blackmagic Design",
+    "website": "https://www.blackmagicdesign.com/products/davinciresolve",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Proxy Workflow",
+      "Video Utility"
+    ],
+    "categoryIds": [
+      "software",
+      "proxy-workflow",
+      "video-utility"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Proxy Workflow",
+      "Video Utility"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Free",
+    "price": "Free",
+    "license": "Free",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "applications": [
+      "Blackmagic Design",
+      "DaVinci Resolve"
+    ],
+    "applicationEcosystems": [
+      "Blackmagic Design",
+      "DaVinci Resolve"
+    ],
+    "shortDescription": "Proxy generation tool for post-production workflows.",
+    "longDescription": "Blackmagic Proxy Generator is a software application in The Creative Vault. Proxy generation tool for post-production workflows.",
+    "bestFor": [
+      "Proxy Editing"
+    ],
+    "relatedSoftware": [
+      "Shutter Encoder"
+    ],
+    "tags": [
+      "Software",
+      "Blackmagic Design",
+      "DaVinci Resolve",
+      "Proxy Workflow",
+      "Video Utility",
+      "Proxy"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

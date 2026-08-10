@@ -1,0 +1,3308 @@
+{
+  "11ty": [
+    "web-eleventy"
+  ],
+  "21 Draw": [
+    "learning-21-draw"
+  ],
+  "3DTotal": [
+    "learning-3dtotal"
+  ],
+  "80 Level": [
+    "game-dev-80-level"
+  ],
+  "A Blade of Grass": [
+    "grant-a-blade-of-grass"
+  ],
+  "A-Frame": [
+    "game-dev-extra-a-frame"
+  ],
+  "Aaron Blaise": [
+    "learning-aaron-blaise-youtube",
+    "learning-creature-art-teacher"
+  ],
+  "AbleGamers": [
+    "game-dev-extra-ablegamers-accessible-player-experiences"
+  ],
+  "Academy of American Poets Prizes": [
+    "grant-academy-of-american-poets-prizes"
+  ],
+  "AccelByte": [
+    "game-dev-accelbyte",
+    "game-dev-extra-accelbyte-gaming-services"
+  ],
+  "Access Copyright Foundation": [
+    "grant-access-copyright-foundation"
+  ],
+  "ACD Systems": [
+    "acdsee-photo-studio"
+  ],
+  "Adam Wathan and Steve Schoger": [
+    "learning-refactoring-ui"
+  ],
+  "Adobe": [
+    "film-frame-io-camera-to-cloud",
+    "game-dev-extra-frame-io",
+    "game-dev-substance-3d-painter"
+  ],
+  "Adolph and Esther Gottlieb Foundation": [
+    "grant-adolph-and-esther-gottlieb-foundation"
+  ],
+  "Aftershoot": [
+    "photography-aftershoot"
+  ],
+  "AGS": [
+    "game-dev-extra-adventure-game-studio"
+  ],
+  "Ahmed Aldoori": [
+    "learning-ahmed-aldoori"
+  ],
+  "Ahrefs": [
+    "marketing-ahrefs"
+  ],
+  "Akin Studio Program": [
+    "grant-akin-studio-program"
+  ],
+  "Al.chemy": [
+    "digital-art-al-chemy"
+  ],
+  "Alberta Foundation for the Arts": [
+    "grant-alberta-foundation-for-the-arts"
+  ],
+  "Alchemy": [
+    "digital-art-alchemy-beta-archive"
+  ],
+  "Alex Hanson-White": [
+    "game-dev-extra-crocotile-3d"
+  ],
+  "Ali Abdaal": [
+    "learning-ali-abdaal"
+  ],
+  "Alison": [
+    "learning-alison"
+  ],
+  "Alternative.me": [
+    "software-alternative-me"
+  ],
+  "AlternativeTo": [
+    "software-alternativeto"
+  ],
+  "Amazon Web Services": [
+    "game-dev-aws-gamelift"
+  ],
+  "ambientCG": [
+    "game-dev-ambientcg"
+  ],
+  "Americans for the Arts Opportunities": [
+    "grant-americans-for-the-arts-opportunities"
+  ],
+  "Amplitude": [
+    "game-dev-extra-amplitude"
+  ],
+  "Anchorpoint": [
+    "game-dev-extra-anchorpoint"
+  ],
+  "Anderson Ranch Arts Center": [
+    "grant-anderson-ranch-arts-center"
+  ],
+  "Andras Ketzer": [
+    "game-dev-fluidninja"
+  ],
+  "AngelCode": [
+    "game-dev-extra-bmfont"
+  ],
+  "Anthropic": [
+    "learning-anthropic-prompt-engineering-guide"
+  ],
+  "Antidote": [
+    "game-dev-extra-antidote"
+  ],
+  "Applause": [
+    "game-dev-extra-applause"
+  ],
+  "Apple": [
+    "final-cut-pro",
+    "game-dev-app-store-connect",
+    "game-dev-extra-arkit",
+    "game-dev-extra-testflight",
+    "learning-apple-human-interface-guidelines"
+  ],
+  "Applied Houdini": [
+    "learning-applied-houdini"
+  ],
+  "AppLovin": [
+    "game-dev-extra-applovin-max"
+  ],
+  "Appwrite": [
+    "game-dev-appwrite"
+  ],
+  "Architextures": [
+    "assets-architextures"
+  ],
+  "Arcweave": [
+    "game-dev-extra-arcweave"
+  ],
+  "Ardour": [
+    "ardour"
+  ],
+  "Are.na": [
+    "assets-are-na"
+  ],
+  "Armory": [
+    "game-dev-armorpaint",
+    "game-dev-armory3d"
+  ],
+  "Art Institute of Chicago": [
+    "learning-art-institute-of-chicago-collection"
+  ],
+  "Art Omi": [
+    "grant-art-omi"
+  ],
+  "Artadia": [
+    "grant-artadia"
+  ],
+  "Articy": [
+    "game-dev-extra-articy-draft"
+  ],
+  "Artist Relief": [
+    "grant-artist-relief"
+  ],
+  "Artlist": [
+    "game-dev-artlist"
+  ],
+  "ArtPlace America Archive": [
+    "grant-artplace-america-archive"
+  ],
+  "Arts Council England": [
+    "grant-arts-council-england"
+  ],
+  "Arts Council of Northern Ireland": [
+    "grant-arts-council-of-northern-ireland"
+  ],
+  "Arts Council of Wales": [
+    "grant-arts-council-of-wales"
+  ],
+  "Arts Midwest": [
+    "grant-arts-midwest"
+  ],
+  "Arts Nova Scotia": [
+    "grant-arts-nova-scotia"
+  ],
+  "Arts Queensland": [
+    "grant-arts-queensland"
+  ],
+  "artsnb": [
+    "grant-artsnb"
+  ],
+  "ArtsNL": [
+    "grant-artsnl"
+  ],
+  "ArtStation": [
+    "learning-artstation-learning"
+  ],
+  "ArtsWA": [
+    "grant-artswa"
+  ],
+  "Ask Gamedev": [
+    "game-dev-ask-gamedev"
+  ],
+  "Astro": [
+    "web-astro"
+  ],
+  "Atlassian": [
+    "game-dev-extra-bitbucket",
+    "game-dev-extra-jira",
+    "game-dev-extra-sourcetree",
+    "game-dev-extra-trello"
+  ],
+  "Audiokinetic": [
+    "game-dev-wwise"
+  ],
+  "Audiotool": [
+    "audio-audiotool"
+  ],
+  "Australia Council / Creative Australia": [
+    "grant-australia-council-creative-australia"
+  ],
+  "Authors League Fund": [
+    "grant-authors-league-fund"
+  ],
+  "Autodesk": [
+    "game-dev-extra-shotgrid",
+    "game-dev-motionbuilder",
+    "learning-autodesk-maya-learning"
+  ],
+  "Avid": [
+    "avid-media-composer"
+  ],
+  "Awesome Foundation": [
+    "grant-awesome-foundation"
+  ],
+  "Awwwards": [
+    "learning-awwwards-academy"
+  ],
+  "Azgaar": [
+    "game-dev-extra-azgaar-s-fantasy-map-generator"
+  ],
+  "Backtrace": [
+    "game-dev-extra-backtrace"
+  ],
+  "BaM Animation": [
+    "learning-bam-animation"
+  ],
+  "Bambu Lab": [
+    "bambu-studio"
+  ],
+  "BandLab": [
+    "audio-bandlab",
+    "cakewalk"
+  ],
+  "Banff Centre": [
+    "grant-banff-centre"
+  ],
+  "Beamable": [
+    "game-dev-beamable",
+    "game-dev-extra-beamable-liveops"
+  ],
+  "Bemis Center": [
+    "grant-bemis-center"
+  ],
+  "Ben Marriott": [
+    "learning-ben-marriott"
+  ],
+  "Better Proposals": [
+    "business-better-proposals"
+  ],
+  "Bevy Foundation": [
+    "game-dev-bevy-engine"
+  ],
+  "BFI Film Fund": [
+    "grant-bfi-film-fund"
+  ],
+  "Bfxr": [
+    "game-dev-bfxr"
+  ],
+  "BigMediumSmall": [
+    "game-dev-bigmediumsmall"
+  ],
+  "Biodiversity Heritage Library": [
+    "learning-biodiversity-heritage-library",
+    "public-domain-bhl-flickr"
+  ],
+  "BirdFont": [
+    "game-dev-extra-birdfont"
+  ],
+  "BiteTheBytes": [
+    "game-dev-extra-world-creator"
+  ],
+  "Bitsy": [
+    "game-dev-bitsy"
+  ],
+  "Bitwig": [
+    "bitwig-studio"
+  ],
+  "Black Public Media": [
+    "grant-black-public-media"
+  ],
+  "Black Rock City Honoraria": [
+    "grant-black-rock-city-honoraria"
+  ],
+  "Blender Foundation": [
+    "blender",
+    "game-dev-blender"
+  ],
+  "Blender Guru": [
+    "learning-blender-guru"
+  ],
+  "Blender Market": [
+    "game-dev-blender-market"
+  ],
+  "Blender Secrets": [
+    "learning-blender-secrets"
+  ],
+  "Blender Studio": [
+    "learning-blender-studio-training"
+  ],
+  "BlenderKit": [
+    "game-dev-blenderkit"
+  ],
+  "Blockade Labs": [
+    "game-dev-blockade-labs"
+  ],
+  "Bloomberg Philanthropies Public Art Challenge": [
+    "grant-bloomberg-philanthropies-public-art-challenge"
+  ],
+  "BnF": [
+    "public-domain-gallica"
+  ],
+  "Bobby Chiu": [
+    "learning-bobby-chiu"
+  ],
+  "Bonsai": [
+    "bonsai"
+  ],
+  "BookBub": [
+    "books-bookbub"
+  ],
+  "BOOM Library": [
+    "game-dev-boom-library"
+  ],
+  "Boords": [
+    "film-boords"
+  ],
+  "BoroCG": [
+    "learning-borocg"
+  ],
+  "Brackeys": [
+    "game-dev-brackeys"
+  ],
+  "Brampton Arts Organization": [
+    "grant-brampton-arts-organization"
+  ],
+  "BrashMonkey": [
+    "game-dev-spriter"
+  ],
+  "British Columbia Arts Council": [
+    "grant-british-columbia-arts-council"
+  ],
+  "British Council Arts Opportunities": [
+    "grant-british-council-arts-opportunities"
+  ],
+  "British Council Film Opportunities": [
+    "grant-british-council-film-opportunities"
+  ],
+  "BrowserStack": [
+    "game-dev-extra-browserstack-app-live"
+  ],
+  "Buffer": [
+    "learning-buffer-resources"
+  ],
+  "Bugsnag": [
+    "game-dev-extra-bugsnag"
+  ],
+  "Buildbox": [
+    "game-dev-buildbox"
+  ],
+  "Burning Man Global Art Grants": [
+    "grant-burning-man-global-art-grants"
+  ],
+  "ByteDance": [
+    "capcut"
+  ],
+  "Caleb Pike": [
+    "learning-dslr-video-shooter"
+  ],
+  "Calendly": [
+    "calendly"
+  ],
+  "Calgary Arts Development": [
+    "grant-calgary-arts-development"
+  ],
+  "California Arts Council": [
+    "grant-california-arts-council"
+  ],
+  "CALQ": [
+    "grant-calq"
+  ],
+  "Camera Bits": [
+    "photo-mechanic"
+  ],
+  "Campfire": [
+    "game-dev-extra-campfire"
+  ],
+  "Can I Play That?": [
+    "game-dev-extra-can-i-play-that"
+  ],
+  "Canada Book Fund": [
+    "grant-canada-book-fund"
+  ],
+  "Canada Council Digital Now": [
+    "grant-canada-council-digital-now"
+  ],
+  "Canada Council for the Arts": [
+    "grant-canada-council-for-the-arts"
+  ],
+  "Canada Council Music Grants": [
+    "grant-canada-council-music-grants"
+  ],
+  "Canada Council Writing and Publishing": [
+    "grant-canada-council-writing-and-publishing"
+  ],
+  "Canada Media Fund": [
+    "grant-canada-media-fund"
+  ],
+  "Canada Media Fund Experimental Stream": [
+    "grant-canada-media-fund-experimental-stream"
+  ],
+  "Canadian Music Fund": [
+    "grant-canadian-music-fund"
+  ],
+  "Capture One": [
+    "capture-one"
+  ],
+  "CARFAC": [
+    "grant-carfac"
+  ],
+  "Carnegie Mellon University": [
+    "game-dev-panda3d"
+  ],
+  "Carta": [
+    "business-carta"
+  ],
+  "Casey Faris": [
+    "learning-casey-faris"
+  ],
+  "Catapult Film Fund": [
+    "grant-catapult-film-fund"
+  ],
+  "Catlike Coding": [
+    "game-dev-catlike-coding"
+  ],
+  "CELSYS": [
+    "game-dev-clip-studio-paint"
+  ],
+  "Celtx": [
+    "film-celtx"
+  ],
+  "Center for Cultural Innovation": [
+    "grant-center-for-cultural-innovation"
+  ],
+  "CERF+": [
+    "grant-cerf"
+  ],
+  "CG Boost": [
+    "learning-cg-boost"
+  ],
+  "CG Cookie": [
+    "learning-cg-cookie"
+  ],
+  "CG Geek": [
+    "learning-cg-geek"
+  ],
+  "CG Master Academy": [
+    "learning-cgma"
+  ],
+  "CGTrader": [
+    "game-dev-cgtrader"
+  ],
+  "CGWire": [
+    "game-dev-extra-kitsu"
+  ],
+  "Chain Studios": [
+    "game-dev-extra-j-a-c-k"
+  ],
+  "Charisma": [
+    "game-dev-charisma-ai"
+  ],
+  "Chartboost": [
+    "game-dev-extra-chartboost"
+  ],
+  "Chat Mapper": [
+    "game-dev-extra-chat-mapper"
+  ],
+  "Checklist Design": [
+    "learning-checklist-design"
+  ],
+  "Chicken & Egg Pictures": [
+    "grant-chicken-and-egg-pictures"
+  ],
+  "CHITUBOX": [
+    "chitubox"
+  ],
+  "Chris Coyier": [
+    "learning-chris-coyier"
+  ],
+  "Chris Hau": [
+    "learning-chris-hau"
+  ],
+  "Cinecom.net": [
+    "learning-cinecom-net"
+  ],
+  "Cinereach": [
+    "grant-cinereach"
+  ],
+  "City of Vancouver Cultural Grants": [
+    "grant-city-of-vancouver-cultural-grants"
+  ],
+  "Civitella Ranieri": [
+    "grant-civitella-ranieri"
+  ],
+  "Cleveland Museum of Art": [
+    "learning-cleveland-museum-of-art-open-access"
+  ],
+  "Clickteam": [
+    "game-dev-extra-clickteam-fusion"
+  ],
+  "ClickUp": [
+    "game-dev-extra-clickup"
+  ],
+  "Cloudflare": [
+    "cloudflare-pages"
+  ],
+  "Cockos": [
+    "game-dev-reaper"
+  ],
+  "Cocos": [
+    "game-dev-cocos-creator"
+  ],
+  "Code Monkey": [
+    "game-dev-code-monkey"
+  ],
+  "Code Respawn": [
+    "game-dev-extra-dungeon-architect"
+  ],
+  "CodeAndWeb": [
+    "game-dev-texturepacker"
+  ],
+  "Codeanywhere": [
+    "coding-codeanywhere"
+  ],
+  "Codecademy": [
+    "learning-codecademy"
+  ],
+  "Codecks": [
+    "game-dev-extra-codecks"
+  ],
+  "CodePen": [
+    "codepen"
+  ],
+  "CodeSandbox": [
+    "coding-codesandbox"
+  ],
+  "Collletttivo": [
+    "typography-collletttivo"
+  ],
+  "Colophon": [
+    "typography-colophon-foundry"
+  ],
+  "Colorado Creative Industries": [
+    "grant-colorado-creative-industries"
+  ],
+  "Colyseus": [
+    "game-dev-colyseus"
+  ],
+  "Commercial Type": [
+    "typography-commercial-type"
+  ],
+  "Common Sense Machines": [
+    "game-dev-csm-ai"
+  ],
+  "Community Foundations of Canada": [
+    "grant-community-foundations-of-canada"
+  ],
+  "Conseil des arts de Montréal": [
+    "grant-conseil-des-arts-de-montr-al"
+  ],
+  "Convai": [
+    "game-dev-convai"
+  ],
+  "Copyblogger": [
+    "learning-copyblogger"
+  ],
+  "Corridor Digital": [
+    "learning-corridor-crew"
+  ],
+  "Cosmos": [
+    "assets-cosmos"
+  ],
+  "Coursera": [
+    "learning-coursera"
+  ],
+  "CraftPix": [
+    "game-dev-craftpix",
+    "game-dev-extra-craftpix-ui"
+  ],
+  "Create NSW": [
+    "grant-create-nsw"
+  ],
+  "Creative BC": [
+    "grant-creative-bc"
+  ],
+  "Creative BC Interactive Fund": [
+    "grant-creative-bc-interactive-fund"
+  ],
+  "Creative Capital": [
+    "grant-creative-capital"
+  ],
+  "Creative Europe": [
+    "grant-creative-europe"
+  ],
+  "Creative New Zealand": [
+    "grant-creative-new-zealand"
+  ],
+  "Creative Scotland": [
+    "grant-creative-scotland"
+  ],
+  "Creative Time Open Call": [
+    "grant-creative-time-open-call"
+  ],
+  "Creative Victoria": [
+    "grant-creative-victoria"
+  ],
+  "CreativeLive": [
+    "learning-creativelive"
+  ],
+  "Crookneck Consulting": [
+    "photography-the-photographer-s-ephemeris"
+  ],
+  "CrossMind Studio": [
+    "learning-crossmind-studio"
+  ],
+  "Crowdin": [
+    "game-dev-extra-crowdin"
+  ],
+  "Crytek": [
+    "game-dev-cryengine"
+  ],
+  "Ct.js": [
+    "game-dev-extra-ct-js"
+  ],
+  "Ctrl+Paint": [
+    "learning-ctrl-paint"
+  ],
+  "Culture Moves Europe": [
+    "grant-culture-moves-europe"
+  ],
+  "Dabble": [
+    "writing-dabble"
+  ],
+  "DaFont": [
+    "game-dev-extra-dafont"
+  ],
+  "Daniel Schiffer": [
+    "learning-daniel-schiffer"
+  ],
+  "Dark Mode Design": [
+    "design-dark-mode-design"
+  ],
+  "Darktable": [
+    "darktable"
+  ],
+  "Darren Mostyn": [
+    "learning-darren-mostyn"
+  ],
+  "David Rumsey": [
+    "learning-david-rumsey-map-collection"
+  ],
+  "DDB": [
+    "public-domain-deutsche-digitale-bibliothek"
+  ],
+  "Dead Code": [
+    "game-dev-extra-wintermute-engine"
+  ],
+  "Deemos": [
+    "game-dev-rodin"
+  ],
+  "DeepLearning.AI": [
+    "learning-deeplearning-ai"
+  ],
+  "DeepMotion": [
+    "game-dev-deepmotion"
+  ],
+  "Deepnight": [
+    "game-dev-ldtk"
+  ],
+  "Default Cube": [
+    "learning-default-cube"
+  ],
+  "Defold Foundation": [
+    "game-dev-defold"
+  ],
+  "Dekogon Studios": [
+    "game-dev-dekogon"
+  ],
+  "Demenzun Media": [
+    "game-dev-extra-terresculptor"
+  ],
+  "Denis Pahunov": [
+    "game-dev-extra-mapmagic"
+  ],
+  "Descript": [
+    "video-descript-video"
+  ],
+  "Design+Code": [
+    "learning-design-code"
+  ],
+  "DesignCourse": [
+    "learning-designcourse"
+  ],
+  "Designlab": [
+    "learning-designlab"
+  ],
+  "Devolver Digital": [
+    "game-dev-devolver-digital"
+  ],
+  "Digital Commonwealth": [
+    "public-domain-digital-commonwealth"
+  ],
+  "Digital Public Library of America": [
+    "public-domain-dpla"
+  ],
+  "DigitalNZ": [
+    "public-domain-digitalnz"
+  ],
+  "DigitalOcean": [
+    "learning-css-tricks"
+  ],
+  "Dinamo": [
+    "typography-dinamo"
+  ],
+  "Diversity Arts Australia": [
+    "grant-diversity-arts-australia"
+  ],
+  "Djerassi Resident Artists Program": [
+    "grant-djerassi-resident-artists-program"
+  ],
+  "DOAB": [
+    "books-directory-of-open-access-books"
+  ],
+  "Doc Society Climate Story Fund": [
+    "grant-doc-society-climate-story-fund"
+  ],
+  "Domestika": [
+    "learning-domestika",
+    "learning-domestika-illustration-courses"
+  ],
+  "Dragonframe": [
+    "dragonframe"
+  ],
+  "DrawABox": [
+    "learning-drawabox"
+  ],
+  "Dropbox": [
+    "business-hellosign"
+  ],
+  "Dubsado": [
+    "dubsado"
+  ],
+  "Ducky 3D": [
+    "learning-ducky-3d"
+  ],
+  "DxO": [
+    "photolab"
+  ],
+  "EasyEDA": [
+    "easyeda"
+  ],
+  "Eddie Shleyner": [
+    "learning-verygoodcopy"
+  ],
+  "Edmonton Arts Council": [
+    "grant-edmonton-arts-council"
+  ],
+  "edX": [
+    "learning-edx"
+  ],
+  "Egret": [
+    "game-dev-dragonbones"
+  ],
+  "Entagma": [
+    "learning-entagma"
+  ],
+  "Envato": [
+    "learning-envato-tuts"
+  ],
+  "Ephtracy": [
+    "game-dev-magicavoxel"
+  ],
+  "Epic Games": [
+    "game-dev-epic-games-store-publishing",
+    "game-dev-epic-online-services",
+    "game-dev-extra-unreal-localization-dashboard",
+    "game-dev-extra-unreal-xr",
+    "game-dev-fab",
+    "game-dev-niagara",
+    "game-dev-quixel-megascans",
+    "game-dev-quixel-mixer",
+    "game-dev-unreal-engine",
+    "game-dev-unreal-marketplace",
+    "game-dev-unreal-online-learning",
+    "learning-unreal-engine-learning",
+    "unreal-engine"
+  ],
+  "Epic MegaGrants": [
+    "grant-epic-megagrants"
+  ],
+  "Epidemic Sound": [
+    "game-dev-epidemic-sound"
+  ],
+  "Erik Kennedy": [
+    "learning-learn-ui-design"
+  ],
+  "Esoteric Software": [
+    "game-dev-extra-spine-ui-animation",
+    "game-dev-spine",
+    "spine"
+  ],
+  "Ethan Becker": [
+    "learning-ethan-becker"
+  ],
+  "European Cultural Foundation": [
+    "grant-european-cultural-foundation"
+  ],
+  "Europeana": [
+    "learning-europeana",
+    "public-domain-europeana-pro"
+  ],
+  "Evan Abrams": [
+    "learning-evan-abrams"
+  ],
+  "Example Company": [
+    "example-resource"
+  ],
+  "Excalibur.js": [
+    "game-dev-extra-excalibur-js"
+  ],
+  "Exit Games": [
+    "game-dev-photon-engine"
+  ],
+  "Exposure Software": [
+    "exposure-x"
+  ],
+  "Extra Credits": [
+    "game-dev-extra-credits"
+  ],
+  "Eyebeam": [
+    "grant-eyebeam"
+  ],
+  "FACTOR": [
+    "grant-factor"
+  ],
+  "Fade In": [
+    "film-fade-in"
+  ],
+  "Fal": [
+    "ai-tools-fal-ai"
+  ],
+  "fast.ai": [
+    "learning-fast-ai"
+  ],
+  "Figma": [
+    "game-dev-extra-figjam",
+    "game-dev-extra-figma",
+    "learning-figma-learn"
+  ],
+  "Film Independent Grants": [
+    "grant-film-independent-grants"
+  ],
+  "Film Riot": [
+    "learning-film-riot"
+  ],
+  "FilmGrab": [
+    "assets-filmgrab"
+  ],
+  "Final Draft": [
+    "film-final-draft"
+  ],
+  "Firelight Media": [
+    "grant-firelight-media"
+  ],
+  "Firelight Technologies": [
+    "game-dev-fmod"
+  ],
+  "Fireship": [
+    "learning-fireship"
+  ],
+  "FirstGearGames": [
+    "game-dev-fishnet"
+  ],
+  "Flax": [
+    "game-dev-extra-flax-engine"
+  ],
+  "FlippedNormals": [
+    "learning-flippednormals"
+  ],
+  "Florida Division of Arts and Culture": [
+    "grant-florida-division-of-arts-and-culture"
+  ],
+  "Flux Academy": [
+    "learning-flux-academy"
+  ],
+  "Fogo Island Arts": [
+    "grant-fogo-island-arts"
+  ],
+  "Font Squirrel": [
+    "game-dev-extra-font-squirrel"
+  ],
+  "FontForge": [
+    "game-dev-extra-fontforge"
+  ],
+  "Fonts In Use": [
+    "design-fonts-in-use"
+  ],
+  "Ford Foundation Creativity and Free Expression": [
+    "grant-ford-foundation-creativity-and-free-expression"
+  ],
+  "Forecast Public Art": [
+    "grant-forecast-public-art"
+  ],
+  "Fork": [
+    "game-dev-extra-fork"
+  ],
+  "Format": [
+    "photography-format"
+  ],
+  "Foundation for Contemporary Arts": [
+    "grant-foundation-for-contemporary-arts"
+  ],
+  "freeCodeCamp": [
+    "learning-freecodecamp"
+  ],
+  "Freesound": [
+    "game-dev-freesound"
+  ],
+  "FreshBooks": [
+    "freshbooks"
+  ],
+  "Frontend Masters": [
+    "learning-frontend-masters"
+  ],
+  "Ftrack": [
+    "game-dev-extra-ftrack"
+  ],
+  "FutureLearn": [
+    "learning-futurelearn"
+  ],
+  "Futurepedia": [
+    "software-futurepedia"
+  ],
+  "FXhome": [
+    "hitfilm"
+  ],
+  "FXPHD": [
+    "learning-fxphd"
+  ],
+  "G2": [
+    "software-g2"
+  ],
+  "Game Accessibility Guidelines": [
+    "game-dev-extra-game-accessibility-guidelines"
+  ],
+  "Game Developer": [
+    "game-dev-gamasutra-game-developer"
+  ],
+  "Game Maker's Toolkit": [
+    "game-dev-gmtk-game-jam"
+  ],
+  "Game UI Database": [
+    "game-dev-extra-game-ui-database"
+  ],
+  "Game-icons.net": [
+    "game-dev-game-icons-net"
+  ],
+  "GameAnalytics": [
+    "game-dev-extra-gameanalytics"
+  ],
+  "GameArt2D": [
+    "game-dev-gameart2d"
+  ],
+  "Gameball": [
+    "game-dev-extra-gameball"
+  ],
+  "GameDev Market": [
+    "game-dev-gamedev-market"
+  ],
+  "GameDev.net": [
+    "game-dev-gamedev-net"
+  ],
+  "GameDev.tv": [
+    "game-dev-gamedev-tv"
+  ],
+  "GameSalad": [
+    "game-dev-extra-gamesalad"
+  ],
+  "GameSparks": [
+    "game-dev-gamesparks-archive"
+  ],
+  "Gartner": [
+    "software-capterra"
+  ],
+  "GB Studio": [
+    "game-dev-gb-studio"
+  ],
+  "GDevelop": [
+    "game-dev-gdevelop"
+  ],
+  "GDQuest": [
+    "game-dev-gdquest"
+  ],
+  "Georgia Council for the Arts": [
+    "grant-georgia-council-for-the-arts"
+  ],
+  "Gerald Undone": [
+    "learning-gerald-undone"
+  ],
+  "Gibraltar Point Centre for the Arts": [
+    "grant-gibraltar-point-centre-for-the-arts"
+  ],
+  "GitHub": [
+    "game-dev-extra-git-lfs",
+    "game-dev-extra-github"
+  ],
+  "GitKraken": [
+    "game-dev-extra-gitkraken"
+  ],
+  "GitLab": [
+    "game-dev-extra-gitlab"
+  ],
+  "Gitpod": [
+    "coding-gitpod"
+  ],
+  "Glitch": [
+    "glitch"
+  ],
+  "Global Game Jam": [
+    "game-dev-global-game-jam"
+  ],
+  "Glyphs": [
+    "game-dev-extra-glyphs"
+  ],
+  "Gnomon": [
+    "learning-gnomon-workshop"
+  ],
+  "Godot Foundation": [
+    "game-dev-godot"
+  ],
+  "Goethe-Institut Funding": [
+    "grant-goethe-institut-funding"
+  ],
+  "GOG": [
+    "game-dev-gog-developer-portal"
+  ],
+  "Google": [
+    "firebase",
+    "game-dev-extra-admob",
+    "game-dev-extra-arcore",
+    "game-dev-extra-firebase-analytics",
+    "game-dev-extra-firebase-crashlytics",
+    "game-dev-extra-google-fonts",
+    "game-dev-extra-google-play-beta-testing",
+    "game-dev-extra-tilt-brush-archive",
+    "game-dev-firebase",
+    "game-dev-google-play-console",
+    "learning-google-arts-and-culture",
+    "learning-google-machine-learning-crash-course",
+    "learning-google-skillshop",
+    "learning-material-design",
+    "learning-web-dev"
+  ],
+  "Gotcha Gotcha Games": [
+    "game-dev-extra-pixel-game-maker-mv",
+    "game-dev-rpg-maker"
+  ],
+  "Grant Abbitt": [
+    "learning-grant-abbitt"
+  ],
+  "Gravity Sketch": [
+    "game-dev-extra-gravity-sketch"
+  ],
+  "Grilli Type": [
+    "typography-grilli-type"
+  ],
+  "Groq": [
+    "ai-tools-groqcloud"
+  ],
+  "Growth Design": [
+    "learning-growth-design-case-studies"
+  ],
+  "Guggenheim Fellowships": [
+    "grant-guggenheim-fellowships"
+  ],
+  "HacknPlan": [
+    "game-dev-extra-hacknplan"
+  ],
+  "Hamilton Arts Awards and Funding": [
+    "grant-hamilton-arts-awards-and-funding"
+  ],
+  "HandBrake": [
+    "video-handbrake"
+  ],
+  "Harpo Foundation": [
+    "grant-harpo-foundation"
+  ],
+  "Harry Dry": [
+    "learning-marketing-examples"
+  ],
+  "Harvard Art Museums": [
+    "learning-harvard-art-museums-collections"
+  ],
+  "Harvard University": [
+    "learning-harvard-online-learning"
+  ],
+  "HathiTrust": [
+    "books-hathitrust"
+  ],
+  "HaxeFlixel": [
+    "game-dev-extra-haxeflixel"
+  ],
+  "Headlands Center for the Arts": [
+    "grant-headlands-center-for-the-arts"
+  ],
+  "Heaps": [
+    "game-dev-extra-heaps-io"
+  ],
+  "HeavyPaint": [
+    "digital-art-heavypaint"
+  ],
+  "Heroic Labs": [
+    "game-dev-extra-nakama-economy",
+    "game-dev-nakama"
+  ],
+  "Hoefler&Co": [
+    "typography-hoeflerandco"
+  ],
+  "HoneyBook": [
+    "business-honeybook-finance",
+    "honeybook"
+  ],
+  "Hootsuite": [
+    "learning-hootsuite-blog"
+  ],
+  "Hot Docs Funds": [
+    "grant-hot-docs-funds"
+  ],
+  "HubSpot": [
+    "learning-hubspot-academy"
+  ],
+  "HUDS+GUIS": [
+    "game-dev-extra-huds-guis"
+  ],
+  "Hugging Face": [
+    "learning-hugging-face-learn"
+  ],
+  "Hugo": [
+    "web-hugo"
+  ],
+  "Humata": [
+    "ai-tools-humata"
+  ],
+  "Humble Bundle": [
+    "game-dev-humble-games"
+  ],
+  "iA": [
+    "writing-ia-writer"
+  ],
+  "Ian Hubert": [
+    "learning-ian-hubert"
+  ],
+  "IceBox Studios": [
+    "game-dev-extra-adventure-creator"
+  ],
+  "Icons8": [
+    "game-dev-extra-lunacy"
+  ],
+  "id Software Community": [
+    "game-dev-extra-gtkradiant"
+  ],
+  "ID@Xbox Developer Acceleration Program": [
+    "grant-id-xbox-developer-acceleration-program"
+  ],
+  "IDA Enterprise Documentary Fund": [
+    "grant-ida-enterprise-documentary-fund"
+  ],
+  "Igara Studio": [
+    "game-dev-aseprite"
+  ],
+  "Illinois Arts Council": [
+    "grant-illinois-arts-council"
+  ],
+  "Imagen": [
+    "photography-imagen"
+  ],
+  "ImagineNATIVE Institute": [
+    "grant-imaginenative-institute"
+  ],
+  "Immersal": [
+    "game-dev-extra-immersal"
+  ],
+  "Independent / Unknown": [
+    "3d-models-blend-swap",
+    "3d-models-cgtrader",
+    "3d-models-kitbash3d",
+    "3d-models-renderhub",
+    "3d-models-sketchfab",
+    "3d-models-turbosquid",
+    "brushes-bardot-brush",
+    "brushes-brusheezy",
+    "brushes-brushlovers",
+    "brushes-clip-studio-assets",
+    "brushes-cubebrush",
+    "brushes-design-cuts-brushes",
+    "brushes-gumroad-brushes",
+    "brushes-kyle-t-webster-brushes",
+    "brushes-retrosupply",
+    "brushes-true-grit-texture-supply",
+    "device-frames-angle",
+    "device-frames-apple-design-resources",
+    "device-frames-facebook-design-resources",
+    "device-frames-mockuuups-studio",
+    "device-frames-previewed",
+    "device-frames-rotato",
+    "device-frames-screenspace",
+    "device-frames-shots-so",
+    "file-converters-cloudconvert",
+    "file-converters-convertio",
+    "file-converters-ilovepdf",
+    "file-converters-online-convert",
+    "file-converters-squoosh",
+    "file-converters-svgomg",
+    "file-converters-tinywow",
+    "file-converters-zamzar",
+    "fonts-adobe-fonts",
+    "fonts-creative-fabrica",
+    "fonts-dafont",
+    "fonts-font-squirrel",
+    "fonts-google-fonts",
+    "fonts-myfonts",
+    "freelancing-17hats",
+    "freelancing-99designs",
+    "freelancing-acuity-scheduling",
+    "freelancing-airtable",
+    "freelancing-and-co",
+    "freelancing-angi-leads",
+    "freelancing-aquent",
+    "freelancing-artstation-jobs",
+    "freelancing-asana",
+    "freelancing-backstage",
+    "freelancing-bark",
+    "freelancing-basecamp",
+    "freelancing-behance-jobs",
+    "freelancing-bloom-io",
+    "freelancing-bonsai",
+    "freelancing-brandcrowd-designers",
+    "freelancing-bunny-studio",
+    "freelancing-cal-com",
+    "freelancing-calendly",
+    "freelancing-clearvoice",
+    "freelancing-clearvoice-talent-network",
+    "freelancing-clickup",
+    "freelancing-clockify",
+    "freelancing-contently",
+    "freelancing-contra",
+    "freelancing-creative-circle",
+    "freelancing-crowdspring",
+    "freelancing-designbro",
+    "freelancing-designcrowd",
+    "freelancing-designhill",
+    "freelancing-discord",
+    "freelancing-dribbble-jobs",
+    "freelancing-dubsado",
+    "freelancing-entertainmentcareers",
+    "freelancing-fiverr",
+    "freelancing-flexjobs",
+    "freelancing-freelancer",
+    "freelancing-freshbooks",
+    "freelancing-guru",
+    "freelancing-harvest",
+    "freelancing-hectic",
+    "freelancing-honeybook",
+    "freelancing-houzz-pro",
+    "freelancing-indy",
+    "freelancing-invoice-ninja",
+    "freelancing-journalismjobs",
+    "freelancing-logotournament",
+    "freelancing-loom",
+    "freelancing-malt",
+    "freelancing-mandy-network",
+    "freelancing-mediabistro-jobs",
+    "freelancing-monday-com",
+    "freelancing-moxie",
+    "freelancing-ndash",
+    "freelancing-notion",
+    "freelancing-payoneer",
+    "freelancing-paypal",
+    "freelancing-peopleperhour",
+    "freelancing-plutio",
+    "freelancing-problogger-jobs",
+    "freelancing-productionbeast",
+    "freelancing-productionhub",
+    "freelancing-quickbooks",
+    "freelancing-reedsy",
+    "freelancing-remote-ok",
+    "freelancing-rescuetime",
+    "freelancing-robert-half-creative",
+    "freelancing-scripted",
+    "freelancing-slack",
+    "freelancing-solidgigs",
+    "freelancing-square-invoices",
+    "freelancing-staff-me-up",
+    "freelancing-stage-32-jobs",
+    "freelancing-stripe",
+    "freelancing-taskrabbit",
+    "freelancing-textbroker",
+    "freelancing-the-dots",
+    "freelancing-thumbtack",
+    "freelancing-tidycal",
+    "freelancing-timely",
+    "freelancing-toggl-track",
+    "freelancing-toptal",
+    "freelancing-trello",
+    "freelancing-twine",
+    "freelancing-upwork",
+    "freelancing-voice123",
+    "freelancing-voices",
+    "freelancing-wave",
+    "freelancing-we-work-remotely",
+    "freelancing-wellfound",
+    "freelancing-wise-business",
+    "freelancing-working-not-working",
+    "freelancing-worksome",
+    "freelancing-writeraccess",
+    "freelancing-xero",
+    "freelancing-yunojuno",
+    "freelancing-zoho-invoice",
+    "hdri-cgaxis-hdri",
+    "hdri-hdri-hub",
+    "hdri-hdrmaps",
+    "hdri-noemotion-hdrs",
+    "hdri-poly-haven-hdris",
+    "hdri-sibl-archive",
+    "icons-flaticon",
+    "icons-font-awesome",
+    "icons-heroicons",
+    "icons-icons8",
+    "icons-phosphor-icons",
+    "icons-svg-repo",
+    "krea-ai",
+    "luts-cinepacks",
+    "luts-color-grading-central",
+    "luts-dehancer",
+    "luts-filmconvert",
+    "luts-ground-control",
+    "luts-iwltbap",
+    "luts-rocket-rooster",
+    "luts-triune-digital-luts",
+    "maps-google-maps-platform",
+    "maps-mapbox",
+    "maps-natural-earth",
+    "maps-openstreetmap",
+    "maps-qgis",
+    "maps-stamen-maps",
+    "marketplace-123rf",
+    "marketplace-1stdibs-art",
+    "marketplace-3dexport",
+    "marketplace-3docean",
+    "marketplace-adobe-exchange",
+    "marketplace-adobe-stock",
+    "marketplace-aiprm",
+    "marketplace-airtable-universe",
+    "marketplace-alamy",
+    "marketplace-alternativeto",
+    "marketplace-apify-store",
+    "marketplace-apliiq",
+    "marketplace-appsumo",
+    "marketplace-artfinder",
+    "marketplace-artgrid",
+    "marketplace-artlist",
+    "marketplace-artmajeur",
+    "marketplace-artpal",
+    "marketplace-artsy",
+    "marketplace-audiojungle",
+    "marketplace-beehiiv",
+    "marketplace-big-cartel",
+    "marketplace-big-cartel-art-shops",
+    "marketplace-bigcommerce",
+    "marketplace-blender-extensions",
+    "marketplace-blender-market",
+    "marketplace-blenderkit",
+    "marketplace-bootstrapmade",
+    "marketplace-buy-me-a-coffee",
+    "marketplace-cafepress",
+    "marketplace-canva-marketplace",
+    "marketplace-capterra",
+    "marketplace-cgtrader",
+    "marketplace-chrome-web-store",
+    "marketplace-circle",
+    "marketplace-civitai",
+    "marketplace-codecanyon",
+    "marketplace-codesandbox-templates",
+    "marketplace-contrado",
+    "marketplace-craftpix",
+    "marketplace-crates-io",
+    "marketplace-creative-fabrica",
+    "marketplace-creative-market",
+    "marketplace-creative-tim",
+    "marketplace-daz-3d-shop",
+    "marketplace-depositphotos",
+    "marketplace-design-bundles",
+    "marketplace-design-cuts",
+    "marketplace-dreamstime",
+    "marketplace-dribbble-marketplace",
+    "marketplace-easlo-templates",
+    "marketplace-ecwid",
+    "marketplace-envato-elements",
+    "marketplace-envato-market",
+    "marketplace-etsy",
+    "marketplace-evermotion",
+    "marketplace-fab",
+    "marketplace-fanatical-software-bundles",
+    "marketplace-figma-community",
+    "marketplace-figma-plugins",
+    "marketplace-fine-art-america",
+    "marketplace-firebase-extensions",
+    "marketplace-flaticon",
+    "marketplace-flowbite-pro",
+    "marketplace-flowgpt",
+    "marketplace-font-bundles",
+    "marketplace-fontspring",
+    "marketplace-fourthwall",
+    "marketplace-framer-marketplace",
+    "marketplace-freepik",
+    "marketplace-g2",
+    "marketplace-gameart2d",
+    "marketplace-gamedev-market",
+    "marketplace-gelato",
+    "marketplace-getty-images",
+    "marketplace-ghost",
+    "marketplace-gimp-plugin-registry-archive",
+    "marketplace-github-actions-marketplace",
+    "marketplace-github-marketplace",
+    "marketplace-godot-asset-library",
+    "marketplace-gooten",
+    "marketplace-graphicriver",
+    "marketplace-gumroad",
+    "marketplace-hugging-face-models",
+    "marketplace-hugging-face-spaces",
+    "marketplace-hum3d",
+    "marketplace-humble-bundle-software",
+    "marketplace-iconfinder",
+    "marketplace-icons8",
+    "marketplace-iconscout",
+    "marketplace-inprnt",
+    "marketplace-istock",
+    "marketplace-itch-io-game-assets",
+    "marketplace-kajabi",
+    "marketplace-kenney",
+    "marketplace-kitbash3d",
+    "marketplace-ko-fi",
+    "marketplace-lemon-squeezy",
+    "marketplace-lottiefiles-marketplace",
+    "marketplace-make-apps",
+    "marketplace-medium-partner-program",
+    "marketplace-mighty-networks",
+    "marketplace-mojarto",
+    "marketplace-motion-array",
+    "marketplace-myfonts",
+    "marketplace-n8n-integrations",
+    "marketplace-netlify-templates",
+    "marketplace-newsbreak-creator-program",
+    "marketplace-notion-everything",
+    "marketplace-notion-marketplace",
+    "marketplace-notionery",
+    "marketplace-noun-project",
+    "marketplace-npm",
+    "marketplace-obsidian-community-plugins",
+    "marketplace-openai-gpt-store",
+    "marketplace-openart-models",
+    "marketplace-opengameart",
+    "marketplace-packagist",
+    "marketplace-pangram-pangram",
+    "marketplace-patreon",
+    "marketplace-payhip",
+    "marketplace-pexels",
+    "marketplace-pitchground",
+    "marketplace-pixabay",
+    "marketplace-pixels",
+    "marketplace-podia",
+    "marketplace-poe-bots",
+    "marketplace-pond5",
+    "marketplace-postman-api-network",
+    "marketplace-printful",
+    "marketplace-printify",
+    "marketplace-product-hunt",
+    "marketplace-promptbase",
+    "marketplace-prompthero",
+    "marketplace-pypi",
+    "marketplace-rapidapi",
+    "marketplace-rawpixel",
+    "marketplace-reallusion-content-store",
+    "marketplace-redbubble",
+    "marketplace-renderhub",
+    "marketplace-replit-templates",
+    "marketplace-rubygems",
+    "marketplace-saasworthy",
+    "marketplace-saatchi-art",
+    "marketplace-sellfy",
+    "marketplace-sendowl",
+    "marketplace-shopify",
+    "marketplace-shopify-app-store",
+    "marketplace-shutterstock",
+    "marketplace-singulart",
+    "marketplace-sketchfab-store",
+    "marketplace-society6",
+    "marketplace-spod",
+    "marketplace-spreadshirt",
+    "marketplace-spring",
+    "marketplace-spriteland",
+    "marketplace-squarespace-commerce",
+    "marketplace-squarespace-extensions",
+    "marketplace-squarespace-scheduling-store",
+    "marketplace-stacksocial",
+    "marketplace-storyblocks",
+    "marketplace-substack",
+    "marketplace-supabase-templates",
+    "marketplace-svg-repo",
+    "marketplace-tailwind-ui",
+    "marketplace-tally-templates",
+    "marketplace-teachable",
+    "marketplace-teachable-machine-models",
+    "marketplace-teepublic",
+    "marketplace-templatemonster",
+    "marketplace-tensor-art-models",
+    "marketplace-thehungryjpeg",
+    "marketplace-themeforest",
+    "marketplace-thinkific",
+    "marketplace-threadless-artist-shops",
+    "marketplace-turbosquid",
+    "marketplace-type-network",
+    "marketplace-typeform-templates",
+    "marketplace-ugallery",
+    "marketplace-ui8",
+    "marketplace-unity-asset-store",
+    "marketplace-unreal-marketplace",
+    "marketplace-unsplash",
+    "marketplace-untitled-ui",
+    "marketplace-vecteezy",
+    "marketplace-vercel-templates",
+    "marketplace-videohive",
+    "marketplace-vocal-media",
+    "marketplace-vsual",
+    "marketplace-webflow-apps",
+    "marketplace-webflow-marketplace",
+    "marketplace-wix-app-market",
+    "marketplace-wix-ecommerce",
+    "marketplace-woocommerce",
+    "marketplace-wordpress-org-plugins",
+    "marketplace-wordpress-org-themes",
+    "marketplace-wrapbootstrap",
+    "marketplace-youworkforthem",
+    "marketplace-zapier-app-directory",
+    "marketplace-zazzle",
+    "mockups-anthony-boyd-graphics",
+    "mockups-graphicburger",
+    "mockups-ls-graphics",
+    "mockups-mockup-world",
+    "mockups-mockups-design",
+    "mockups-mr-mockup",
+    "mockups-placeit",
+    "mockups-smartmockups",
+    "mockups-unblast",
+    "mockups-yellow-images",
+    "music-libraries-artlist",
+    "music-libraries-audiojungle",
+    "music-libraries-bensound",
+    "music-libraries-ccmixter",
+    "music-libraries-epidemic-sound",
+    "music-libraries-free-music-archive",
+    "music-libraries-hooksounds",
+    "music-libraries-incompetech",
+    "music-libraries-jamendo",
+    "music-libraries-mixkit-music",
+    "music-libraries-musicbed",
+    "music-libraries-pixabay-music",
+    "music-libraries-premiumbeat",
+    "music-libraries-soundstripe",
+    "music-libraries-tunetank",
+    "music-libraries-uppbeat",
+    "patterns-hero-patterns",
+    "patterns-magicpattern",
+    "patterns-pattern-monster",
+    "patterns-patterninja",
+    "patterns-svg-backgrounds",
+    "patterns-toptal-subtle-patterns",
+    "presentation-templates-beautiful-ai",
+    "presentation-templates-canva-presentations",
+    "presentation-templates-envato-presentation-templates",
+    "presentation-templates-graphicriver-presentations",
+    "presentation-templates-pitch",
+    "presentation-templates-slidescarnival",
+    "presentation-templates-slidesgo",
+    "presentation-templates-visme",
+    "public-domain-archives-art-institute-of-chicago-api",
+    "public-domain-archives-biodiversity-heritage-library",
+    "public-domain-archives-british-library-flickr",
+    "public-domain-archives-cleveland-museum-of-art-open-access",
+    "public-domain-archives-david-rumsey-map-collection",
+    "public-domain-archives-digital-public-library-of-america",
+    "public-domain-archives-europeana",
+    "public-domain-archives-flickr-commons",
+    "public-domain-archives-gallica",
+    "public-domain-archives-google-arts-and-culture",
+    "public-domain-archives-harvard-art-museums",
+    "public-domain-archives-hathitrust",
+    "public-domain-archives-historic-england-archive",
+    "public-domain-archives-internet-archive",
+    "public-domain-archives-library-of-congress-digital-collections",
+    "public-domain-archives-nasa-image-and-video-library",
+    "public-domain-archives-national-gallery-of-art-open-access",
+    "public-domain-archives-new-york-public-library-digital-collections",
+    "public-domain-archives-old-book-illustrations",
+    "public-domain-archives-openverse",
+    "public-domain-archives-project-gutenberg",
+    "public-domain-archives-rawpixel-public-domain",
+    "public-domain-archives-rijksmuseum-collection",
+    "public-domain-archives-smithsonian-open-access",
+    "public-domain-archives-standard-ebooks",
+    "public-domain-archives-the-met-open-access",
+    "public-domain-archives-the-public-domain-review",
+    "public-domain-archives-us-national-archives",
+    "public-domain-archives-wellcome-collection",
+    "public-domain-archives-wikimedia-commons",
+    "public-domain-archives-yale-center-for-british-art",
+    "sound-effects-audiohero",
+    "sound-effects-bbc-sound-effects",
+    "sound-effects-boom-library",
+    "sound-effects-envato-elements-audio",
+    "sound-effects-freesound",
+    "sound-effects-sonniss",
+    "sound-effects-soundbible",
+    "sound-effects-soundly",
+    "sound-effects-soundsnap",
+    "sound-effects-zapsplat",
+    "stock-photos-adobe-stock",
+    "stock-photos-burst",
+    "stock-photos-getty-images",
+    "stock-photos-kaboompics",
+    "stock-photos-pexels",
+    "stock-photos-pixabay",
+    "stock-photos-rawpixel",
+    "stock-photos-shutterstock",
+    "stock-photos-stocksnap",
+    "stock-photos-unsplash",
+    "stock-video-artgrid",
+    "stock-video-coverr",
+    "stock-video-mixkit",
+    "stock-video-motion-array",
+    "stock-video-pexels-video",
+    "stock-video-pond5",
+    "stock-video-storyblocks",
+    "stock-video-videvo",
+    "textures-ambientcg",
+    "textures-cgbookcase",
+    "textures-poliigon",
+    "textures-poly-haven",
+    "textures-quixel-megascans",
+    "textures-textures-com",
+    "ui-kits-aceternity-ui",
+    "ui-kits-daisyui",
+    "ui-kits-figma-community",
+    "ui-kits-flowbite",
+    "ui-kits-hyperui",
+    "ui-kits-material-ui",
+    "ui-kits-shadcn-ui",
+    "ui-kits-tailwind-ui",
+    "ui-kits-ui8",
+    "ui-kits-untitled-ui",
+    "vector-magic",
+    "vfx-assets-actionvfx",
+    "vfx-assets-film-riot-assets",
+    "vfx-assets-footagecrate",
+    "vfx-assets-motion-array-vfx",
+    "vfx-assets-productioncrate",
+    "vfx-assets-rocketstock",
+    "vfx-assets-triune-digital",
+    "vfx-assets-video-copilot"
+  ],
+  "Indie Fund": [
+    "grant-indie-fund"
+  ],
+  "Indie Hackers": [
+    "learning-indie-hackers"
+  ],
+  "IndieDB": [
+    "game-dev-indiedb"
+  ],
+  "Indigenous Arts Collective of Canada": [
+    "grant-indigenous-arts-collective-of-canada"
+  ],
+  "Indigenous Screen Office": [
+    "grant-indigenous-screen-office"
+  ],
+  "Indy Mogul": [
+    "learning-indy-mogul"
+  ],
+  "Informa": [
+    "game-dev-gdc-vault"
+  ],
+  "Inkle": [
+    "game-dev-extra-ink",
+    "game-dev-extra-inky"
+  ],
+  "Instabug": [
+    "game-dev-extra-instabug"
+  ],
+  "Interaction Design Foundation": [
+    "learning-interaction-design-foundation"
+  ],
+  "Interface In Game": [
+    "game-dev-extra-interface-in-game"
+  ],
+  "Internet Archive": [
+    "books-open-library",
+    "learning-internet-archive",
+    "learning-open-library"
+  ],
+  "Internet Society Foundation Grants": [
+    "grant-internet-society-foundation-grants"
+  ],
+  "Intuit": [
+    "marketing-mailchimp",
+    "quickbooks"
+  ],
+  "Inworld AI": [
+    "game-dev-inworld-ai"
+  ],
+  "ironSource": [
+    "game-dev-extra-ironsource"
+  ],
+  "ISCP": [
+    "grant-iscp"
+  ],
+  "itch.io": [
+    "game-dev-itch-io",
+    "game-dev-itch-io-game-assets",
+    "game-dev-itch-io-jams"
+  ],
+  "ITVS Open Call": [
+    "grant-itvs-open-call"
+  ],
+  "iZotope": [
+    "izotope-rx",
+    "learning-izotope-learn",
+    "ozone"
+  ],
+  "Jake In Motion": [
+    "learning-jake-in-motion"
+  ],
+  "JangaFX": [
+    "game-dev-embergen",
+    "game-dev-liquigen"
+  ],
+  "JannisX11": [
+    "game-dev-blockbench"
+  ],
+  "Jason Weimann": [
+    "game-dev-jason-weimann"
+  ],
+  "JavaScript.info": [
+    "learning-javascript-info"
+  ],
+  "Jay Clouse": [
+    "learning-creator-science"
+  ],
+  "Jazz Foundation of America": [
+    "grant-jazz-foundation-of-america"
+  ],
+  "Jazza": [
+    "learning-jazza"
+  ],
+  "Jekyll": [
+    "web-jekyll"
+  ],
+  "jMonkeyEngine": [
+    "game-dev-extra-jmonkeyengine"
+  ],
+  "Joan Mitchell Foundation": [
+    "grant-joan-mitchell-foundation"
+  ],
+  "John Nesky": [
+    "game-dev-beepbox"
+  ],
+  "Jon Yablonski": [
+    "learning-laws-of-ux"
+  ],
+  "JSTOR": [
+    "books-jstor-open-content"
+  ],
+  "Justin Odisho": [
+    "learning-justin-odisho"
+  ],
+  "Kaedim": [
+    "game-dev-kaedim"
+  ],
+  "Kaggle": [
+    "learning-kaggle-learn"
+  ],
+  "Kanka": [
+    "game-dev-extra-kanka"
+  ],
+  "Kapwing": [
+    "video-kapwing"
+  ],
+  "Kdenlive": [
+    "kdenlive"
+  ],
+  "Kenney": [
+    "game-dev-extra-kenney-ui-pack",
+    "game-dev-kenney",
+    "game-dev-opengameart-kenney-mirror"
+  ],
+  "Kent C. Dodds": [
+    "learning-kent-c-dodds-epic-web"
+  ],
+  "Kevin Powell": [
+    "learning-kevin-powell"
+  ],
+  "Keywords Studios": [
+    "game-dev-extra-keywords-studios"
+  ],
+  "Khan Academy": [
+    "learning-khan-academy"
+  ],
+  "Khronos Group": [
+    "game-dev-extra-openxr"
+  ],
+  "KiCad": [
+    "kicad"
+  ],
+  "Kit": [
+    "learning-convertkit-creator-university",
+    "marketing-kit"
+  ],
+  "KitBash3D": [
+    "game-dev-kitbash3d"
+  ],
+  "Klaviyo": [
+    "marketing-klaviyo"
+  ],
+  "Kleki": [
+    "digital-art-kleki"
+  ],
+  "Klim": [
+    "typography-klim-type-foundry"
+  ],
+  "Knight Foundation Arts": [
+    "grant-knight-foundation-arts"
+  ],
+  "Kowloon Nights": [
+    "game-dev-kowloon-nights",
+    "grant-kowloon-nights"
+  ],
+  "Krea": [
+    "game-dev-krea-ai"
+  ],
+  "Krita Foundation": [
+    "game-dev-krita"
+  ],
+  "Laidlaw Foundation": [
+    "grant-laidlaw-foundation"
+  ],
+  "Landings": [
+    "design-landings"
+  ],
+  "LANDR": [
+    "audio-landr",
+    "audio-landr-samples"
+  ],
+  "Laracasts": [
+    "learning-laracasts"
+  ],
+  "LaserGRBL": [
+    "lasergrbl"
+  ],
+  "Later": [
+    "learning-later-blog"
+  ],
+  "Latino Public Broadcasting": [
+    "grant-latino-public-broadcasting"
+  ],
+  "Layer AI": [
+    "game-dev-layer-ai"
+  ],
+  "League of Canadian Poets": [
+    "grant-league-of-canadian-poets"
+  ],
+  "Learn Prompting": [
+    "learning-learn-prompting"
+  ],
+  "Leartes Studios": [
+    "game-dev-leartes-studios"
+  ],
+  "Led": [
+    "game-dev-extra-tilesetter"
+  ],
+  "LegalZoom": [
+    "business-legalzoom"
+  ],
+  "LegendKeeper": [
+    "game-dev-extra-legendkeeper"
+  ],
+  "Leonardo": [
+    "digital-art-leonardo-graphic-editor"
+  ],
+  "Leonardo AI": [
+    "game-dev-leonardo-ai"
+  ],
+  "Lexaloffle": [
+    "game-dev-extra-pico-8"
+  ],
+  "libGDX": [
+    "game-dev-extra-hiero"
+  ],
+  "Library of Congress": [
+    "learning-library-of-congress-digital-collections"
+  ],
+  "LibRaw": [
+    "fastrawviewer"
+  ],
+  "LibreSprite": [
+    "game-dev-libresprite"
+  ],
+  "LibriVox": [
+    "books-librivox"
+  ],
+  "LightBurn": [
+    "lightburn"
+  ],
+  "Line of Action": [
+    "learning-line-of-action-practice"
+  ],
+  "Linear": [
+    "game-dev-extra-linear"
+  ],
+  "LinkedIn": [
+    "learning-linkedin-learning"
+  ],
+  "Lionbridge Games": [
+    "game-dev-extra-lionbridge-games"
+  ],
+  "Literature & Latte": [
+    "writing-scrivener"
+  ],
+  "LMMS": [
+    "game-dev-lmms",
+    "lmms"
+  ],
+  "Localazy": [
+    "game-dev-extra-localazy"
+  ],
+  "LocDirect": [
+    "game-dev-extra-locdirect"
+  ],
+  "Logseq": [
+    "writing-logseq"
+  ],
+  "Lokalise": [
+    "game-dev-extra-lokalise"
+  ],
+  "Loopmasters": [
+    "audio-loopcloud"
+  ],
+  "LootLocker": [
+    "game-dev-extra-lootlocker-economy",
+    "game-dev-lootlocker"
+  ],
+  "LosslessCut": [
+    "video-losslesscut"
+  ],
+  "Lost Garden": [
+    "game-dev-lost-garden-free-game-graphics"
+  ],
+  "Lost Marble": [
+    "moho"
+  ],
+  "LottieFiles": [
+    "game-dev-extra-lottiefiles"
+  ],
+  "LOVE Development Team": [
+    "game-dev-love2d"
+  ],
+  "Love Life Drawing": [
+    "learning-love-life-drawing"
+  ],
+  "Ludo.ai": [
+    "game-dev-ludo-ai"
+  ],
+  "Ludum Dare": [
+    "game-dev-ludum-dare"
+  ],
+  "Luma AI": [
+    "game-dev-luma-ai"
+  ],
+  "LWKS": [
+    "lightworks"
+  ],
+  "MacDowell": [
+    "grant-macdowell"
+  ],
+  "Machinations": [
+    "game-dev-extra-machinations"
+  ],
+  "MacPaw": [
+    "software-setapp"
+  ],
+  "MAGIX": [
+    "vegas-pro"
+  ],
+  "Magma": [
+    "digital-art-aggie-io",
+    "digital-art-magma"
+  ],
+  "Mango 3D": [
+    "lychee-slicer"
+  ],
+  "Mango Street": [
+    "learning-mango-street"
+  ],
+  "Manitoba Arts Council": [
+    "grant-manitoba-arts-council"
+  ],
+  "ManyBooks": [
+    "books-manybooks"
+  ],
+  "Maptoglobe": [
+    "game-dev-extra-maptoglobe"
+  ],
+  "Marc Brunet": [
+    "learning-marc-brunet"
+  ],
+  "Marco Bucci": [
+    "learning-marco-bucci"
+  ],
+  "Mark Brown": [
+    "game-dev-game-maker-s-toolkit"
+  ],
+  "Mass Cultural Council": [
+    "grant-mass-cultural-council"
+  ],
+  "MasterClass": [
+    "learning-masterclass"
+  ],
+  "Maxon": [
+    "learning-cineversity"
+  ],
+  "McConnell Foundation": [
+    "grant-mcconnell-foundation"
+  ],
+  "Megasploot": [
+    "game-dev-extra-dungeondraft",
+    "game-dev-extra-wonderdraft"
+  ],
+  "Mellon Foundation Arts and Culture": [
+    "grant-mellon-foundation-arts-and-culture"
+  ],
+  "MelonJS": [
+    "game-dev-extra-melonjs"
+  ],
+  "memoQ": [
+    "game-dev-extra-memoq"
+  ],
+  "Memorisely": [
+    "learning-memorisely"
+  ],
+  "Meshtint": [
+    "game-dev-meshtint"
+  ],
+  "Meshy": [
+    "game-dev-meshy"
+  ],
+  "Meta": [
+    "game-dev-extra-meta-quest-developer-center",
+    "learning-meta-blueprint",
+    "web-docusaurus"
+  ],
+  "Metcalf Foundation": [
+    "grant-metcalf-foundation"
+  ],
+  "Metricool": [
+    "marketing-metricool"
+  ],
+  "Microsoft": [
+    "clipchamp",
+    "game-dev-extra-babylon-js",
+    "game-dev-extra-babylon-js-xr",
+    "game-dev-extra-microsoft-app-center-archive",
+    "game-dev-extra-mrtk",
+    "game-dev-extra-playfab-economy",
+    "game-dev-extra-xbox-accessibility-guidelines",
+    "game-dev-id-xbox",
+    "game-dev-playfab",
+    "learning-microsoft-fluent-design",
+    "learning-microsoft-learn-ai"
+  ],
+  "MicroStudio": [
+    "game-dev-extra-microstudio"
+  ],
+  "Mid Atlantic Arts": [
+    "grant-mid-atlantic-arts"
+  ],
+  "Milanote": [
+    "game-dev-extra-milanote"
+  ],
+  "Minnesota State Arts Board": [
+    "grant-minnesota-state-arts-board"
+  ],
+  "Mintlify": [
+    "web-mintlify"
+  ],
+  "Miro": [
+    "game-dev-extra-miro",
+    "miro"
+  ],
+  "Mirror": [
+    "game-dev-mirror-networking"
+  ],
+  "Mississauga Culture Grants": [
+    "grant-mississauga-culture-grants"
+  ],
+  "Mistral AI": [
+    "ai-tools-mistral-le-chat"
+  ],
+  "MIT": [
+    "learning-mit-opencourseware"
+  ],
+  "MITACS Accelerate": [
+    "grant-mitacs-accelerate"
+  ],
+  "Mixing Light": [
+    "learning-mixing-light"
+  ],
+  "Mixpanel": [
+    "game-dev-extra-mixpanel"
+  ],
+  "Mobbin": [
+    "design-mobbin"
+  ],
+  "mod.io": [
+    "game-dev-extra-mod-io",
+    "game-dev-extra-mod-io-analytics"
+  ],
+  "MonoGame Foundation": [
+    "game-dev-monogame"
+  ],
+  "Monoskop": [
+    "books-monoskop"
+  ],
+  "Motion Design School": [
+    "learning-motion-design-school"
+  ],
+  "Move AI": [
+    "game-dev-move-ai"
+  ],
+  "Moz": [
+    "marketing-moz"
+  ],
+  "Mozilla": [
+    "learning-mdn-web-docs"
+  ],
+  "Mozilla Creative Media Awards Archive": [
+    "grant-mozilla-creative-media-awards-archive"
+  ],
+  "MUSICACTION": [
+    "grant-musicaction"
+  ],
+  "MusiCares": [
+    "grant-musicares"
+  ],
+  "Narrative": [
+    "photography-narrative-select"
+  ],
+  "NASA": [
+    "learning-nasa-image-and-video-library"
+  ],
+  "National Endowment for the Arts": [
+    "grant-national-endowment-for-the-arts"
+  ],
+  "National Endowment for the Humanities": [
+    "grant-national-endowment-for-the-humanities"
+  ],
+  "National Film Board Canada Filmmaker Assistance": [
+    "grant-national-film-board-canada-filmmaker-assistance"
+  ],
+  "National Gallery of Art": [
+    "learning-national-gallery-of-art-open-access"
+  ],
+  "National Library of Australia": [
+    "public-domain-trove"
+  ],
+  "NDL": [
+    "public-domain-digital-public-library-of-japan"
+  ],
+  "Neil Patel": [
+    "learning-neil-patel-blog",
+    "marketing-ubersuggest"
+  ],
+  "Nekki": [
+    "cascadeur",
+    "game-dev-cascadeur"
+  ],
+  "NeoAxis Group": [
+    "game-dev-extra-neoaxis-engine"
+  ],
+  "Nesbox": [
+    "game-dev-extra-tic-80"
+  ],
+  "Netlify": [
+    "netlify"
+  ],
+  "NetRadiant": [
+    "game-dev-extra-netradiant"
+  ],
+  "New England Foundation for the Arts": [
+    "grant-new-england-foundation-for-the-arts"
+  ],
+  "NEW INC": [
+    "grant-new-inc"
+  ],
+  "New Masters Academy": [
+    "learning-new-masters-academy"
+  ],
+  "New York Foundation for the Arts": [
+    "grant-new-york-foundation-for-the-arts"
+  ],
+  "New York State Council on the Arts": [
+    "grant-new-york-state-council-on-the-arts"
+  ],
+  "New Zealand Creative Communities Scheme": [
+    "grant-new-zealand-creative-communities-scheme"
+  ],
+  "Niantic": [
+    "game-dev-extra-8th-wall",
+    "game-dev-extra-niantic-lightship"
+  ],
+  "Nicely Done": [
+    "design-nicely-done"
+  ],
+  "Nielsen Norman Group": [
+    "learning-nielsen-norman-group",
+    "learning-nn-g-articles"
+  ],
+  "Nintendo": [
+    "game-dev-nintendo-developer-portal"
+  ],
+  "No Film School": [
+    "learning-no-film-school"
+  ],
+  "Noiiz": [
+    "audio-noiiz"
+  ],
+  "Notion Labs": [
+    "game-dev-extra-notion"
+  ],
+  "Novlr": [
+    "writing-novlr"
+  ],
+  "NP Digital": [
+    "marketing-answerthepublic"
+  ],
+  "Nuclino": [
+    "game-dev-extra-nuclino"
+  ],
+  "Nunavut Arts and Crafts Association": [
+    "grant-nunavut-arts-and-crafts-association"
+  ],
+  "Nuxt": [
+    "web-nuxt"
+  ],
+  "NWT Arts Council": [
+    "grant-nwt-arts-council"
+  ],
+  "OBS Project": [
+    "video-obs-studio"
+  ],
+  "Obsidian": [
+    "writing-obsidian"
+  ],
+  "OH no Type Co.": [
+    "typography-oh-no-type-co"
+  ],
+  "Ohio Arts Council": [
+    "grant-ohio-arts-council"
+  ],
+  "ON1": [
+    "on1-photo-raw"
+  ],
+  "Ondrej Nepozitek": [
+    "game-dev-extra-edgar-pro"
+  ],
+  "Ontario Arts Council": [
+    "grant-ontario-arts-council"
+  ],
+  "Ontario Arts Council Writers' Reserve": [
+    "grant-ontario-arts-council-writers-reserve"
+  ],
+  "Ontario Creates": [
+    "grant-ontario-creates"
+  ],
+  "Ontario Creates Interactive Digital Media Fund": [
+    "grant-ontario-creates-interactive-digital-media-fund"
+  ],
+  "Ontario Music Investment Fund": [
+    "grant-ontario-music-investment-fund"
+  ],
+  "Ontario Trillium Foundation": [
+    "grant-ontario-trillium-foundation"
+  ],
+  "Open 3D Foundation": [
+    "game-dev-o3de"
+  ],
+  "Open Brush": [
+    "game-dev-extra-open-brush"
+  ],
+  "Open Culture": [
+    "learning-open-culture"
+  ],
+  "Open Foundry": [
+    "typography-open-foundry"
+  ],
+  "Open Loot": [
+    "game-dev-extra-open-loot"
+  ],
+  "Open Society Foundations Grants": [
+    "grant-open-society-foundations-grants"
+  ],
+  "OpenAI": [
+    "learning-openai-cookbook"
+  ],
+  "OpenAL": [
+    "game-dev-openal"
+  ],
+  "OpenFL": [
+    "game-dev-extra-openfl"
+  ],
+  "OpenGameArt": [
+    "game-dev-opengameart"
+  ],
+  "OpenRouter": [
+    "ai-tools-openrouter"
+  ],
+  "OpenShot": [
+    "openshot"
+  ],
+  "OpenStax": [
+    "books-openstax"
+  ],
+  "OpenToonz": [
+    "opentoonz"
+  ],
+  "Opera": [
+    "game-dev-gamemaker"
+  ],
+  "Orama Interactive": [
+    "game-dev-pixelorama"
+  ],
+  "OrcaSlicer": [
+    "orcaslicer"
+  ],
+  "Oregon Arts Commission": [
+    "grant-oregon-arts-commission"
+  ],
+  "Ottawa Arts Funding": [
+    "grant-ottawa-arts-funding"
+  ],
+  "Overwolf": [
+    "game-dev-extra-curseforge-for-studios",
+    "game-dev-extra-overwolf"
+  ],
+  "Page Flows": [
+    "design-page-flows"
+  ],
+  "PandaDoc": [
+    "business-pandadoc"
+  ],
+  "Pat Flynn": [
+    "learning-pat-flynn"
+  ],
+  "PatternPad": [
+    "assets-patternpad"
+  ],
+  "Paul Hamlyn Foundation Arts": [
+    "grant-paul-hamlyn-foundation-arts"
+  ],
+  "PayPal": [
+    "paypal"
+  ],
+  "PEI Arts Grants": [
+    "grant-pei-arts-grants"
+  ],
+  "PEN America Writers Emergency Fund": [
+    "grant-pen-america-writers-emergency-fund"
+  ],
+  "Pencil2D": [
+    "pencil2d"
+  ],
+  "Penpot": [
+    "game-dev-extra-penpot"
+  ],
+  "Perforce": [
+    "game-dev-extra-perforce-helix-core"
+  ],
+  "Persistant Studios": [
+    "game-dev-popcornfx"
+  ],
+  "Peter McKinnon": [
+    "learning-peter-mckinnon"
+  ],
+  "Phaser Studio": [
+    "game-dev-phaser"
+  ],
+  "PHLEARN": [
+    "learning-phlearn"
+  ],
+  "Photopea": [
+    "digital-art-vectorpea"
+  ],
+  "Photoshop Training Channel": [
+    "learning-photoshop-training-channel"
+  ],
+  "Phrase": [
+    "game-dev-extra-phrase"
+  ],
+  "Pic-Time": [
+    "photography-pic-time"
+  ],
+  "Pioneer Works Residency": [
+    "grant-pioneer-works-residency"
+  ],
+  "Pirate Software": [
+    "game-dev-pirate-software-game-jam"
+  ],
+  "Piskel": [
+    "game-dev-piskel"
+  ],
+  "Pixarra": [
+    "digital-art-twistedbrush-pro-studio"
+  ],
+  "Pixel Crushers": [
+    "game-dev-extra-dialogue-system-for-unity"
+  ],
+  "Pixel Vision 8": [
+    "game-dev-pixel-vision-8"
+  ],
+  "Pixelatto": [
+    "game-dev-extra-autotilegen"
+  ],
+  "Pixieset": [
+    "photography-pixieset"
+  ],
+  "PiXimperfect": [
+    "learning-piximperfect"
+  ],
+  "Plask": [
+    "game-dev-plask"
+  ],
+  "PlayCanvas": [
+    "game-dev-extra-playcanvas"
+  ],
+  "PlaytestCloud": [
+    "game-dev-extra-playtestcloud"
+  ],
+  "Pluralsight": [
+    "learning-pluralsight"
+  ],
+  "PocketBase": [
+    "game-dev-pocketbase"
+  ],
+  "POEditor": [
+    "game-dev-extra-poeditor"
+  ],
+  "Poetry Foundation Grants": [
+    "grant-poetry-foundation-grants"
+  ],
+  "Poets & Writers Grants and Awards": [
+    "grant-poets-and-writers-grants-and-awards"
+  ],
+  "Pollock-Krasner Foundation": [
+    "grant-pollock-krasner-foundation"
+  ],
+  "Poly Haven": [
+    "game-dev-poly-haven"
+  ],
+  "Polycount": [
+    "game-dev-polycount"
+  ],
+  "Polygon Runway": [
+    "learning-polygon-runway"
+  ],
+  "Polygonflow": [
+    "game-dev-polygonflow"
+  ],
+  "Pragma": [
+    "game-dev-extra-pragma-live-services",
+    "game-dev-pragma"
+  ],
+  "Premiere Gal": [
+    "learning-premiere-gal"
+  ],
+  "PreSonus": [
+    "studio-one"
+  ],
+  "Prince Claus Fund": [
+    "grant-prince-claus-fund"
+  ],
+  "Prix Pictet": [
+    "grant-prix-pictet"
+  ],
+  "ProbableTrain": [
+    "game-dev-extra-dungeon-scrawl"
+  ],
+  "Procedural Worlds": [
+    "game-dev-extra-gaia-pro"
+  ],
+  "Produce Like A Pro": [
+    "learning-produce-like-a-pro"
+  ],
+  "Product Hunt": [
+    "software-product-hunt"
+  ],
+  "Project Gutenberg": [
+    "learning-project-gutenberg"
+  ],
+  "Proko": [
+    "learning-proko"
+  ],
+  "Promethean AI": [
+    "game-dev-promethean-ai"
+  ],
+  "Proposify": [
+    "business-proposify"
+  ],
+  "PRS Foundation": [
+    "grant-prs-foundation"
+  ],
+  "Prusa": [
+    "prusaslicer"
+  ],
+  "PTC": [
+    "game-dev-extra-vuforia"
+  ],
+  "PTW": [
+    "game-dev-extra-ptw"
+  ],
+  "Public Art Archive Opportunities": [
+    "grant-public-art-archive-opportunities"
+  ],
+  "Public Work": [
+    "assets-public-work"
+  ],
+  "Publishing Support Fund": [
+    "grant-publishing-support-fund"
+  ],
+  "Qonversion": [
+    "game-dev-extra-qonversion"
+  ],
+  "QuadSpinner": [
+    "game-dev-extra-gaea"
+  ],
+  "Quickposes": [
+    "learning-quickposes"
+  ],
+  "Quora": [
+    "ai-tools-poe"
+  ],
+  "RADiCAL": [
+    "game-dev-radical"
+  ],
+  "Radio Starmaker Fund": [
+    "grant-radio-starmaker-fund"
+  ],
+  "Railway": [
+    "railway"
+  ],
+  "Rauschenberg Medical Emergency Grants": [
+    "grant-rauschenberg-medical-emergency-grants"
+  ],
+  "Raw Fury": [
+    "game-dev-raw-fury"
+  ],
+  "RawTherapee": [
+    "rawtherapee"
+  ],
+  "Raycast": [
+    "coding-raycast"
+  ],
+  "RBC Foundation Emerging Artists": [
+    "grant-rbc-foundation-emerging-artists"
+  ],
+  "Reallusion": [
+    "game-dev-iclone"
+  ],
+  "Reason Studios": [
+    "reason"
+  ],
+  "Rebelway": [
+    "learning-rebelway"
+  ],
+  "Recording Revolution": [
+    "learning-recording-revolution"
+  ],
+  "Reedsy": [
+    "writing-reedsy-book-editor"
+  ],
+  "Refero": [
+    "design-refero"
+  ],
+  "Reiner": [
+    "game-dev-reiner-s-tilesets"
+  ],
+  "Ren'Py": [
+    "game-dev-ren-py"
+  ],
+  "Render": [
+    "render"
+  ],
+  "Renderhjs": [
+    "game-dev-shoebox"
+  ],
+  "RenderHub": [
+    "game-dev-renderhub"
+  ],
+  "Replicate": [
+    "ai-tools-replicate"
+  ],
+  "Replit": [
+    "coding-replit"
+  ],
+  "Residency Unlimited": [
+    "grant-residency-unlimited"
+  ],
+  "RevenueCat": [
+    "game-dev-extra-revenuecat"
+  ],
+  "Rijksmuseum": [
+    "learning-rijksmuseum-rijksstudio"
+  ],
+  "Ripple Training": [
+    "learning-ripple-training"
+  ],
+  "Rive": [
+    "game-dev-extra-rive",
+    "rive"
+  ],
+  "Roam Research": [
+    "writing-roam-research"
+  ],
+  "Roberto Blake": [
+    "learning-roberto-blake"
+  ],
+  "Rockefeller Foundation Bellagio Center": [
+    "grant-rockefeller-foundation-bellagio-center"
+  ],
+  "Rocket Lawyer": [
+    "business-rocket-lawyer"
+  ],
+  "RodZilla": [
+    "game-dev-material-maker"
+  ],
+  "Rokoko": [
+    "game-dev-rokoko-studio"
+  ],
+  "Rosebud AI": [
+    "game-dev-rosebud-ai"
+  ],
+  "RPG Paper Maker": [
+    "game-dev-extra-rpg-paper-maker"
+  ],
+  "Runway": [
+    "game-dev-runway",
+    "video-runway-video"
+  ],
+  "SaaS Landing Page": [
+    "design-saas-landing-page"
+  ],
+  "SaaSworthy": [
+    "software-saasworthy"
+  ],
+  "SAG-AFTRA Foundation Assistance": [
+    "grant-sag-aftra-foundation-assistance"
+  ],
+  "Same Energy": [
+    "assets-same-energy"
+  ],
+  "Santa Fe Art Institute": [
+    "grant-santa-fe-art-institute"
+  ],
+  "Sauce Labs": [
+    "game-dev-extra-sauce-labs"
+  ],
+  "Savee": [
+    "assets-savee"
+  ],
+  "Scenario": [
+    "game-dev-scenario",
+    "game-dev-scenario-genai-engine"
+  ],
+  "Scene Group": [
+    "cavalry"
+  ],
+  "School of Motion": [
+    "learning-school-of-motion"
+  ],
+  "Schoolism": [
+    "learning-schoolism"
+  ],
+  "Scirra": [
+    "game-dev-construct-3"
+  ],
+  "SciSpace": [
+    "ai-tools-scispace"
+  ],
+  "Scotiabank Photography Award": [
+    "grant-scotiabank-photography-award"
+  ],
+  "Screen Australia": [
+    "grant-screen-australia"
+  ],
+  "Screen Studio": [
+    "video-screen-studio"
+  ],
+  "Scrimba": [
+    "learning-scrimba"
+  ],
+  "Scrnshts": [
+    "design-scrnshts"
+  ],
+  "Sean Barton": [
+    "game-dev-extra-tiled2unity"
+  ],
+  "Sean McCabe": [
+    "learning-sean-mccabe"
+  ],
+  "Sebastian Lague": [
+    "game-dev-sebastian-lague"
+  ],
+  "Secret Lab": [
+    "game-dev-extra-yarn-spinner"
+  ],
+  "Semrush": [
+    "learning-backlinko",
+    "marketing-semrush"
+  ],
+  "Sentry": [
+    "game-dev-extra-sentry"
+  ],
+  "Seth Godin": [
+    "learning-seth-godin-blog"
+  ],
+  "SetHero": [
+    "film-sethero"
+  ],
+  "SFB Games": [
+    "game-dev-chiptone"
+  ],
+  "ShapesXR": [
+    "game-dev-extra-shapesxr"
+  ],
+  "Shiny Frog": [
+    "writing-bear"
+  ],
+  "ShootProof": [
+    "photography-shootproof"
+  ],
+  "Shopify": [
+    "web-remix"
+  ],
+  "Shot Lister": [
+    "film-shot-lister"
+  ],
+  "Shotcut": [
+    "shotcut"
+  ],
+  "ShotDeck": [
+    "assets-shotdeck"
+  ],
+  "Shutter Encoder": [
+    "video-shutter-encoder"
+  ],
+  "SideFX": [
+    "game-dev-extra-houdini-engine-for-unity",
+    "game-dev-extra-houdini-engine-for-unreal",
+    "game-dev-extra-houdini-indie",
+    "game-dev-houdini",
+    "game-dev-houdini-engine",
+    "learning-sidefx-learning"
+  ],
+  "Sinix Design": [
+    "learning-sinix-design"
+  ],
+  "Sir Wade Neistadt": [
+    "learning-sir-wade-neistadt"
+  ],
+  "SK Arts": [
+    "grant-sk-arts"
+  ],
+  "Sketchfab": [
+    "game-dev-sketchfab-store"
+  ],
+  "Skillshare": [
+    "learning-skillshare",
+    "learning-skillshare-illustration"
+  ],
+  "Skowhegan School of Painting and Sculpture": [
+    "grant-skowhegan-school-of-painting-and-sculpture"
+  ],
+  "Skylum": [
+    "luminar-neo"
+  ],
+  "Sloyd": [
+    "game-dev-sloyd"
+  ],
+  "Smartcat": [
+    "game-dev-extra-smartcat"
+  ],
+  "Smashing Magazine": [
+    "learning-smashing-magazine"
+  ],
+  "Smeaf": [
+    "learning-smeaf"
+  ],
+  "Smithsonian": [
+    "learning-smithsonian-open-access"
+  ],
+  "SmugMug": [
+    "photography-smugmug"
+  ],
+  "Snyk": [
+    "coding-snyk"
+  ],
+  "Sobey Art Award": [
+    "grant-sobey-art-award"
+  ],
+  "SOCAN Foundation": [
+    "grant-socan-foundation"
+  ],
+  "Society of Visual Storytelling": [
+    "learning-svs-learn"
+  ],
+  "Socket": [
+    "coding-socket"
+  ],
+  "SoftWeir": [
+    "game-dev-extra-001-game-creator"
+  ],
+  "Solar2D": [
+    "game-dev-solar2d"
+  ],
+  "SonarSource": [
+    "coding-sonarcloud"
+  ],
+  "SonduckFilm": [
+    "learning-sonduckfilm"
+  ],
+  "Sonniss": [
+    "game-dev-sonniss"
+  ],
+  "Sony Interactive Entertainment": [
+    "game-dev-extra-playstation-accessibility-tags",
+    "game-dev-playstation-partners"
+  ],
+  "Sound on Sound": [
+    "learning-sound-on-sound"
+  ],
+  "Soundation": [
+    "audio-soundation"
+  ],
+  "Soundly": [
+    "game-dev-soundly"
+  ],
+  "Sourcegraph": [
+    "coding-sourcegraph"
+  ],
+  "South Arts": [
+    "grant-south-arts"
+  ],
+  "SouthernShotty": [
+    "learning-southernshotty"
+  ],
+  "SparkToro": [
+    "marketing-sparktoro"
+  ],
+  "Splice": [
+    "audio-splice"
+  ],
+  "Spotify": [
+    "audio-soundtrap"
+  ],
+  "Sprite Fusion": [
+    "game-dev-extra-sprite-fusion"
+  ],
+  "Square": [
+    "business-square-appointments"
+  ],
+  "SSHRC": [
+    "grant-sshrc"
+  ],
+  "StackBlitz": [
+    "coding-stackblitz",
+    "stackblitz"
+  ],
+  "Standard Ebooks": [
+    "books-standard-ebooks"
+  ],
+  "Stanford University": [
+    "learning-stanford-online"
+  ],
+  "Starter Story": [
+    "learning-starter-story"
+  ],
+  "Steinberg": [
+    "cubase"
+  ],
+  "Stencyl": [
+    "game-dev-extra-stencyl"
+  ],
+  "Stride3D": [
+    "game-dev-stride"
+  ],
+  "Stripe": [
+    "stripe"
+  ],
+  "StudioBinder": [
+    "film-studiobinder"
+  ],
+  "Stylized Station": [
+    "learning-stylized-station"
+  ],
+  "Sundance Institute Grants": [
+    "grant-sundance-institute-grants"
+  ],
+  "Supabase": [
+    "game-dev-supabase",
+    "supabase"
+  ],
+  "Svelte": [
+    "web-sveltekit"
+  ],
+  "Synfig": [
+    "synfig-studio"
+  ],
+  "Synty Studios": [
+    "game-dev-synty-studios"
+  ],
+  "TAAFT": [
+    "software-there-s-an-ai-for-that"
+  ],
+  "Tapjoy": [
+    "game-dev-extra-tapjoy"
+  ],
+  "Taron": [
+    "digital-art-verve-painter"
+  ],
+  "TD Ready Commitment Arts": [
+    "grant-td-ready-commitment-arts"
+  ],
+  "Team17": [
+    "game-dev-team17"
+  ],
+  "Telefilm Canada": [
+    "grant-telefilm-canada"
+  ],
+  "Terry Cavanagh": [
+    "game-dev-bosca-ceoil"
+  ],
+  "TestRail": [
+    "game-dev-extra-testrail"
+  ],
+  "Texas Commission on the Arts": [
+    "grant-texas-commission-on-the-arts"
+  ],
+  "Textures.World": [
+    "assets-textures-world"
+  ],
+  "The Actors Fund / Entertainment Community Fund": [
+    "grant-the-actors-fund-entertainment-community-fund"
+  ],
+  "The Arctic Circle Residency": [
+    "grant-the-arctic-circle-residency"
+  ],
+  "The Elizabeth Greenshields Foundation": [
+    "grant-the-elizabeth-greenshields-foundation"
+  ],
+  "The Futur": [
+    "learning-chris-do-youtube",
+    "learning-the-futur",
+    "learning-the-futur-academy"
+  ],
+  "The Future of Film is Female": [
+    "grant-the-future-of-film-is-female"
+  ],
+  "The Gotham Film & Media Institute": [
+    "grant-the-gotham-film-and-media-institute"
+  ],
+  "The Metropolitan Museum of Art": [
+    "learning-the-met-open-access"
+  ],
+  "The Net Ninja": [
+    "learning-the-net-ninja"
+  ],
+  "The Odin Project": [
+    "learning-the-odin-project"
+  ],
+  "The Open University": [
+    "learning-openlearn"
+  ],
+  "The Pollination Project": [
+    "grant-the-pollination-project"
+  ],
+  "The Public Domain Review": [
+    "learning-public-domain-review"
+  ],
+  "The Rooms Provincial Art Gallery Residencies": [
+    "grant-the-rooms-provincial-art-gallery-residencies"
+  ],
+  "The VG Resource": [
+    "game-dev-spriter-s-resource"
+  ],
+  "The Writers' Union of Canada": [
+    "grant-the-writers-union-of-canada"
+  ],
+  "Theo Browne": [
+    "learning-theo-t3-gg"
+  ],
+  "Think Media": [
+    "learning-think-media"
+  ],
+  "Thomas Brush": [
+    "game-dev-thomas-brush"
+  ],
+  "three.js": [
+    "game-dev-extra-three-js-webxr"
+  ],
+  "Three.js": [
+    "game-dev-extra-three-js"
+  ],
+  "Tides Canada Foundation": [
+    "grant-tides-canada-foundation"
+  ],
+  "TIFF Talent Development": [
+    "grant-tiff-talent-development"
+  ],
+  "TIGSource": [
+    "game-dev-tigsource"
+  ],
+  "TikTok": [
+    "learning-tiktok-academy"
+  ],
+  "Tiled": [
+    "game-dev-tiled-map-editor"
+  ],
+  "tinyBuild": [
+    "game-dev-tinybuild"
+  ],
+  "Together AI": [
+    "ai-tools-together-ai"
+  ],
+  "Toniko Pantoja": [
+    "learning-toniko-pantoja"
+  ],
+  "Toolfinder": [
+    "software-toolfinder"
+  ],
+  "Toon Boom": [
+    "toon-boom-harmony"
+  ],
+  "Topaz Labs": [
+    "video-topaz-video-ai"
+  ],
+  "Toronto Arts Council": [
+    "grant-toronto-arts-council"
+  ],
+  "Toronto Arts Council Literary Grants": [
+    "grant-toronto-arts-council-literary-grants"
+  ],
+  "Toronto Arts Council Music Grants": [
+    "grant-toronto-arts-council-music-grants"
+  ],
+  "Toronto Arts Foundation Awards": [
+    "grant-toronto-arts-foundation-awards"
+  ],
+  "Tracklib": [
+    "audio-tracklib"
+  ],
+  "Transifex": [
+    "game-dev-extra-transifex"
+  ],
+  "Traversy Media": [
+    "learning-traversy-media"
+  ],
+  "Treehouse": [
+    "learning-treehouse"
+  ],
+  "TrenchBroom": [
+    "game-dev-extra-trenchbroom"
+  ],
+  "Trent Kaniuga": [
+    "learning-trent-kaniuga"
+  ],
+  "Tribeca Film Institute Archive": [
+    "grant-tribeca-film-institute-archive"
+  ],
+  "Tripo AI": [
+    "game-dev-tripo-ai"
+  ],
+  "TurboSquid": [
+    "game-dev-turbosquid"
+  ],
+  "Twine": [
+    "game-dev-extra-twine",
+    "game-dev-twine"
+  ],
+  "TypeTogether": [
+    "typography-typetogether"
+  ],
+  "Typewolf": [
+    "design-typewolf"
+  ],
+  "Udemy": [
+    "learning-udemy"
+  ],
+  "UI8": [
+    "game-dev-extra-ui8-game-ui"
+  ],
+  "UK Games Fund": [
+    "grant-uk-games-fund"
+  ],
+  "Ukramedia": [
+    "learning-ukramedia"
+  ],
+  "UltiMaker": [
+    "ultimaker-cura"
+  ],
+  "Ulysses": [
+    "writing-ulysses"
+  ],
+  "UNESCO International Fund for Cultural Diversity": [
+    "grant-unesco-international-fund-for-cultural-diversity"
+  ],
+  "Unity for Humanity": [
+    "grant-unity-for-humanity"
+  ],
+  "Unity Technologies": [
+    "game-dev-extra-plastic-scm",
+    "game-dev-extra-probuilder",
+    "game-dev-extra-progrids",
+    "game-dev-extra-syncsketch",
+    "game-dev-extra-unity-analytics",
+    "game-dev-extra-unity-cloud-diagnostics",
+    "game-dev-extra-unity-levelplay",
+    "game-dev-extra-unity-localization",
+    "game-dev-extra-unity-xr",
+    "game-dev-netcode-for-gameobjects",
+    "game-dev-unity",
+    "game-dev-unity-asset-store",
+    "game-dev-unity-learn",
+    "game-dev-unity-relay"
+  ],
+  "University of California": [
+    "public-domain-calisphere"
+  ],
+  "University of Helsinki": [
+    "learning-full-stack-open"
+  ],
+  "Urho3D": [
+    "game-dev-extra-urho3d"
+  ],
+  "UserTesting": [
+    "game-dev-extra-usertesting"
+  ],
+  "UX Collective": [
+    "learning-ux-collective"
+  ],
+  "Valve": [
+    "game-dev-extra-hammer-editor",
+    "game-dev-extra-source-2-hammer",
+    "game-dev-extra-steam-playtest",
+    "game-dev-extra-steamvr",
+    "game-dev-steamworks"
+  ],
+  "VEED": [
+    "video-veed"
+  ],
+  "Vercel": [
+    "vercel",
+    "web-next-js"
+  ],
+  "Vermont Studio Center": [
+    "grant-vermont-studio-center"
+  ],
+  "Video Copilot": [
+    "learning-video-copilot-tutorials"
+  ],
+  "W3C": [
+    "game-dev-extra-webxr"
+  ],
+  "Waterloo Region Arts Fund": [
+    "grant-waterloo-region-arts-fund"
+  ],
+  "Watts Atelier": [
+    "learning-watts-atelier-online"
+  ],
+  "Wave": [
+    "wave"
+  ],
+  "Weblate": [
+    "game-dev-extra-weblate"
+  ],
+  "Wellcome Collection": [
+    "learning-wellcome-collection"
+  ],
+  "Wellcome Trust Funding": [
+    "grant-wellcome-trust-funding"
+  ],
+  "Wes Bos": [
+    "learning-wes-bos-courses"
+  ],
+  "Western States Arts Federation": [
+    "grant-western-states-arts-federation"
+  ],
+  "Wikimedia Foundation": [
+    "learning-wikimedia-commons"
+  ],
+  "Windsor ACHF Grant": [
+    "grant-windsor-achf-grant"
+  ],
+  "Winnipeg Arts Council": [
+    "grant-winnipeg-arts-council"
+  ],
+  "Women in Film Finishing Fund": [
+    "grant-women-in-film-finishing-fund"
+  ],
+  "Women Make Movies Production Assistance": [
+    "grant-women-make-movies-production-assistance"
+  ],
+  "World Anvil": [
+    "game-dev-extra-world-anvil"
+  ],
+  "World Machine Software": [
+    "game-dev-extra-world-machine"
+  ],
+  "WriterDuet": [
+    "film-writerduet"
+  ],
+  "Writers' Trust of Canada": [
+    "grant-writers-trust-of-canada"
+  ],
+  "Wysilab": [
+    "game-dev-extra-instant-terra"
+  ],
+  "Xfer Records": [
+    "serum"
+  ],
+  "Xsolla": [
+    "game-dev-extra-xsolla"
+  ],
+  "Yaddo": [
+    "grant-yaddo"
+  ],
+  "Yale University": [
+    "learning-open-yale-courses"
+  ],
+  "Yamdu": [
+    "film-yamdu"
+  ],
+  "YouLearn": [
+    "ai-tools-youlearn"
+  ],
+  "YouTube": [
+    "learning-youtube-creators"
+  ],
+  "Yukon Arts Fund": [
+    "grant-yukon-arts-fund"
+  ],
+  "Zenfolio": [
+    "photography-zenfolio"
+  ],
+  "Zoho": [
+    "business-zoho-books"
+  ]
+}

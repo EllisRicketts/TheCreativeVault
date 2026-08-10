@@ -1,0 +1,567 @@
+[
+  {
+    "id": "game-dev-steamworks",
+    "title": "Steamworks",
+    "shortName": "Steamworks",
+    "company": "Valve",
+    "website": "https://partner.steamgames.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Publishing"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Developer portal for publishing games on Steam.",
+    "longDescription": "Steamworks is included in The Creative Vault as a game development resource. Developer portal for publishing games on Steam.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Publishing",
+      "Steam",
+      "PC"
+    ],
+    "bestFor": [
+      "Publishing",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-epic-games-store-publishing",
+    "title": "Epic Games Store Publishing",
+    "shortName": "Epic Games Store Publishing",
+    "company": "Epic Games",
+    "website": "https://store.epicgames.com/en-US/publish",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Publishing"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Self-service publishing tools for Epic Games Store.",
+    "longDescription": "Epic Games Store Publishing is included in The Creative Vault as a game development resource. Self-service publishing tools for Epic Games Store.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Publishing",
+      "PC",
+      "Store"
+    ],
+    "bestFor": [
+      "Publishing",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-gog-developer-portal",
+    "title": "GOG Developer Portal",
+    "shortName": "GOG Developer Portal",
+    "company": "GOG",
+    "website": "https://www.gog.com/indie",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Publishing"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Developer submission portal for GOG.",
+    "longDescription": "GOG Developer Portal is included in The Creative Vault as a game development resource. Developer submission portal for GOG.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Publishing",
+      "PC",
+      "Store"
+    ],
+    "bestFor": [
+      "Publishing",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-itch-io",
+    "title": "itch.io",
+    "shortName": "itch.io",
+    "company": "itch.io",
+    "website": "https://itch.io/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Publishing"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Open marketplace for indie games, game jams, assets, and tools.",
+    "longDescription": "itch.io is included in The Creative Vault as a game development resource. Open marketplace for indie games, game jams, assets, and tools.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Publishing",
+      "Indie",
+      "Store"
+    ],
+    "bestFor": [
+      "Publishing",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-google-play-console",
+    "title": "Google Play Console",
+    "shortName": "Google Play Console",
+    "company": "Google",
+    "website": "https://play.google.com/console",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Publishing"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Android app and game publishing platform.",
+    "longDescription": "Google Play Console is included in The Creative Vault as a game development resource. Android app and game publishing platform.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Publishing",
+      "Android",
+      "Mobile"
+    ],
+    "bestFor": [
+      "Publishing",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-app-store-connect",
+    "title": "App Store Connect",
+    "shortName": "App Store Connect",
+    "company": "Apple",
+    "website": "https://appstoreconnect.apple.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Publishing"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Apple platform for publishing iOS, iPadOS, macOS, and Apple TV apps and games.",
+    "longDescription": "App Store Connect is included in The Creative Vault as a game development resource. Apple platform for publishing iOS, iPadOS, macOS, and Apple TV apps and games.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Publishing",
+      "iOS",
+      "Mac"
+    ],
+    "bestFor": [
+      "Publishing",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-id-xbox",
+    "title": "ID@Xbox",
+    "shortName": "ID@Xbox",
+    "company": "Microsoft",
+    "website": "https://www.xbox.com/en-US/games/publish/id/welcome",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Publishing"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Xbox independent developer program.",
+    "longDescription": "ID@Xbox is included in The Creative Vault as a game development resource. Xbox independent developer program.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Publishing",
+      "Xbox",
+      "Console"
+    ],
+    "bestFor": [
+      "Publishing",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-playstation-partners",
+    "title": "PlayStation Partners",
+    "shortName": "PlayStation Partners",
+    "company": "Sony Interactive Entertainment",
+    "website": "https://partners.playstation.net/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Publishing"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "PlayStation developer and publisher portal.",
+    "longDescription": "PlayStation Partners is included in The Creative Vault as a game development resource. PlayStation developer and publisher portal.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Publishing",
+      "PlayStation",
+      "Console"
+    ],
+    "bestFor": [
+      "Publishing",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-nintendo-developer-portal",
+    "title": "Nintendo Developer Portal",
+    "shortName": "Nintendo Developer Portal",
+    "company": "Nintendo",
+    "website": "https://developer.nintendo.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Publishing"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Nintendo developer portal for Switch development and publishing.",
+    "longDescription": "Nintendo Developer Portal is included in The Creative Vault as a game development resource. Nintendo developer portal for Switch development and publishing.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Publishing",
+      "Nintendo",
+      "Console"
+    ],
+    "bestFor": [
+      "Publishing",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-humble-games",
+    "title": "Humble Games",
+    "shortName": "Humble Games",
+    "company": "Humble Bundle",
+    "website": "https://www.humblegames.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Publishing"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Indie game publisher and distribution partner.",
+    "longDescription": "Humble Games is included in The Creative Vault as a game development resource. Indie game publisher and distribution partner.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Publishing",
+      "Publisher"
+    ],
+    "bestFor": [
+      "Publishing",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-kowloon-nights",
+    "title": "Kowloon Nights",
+    "shortName": "Kowloon Nights",
+    "company": "Kowloon Nights",
+    "website": "https://www.kowloonnights.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Publishing"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Video game investment fund and publishing partner for independent developers.",
+    "longDescription": "Kowloon Nights is included in The Creative Vault as a game development resource. Video game investment fund and publishing partner for independent developers.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Publishing",
+      "Funding",
+      "Publisher"
+    ],
+    "bestFor": [
+      "Publishing",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-raw-fury",
+    "title": "Raw Fury",
+    "shortName": "Raw Fury",
+    "company": "Raw Fury",
+    "website": "https://rawfury.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Publishing"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Indie game publisher.",
+    "longDescription": "Raw Fury is included in The Creative Vault as a game development resource. Indie game publisher.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Publishing",
+      "Publisher"
+    ],
+    "bestFor": [
+      "Publishing",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-devolver-digital",
+    "title": "Devolver Digital",
+    "shortName": "Devolver Digital",
+    "company": "Devolver Digital",
+    "website": "https://www.devolverdigital.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Publishing"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Indie game publisher.",
+    "longDescription": "Devolver Digital is included in The Creative Vault as a game development resource. Indie game publisher.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Publishing",
+      "Publisher"
+    ],
+    "bestFor": [
+      "Publishing",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-team17",
+    "title": "Team17",
+    "shortName": "Team17",
+    "company": "Team17",
+    "website": "https://www.team17.com/submit-your-game/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Publishing"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Game publisher and developer with submission opportunities.",
+    "longDescription": "Team17 is included in The Creative Vault as a game development resource. Game publisher and developer with submission opportunities.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Publishing",
+      "Publisher"
+    ],
+    "bestFor": [
+      "Publishing",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-tinybuild",
+    "title": "TinyBuild",
+    "shortName": "TinyBuild",
+    "company": "tinyBuild",
+    "website": "https://www.tinybuild.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Publishing"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Indie game publisher and developer.",
+    "longDescription": "TinyBuild is included in The Creative Vault as a game development resource. Indie game publisher and developer.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Publishing",
+      "Publisher"
+    ],
+    "bestFor": [
+      "Publishing",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

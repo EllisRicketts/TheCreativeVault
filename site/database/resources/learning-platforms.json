@@ -1,0 +1,762 @@
+[
+  {
+    "id": "learning-skillshare",
+    "title": "Skillshare",
+    "shortName": "Skillshare",
+    "company": "Skillshare",
+    "website": "https://www.skillshare.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Course Platform"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Creative learning platform with classes in illustration, design, photography, business, and more.",
+    "longDescription": "Skillshare is included in The Creative Vault as a learning resource. Creative learning platform with classes in illustration, design, photography, business, and more.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Learning",
+      "Course Platform",
+      "Courses",
+      "Creative"
+    ],
+    "bestFor": [
+      "Course Platform",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-udemy",
+    "title": "Udemy",
+    "shortName": "Udemy",
+    "company": "Udemy",
+    "website": "https://www.udemy.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Course Platform"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Large course marketplace covering design, development, business, art, marketing, and software.",
+    "longDescription": "Udemy is included in The Creative Vault as a learning resource. Large course marketplace covering design, development, business, art, marketing, and software.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Learning",
+      "Course Platform",
+      "Courses",
+      "Marketplace"
+    ],
+    "bestFor": [
+      "Course Platform",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-coursera",
+    "title": "Coursera",
+    "shortName": "Coursera",
+    "company": "Coursera",
+    "website": "https://www.coursera.org/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Course Platform"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Online learning platform with university and company courses.",
+    "longDescription": "Coursera is included in The Creative Vault as a learning resource. Online learning platform with university and company courses.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Learning",
+      "Course Platform",
+      "Courses",
+      "University"
+    ],
+    "bestFor": [
+      "Course Platform",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-edx",
+    "title": "edX",
+    "shortName": "edX",
+    "company": "edX",
+    "website": "https://www.edx.org/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Course Platform"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Online courses from universities and institutions.",
+    "longDescription": "edX is included in The Creative Vault as a learning resource. Online courses from universities and institutions.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Learning",
+      "Course Platform",
+      "Courses",
+      "University"
+    ],
+    "bestFor": [
+      "Course Platform",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-domestika",
+    "title": "Domestika",
+    "shortName": "Domestika",
+    "company": "Domestika",
+    "website": "https://www.domestika.org/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Course Platform"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Creative course marketplace for art, design, craft, illustration, photography, and business.",
+    "longDescription": "Domestika is included in The Creative Vault as a learning resource. Creative course marketplace for art, design, craft, illustration, photography, and business.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Learning",
+      "Course Platform",
+      "Creative",
+      "Courses"
+    ],
+    "bestFor": [
+      "Course Platform",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-linkedin-learning",
+    "title": "LinkedIn Learning",
+    "shortName": "LinkedIn Learning",
+    "company": "LinkedIn",
+    "website": "https://www.linkedin.com/learning/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Course Platform"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Professional learning platform for business, design, software, and creative skills.",
+    "longDescription": "LinkedIn Learning is included in The Creative Vault as a learning resource. Professional learning platform for business, design, software, and creative skills.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Learning",
+      "Course Platform",
+      "Professional",
+      "Courses"
+    ],
+    "bestFor": [
+      "Course Platform",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-creativelive",
+    "title": "CreativeLive",
+    "shortName": "CreativeLive",
+    "company": "CreativeLive",
+    "website": "https://www.creativelive.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Course Platform"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Creative education platform for photography, design, business, audio, and craft.",
+    "longDescription": "CreativeLive is included in The Creative Vault as a learning resource. Creative education platform for photography, design, business, audio, and craft.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Learning",
+      "Course Platform",
+      "Creative",
+      "Photography"
+    ],
+    "bestFor": [
+      "Course Platform",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-masterclass",
+    "title": "MasterClass",
+    "shortName": "MasterClass",
+    "company": "MasterClass",
+    "website": "https://www.masterclass.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Course Platform"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Celebrity-led courses across creative, business, writing, film, music, and lifestyle topics.",
+    "longDescription": "MasterClass is included in The Creative Vault as a learning resource. Celebrity-led courses across creative, business, writing, film, music, and lifestyle topics.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Learning",
+      "Course Platform",
+      "Creative",
+      "Writing"
+    ],
+    "bestFor": [
+      "Course Platform",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-pluralsight",
+    "title": "Pluralsight",
+    "shortName": "Pluralsight",
+    "company": "Pluralsight",
+    "website": "https://www.pluralsight.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Course Platform"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Technology learning platform for software, IT, data, cloud, and creative tech skills.",
+    "longDescription": "Pluralsight is included in The Creative Vault as a learning resource. Technology learning platform for software, IT, data, cloud, and creative tech skills.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Learning",
+      "Course Platform",
+      "Tech",
+      "Development"
+    ],
+    "bestFor": [
+      "Course Platform",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-treehouse",
+    "title": "Treehouse",
+    "shortName": "Treehouse",
+    "company": "Treehouse",
+    "website": "https://teamtreehouse.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Course Platform"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Coding and web development learning platform.",
+    "longDescription": "Treehouse is included in The Creative Vault as a learning resource. Coding and web development learning platform.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Learning",
+      "Course Platform",
+      "Coding",
+      "Web"
+    ],
+    "bestFor": [
+      "Course Platform",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-codecademy",
+    "title": "Codecademy",
+    "shortName": "Codecademy",
+    "company": "Codecademy",
+    "website": "https://www.codecademy.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Course Platform"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Interactive coding learning platform.",
+    "longDescription": "Codecademy is included in The Creative Vault as a learning resource. Interactive coding learning platform.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Learning",
+      "Course Platform",
+      "Coding",
+      "Interactive"
+    ],
+    "bestFor": [
+      "Course Platform",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-freecodecamp",
+    "title": "freeCodeCamp",
+    "shortName": "freeCodeCamp",
+    "company": "freeCodeCamp",
+    "website": "https://www.freecodecamp.org/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Course Platform"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Free coding curriculum and certificates for web development and programming.",
+    "longDescription": "freeCodeCamp is included in The Creative Vault as a learning resource. Free coding curriculum and certificates for web development and programming.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Course Platform",
+      "Coding",
+      "Free"
+    ],
+    "bestFor": [
+      "Course Platform",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": true,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-khan-academy",
+    "title": "Khan Academy",
+    "shortName": "Khan Academy",
+    "company": "Khan Academy",
+    "website": "https://www.khanacademy.org/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Course Platform"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Free education platform for math, science, arts, economics, computing, and more.",
+    "longDescription": "Khan Academy is included in The Creative Vault as a learning resource. Free education platform for math, science, arts, economics, computing, and more.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Course Platform",
+      "Free",
+      "General"
+    ],
+    "bestFor": [
+      "Course Platform",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-mit-opencourseware",
+    "title": "MIT OpenCourseWare",
+    "shortName": "MIT OpenCourseWare",
+    "company": "MIT",
+    "website": "https://ocw.mit.edu/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Course Platform"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Free MIT course materials across technology, science, arts, humanities, and more.",
+    "longDescription": "MIT OpenCourseWare is included in The Creative Vault as a learning resource. Free MIT course materials across technology, science, arts, humanities, and more.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Course Platform",
+      "University",
+      "Free"
+    ],
+    "bestFor": [
+      "Course Platform",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-stanford-online",
+    "title": "Stanford Online",
+    "shortName": "Stanford Online",
+    "company": "Stanford University",
+    "website": "https://online.stanford.edu/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Course Platform"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Online courses and programs from Stanford.",
+    "longDescription": "Stanford Online is included in The Creative Vault as a learning resource. Online courses and programs from Stanford.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Learning",
+      "Course Platform",
+      "University",
+      "Professional"
+    ],
+    "bestFor": [
+      "Course Platform",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-open-yale-courses",
+    "title": "Open Yale Courses",
+    "shortName": "Open Yale Courses",
+    "company": "Yale University",
+    "website": "https://oyc.yale.edu/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Course Platform"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Free access to selected Yale courses.",
+    "longDescription": "Open Yale Courses is included in The Creative Vault as a learning resource. Free access to selected Yale courses.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Course Platform",
+      "University",
+      "Free"
+    ],
+    "bestFor": [
+      "Course Platform",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-harvard-online-learning",
+    "title": "Harvard Online Learning",
+    "shortName": "Harvard Online Learning",
+    "company": "Harvard University",
+    "website": "https://pll.harvard.edu/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Course Platform"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Online courses and programs from Harvard.",
+    "longDescription": "Harvard Online Learning is included in The Creative Vault as a learning resource. Online courses and programs from Harvard.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Learning",
+      "Course Platform",
+      "University",
+      "Professional"
+    ],
+    "bestFor": [
+      "Course Platform",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-futurelearn",
+    "title": "FutureLearn",
+    "shortName": "FutureLearn",
+    "company": "FutureLearn",
+    "website": "https://www.futurelearn.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Course Platform"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Online courses from universities and organizations.",
+    "longDescription": "FutureLearn is included in The Creative Vault as a learning resource. Online courses from universities and organizations.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Learning",
+      "Course Platform",
+      "Courses",
+      "University"
+    ],
+    "bestFor": [
+      "Course Platform",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-alison",
+    "title": "Alison",
+    "shortName": "Alison",
+    "company": "Alison",
+    "website": "https://alison.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Course Platform"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Free online courses and certificates across professional skills.",
+    "longDescription": "Alison is included in The Creative Vault as a learning resource. Free online courses and certificates across professional skills.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Learning",
+      "Course Platform",
+      "Free",
+      "Certificates"
+    ],
+    "bestFor": [
+      "Course Platform",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-openlearn",
+    "title": "OpenLearn",
+    "shortName": "OpenLearn",
+    "company": "The Open University",
+    "website": "https://www.open.edu/openlearn/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Course Platform"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Free learning platform from The Open University.",
+    "longDescription": "OpenLearn is included in The Creative Vault as a learning resource. Free learning platform from The Open University.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "Course Platform",
+      "Free",
+      "University"
+    ],
+    "bestFor": [
+      "Course Platform",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

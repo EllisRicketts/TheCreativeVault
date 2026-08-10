@@ -1,0 +1,982 @@
+[
+  {
+    "id": "essential-google-fonts",
+    "title": "Google Fonts",
+    "shortName": "Google Fonts",
+    "company": "Google",
+    "website": "https://fonts.google.com/",
+    "category": "Typography",
+    "categoryId": "typography",
+    "categories": [
+      "Typography",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "typography",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Typography",
+    "subcategories": [
+      "Free Fonts",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Open-source font library.",
+    "longDescription": "Google Fonts is included in The Creative Vault Creative Essentials Pack. Open-source font library.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Typography",
+      "Free Fonts",
+      "Fonts"
+    ],
+    "bestFor": [
+      "Free Fonts",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-fontshare",
+    "title": "Fontshare",
+    "shortName": "Fontshare",
+    "company": "Indian Type Foundry",
+    "website": "https://www.fontshare.com/",
+    "category": "Typography",
+    "categoryId": "typography",
+    "categories": [
+      "Typography",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "typography",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Typography",
+    "subcategories": [
+      "Free Fonts",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free fonts from Indian Type Foundry.",
+    "longDescription": "Fontshare is included in The Creative Vault Creative Essentials Pack. Free fonts from Indian Type Foundry.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Typography",
+      "Free Fonts",
+      "Fonts"
+    ],
+    "bestFor": [
+      "Free Fonts",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-velvetyne",
+    "title": "Velvetyne",
+    "shortName": "Velvetyne",
+    "company": "Velvetyne Type Foundry",
+    "website": "https://velvetyne.fr/",
+    "category": "Typography",
+    "categoryId": "typography",
+    "categories": [
+      "Typography",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "typography",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Typography",
+    "subcategories": [
+      "Free Fonts",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Open-source type foundry.",
+    "longDescription": "Velvetyne is included in The Creative Vault Creative Essentials Pack. Open-source type foundry.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Typography",
+      "Free Fonts",
+      "Fonts"
+    ],
+    "bestFor": [
+      "Free Fonts",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-open-foundry",
+    "title": "Open Foundry",
+    "shortName": "Open Foundry",
+    "company": "Open Foundry",
+    "website": "https://open-foundry.com/",
+    "category": "Typography",
+    "categoryId": "typography",
+    "categories": [
+      "Typography",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "typography",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Typography",
+    "subcategories": [
+      "Free Fonts",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Curated open-source fonts.",
+    "longDescription": "Open Foundry is included in The Creative Vault Creative Essentials Pack. Curated open-source fonts.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Typography",
+      "Free Fonts",
+      "Fonts"
+    ],
+    "bestFor": [
+      "Free Fonts",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-collletttivo",
+    "title": "Collletttivo",
+    "shortName": "Collletttivo",
+    "company": "Collletttivo",
+    "website": "https://www.collletttivo.it/",
+    "category": "Typography",
+    "categoryId": "typography",
+    "categories": [
+      "Typography",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "typography",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Typography",
+    "subcategories": [
+      "Free Fonts",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free and open-source typefaces.",
+    "longDescription": "Collletttivo is included in The Creative Vault Creative Essentials Pack. Free and open-source typefaces.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Typography",
+      "Free Fonts",
+      "Fonts"
+    ],
+    "bestFor": [
+      "Free Fonts",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-font-library",
+    "title": "Font Library",
+    "shortName": "Font Library",
+    "company": "Font Library",
+    "website": "https://fontlibrary.org/",
+    "category": "Typography",
+    "categoryId": "typography",
+    "categories": [
+      "Typography",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "typography",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Typography",
+    "subcategories": [
+      "Free Fonts",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free libre font library.",
+    "longDescription": "Font Library is included in The Creative Vault Creative Essentials Pack. Free libre font library.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Typography",
+      "Free Fonts",
+      "Fonts"
+    ],
+    "bestFor": [
+      "Free Fonts",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-bunny-fonts",
+    "title": "Bunny Fonts",
+    "shortName": "Bunny Fonts",
+    "company": "Bunny.net",
+    "website": "https://fonts.bunny.net/",
+    "category": "Typography",
+    "categoryId": "typography",
+    "categories": [
+      "Typography",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "typography",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Typography",
+    "subcategories": [
+      "Free Fonts",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Privacy-friendly Google Fonts alternative.",
+    "longDescription": "Bunny Fonts is included in The Creative Vault Creative Essentials Pack. Privacy-friendly Google Fonts alternative.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Typography",
+      "Free Fonts",
+      "Fonts"
+    ],
+    "bestFor": [
+      "Free Fonts",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-fontpair",
+    "title": "Fontpair",
+    "shortName": "Fontpair",
+    "company": "Fontpair",
+    "website": "https://www.fontpair.co/",
+    "category": "Typography",
+    "categoryId": "typography",
+    "categories": [
+      "Typography",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "typography",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Typography",
+    "subcategories": [
+      "Font Pairing",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free font pairing inspiration.",
+    "longDescription": "Fontpair is included in The Creative Vault Creative Essentials Pack. Free font pairing inspiration.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Typography",
+      "Font Pairing",
+      "Fonts"
+    ],
+    "bestFor": [
+      "Font Pairing",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-type-scale",
+    "title": "Type Scale",
+    "shortName": "Type Scale",
+    "company": "Jeremy Church",
+    "website": "https://typescale.com/",
+    "category": "Typography",
+    "categoryId": "typography",
+    "categories": [
+      "Typography",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "typography",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Typography",
+    "subcategories": [
+      "Type Scale",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Visual type scale calculator.",
+    "longDescription": "Type Scale is included in The Creative Vault Creative Essentials Pack. Visual type scale calculator.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Typography",
+      "Type Scale",
+      "Typography"
+    ],
+    "bestFor": [
+      "Type Scale",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-modular-scale",
+    "title": "Modular Scale",
+    "shortName": "Modular Scale",
+    "company": "Scott Kellum and Tim Brown",
+    "website": "https://www.modularscale.com/",
+    "category": "Typography",
+    "categoryId": "typography",
+    "categories": [
+      "Typography",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "typography",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Typography",
+    "subcategories": [
+      "Type Scale",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Generate modular typographic scales.",
+    "longDescription": "Modular Scale is included in The Creative Vault Creative Essentials Pack. Generate modular typographic scales.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Typography",
+      "Type Scale",
+      "Typography"
+    ],
+    "bestFor": [
+      "Type Scale",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-fontjoy",
+    "title": "Fontjoy",
+    "shortName": "Fontjoy",
+    "company": "Fontjoy",
+    "website": "https://fontjoy.com/",
+    "category": "Typography",
+    "categoryId": "typography",
+    "categories": [
+      "Typography",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "typography",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Typography",
+    "subcategories": [
+      "Font Pairing",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "AI-assisted font pairing tool.",
+    "longDescription": "Fontjoy is included in The Creative Vault Creative Essentials Pack. AI-assisted font pairing tool.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Typography",
+      "Font Pairing",
+      "Fonts"
+    ],
+    "bestFor": [
+      "Font Pairing",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-font-awesome-free",
+    "title": "Font Awesome Free",
+    "shortName": "Font Awesome Free",
+    "company": "Fonticons",
+    "website": "https://fontawesome.com/",
+    "category": "Icons",
+    "categoryId": "icons",
+    "categories": [
+      "Icons",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "icons",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Icons",
+    "subcategories": [
+      "Icons",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free icon library and toolkit.",
+    "longDescription": "Font Awesome Free is included in The Creative Vault Creative Essentials Pack. Free icon library and toolkit.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Icons",
+      "Icons",
+      "Icons"
+    ],
+    "bestFor": [
+      "Icons",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-heroicons",
+    "title": "Heroicons",
+    "shortName": "Heroicons",
+    "company": "Tailwind Labs",
+    "website": "https://heroicons.com/",
+    "category": "Icons",
+    "categoryId": "icons",
+    "categories": [
+      "Icons",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "icons",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Icons",
+    "subcategories": [
+      "Icons",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free SVG icons from Tailwind Labs.",
+    "longDescription": "Heroicons is included in The Creative Vault Creative Essentials Pack. Free SVG icons from Tailwind Labs.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Icons",
+      "Icons",
+      "Icons"
+    ],
+    "bestFor": [
+      "Icons",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-lucide",
+    "title": "Lucide",
+    "shortName": "Lucide",
+    "company": "Lucide",
+    "website": "https://lucide.dev/",
+    "category": "Icons",
+    "categoryId": "icons",
+    "categories": [
+      "Icons",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "icons",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Icons",
+    "subcategories": [
+      "Icons",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Open-source icon library.",
+    "longDescription": "Lucide is included in The Creative Vault Creative Essentials Pack. Open-source icon library.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Icons",
+      "Icons",
+      "Icons"
+    ],
+    "bestFor": [
+      "Icons",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-tabler-icons",
+    "title": "Tabler Icons",
+    "shortName": "Tabler Icons",
+    "company": "Tabler",
+    "website": "https://tabler.io/icons",
+    "category": "Icons",
+    "categoryId": "icons",
+    "categories": [
+      "Icons",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "icons",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Icons",
+    "subcategories": [
+      "Icons",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free open-source SVG icon library.",
+    "longDescription": "Tabler Icons is included in The Creative Vault Creative Essentials Pack. Free open-source SVG icon library.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Icons",
+      "Icons",
+      "Icons"
+    ],
+    "bestFor": [
+      "Icons",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-phosphor-icons",
+    "title": "Phosphor Icons",
+    "shortName": "Phosphor Icons",
+    "company": "Phosphor",
+    "website": "https://phosphoricons.com/",
+    "category": "Icons",
+    "categoryId": "icons",
+    "categories": [
+      "Icons",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "icons",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Icons",
+    "subcategories": [
+      "Icons",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Flexible icon family for interfaces.",
+    "longDescription": "Phosphor Icons is included in The Creative Vault Creative Essentials Pack. Flexible icon family for interfaces.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Icons",
+      "Icons",
+      "Icons"
+    ],
+    "bestFor": [
+      "Icons",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-remix-icon",
+    "title": "Remix Icon",
+    "shortName": "Remix Icon",
+    "company": "Remix Design",
+    "website": "https://remixicon.com/",
+    "category": "Icons",
+    "categoryId": "icons",
+    "categories": [
+      "Icons",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "icons",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Icons",
+    "subcategories": [
+      "Icons",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Open-source neutral-style icon library.",
+    "longDescription": "Remix Icon is included in The Creative Vault Creative Essentials Pack. Open-source neutral-style icon library.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Icons",
+      "Icons",
+      "Icons"
+    ],
+    "bestFor": [
+      "Icons",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-material-symbols",
+    "title": "Material Symbols",
+    "shortName": "Material Symbols",
+    "company": "Google",
+    "website": "https://fonts.google.com/icons",
+    "category": "Icons",
+    "categoryId": "icons",
+    "categories": [
+      "Icons",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "icons",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Icons",
+    "subcategories": [
+      "Icons",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Google's Material icon library.",
+    "longDescription": "Material Symbols is included in The Creative Vault Creative Essentials Pack. Google's Material icon library.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Icons",
+      "Icons",
+      "Icons"
+    ],
+    "bestFor": [
+      "Icons",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-bootstrap-icons",
+    "title": "Bootstrap Icons",
+    "shortName": "Bootstrap Icons",
+    "company": "Bootstrap",
+    "website": "https://icons.getbootstrap.com/",
+    "category": "Icons",
+    "categoryId": "icons",
+    "categories": [
+      "Icons",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "icons",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Icons",
+    "subcategories": [
+      "Icons",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free open-source SVG icon library from Bootstrap.",
+    "longDescription": "Bootstrap Icons is included in The Creative Vault Creative Essentials Pack. Free open-source SVG icon library from Bootstrap.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Icons",
+      "Icons",
+      "Icons"
+    ],
+    "bestFor": [
+      "Icons",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-simple-icons",
+    "title": "Simple Icons",
+    "shortName": "Simple Icons",
+    "company": "Simple Icons",
+    "website": "https://simpleicons.org/",
+    "category": "Icons",
+    "categoryId": "icons",
+    "categories": [
+      "Icons",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "icons",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Icons",
+    "subcategories": [
+      "Brand Icons",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free SVG icons for popular brands.",
+    "longDescription": "Simple Icons is included in The Creative Vault Creative Essentials Pack. Free SVG icons for popular brands.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Icons",
+      "Brand Icons",
+      "Icons"
+    ],
+    "bestFor": [
+      "Brand Icons",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

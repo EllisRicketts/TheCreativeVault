@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>The Creative Vault Database Compiler</title>
+  <style>
+    body {
+      margin: 0;
+      background: #050505;
+      color: #fff;
+      font-family: Arial, Helvetica, sans-serif;
+      padding: 40px;
+    }
+
+    .wrap {
+      max-width: 900px;
+      margin: 0 auto;
+      border: 1px solid rgba(255,122,0,.45);
+      border-radius: 24px;
+      padding: 30px;
+      background: #101012;
+    }
+
+    h1 {
+      color: #ff7a00;
+      text-transform: uppercase;
+      letter-spacing: -0.04em;
+      font-size: 44px;
+      line-height: .9;
+      margin: 0 0 14px;
+    }
+
+    p, li {
+      color: #c7c7c7;
+      line-height: 1.55;
+    }
+
+    code {
+      background: #000;
+      color: #ff7a00;
+      padding: 3px 6px;
+      border-radius: 6px;
+    }
+
+    .box {
+      border: 1px solid rgba(255,255,255,.12);
+      border-radius: 16px;
+      padding: 18px;
+      margin: 18px 0;
+      background: rgba(255,255,255,.04);
+    }
+
+    button {
+      background: #ff7a00;
+      color: #000;
+      border: 0;
+      border-radius: 10px;
+      padding: 14px 18px;
+      font-weight: 900;
+      text-transform: uppercase;
+      cursor: pointer;
+    }
+
+    textarea {
+      width: 100%;
+      min-height: 260px;
+      background: #000;
+      color: #fff;
+      border: 1px solid rgba(255,255,255,.18);
+      border-radius: 12px;
+      padding: 14px;
+      margin-top: 14px;
+      font-family: monospace;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="wrap">
+    <h1>Database Compiler</h1>
+
+    <p>
+      This browser page explains the compiler workflow. The real compiler is:
+      <code>tools/compile-database.js</code>
+    </p>
+
+    <div class="box">
+      <h2>Recommended Method</h2>
+      <ol>
+        <li>Install Node.js.</li>
+        <li>Open Terminal / Command Prompt inside your project folder.</li>
+        <li>Run: <code>node tools/compile-database.js</code></li>
+        <li>It creates: <code>data/generated-resources.js</code></li>
+        <li>Open <code>index.html</code> and your resource count should include compiled JSON resources.</li>
+      </ol>
+    </div>
+
+    <div class="box">
+      <h2>Future Update Workflow</h2>
+      <ol>
+        <li>Add new JSON files inside <code>database/resources/</code> or <code>database/assets/</code>.</li>
+        <li>Run the compiler.</li>
+        <li>Upload/replace only <code>data/generated-resources.js</code> and any changed JSON files.</li>
+      </ol>
+    </div>
+
+    <button onclick="copyCommand()">Copy Compile Command</button>
+
+    <textarea id="cmd" readonly>node tools/compile-database.js</textarea>
+  </div>
+
+  <script>
+    function copyCommand() {
+      const cmd = document.getElementById("cmd");
+      cmd.select();
+      document.execCommand("copy");
+      alert("Command copied.");
+    }
+  </script>
+</body>
+</html>

@@ -1,0 +1,763 @@
+[
+  {
+    "id": "game-dev-extra-perforce-helix-core",
+    "title": "Perforce Helix Core",
+    "shortName": "Perforce Helix Core",
+    "company": "Perforce",
+    "website": "https://www.perforce.com/products/helix-core",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Production and Collaboration"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Version control platform widely used in game development for large binary assets.",
+    "longDescription": "Perforce Helix Core is included in The Creative Vault as a game development resource. Version control platform widely used in game development for large binary assets.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Production and Collaboration",
+      "Version Control"
+    ],
+    "bestFor": [
+      "Production and Collaboration",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-plastic-scm",
+    "title": "Plastic SCM",
+    "shortName": "Plastic SCM",
+    "company": "Unity Technologies",
+    "website": "https://unity.com/solutions/version-control",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Production and Collaboration"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Version control system for game development now Unity Version Control.",
+    "longDescription": "Plastic SCM is included in The Creative Vault as a game development resource. Version control system for game development now Unity Version Control.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Production and Collaboration",
+      "Version Control",
+      "Unity"
+    ],
+    "bestFor": [
+      "Production and Collaboration",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-git-lfs",
+    "title": "Git LFS",
+    "shortName": "Git LFS",
+    "company": "GitHub",
+    "website": "https://git-lfs.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Production and Collaboration"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Git extension for versioning large files used in game projects.",
+    "longDescription": "Git LFS is included in The Creative Vault as a game development resource. Git extension for versioning large files used in game projects.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Production and Collaboration",
+      "Git",
+      "Large Files"
+    ],
+    "bestFor": [
+      "Production and Collaboration",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": true,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-github",
+    "title": "GitHub",
+    "shortName": "GitHub",
+    "company": "GitHub",
+    "website": "https://github.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Production and Collaboration"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Code hosting and collaboration platform for game projects.",
+    "longDescription": "GitHub is included in The Creative Vault as a game development resource. Code hosting and collaboration platform for game projects.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Production and Collaboration",
+      "Git",
+      "Code"
+    ],
+    "bestFor": [
+      "Production and Collaboration",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser",
+      "Windows",
+      "Mac"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-gitlab",
+    "title": "GitLab",
+    "shortName": "GitLab",
+    "company": "GitLab",
+    "website": "https://about.gitlab.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Production and Collaboration"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "DevOps and repository platform for game and software teams.",
+    "longDescription": "GitLab is included in The Creative Vault as a game development resource. DevOps and repository platform for game and software teams.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Production and Collaboration",
+      "Git",
+      "DevOps"
+    ],
+    "bestFor": [
+      "Production and Collaboration",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-bitbucket",
+    "title": "Bitbucket",
+    "shortName": "Bitbucket",
+    "company": "Atlassian",
+    "website": "https://bitbucket.org/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Production and Collaboration"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Git repository hosting and team collaboration platform.",
+    "longDescription": "Bitbucket is included in The Creative Vault as a game development resource. Git repository hosting and team collaboration platform.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Production and Collaboration",
+      "Git"
+    ],
+    "bestFor": [
+      "Production and Collaboration",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-fork",
+    "title": "Fork",
+    "shortName": "Fork",
+    "company": "Fork",
+    "website": "https://git-fork.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Production and Collaboration"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Fast Git client for Mac and Windows.",
+    "longDescription": "Fork is included in The Creative Vault as a game development resource. Fast Git client for Mac and Windows.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Production and Collaboration",
+      "Git Client"
+    ],
+    "bestFor": [
+      "Production and Collaboration",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-gitkraken",
+    "title": "GitKraken",
+    "shortName": "GitKraken",
+    "company": "GitKraken",
+    "website": "https://www.gitkraken.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Production and Collaboration"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Git client and collaboration tools.",
+    "longDescription": "GitKraken is included in The Creative Vault as a game development resource. Git client and collaboration tools.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Production and Collaboration",
+      "Git Client"
+    ],
+    "bestFor": [
+      "Production and Collaboration",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-sourcetree",
+    "title": "Sourcetree",
+    "shortName": "Sourcetree",
+    "company": "Atlassian",
+    "website": "https://www.sourcetreeapp.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Production and Collaboration"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Free Git GUI client.",
+    "longDescription": "Sourcetree is included in The Creative Vault as a game development resource. Free Git GUI client.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Production and Collaboration",
+      "Git Client"
+    ],
+    "bestFor": [
+      "Production and Collaboration",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-anchorpoint",
+    "title": "Anchorpoint",
+    "shortName": "Anchorpoint",
+    "company": "Anchorpoint",
+    "website": "https://www.anchorpoint.app/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Production and Collaboration"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Version control and asset management for artists and game teams.",
+    "longDescription": "Anchorpoint is included in The Creative Vault as a game development resource. Version control and asset management for artists and game teams.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Production and Collaboration",
+      "Version Control",
+      "Artists"
+    ],
+    "bestFor": [
+      "Production and Collaboration",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-kitsu",
+    "title": "Kitsu",
+    "shortName": "Kitsu",
+    "company": "CGWire",
+    "website": "https://www.cg-wire.com/kitsu",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Production and Collaboration"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Open production tracking for animation and game art pipelines.",
+    "longDescription": "Kitsu is included in The Creative Vault as a game development resource. Open production tracking for animation and game art pipelines.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Production and Collaboration",
+      "Production Tracking"
+    ],
+    "bestFor": [
+      "Production and Collaboration",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": true,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-shotgrid",
+    "title": "ShotGrid",
+    "shortName": "ShotGrid",
+    "company": "Autodesk",
+    "website": "https://www.autodesk.com/products/shotgrid/overview",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Production and Collaboration"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Production tracking platform for studios and creative teams.",
+    "longDescription": "ShotGrid is included in The Creative Vault as a game development resource. Production tracking platform for studios and creative teams.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Game Dev",
+      "Production and Collaboration",
+      "Production Tracking"
+    ],
+    "bestFor": [
+      "Production and Collaboration",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-ftrack",
+    "title": "Ftrack",
+    "shortName": "Ftrack",
+    "company": "Ftrack",
+    "website": "https://www.ftrack.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Production and Collaboration"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Production tracking and review platform for creative teams.",
+    "longDescription": "Ftrack is included in The Creative Vault as a game development resource. Production tracking and review platform for creative teams.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Game Dev",
+      "Production and Collaboration",
+      "Production Tracking"
+    ],
+    "bestFor": [
+      "Production and Collaboration",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-syncsketch",
+    "title": "SyncSketch",
+    "shortName": "SyncSketch",
+    "company": "Unity Technologies",
+    "website": "https://syncsketch.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Production and Collaboration"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Review and collaboration platform for animation and creative media.",
+    "longDescription": "SyncSketch is included in The Creative Vault as a game development resource. Review and collaboration platform for animation and creative media.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Game Dev",
+      "Production and Collaboration",
+      "Review",
+      "Collaboration"
+    ],
+    "bestFor": [
+      "Production and Collaboration",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-frame-io",
+    "title": "Frame.io",
+    "shortName": "Frame.io",
+    "company": "Adobe",
+    "website": "https://frame.io/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Production and Collaboration"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Video review and collaboration platform.",
+    "longDescription": "Frame.io is included in The Creative Vault as a game development resource. Video review and collaboration platform.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Production and Collaboration",
+      "Review",
+      "Video"
+    ],
+    "bestFor": [
+      "Production and Collaboration",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-milanote",
+    "title": "Milanote",
+    "shortName": "Milanote",
+    "company": "Milanote",
+    "website": "https://milanote.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Production and Collaboration"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Visual planning and creative collaboration tool.",
+    "longDescription": "Milanote is included in The Creative Vault as a game development resource. Visual planning and creative collaboration tool.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Production and Collaboration",
+      "Planning"
+    ],
+    "bestFor": [
+      "Production and Collaboration",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-clickup",
+    "title": "ClickUp",
+    "shortName": "ClickUp",
+    "company": "ClickUp",
+    "website": "https://clickup.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Production and Collaboration"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Project management platform for tasks, docs, and workflows.",
+    "longDescription": "ClickUp is included in The Creative Vault as a game development resource. Project management platform for tasks, docs, and workflows.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Production and Collaboration",
+      "Project Management"
+    ],
+    "bestFor": [
+      "Production and Collaboration",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-linear",
+    "title": "Linear",
+    "shortName": "Linear",
+    "company": "Linear",
+    "website": "https://linear.app/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Production and Collaboration"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Issue tracking and product development platform.",
+    "longDescription": "Linear is included in The Creative Vault as a game development resource. Issue tracking and product development platform.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Production and Collaboration",
+      "Issue Tracking"
+    ],
+    "bestFor": [
+      "Production and Collaboration",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-trello",
+    "title": "Trello",
+    "shortName": "Trello",
+    "company": "Atlassian",
+    "website": "https://trello.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Production and Collaboration"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Kanban project management tool.",
+    "longDescription": "Trello is included in The Creative Vault as a game development resource. Kanban project management tool.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Production and Collaboration",
+      "Kanban"
+    ],
+    "bestFor": [
+      "Production and Collaboration",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-notion",
+    "title": "Notion",
+    "shortName": "Notion",
+    "company": "Notion Labs",
+    "website": "https://www.notion.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Production and Collaboration"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Docs, wikis, and databases for game team knowledge management.",
+    "longDescription": "Notion is included in The Creative Vault as a game development resource. Docs, wikis, and databases for game team knowledge management.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Production and Collaboration",
+      "Docs",
+      "Wiki"
+    ],
+    "bestFor": [
+      "Production and Collaboration",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

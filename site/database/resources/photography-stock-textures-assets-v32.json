@@ -1,0 +1,1287 @@
+[
+  {
+    "id": "photography-unsplash",
+    "title": "Unsplash",
+    "shortName": "Unsplash",
+    "company": "Unsplash",
+    "website": "https://unsplash.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Stock Photography"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Free high-resolution stock photography library.",
+    "longDescription": "Unsplash is included in The Creative Vault as a photography resource. Free high-resolution stock photography library.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Stock Photography",
+      "Free Stock"
+    ],
+    "bestFor": [
+      "Stock Photography",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": true,
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-pexels",
+    "title": "Pexels",
+    "shortName": "Pexels",
+    "company": "Pexels",
+    "website": "https://www.pexels.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Stock Photography"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Free stock photo and video library.",
+    "longDescription": "Pexels is included in The Creative Vault as a photography resource. Free stock photo and video library.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Stock Photography",
+      "Free Stock"
+    ],
+    "bestFor": [
+      "Stock Photography",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": true,
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-pixabay",
+    "title": "Pixabay",
+    "shortName": "Pixabay",
+    "company": "Pixabay",
+    "website": "https://pixabay.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Stock Photography"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Free photos, illustrations, vectors, videos, music, and sound effects.",
+    "longDescription": "Pixabay is included in The Creative Vault as a photography resource. Free photos, illustrations, vectors, videos, music, and sound effects.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Stock Photography",
+      "Free Stock"
+    ],
+    "bestFor": [
+      "Stock Photography",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": true,
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-burst",
+    "title": "Burst",
+    "shortName": "Burst",
+    "company": "Shopify",
+    "website": "https://burst.shopify.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Stock Photography"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Free stock photography for commercial and ecommerce projects.",
+    "longDescription": "Burst is included in The Creative Vault as a photography resource. Free stock photography for commercial and ecommerce projects.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Stock Photography",
+      "Free Stock"
+    ],
+    "bestFor": [
+      "Stock Photography",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-stocksnap",
+    "title": "StockSnap",
+    "shortName": "StockSnap",
+    "company": "StockSnap",
+    "website": "https://stocksnap.io/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Stock Photography"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Free stock photo library.",
+    "longDescription": "StockSnap is included in The Creative Vault as a photography resource. Free stock photo library.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Stock Photography",
+      "Free Stock"
+    ],
+    "bestFor": [
+      "Stock Photography",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-reshot",
+    "title": "Reshot",
+    "shortName": "Reshot",
+    "company": "Reshot",
+    "website": "https://www.reshot.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Stock Photography"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Free icons, illustrations, and stock photos.",
+    "longDescription": "Reshot is included in The Creative Vault as a photography resource. Free icons, illustrations, and stock photos.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Stock Photography",
+      "Free Stock"
+    ],
+    "bestFor": [
+      "Stock Photography",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-picjumbo",
+    "title": "Picjumbo",
+    "shortName": "Picjumbo",
+    "company": "Picjumbo",
+    "website": "https://picjumbo.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Stock Photography"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Free and premium stock photos.",
+    "longDescription": "Picjumbo is included in The Creative Vault as a photography resource. Free and premium stock photos.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Photography",
+      "Stock Photography",
+      "Stock"
+    ],
+    "bestFor": [
+      "Stock Photography",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-kaboompics",
+    "title": "Kaboompics",
+    "shortName": "Kaboompics",
+    "company": "Kaboompics",
+    "website": "https://kaboompics.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Stock Photography"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Free lifestyle stock photos and color palettes.",
+    "longDescription": "Kaboompics is included in The Creative Vault as a photography resource. Free lifestyle stock photos and color palettes.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Stock Photography",
+      "Free Stock"
+    ],
+    "bestFor": [
+      "Stock Photography",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-life-of-pix",
+    "title": "Life of Pix",
+    "shortName": "Life of Pix",
+    "company": "Life of Pix",
+    "website": "https://www.lifeofpix.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Stock Photography"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Free high-resolution photos.",
+    "longDescription": "Life of Pix is included in The Creative Vault as a photography resource. Free high-resolution photos.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Stock Photography",
+      "Free Stock"
+    ],
+    "bestFor": [
+      "Stock Photography",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-gratisography",
+    "title": "Gratisography",
+    "shortName": "Gratisography",
+    "company": "Gratisography",
+    "website": "https://gratisography.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Stock Photography"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Free quirky and creative stock photos.",
+    "longDescription": "Gratisography is included in The Creative Vault as a photography resource. Free quirky and creative stock photos.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Stock Photography",
+      "Free Stock"
+    ],
+    "bestFor": [
+      "Stock Photography",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-negativespace",
+    "title": "NegativeSpace",
+    "shortName": "NegativeSpace",
+    "company": "NegativeSpace",
+    "website": "https://negativespace.co/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Stock Photography"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Free stock photography for creative projects.",
+    "longDescription": "NegativeSpace is included in The Creative Vault as a photography resource. Free stock photography for creative projects.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Stock Photography",
+      "Free Stock"
+    ],
+    "bestFor": [
+      "Stock Photography",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-iso-republic",
+    "title": "ISO Republic",
+    "shortName": "ISO Republic",
+    "company": "ISO Republic",
+    "website": "https://isorepublic.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Stock Photography"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Free stock photos and videos.",
+    "longDescription": "ISO Republic is included in The Creative Vault as a photography resource. Free stock photos and videos.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Stock Photography",
+      "Free Stock"
+    ],
+    "bestFor": [
+      "Stock Photography",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-foodiesfeed",
+    "title": "Foodiesfeed",
+    "shortName": "Foodiesfeed",
+    "company": "Foodiesfeed",
+    "website": "https://www.foodiesfeed.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Stock Photography"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Free food photography stock image library.",
+    "longDescription": "Foodiesfeed is included in The Creative Vault as a photography resource. Free food photography stock image library.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Stock Photography",
+      "Food Photography"
+    ],
+    "bestFor": [
+      "Stock Photography",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-styled-stock-society-free",
+    "title": "Styled Stock Society Free",
+    "shortName": "Styled Stock Society Free",
+    "company": "Styled Stock Society",
+    "website": "https://styledstocksociety.com/free-stock-photos/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Stock Photography"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Free styled stock photography for brands and creators.",
+    "longDescription": "Styled Stock Society Free is included in The Creative Vault as a photography resource. Free styled stock photography for brands and creators.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Stock Photography",
+      "Styled Stock"
+    ],
+    "bestFor": [
+      "Stock Photography",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-nappy",
+    "title": "Nappy",
+    "shortName": "Nappy",
+    "company": "Nappy",
+    "website": "https://nappy.co/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Stock Photography"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Free stock photos of Black and Brown people.",
+    "longDescription": "Nappy is included in The Creative Vault as a photography resource. Free stock photos of Black and Brown people.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Stock Photography",
+      "Diverse Stock"
+    ],
+    "bestFor": [
+      "Stock Photography",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-gender-spectrum-collection",
+    "title": "Gender Spectrum Collection",
+    "shortName": "Gender Spectrum Collection",
+    "company": "Vice",
+    "website": "https://genderspectrum.vice.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Stock Photography"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Free stock photo collection featuring trans and non-binary models.",
+    "longDescription": "Gender Spectrum Collection is included in The Creative Vault as a photography resource. Free stock photo collection featuring trans and non-binary models.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Stock Photography",
+      "Diverse Stock"
+    ],
+    "bestFor": [
+      "Stock Photography",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-disabled-and-here",
+    "title": "Disabled And Here",
+    "shortName": "Disabled And Here",
+    "company": "Affect The Verb",
+    "website": "https://disabledandhere.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Stock Photography"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Free stock images featuring disabled Black, Indigenous, and people of color.",
+    "longDescription": "Disabled And Here is included in The Creative Vault as a photography resource. Free stock images featuring disabled Black, Indigenous, and people of color.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Stock Photography",
+      "Diverse Stock"
+    ],
+    "bestFor": [
+      "Stock Photography",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-picnoi",
+    "title": "PICNOI",
+    "shortName": "PICNOI",
+    "company": "PICNOI",
+    "website": "https://picnoi.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Stock Photography"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Free stock photos featuring people of color.",
+    "longDescription": "PICNOI is included in The Creative Vault as a photography resource. Free stock photos featuring people of color.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Stock Photography",
+      "Diverse Stock"
+    ],
+    "bestFor": [
+      "Stock Photography",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-rawpixel-free",
+    "title": "Rawpixel Free",
+    "shortName": "Rawpixel Free",
+    "company": "Rawpixel",
+    "website": "https://www.rawpixel.com/free-images",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Stock Photography"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Free stock photos, design resources, and public domain images.",
+    "longDescription": "Rawpixel Free is included in The Creative Vault as a photography resource. Free stock photos, design resources, and public domain images.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Photography",
+      "Stock Photography",
+      "Stock"
+    ],
+    "bestFor": [
+      "Stock Photography",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-shutterstock-free-trial",
+    "title": "Shutterstock Free Trial",
+    "shortName": "Shutterstock Free Trial",
+    "company": "Shutterstock",
+    "website": "https://www.shutterstock.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Stock Photography"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Large stock photography, vector, video, and music marketplace.",
+    "longDescription": "Shutterstock Free Trial is included in The Creative Vault as a photography resource. Large stock photography, vector, video, and music marketplace.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "Stock Photography",
+      "Stock Marketplace"
+    ],
+    "bestFor": [
+      "Stock Photography",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-adobe-stock-free-collection",
+    "title": "Adobe Stock Free Collection",
+    "shortName": "Adobe Stock Free Collection",
+    "company": "Adobe",
+    "website": "https://stock.adobe.com/free",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Stock Photography"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Free collection of stock photos, vectors, videos, and design assets.",
+    "longDescription": "Adobe Stock Free Collection is included in The Creative Vault as a photography resource. Free collection of stock photos, vectors, videos, and design assets.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Stock Photography",
+      "Free Stock",
+      "Adobe"
+    ],
+    "bestFor": [
+      "Stock Photography",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-getty-images-editorial",
+    "title": "Getty Images Editorial",
+    "shortName": "Getty Images Editorial",
+    "company": "Getty Images",
+    "website": "https://www.gettyimages.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Stock Photography"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Premium stock and editorial photography marketplace.",
+    "longDescription": "Getty Images Editorial is included in The Creative Vault as a photography resource. Premium stock and editorial photography marketplace.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "Stock Photography",
+      "Editorial"
+    ],
+    "bestFor": [
+      "Stock Photography",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-istock",
+    "title": "iStock",
+    "shortName": "iStock",
+    "company": "Getty Images",
+    "website": "https://www.istockphoto.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Stock Photography"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Stock photography and media marketplace.",
+    "longDescription": "iStock is included in The Creative Vault as a photography resource. Stock photography and media marketplace.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "Stock Photography",
+      "Stock Marketplace"
+    ],
+    "bestFor": [
+      "Stock Photography",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-alamy",
+    "title": "Alamy",
+    "shortName": "Alamy",
+    "company": "Alamy",
+    "website": "https://www.alamy.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Stock Photography"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Large stock and editorial image marketplace.",
+    "longDescription": "Alamy is included in The Creative Vault as a photography resource. Large stock and editorial image marketplace.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "Stock Photography",
+      "Stock Marketplace"
+    ],
+    "bestFor": [
+      "Stock Photography",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-depositphotos",
+    "title": "Depositphotos",
+    "shortName": "Depositphotos",
+    "company": "Depositphotos",
+    "website": "https://depositphotos.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Stock Photography"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Stock photo, vector, video, and music marketplace.",
+    "longDescription": "Depositphotos is included in The Creative Vault as a photography resource. Stock photo, vector, video, and music marketplace.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "Stock Photography",
+      "Stock Marketplace"
+    ],
+    "bestFor": [
+      "Stock Photography",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-dreamstime",
+    "title": "Dreamstime",
+    "shortName": "Dreamstime",
+    "company": "Dreamstime",
+    "website": "https://www.dreamstime.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Stock Photography"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Stock photography, video, and illustration marketplace.",
+    "longDescription": "Dreamstime is included in The Creative Vault as a photography resource. Stock photography, video, and illustration marketplace.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Photography",
+      "Stock Photography",
+      "Stock Marketplace"
+    ],
+    "bestFor": [
+      "Stock Photography",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-freeimages",
+    "title": "FreeImages",
+    "shortName": "FreeImages",
+    "company": "FreeImages",
+    "website": "https://www.freeimages.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Stock Photography"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Free stock photo library.",
+    "longDescription": "FreeImages is included in The Creative Vault as a photography resource. Free stock photo library.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Stock Photography",
+      "Free Stock"
+    ],
+    "bestFor": [
+      "Stock Photography",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-public-domain-pictures",
+    "title": "Public Domain Pictures",
+    "shortName": "Public Domain Pictures",
+    "company": "Public Domain Pictures",
+    "website": "https://www.publicdomainpictures.net/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Stock Photography"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Public domain stock photo library.",
+    "longDescription": "Public Domain Pictures is included in The Creative Vault as a photography resource. Public domain stock photo library.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Stock Photography",
+      "Public Domain"
+    ],
+    "bestFor": [
+      "Stock Photography",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-texture-ninja",
+    "title": "Texture Ninja",
+    "shortName": "Texture Ninja",
+    "company": "Texture Ninja",
+    "website": "https://texture.ninja/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Textures"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Free texture photography library.",
+    "longDescription": "Texture Ninja is included in The Creative Vault as a photography resource. Free texture photography library.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Textures",
+      "Textures"
+    ],
+    "bestFor": [
+      "Textures",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-textures-com",
+    "title": "Textures.com",
+    "shortName": "Textures.com",
+    "company": "Textures.com",
+    "website": "https://www.textures.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Textures"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Texture library for 3D, design, and photography projects.",
+    "longDescription": "Textures.com is included in The Creative Vault as a photography resource. Texture library for 3D, design, and photography projects.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Photography",
+      "Textures",
+      "Textures"
+    ],
+    "bestFor": [
+      "Textures",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

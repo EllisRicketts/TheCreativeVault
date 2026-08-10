@@ -1,0 +1,578 @@
+[
+  {
+    "id": "game-dev-houdini",
+    "title": "Houdini",
+    "shortName": "Houdini",
+    "company": "SideFX",
+    "website": "https://www.sidefx.com/products/houdini/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "VFX and Animation"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Procedural 3D, simulation, VFX, and game art software.",
+    "longDescription": "Houdini is included in The Creative Vault as a game development resource. Procedural 3D, simulation, VFX, and game art software.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "VFX and Animation",
+      "Procedural",
+      "VFX"
+    ],
+    "bestFor": [
+      "VFX and Animation",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-houdini-engine",
+    "title": "Houdini Engine",
+    "shortName": "Houdini Engine",
+    "company": "SideFX",
+    "website": "https://www.sidefx.com/products/houdini-engine/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "VFX and Animation"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Houdini procedural tools inside game engines and DCC apps.",
+    "longDescription": "Houdini Engine is included in The Creative Vault as a game development resource. Houdini procedural tools inside game engines and DCC apps.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "VFX and Animation",
+      "Procedural",
+      "Tools"
+    ],
+    "bestFor": [
+      "VFX and Animation",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-embergen",
+    "title": "EmberGen",
+    "shortName": "EmberGen",
+    "company": "JangaFX",
+    "website": "https://jangafx.com/software/embergen/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "VFX and Animation"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Realtime volumetric simulation tool for fire, smoke, explosions, and VFX.",
+    "longDescription": "EmberGen is included in The Creative Vault as a game development resource. Realtime volumetric simulation tool for fire, smoke, explosions, and VFX.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "VFX and Animation",
+      "VFX",
+      "Realtime"
+    ],
+    "bestFor": [
+      "VFX and Animation",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-liquigen",
+    "title": "LiquiGen",
+    "shortName": "LiquiGen",
+    "company": "JangaFX",
+    "website": "https://jangafx.com/software/liquigen/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "VFX and Animation"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Realtime liquid simulation tool.",
+    "longDescription": "LiquiGen is included in The Creative Vault as a game development resource. Realtime liquid simulation tool.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "VFX and Animation",
+      "VFX",
+      "Simulation"
+    ],
+    "bestFor": [
+      "VFX and Animation",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-niagara",
+    "title": "Niagara",
+    "shortName": "Niagara",
+    "company": "Epic Games",
+    "website": "https://docs.unrealengine.com/5.0/en-US/creating-visual-effects-in-niagara-for-unreal-engine/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "VFX and Animation"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Unreal Engine's particle and visual effects system.",
+    "longDescription": "Niagara is included in The Creative Vault as a game development resource. Unreal Engine's particle and visual effects system.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "VFX and Animation",
+      "Unreal",
+      "VFX"
+    ],
+    "bestFor": [
+      "VFX and Animation",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-popcornfx",
+    "title": "PopcornFX",
+    "shortName": "PopcornFX",
+    "company": "Persistant Studios",
+    "website": "https://www.popcornfx.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "VFX and Animation"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Realtime particle effects middleware for games.",
+    "longDescription": "PopcornFX is included in The Creative Vault as a game development resource. Realtime particle effects middleware for games.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "VFX and Animation",
+      "Particles",
+      "VFX"
+    ],
+    "bestFor": [
+      "VFX and Animation",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-fluidninja",
+    "title": "FluidNinja",
+    "shortName": "FluidNinja",
+    "company": "Andras Ketzer",
+    "website": "https://www.unrealengine.com/marketplace/en-US/profile/FluidNinja",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "VFX and Animation"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Realtime fluid, smoke, fire, and VFX tools for Unreal Engine.",
+    "longDescription": "FluidNinja is included in The Creative Vault as a game development resource. Realtime fluid, smoke, fire, and VFX tools for Unreal Engine.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "VFX and Animation",
+      "Unreal",
+      "VFX"
+    ],
+    "bestFor": [
+      "VFX and Animation",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-cascadeur",
+    "title": "Cascadeur",
+    "shortName": "Cascadeur",
+    "company": "Nekki",
+    "website": "https://cascadeur.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "VFX and Animation"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Physics-assisted 3D animation software.",
+    "longDescription": "Cascadeur is included in The Creative Vault as a game development resource. Physics-assisted 3D animation software.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "VFX and Animation",
+      "Animation"
+    ],
+    "bestFor": [
+      "VFX and Animation",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-iclone",
+    "title": "iClone",
+    "shortName": "iClone",
+    "company": "Reallusion",
+    "website": "https://www.reallusion.com/iclone/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "VFX and Animation"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Realtime 3D animation software for characters and cinematic production.",
+    "longDescription": "iClone is included in The Creative Vault as a game development resource. Realtime 3D animation software for characters and cinematic production.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "VFX and Animation",
+      "Character Animation"
+    ],
+    "bestFor": [
+      "VFX and Animation",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-motionbuilder",
+    "title": "MotionBuilder",
+    "shortName": "MotionBuilder",
+    "company": "Autodesk",
+    "website": "https://www.autodesk.com/products/motionbuilder/overview",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "VFX and Animation"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Professional 3D character animation and mocap editing software.",
+    "longDescription": "MotionBuilder is included in The Creative Vault as a game development resource. Professional 3D character animation and mocap editing software.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Game Dev",
+      "VFX and Animation",
+      "Mocap",
+      "Animation"
+    ],
+    "bestFor": [
+      "VFX and Animation",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-rokoko-studio",
+    "title": "Rokoko Studio",
+    "shortName": "Rokoko Studio",
+    "company": "Rokoko",
+    "website": "https://www.rokoko.com/products/studio",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "VFX and Animation"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Motion capture software for Rokoko suits, video, and animation workflows.",
+    "longDescription": "Rokoko Studio is included in The Creative Vault as a game development resource. Motion capture software for Rokoko suits, video, and animation workflows.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "VFX and Animation",
+      "Mocap"
+    ],
+    "bestFor": [
+      "VFX and Animation",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-deepmotion",
+    "title": "DeepMotion",
+    "shortName": "DeepMotion",
+    "company": "DeepMotion",
+    "website": "https://www.deepmotion.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "VFX and Animation"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "AI motion capture from video.",
+    "longDescription": "DeepMotion is included in The Creative Vault as a game development resource. AI motion capture from video.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "VFX and Animation",
+      "Mocap",
+      "AI"
+    ],
+    "bestFor": [
+      "VFX and Animation",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-plask",
+    "title": "Plask",
+    "shortName": "Plask",
+    "company": "Plask",
+    "website": "https://plask.ai/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "VFX and Animation"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "AI motion capture and animation editing in the browser.",
+    "longDescription": "Plask is included in The Creative Vault as a game development resource. AI motion capture and animation editing in the browser.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "VFX and Animation",
+      "Mocap",
+      "AI"
+    ],
+    "bestFor": [
+      "VFX and Animation",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-radical",
+    "title": "RADiCAL",
+    "shortName": "RADiCAL",
+    "company": "RADiCAL",
+    "website": "https://www.radicalmotion.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "VFX and Animation"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "AI motion capture from standard video.",
+    "longDescription": "RADiCAL is included in The Creative Vault as a game development resource. AI motion capture from standard video.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "VFX and Animation",
+      "Mocap",
+      "AI"
+    ],
+    "bestFor": [
+      "VFX and Animation",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-move-ai",
+    "title": "Move AI",
+    "shortName": "Move AI",
+    "company": "Move AI",
+    "website": "https://www.move.ai/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "VFX and Animation"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Markerless motion capture platform for creators and studios.",
+    "longDescription": "Move AI is included in The Creative Vault as a game development resource. Markerless motion capture platform for creators and studios.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "VFX and Animation",
+      "Mocap"
+    ],
+    "bestFor": [
+      "VFX and Animation",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

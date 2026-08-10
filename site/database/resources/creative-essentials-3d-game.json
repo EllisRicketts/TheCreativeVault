@@ -1,0 +1,982 @@
+[
+  {
+    "id": "essential-blender",
+    "title": "Blender",
+    "shortName": "Blender",
+    "company": "Blender Foundation",
+    "website": "https://www.blender.org/",
+    "category": "3D",
+    "categoryId": "3d",
+    "categories": [
+      "3D",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "3d",
+      "creative-essentials"
+    ],
+    "primaryCategory": "3D",
+    "subcategories": [
+      "3D Software",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free open-source 3D creation suite.",
+    "longDescription": "Blender is included in The Creative Vault Creative Essentials Pack. Free open-source 3D creation suite.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "3D",
+      "3D Software",
+      "3D"
+    ],
+    "bestFor": [
+      "3D Software",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-freecad",
+    "title": "FreeCAD",
+    "shortName": "FreeCAD",
+    "company": "FreeCAD",
+    "website": "https://www.freecad.org/",
+    "category": "3D",
+    "categoryId": "3d",
+    "categories": [
+      "3D",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "3d",
+      "creative-essentials"
+    ],
+    "primaryCategory": "3D",
+    "subcategories": [
+      "CAD",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free open-source parametric 3D CAD modeler.",
+    "longDescription": "FreeCAD is included in The Creative Vault Creative Essentials Pack. Free open-source parametric 3D CAD modeler.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "3D",
+      "CAD",
+      "CAD"
+    ],
+    "bestFor": [
+      "CAD",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-openscad",
+    "title": "OpenSCAD",
+    "shortName": "OpenSCAD",
+    "company": "OpenSCAD",
+    "website": "https://openscad.org/",
+    "category": "3D",
+    "categoryId": "3d",
+    "categories": [
+      "3D",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "3d",
+      "creative-essentials"
+    ],
+    "primaryCategory": "3D",
+    "subcategories": [
+      "CAD",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free script-based 3D CAD modeler.",
+    "longDescription": "OpenSCAD is included in The Creative Vault Creative Essentials Pack. Free script-based 3D CAD modeler.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "3D",
+      "CAD",
+      "CAD"
+    ],
+    "bestFor": [
+      "CAD",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-meshlab",
+    "title": "MeshLab",
+    "shortName": "MeshLab",
+    "company": "ISTI-CNR",
+    "website": "https://www.meshlab.net/",
+    "category": "3D",
+    "categoryId": "3d",
+    "categories": [
+      "3D",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "3d",
+      "creative-essentials"
+    ],
+    "primaryCategory": "3D",
+    "subcategories": [
+      "Mesh Processing",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Open-source mesh processing software.",
+    "longDescription": "MeshLab is included in The Creative Vault Creative Essentials Pack. Open-source mesh processing software.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "3D",
+      "Mesh Processing",
+      "Meshes"
+    ],
+    "bestFor": [
+      "Mesh Processing",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-meshroom",
+    "title": "Meshroom",
+    "shortName": "Meshroom",
+    "company": "AliceVision",
+    "website": "https://alicevision.org/#meshroom",
+    "category": "3D",
+    "categoryId": "3d",
+    "categories": [
+      "3D",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "3d",
+      "creative-essentials"
+    ],
+    "primaryCategory": "3D",
+    "subcategories": [
+      "Photogrammetry",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free open-source photogrammetry software.",
+    "longDescription": "Meshroom is included in The Creative Vault Creative Essentials Pack. Free open-source photogrammetry software.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "3D",
+      "Photogrammetry",
+      "Photogrammetry"
+    ],
+    "bestFor": [
+      "Photogrammetry",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-colmap",
+    "title": "COLMAP",
+    "shortName": "COLMAP",
+    "company": "COLMAP",
+    "website": "https://colmap.github.io/",
+    "category": "3D",
+    "categoryId": "3d",
+    "categories": [
+      "3D",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "3d",
+      "creative-essentials"
+    ],
+    "primaryCategory": "3D",
+    "subcategories": [
+      "Photogrammetry",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "General-purpose structure-from-motion and multi-view stereo pipeline.",
+    "longDescription": "COLMAP is included in The Creative Vault Creative Essentials Pack. General-purpose structure-from-motion and multi-view stereo pipeline.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "3D",
+      "Photogrammetry",
+      "Photogrammetry"
+    ],
+    "bestFor": [
+      "Photogrammetry",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-makehuman",
+    "title": "MakeHuman",
+    "shortName": "MakeHuman",
+    "company": "MakeHuman",
+    "website": "http://www.makehumancommunity.org/",
+    "category": "3D",
+    "categoryId": "3d",
+    "categories": [
+      "3D",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "3d",
+      "creative-essentials"
+    ],
+    "primaryCategory": "3D",
+    "subcategories": [
+      "Characters",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free open-source human character creation tool.",
+    "longDescription": "MakeHuman is included in The Creative Vault Creative Essentials Pack. Free open-source human character creation tool.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "3D",
+      "Characters",
+      "Characters"
+    ],
+    "bestFor": [
+      "Characters",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-mixamo",
+    "title": "Mixamo",
+    "shortName": "Mixamo",
+    "company": "Adobe",
+    "website": "https://www.mixamo.com/",
+    "category": "3D",
+    "categoryId": "3d",
+    "categories": [
+      "3D",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "3d",
+      "creative-essentials"
+    ],
+    "primaryCategory": "3D",
+    "subcategories": [
+      "Animation",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free rigging and animation library from Adobe.",
+    "longDescription": "Mixamo is included in The Creative Vault Creative Essentials Pack. Free rigging and animation library from Adobe.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "3D",
+      "Animation",
+      "Animation"
+    ],
+    "bestFor": [
+      "Animation",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-poly-haven",
+    "title": "Poly Haven",
+    "shortName": "Poly Haven",
+    "company": "Poly Haven",
+    "website": "https://polyhaven.com/",
+    "category": "3D",
+    "categoryId": "3d",
+    "categories": [
+      "3D",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "3d",
+      "creative-essentials"
+    ],
+    "primaryCategory": "3D",
+    "subcategories": [
+      "3D Assets",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free public-domain HDRIs, textures, and 3D models.",
+    "longDescription": "Poly Haven is included in The Creative Vault Creative Essentials Pack. Free public-domain HDRIs, textures, and 3D models.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "3D",
+      "3D Assets",
+      "Assets"
+    ],
+    "bestFor": [
+      "3D Assets",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-ambientcg",
+    "title": "ambientCG",
+    "shortName": "ambientCG",
+    "company": "ambientCG",
+    "website": "https://ambientcg.com/",
+    "category": "3D",
+    "categoryId": "3d",
+    "categories": [
+      "3D",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "3d",
+      "creative-essentials"
+    ],
+    "primaryCategory": "3D",
+    "subcategories": [
+      "Textures",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free PBR materials and textures.",
+    "longDescription": "ambientCG is included in The Creative Vault Creative Essentials Pack. Free PBR materials and textures.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "3D",
+      "Textures",
+      "Textures"
+    ],
+    "bestFor": [
+      "Textures",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-godot",
+    "title": "Godot",
+    "shortName": "Godot",
+    "company": "Godot Foundation",
+    "website": "https://godotengine.org/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "categories": [
+      "Game Dev",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "game-dev",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Game Dev",
+    "subcategories": [
+      "Game Engine",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free open-source game engine.",
+    "longDescription": "Godot is included in The Creative Vault Creative Essentials Pack. Free open-source game engine.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Game Dev",
+      "Game Engine",
+      "Game Engine"
+    ],
+    "bestFor": [
+      "Game Engine",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-gdevelop",
+    "title": "GDevelop",
+    "shortName": "GDevelop",
+    "company": "GDevelop",
+    "website": "https://gdevelop.io/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "categories": [
+      "Game Dev",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "game-dev",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Game Dev",
+    "subcategories": [
+      "Game Engine",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Open-source no-code game engine.",
+    "longDescription": "GDevelop is included in The Creative Vault Creative Essentials Pack. Open-source no-code game engine.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Game Dev",
+      "Game Engine",
+      "Game Engine"
+    ],
+    "bestFor": [
+      "Game Engine",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-defold",
+    "title": "Defold",
+    "shortName": "Defold",
+    "company": "Defold Foundation",
+    "website": "https://defold.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "categories": [
+      "Game Dev",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "game-dev",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Game Dev",
+    "subcategories": [
+      "Game Engine",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free game engine for 2D games.",
+    "longDescription": "Defold is included in The Creative Vault Creative Essentials Pack. Free game engine for 2D games.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Game Dev",
+      "Game Engine",
+      "Game Engine"
+    ],
+    "bestFor": [
+      "Game Engine",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-phaser",
+    "title": "Phaser",
+    "shortName": "Phaser",
+    "company": "Phaser Studio",
+    "website": "https://phaser.io/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "categories": [
+      "Game Dev",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "game-dev",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Game Dev",
+    "subcategories": [
+      "Game Engine",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free open-source HTML5 game framework.",
+    "longDescription": "Phaser is included in The Creative Vault Creative Essentials Pack. Free open-source HTML5 game framework.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Game Dev",
+      "Game Engine",
+      "Game Engine"
+    ],
+    "bestFor": [
+      "Game Engine",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-bevy",
+    "title": "Bevy",
+    "shortName": "Bevy",
+    "company": "Bevy Foundation",
+    "website": "https://bevyengine.org/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "categories": [
+      "Game Dev",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "game-dev",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Game Dev",
+    "subcategories": [
+      "Game Engine",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free open-source Rust game engine.",
+    "longDescription": "Bevy is included in The Creative Vault Creative Essentials Pack. Free open-source Rust game engine.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Game Dev",
+      "Game Engine",
+      "Game Engine"
+    ],
+    "bestFor": [
+      "Game Engine",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-ren-py",
+    "title": "Ren'Py",
+    "shortName": "Ren'Py",
+    "company": "Ren'Py",
+    "website": "https://www.renpy.org/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "categories": [
+      "Game Dev",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "game-dev",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Game Dev",
+    "subcategories": [
+      "Visual Novel Engine",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free visual novel engine.",
+    "longDescription": "Ren'Py is included in The Creative Vault Creative Essentials Pack. Free visual novel engine.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Game Dev",
+      "Visual Novel Engine",
+      "Narrative"
+    ],
+    "bestFor": [
+      "Visual Novel Engine",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-twine",
+    "title": "Twine",
+    "shortName": "Twine",
+    "company": "Twine",
+    "website": "https://twinery.org/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "categories": [
+      "Game Dev",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "game-dev",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Game Dev",
+    "subcategories": [
+      "Interactive Fiction",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free tool for branching interactive fiction.",
+    "longDescription": "Twine is included in The Creative Vault Creative Essentials Pack. Free tool for branching interactive fiction.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Game Dev",
+      "Interactive Fiction",
+      "Narrative"
+    ],
+    "bestFor": [
+      "Interactive Fiction",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-kenney-assets",
+    "title": "Kenney Assets",
+    "shortName": "Kenney Assets",
+    "company": "Kenney",
+    "website": "https://kenney.nl/assets",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "categories": [
+      "Game Dev",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "game-dev",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Game Dev",
+    "subcategories": [
+      "Game Assets",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free game assets, UI packs, and audio.",
+    "longDescription": "Kenney Assets is included in The Creative Vault Creative Essentials Pack. Free game assets, UI packs, and audio.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Game Dev",
+      "Game Assets",
+      "Assets"
+    ],
+    "bestFor": [
+      "Game Assets",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-opengameart",
+    "title": "OpenGameArt",
+    "shortName": "OpenGameArt",
+    "company": "OpenGameArt",
+    "website": "https://opengameart.org/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "categories": [
+      "Game Dev",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "game-dev",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Game Dev",
+    "subcategories": [
+      "Game Assets",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free game art, music, sound effects, and assets.",
+    "longDescription": "OpenGameArt is included in The Creative Vault Creative Essentials Pack. Free game art, music, sound effects, and assets.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Game Dev",
+      "Game Assets",
+      "Assets"
+    ],
+    "bestFor": [
+      "Game Assets",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-itch-io-game-assets-free",
+    "title": "itch.io Game Assets Free",
+    "shortName": "itch.io Game Assets Free",
+    "company": "itch.io",
+    "website": "https://itch.io/game-assets/free",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "categories": [
+      "Game Dev",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "game-dev",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Game Dev",
+    "subcategories": [
+      "Game Assets",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free game assets on itch.io.",
+    "longDescription": "itch.io Game Assets Free is included in The Creative Vault Creative Essentials Pack. Free game assets on itch.io.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Game Dev",
+      "Game Assets",
+      "Assets"
+    ],
+    "bestFor": [
+      "Game Assets",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

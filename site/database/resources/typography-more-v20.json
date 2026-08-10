@@ -1,0 +1,362 @@
+[
+  {
+    "id": "typography-typetogether",
+    "title": "TypeTogether",
+    "shortName": "TypeTogether",
+    "company": "TypeTogether",
+    "website": "https://www.type-together.com/",
+    "category": "Typography",
+    "categoryId": "typography",
+    "subcategories": [
+      "Type Foundry"
+    ],
+    "type": "Resource",
+    "shortDescription": "Independent type foundry with editorial and multilingual fonts.",
+    "longDescription": "TypeTogether is included in The Creative Vault as a type foundry resource. Independent type foundry with editorial and multilingual fonts.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Typography",
+      "Type Foundry",
+      "Fonts"
+    ],
+    "bestFor": [
+      "Type Foundry",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "typography-commercial-type",
+    "title": "Commercial Type",
+    "shortName": "Commercial Type",
+    "company": "Commercial Type",
+    "website": "https://commercialtype.com/",
+    "category": "Typography",
+    "categoryId": "typography",
+    "subcategories": [
+      "Type Foundry"
+    ],
+    "type": "Resource",
+    "shortDescription": "Professional type foundry for high-quality commercial typefaces.",
+    "longDescription": "Commercial Type is included in The Creative Vault as a type foundry resource. Professional type foundry for high-quality commercial typefaces.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Typography",
+      "Type Foundry",
+      "Fonts"
+    ],
+    "bestFor": [
+      "Type Foundry",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "typography-hoeflerandco",
+    "title": "Hoefler&Co",
+    "shortName": "Hoefler&Co",
+    "company": "Hoefler&Co",
+    "website": "https://www.typography.com/",
+    "category": "Typography",
+    "categoryId": "typography",
+    "subcategories": [
+      "Type Foundry"
+    ],
+    "type": "Resource",
+    "shortDescription": "High-end type foundry known for professional typography.",
+    "longDescription": "Hoefler&Co is included in The Creative Vault as a type foundry resource. High-end type foundry known for professional typography.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Typography",
+      "Type Foundry",
+      "Fonts"
+    ],
+    "bestFor": [
+      "Type Foundry",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "typography-colophon-foundry",
+    "title": "Colophon Foundry",
+    "shortName": "Colophon Foundry",
+    "company": "Colophon",
+    "website": "https://www.colophon-foundry.org/",
+    "category": "Typography",
+    "categoryId": "typography",
+    "subcategories": [
+      "Type Foundry"
+    ],
+    "type": "Resource",
+    "shortDescription": "International type foundry and typography studio.",
+    "longDescription": "Colophon Foundry is included in The Creative Vault as a type foundry resource. International type foundry and typography studio.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Typography",
+      "Type Foundry",
+      "Fonts"
+    ],
+    "bestFor": [
+      "Type Foundry",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "typography-klim-type-foundry",
+    "title": "Klim Type Foundry",
+    "shortName": "Klim Type Foundry",
+    "company": "Klim",
+    "website": "https://klim.co.nz/",
+    "category": "Typography",
+    "categoryId": "typography",
+    "subcategories": [
+      "Type Foundry"
+    ],
+    "type": "Resource",
+    "shortDescription": "Independent New Zealand type foundry.",
+    "longDescription": "Klim Type Foundry is included in The Creative Vault as a type foundry resource. Independent New Zealand type foundry.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Typography",
+      "Type Foundry",
+      "Fonts"
+    ],
+    "bestFor": [
+      "Type Foundry",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "typography-dinamo",
+    "title": "Dinamo",
+    "shortName": "Dinamo",
+    "company": "Dinamo",
+    "website": "https://abcdinamo.com/",
+    "category": "Typography",
+    "categoryId": "typography",
+    "subcategories": [
+      "Type Foundry"
+    ],
+    "type": "Resource",
+    "shortDescription": "Swiss type foundry with contemporary fonts.",
+    "longDescription": "Dinamo is included in The Creative Vault as a type foundry resource. Swiss type foundry with contemporary fonts.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Typography",
+      "Type Foundry",
+      "Fonts"
+    ],
+    "bestFor": [
+      "Type Foundry",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "typography-grilli-type",
+    "title": "Grilli Type",
+    "shortName": "Grilli Type",
+    "company": "Grilli Type",
+    "website": "https://www.grillitype.com/",
+    "category": "Typography",
+    "categoryId": "typography",
+    "subcategories": [
+      "Type Foundry"
+    ],
+    "type": "Resource",
+    "shortDescription": "Independent Swiss type foundry.",
+    "longDescription": "Grilli Type is included in The Creative Vault as a type foundry resource. Independent Swiss type foundry.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Typography",
+      "Type Foundry",
+      "Fonts"
+    ],
+    "bestFor": [
+      "Type Foundry",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "typography-oh-no-type-co",
+    "title": "OH no Type Co.",
+    "shortName": "OH no Type Co.",
+    "company": "OH no Type Co.",
+    "website": "https://ohnotype.co/",
+    "category": "Typography",
+    "categoryId": "typography",
+    "subcategories": [
+      "Type Foundry"
+    ],
+    "type": "Resource",
+    "shortDescription": "Expressive independent type foundry.",
+    "longDescription": "OH no Type Co. is included in The Creative Vault as a type foundry resource. Expressive independent type foundry.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Typography",
+      "Type Foundry",
+      "Fonts"
+    ],
+    "bestFor": [
+      "Type Foundry",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "typography-collletttivo",
+    "title": "Collletttivo",
+    "shortName": "Collletttivo",
+    "company": "Collletttivo",
+    "website": "https://www.collletttivo.it/",
+    "category": "Typography",
+    "categoryId": "typography",
+    "subcategories": [
+      "Free Fonts"
+    ],
+    "type": "Resource",
+    "shortDescription": "Open-source type foundry and free font collective.",
+    "longDescription": "Collletttivo is included in The Creative Vault as a free fonts resource. Open-source type foundry and free font collective.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Typography",
+      "Free Fonts",
+      "Free Fonts"
+    ],
+    "bestFor": [
+      "Free Fonts",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "typography-open-foundry",
+    "title": "Open Foundry",
+    "shortName": "Open Foundry",
+    "company": "Open Foundry",
+    "website": "https://open-foundry.com/",
+    "category": "Typography",
+    "categoryId": "typography",
+    "subcategories": [
+      "Free Fonts"
+    ],
+    "type": "Resource",
+    "shortDescription": "Curated platform for open-source fonts.",
+    "longDescription": "Open Foundry is included in The Creative Vault as a free fonts resource. Curated platform for open-source fonts.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Typography",
+      "Free Fonts",
+      "Free Fonts"
+    ],
+    "bestFor": [
+      "Free Fonts",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

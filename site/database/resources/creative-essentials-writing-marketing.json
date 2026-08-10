@@ -1,0 +1,982 @@
+[
+  {
+    "id": "essential-hemingway-editor",
+    "title": "Hemingway Editor",
+    "shortName": "Hemingway Editor",
+    "company": "Hemingway",
+    "website": "https://hemingwayapp.com/",
+    "category": "Writing",
+    "categoryId": "writing",
+    "categories": [
+      "Writing",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "writing",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Writing",
+    "subcategories": [
+      "Writing Editor",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free browser editor for improving clarity and readability.",
+    "longDescription": "Hemingway Editor is included in The Creative Vault Creative Essentials Pack. Free browser editor for improving clarity and readability.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Writing",
+      "Writing Editor",
+      "Writing"
+    ],
+    "bestFor": [
+      "Writing Editor",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-languagetool",
+    "title": "LanguageTool",
+    "shortName": "LanguageTool",
+    "company": "LanguageTool",
+    "website": "https://languagetool.org/",
+    "category": "Writing",
+    "categoryId": "writing",
+    "categories": [
+      "Writing",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "writing",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Writing",
+    "subcategories": [
+      "Grammar",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Open-source grammar, style, and spell checker with free plan.",
+    "longDescription": "LanguageTool is included in The Creative Vault Creative Essentials Pack. Open-source grammar, style, and spell checker with free plan.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Writing",
+      "Grammar",
+      "Grammar"
+    ],
+    "bestFor": [
+      "Grammar",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-grammarly-free",
+    "title": "Grammarly Free",
+    "shortName": "Grammarly Free",
+    "company": "Grammarly",
+    "website": "https://www.grammarly.com/",
+    "category": "Writing",
+    "categoryId": "writing",
+    "categories": [
+      "Writing",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "writing",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Writing",
+    "subcategories": [
+      "Grammar",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Writing assistant with free grammar suggestions.",
+    "longDescription": "Grammarly Free is included in The Creative Vault Creative Essentials Pack. Writing assistant with free grammar suggestions.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Writing",
+      "Grammar",
+      "Grammar"
+    ],
+    "bestFor": [
+      "Grammar",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-quillbot-free",
+    "title": "QuillBot Free",
+    "shortName": "QuillBot Free",
+    "company": "QuillBot",
+    "website": "https://quillbot.com/",
+    "category": "Writing",
+    "categoryId": "writing",
+    "categories": [
+      "Writing",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "writing",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Writing",
+    "subcategories": [
+      "Paraphrasing",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free paraphrasing and writing tools with limits.",
+    "longDescription": "QuillBot Free is included in The Creative Vault Creative Essentials Pack. Free paraphrasing and writing tools with limits.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Writing",
+      "Paraphrasing",
+      "Writing"
+    ],
+    "bestFor": [
+      "Paraphrasing",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-onelook-thesaurus",
+    "title": "OneLook Thesaurus",
+    "shortName": "OneLook Thesaurus",
+    "company": "OneLook",
+    "website": "https://www.onelook.com/thesaurus/",
+    "category": "Writing",
+    "categoryId": "writing",
+    "categories": [
+      "Writing",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "writing",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Writing",
+    "subcategories": [
+      "Thesaurus",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Reverse dictionary and thesaurus for writers.",
+    "longDescription": "OneLook Thesaurus is included in The Creative Vault Creative Essentials Pack. Reverse dictionary and thesaurus for writers.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Writing",
+      "Thesaurus",
+      "Words"
+    ],
+    "bestFor": [
+      "Thesaurus",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-rhymezone",
+    "title": "RhymeZone",
+    "shortName": "RhymeZone",
+    "company": "Datamuse",
+    "website": "https://www.rhymezone.com/",
+    "category": "Writing",
+    "categoryId": "writing",
+    "categories": [
+      "Writing",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "writing",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Writing",
+    "subcategories": [
+      "Rhyming Dictionary",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Rhyming dictionary and word reference tool.",
+    "longDescription": "RhymeZone is included in The Creative Vault Creative Essentials Pack. Rhyming dictionary and word reference tool.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Writing",
+      "Rhyming Dictionary",
+      "Rhymes"
+    ],
+    "bestFor": [
+      "Rhyming Dictionary",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-datamuse",
+    "title": "Datamuse",
+    "shortName": "Datamuse",
+    "company": "Datamuse",
+    "website": "https://www.datamuse.com/api/",
+    "category": "Writing",
+    "categoryId": "writing",
+    "categories": [
+      "Writing",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "writing",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Writing",
+    "subcategories": [
+      "Word API",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Word-finding API for creative language tools.",
+    "longDescription": "Datamuse is included in The Creative Vault Creative Essentials Pack. Word-finding API for creative language tools.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Writing",
+      "Word API",
+      "Words"
+    ],
+    "bestFor": [
+      "Word API",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-power-thesaurus",
+    "title": "Power Thesaurus",
+    "shortName": "Power Thesaurus",
+    "company": "Power Thesaurus",
+    "website": "https://www.powerthesaurus.org/",
+    "category": "Writing",
+    "categoryId": "writing",
+    "categories": [
+      "Writing",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "writing",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Writing",
+    "subcategories": [
+      "Thesaurus",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Crowdsourced thesaurus and word reference.",
+    "longDescription": "Power Thesaurus is included in The Creative Vault Creative Essentials Pack. Crowdsourced thesaurus and word reference.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Writing",
+      "Thesaurus",
+      "Words"
+    ],
+    "bestFor": [
+      "Thesaurus",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-coschedule-headline-analyzer",
+    "title": "CoSchedule Headline Analyzer",
+    "shortName": "CoSchedule Headline Analyzer",
+    "company": "CoSchedule",
+    "website": "https://coschedule.com/headline-analyzer",
+    "category": "Marketing",
+    "categoryId": "marketing",
+    "categories": [
+      "Marketing",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "marketing",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Marketing",
+    "subcategories": [
+      "Headline Tools",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Analyze and improve headlines.",
+    "longDescription": "CoSchedule Headline Analyzer is included in The Creative Vault Creative Essentials Pack. Analyze and improve headlines.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Marketing",
+      "Headline Tools",
+      "Headlines"
+    ],
+    "bestFor": [
+      "Headline Tools",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-sharethrough-headline-analyzer",
+    "title": "Sharethrough Headline Analyzer",
+    "shortName": "Sharethrough Headline Analyzer",
+    "company": "Sharethrough",
+    "website": "https://headlines.sharethrough.com/",
+    "category": "Marketing",
+    "categoryId": "marketing",
+    "categories": [
+      "Marketing",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "marketing",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Marketing",
+    "subcategories": [
+      "Headline Tools",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Headline analyzer for engagement and impressions.",
+    "longDescription": "Sharethrough Headline Analyzer is included in The Creative Vault Creative Essentials Pack. Headline analyzer for engagement and impressions.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Marketing",
+      "Headline Tools",
+      "Headlines"
+    ],
+    "bestFor": [
+      "Headline Tools",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-meta-tags",
+    "title": "Meta Tags",
+    "shortName": "Meta Tags",
+    "company": "Meta Tags",
+    "website": "https://metatags.io/",
+    "category": "Marketing",
+    "categoryId": "marketing",
+    "categories": [
+      "Marketing",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "marketing",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Marketing",
+    "subcategories": [
+      "SEO Preview",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Preview and generate social sharing meta tags.",
+    "longDescription": "Meta Tags is included in The Creative Vault Creative Essentials Pack. Preview and generate social sharing meta tags.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Marketing",
+      "SEO Preview",
+      "SEO"
+    ],
+    "bestFor": [
+      "SEO Preview",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-opengraph-xyz",
+    "title": "OpenGraph.xyz",
+    "shortName": "OpenGraph.xyz",
+    "company": "OpenGraph.xyz",
+    "website": "https://www.opengraph.xyz/",
+    "category": "Marketing",
+    "categoryId": "marketing",
+    "categories": [
+      "Marketing",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "marketing",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Marketing",
+    "subcategories": [
+      "SEO Preview",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Preview Open Graph and social share cards.",
+    "longDescription": "OpenGraph.xyz is included in The Creative Vault Creative Essentials Pack. Preview Open Graph and social share cards.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Marketing",
+      "SEO Preview",
+      "SEO"
+    ],
+    "bestFor": [
+      "SEO Preview",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-rich-results-test",
+    "title": "Rich Results Test",
+    "shortName": "Rich Results Test",
+    "company": "Google",
+    "website": "https://search.google.com/test/rich-results",
+    "category": "Marketing",
+    "categoryId": "marketing",
+    "categories": [
+      "Marketing",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "marketing",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Marketing",
+    "subcategories": [
+      "SEO Testing",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Test structured data for Google rich results.",
+    "longDescription": "Rich Results Test is included in The Creative Vault Creative Essentials Pack. Test structured data for Google rich results.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Marketing",
+      "SEO Testing",
+      "SEO"
+    ],
+    "bestFor": [
+      "SEO Testing",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-schema-markup-validator",
+    "title": "Schema Markup Validator",
+    "shortName": "Schema Markup Validator",
+    "company": "Schema.org",
+    "website": "https://validator.schema.org/",
+    "category": "Marketing",
+    "categoryId": "marketing",
+    "categories": [
+      "Marketing",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "marketing",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Marketing",
+    "subcategories": [
+      "SEO Testing",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Validate schema.org structured data.",
+    "longDescription": "Schema Markup Validator is included in The Creative Vault Creative Essentials Pack. Validate schema.org structured data.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Marketing",
+      "SEO Testing",
+      "SEO"
+    ],
+    "bestFor": [
+      "SEO Testing",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-ahrefs-webmaster-tools",
+    "title": "Ahrefs Webmaster Tools",
+    "shortName": "Ahrefs Webmaster Tools",
+    "company": "Ahrefs",
+    "website": "https://ahrefs.com/webmaster-tools",
+    "category": "Marketing",
+    "categoryId": "marketing",
+    "categories": [
+      "Marketing",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "marketing",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Marketing",
+    "subcategories": [
+      "SEO Tools",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free SEO auditing and site explorer for verified sites.",
+    "longDescription": "Ahrefs Webmaster Tools is included in The Creative Vault Creative Essentials Pack. Free SEO auditing and site explorer for verified sites.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Marketing",
+      "SEO Tools",
+      "SEO"
+    ],
+    "bestFor": [
+      "SEO Tools",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-google-search-console",
+    "title": "Google Search Console",
+    "shortName": "Google Search Console",
+    "company": "Google",
+    "website": "https://search.google.com/search-console/",
+    "category": "Marketing",
+    "categoryId": "marketing",
+    "categories": [
+      "Marketing",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "marketing",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Marketing",
+    "subcategories": [
+      "SEO Tools",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free website search performance and indexing tool.",
+    "longDescription": "Google Search Console is included in The Creative Vault Creative Essentials Pack. Free website search performance and indexing tool.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Marketing",
+      "SEO Tools",
+      "SEO"
+    ],
+    "bestFor": [
+      "SEO Tools",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-google-trends",
+    "title": "Google Trends",
+    "shortName": "Google Trends",
+    "company": "Google",
+    "website": "https://trends.google.com/",
+    "category": "Marketing",
+    "categoryId": "marketing",
+    "categories": [
+      "Marketing",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "marketing",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Marketing",
+    "subcategories": [
+      "Trend Research",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Search trend research tool.",
+    "longDescription": "Google Trends is included in The Creative Vault Creative Essentials Pack. Search trend research tool.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Marketing",
+      "Trend Research",
+      "Trends"
+    ],
+    "bestFor": [
+      "Trend Research",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-exploding-topics-free",
+    "title": "Exploding Topics Free",
+    "shortName": "Exploding Topics Free",
+    "company": "Exploding Topics",
+    "website": "https://explodingtopics.com/",
+    "category": "Marketing",
+    "categoryId": "marketing",
+    "categories": [
+      "Marketing",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "marketing",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Marketing",
+    "subcategories": [
+      "Trend Research",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Discover trending topics and growing markets.",
+    "longDescription": "Exploding Topics Free is included in The Creative Vault Creative Essentials Pack. Discover trending topics and growing markets.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Marketing",
+      "Trend Research",
+      "Trends"
+    ],
+    "bestFor": [
+      "Trend Research",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-answer-socrates",
+    "title": "Answer Socrates",
+    "shortName": "Answer Socrates",
+    "company": "Answer Socrates",
+    "website": "https://answersocrates.com/",
+    "category": "Marketing",
+    "categoryId": "marketing",
+    "categories": [
+      "Marketing",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "marketing",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Marketing",
+    "subcategories": [
+      "Content Research",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Find questions people ask online.",
+    "longDescription": "Answer Socrates is included in The Creative Vault Creative Essentials Pack. Find questions people ask online.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Marketing",
+      "Content Research",
+      "Content"
+    ],
+    "bestFor": [
+      "Content Research",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-alsoasked-free",
+    "title": "AlsoAsked Free",
+    "shortName": "AlsoAsked Free",
+    "company": "AlsoAsked",
+    "website": "https://alsoasked.com/",
+    "category": "Marketing",
+    "categoryId": "marketing",
+    "categories": [
+      "Marketing",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "marketing",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Marketing",
+    "subcategories": [
+      "Content Research",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Explore People Also Ask style topic clusters.",
+    "longDescription": "AlsoAsked Free is included in The Creative Vault Creative Essentials Pack. Explore People Also Ask style topic clusters.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Marketing",
+      "Content Research",
+      "SEO"
+    ],
+    "bestFor": [
+      "Content Research",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

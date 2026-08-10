@@ -1,0 +1,1069 @@
+[
+  {
+    "id": "photography-canon",
+    "title": "Canon",
+    "shortName": "Canon",
+    "company": "Canon",
+    "website": "https://www.canon.ca/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Cameras"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Camera and imaging ecosystem with cameras, lenses, printers, and creator resources.",
+    "longDescription": "Canon is included in The Creative Vault as a photography resource. Camera and imaging ecosystem with cameras, lenses, printers, and creator resources.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Cameras",
+      "Camera Brand"
+    ],
+    "bestFor": [
+      "Cameras",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-nikon",
+    "title": "Nikon",
+    "shortName": "Nikon",
+    "company": "Nikon",
+    "website": "https://www.nikon.ca/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Cameras"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Camera and lens ecosystem for photography and imaging.",
+    "longDescription": "Nikon is included in The Creative Vault as a photography resource. Camera and lens ecosystem for photography and imaging.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Cameras",
+      "Camera Brand"
+    ],
+    "bestFor": [
+      "Cameras",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-sony-alpha-universe",
+    "title": "Sony Alpha Universe",
+    "shortName": "Sony Alpha Universe",
+    "company": "Sony",
+    "website": "https://alphauniverse.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Cameras"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Sony Alpha education, inspiration, camera resources, and creator stories.",
+    "longDescription": "Sony Alpha Universe is included in The Creative Vault as a photography resource. Sony Alpha education, inspiration, camera resources, and creator stories.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Cameras",
+      "Camera Brand",
+      "Education"
+    ],
+    "bestFor": [
+      "Cameras",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": true,
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-fujifilm-x-series",
+    "title": "Fujifilm X Series",
+    "shortName": "Fujifilm X Series",
+    "company": "Fujifilm",
+    "website": "https://fujifilm-x.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Cameras"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Fujifilm X Series cameras, lenses, firmware, and photography resources.",
+    "longDescription": "Fujifilm X Series is included in The Creative Vault as a photography resource. Fujifilm X Series cameras, lenses, firmware, and photography resources.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Cameras",
+      "Camera Brand"
+    ],
+    "bestFor": [
+      "Cameras",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": true,
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-panasonic-lumix",
+    "title": "Panasonic Lumix",
+    "shortName": "Panasonic Lumix",
+    "company": "Panasonic",
+    "website": "https://www.panasonic.com/global/consumer/lumix.html",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Cameras"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Lumix cameras, lenses, firmware, and creator resources.",
+    "longDescription": "Panasonic Lumix is included in The Creative Vault as a photography resource. Lumix cameras, lenses, firmware, and creator resources.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Cameras",
+      "Camera Brand"
+    ],
+    "bestFor": [
+      "Cameras",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-leica-camera",
+    "title": "Leica Camera",
+    "shortName": "Leica Camera",
+    "company": "Leica",
+    "website": "https://leica-camera.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Cameras"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Premium camera, lens, and photography ecosystem.",
+    "longDescription": "Leica Camera is included in The Creative Vault as a photography resource. Premium camera, lens, and photography ecosystem.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Cameras",
+      "Camera Brand"
+    ],
+    "bestFor": [
+      "Cameras",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-om-system",
+    "title": "OM System",
+    "shortName": "OM System",
+    "company": "OM Digital Solutions",
+    "website": "https://explore.omsystem.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Cameras"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "OM System cameras, lenses, and outdoor photography resources.",
+    "longDescription": "OM System is included in The Creative Vault as a photography resource. OM System cameras, lenses, and outdoor photography resources.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Cameras",
+      "Camera Brand"
+    ],
+    "bestFor": [
+      "Cameras",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-hasselblad",
+    "title": "Hasselblad",
+    "shortName": "Hasselblad",
+    "company": "Hasselblad",
+    "website": "https://www.hasselblad.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Cameras"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Medium format camera and lens ecosystem.",
+    "longDescription": "Hasselblad is included in The Creative Vault as a photography resource. Medium format camera and lens ecosystem.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Cameras",
+      "Camera Brand",
+      "Medium Format"
+    ],
+    "bestFor": [
+      "Cameras",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-phase-one",
+    "title": "Phase One",
+    "shortName": "Phase One",
+    "company": "Phase One",
+    "website": "https://www.phaseone.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Cameras"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Medium format camera systems and professional imaging solutions.",
+    "longDescription": "Phase One is included in The Creative Vault as a photography resource. Medium format camera systems and professional imaging solutions.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Cameras",
+      "Medium Format"
+    ],
+    "bestFor": [
+      "Cameras",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-ricoh-gr",
+    "title": "Ricoh GR",
+    "shortName": "Ricoh GR",
+    "company": "Ricoh",
+    "website": "https://www.ricoh-imaging.co.jp/english/products/gr-iii/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Cameras"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Ricoh GR compact camera ecosystem and street photography toolset.",
+    "longDescription": "Ricoh GR is included in The Creative Vault as a photography resource. Ricoh GR compact camera ecosystem and street photography toolset.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Cameras",
+      "Camera Brand"
+    ],
+    "bestFor": [
+      "Cameras",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-pentax",
+    "title": "Pentax",
+    "shortName": "Pentax",
+    "company": "Ricoh Imaging",
+    "website": "https://www.ricoh-imaging.co.jp/english/products/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Cameras"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Pentax DSLR and lens ecosystem.",
+    "longDescription": "Pentax is included in The Creative Vault as a photography resource. Pentax DSLR and lens ecosystem.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Cameras",
+      "Camera Brand"
+    ],
+    "bestFor": [
+      "Cameras",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-sigma",
+    "title": "Sigma",
+    "shortName": "Sigma",
+    "company": "Sigma",
+    "website": "https://www.sigmaphoto.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Lenses"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Lens manufacturer known for Art, Contemporary, and Sports lens lines.",
+    "longDescription": "Sigma is included in The Creative Vault as a photography resource. Lens manufacturer known for Art, Contemporary, and Sports lens lines.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Lenses",
+      "Lens Brand"
+    ],
+    "bestFor": [
+      "Lenses",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": true,
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-tamron",
+    "title": "Tamron",
+    "shortName": "Tamron",
+    "company": "Tamron",
+    "website": "https://www.tamron-usa.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Lenses"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Lens manufacturer for mirrorless and DSLR camera systems.",
+    "longDescription": "Tamron is included in The Creative Vault as a photography resource. Lens manufacturer for mirrorless and DSLR camera systems.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Lenses",
+      "Lens Brand"
+    ],
+    "bestFor": [
+      "Lenses",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": true,
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-tokina",
+    "title": "Tokina",
+    "shortName": "Tokina",
+    "company": "Tokina",
+    "website": "https://tokinalens.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Lenses"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Lens brand focused on photography and cinema optics.",
+    "longDescription": "Tokina is included in The Creative Vault as a photography resource. Lens brand focused on photography and cinema optics.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Lenses",
+      "Lens Brand"
+    ],
+    "bestFor": [
+      "Lenses",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-zeiss-photography",
+    "title": "ZEISS Photography",
+    "shortName": "ZEISS Photography",
+    "company": "ZEISS",
+    "website": "https://www.zeiss.com/consumer-products/int/photography.html",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Lenses"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Premium optics and lenses for photography.",
+    "longDescription": "ZEISS Photography is included in The Creative Vault as a photography resource. Premium optics and lenses for photography.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Lenses",
+      "Lens Brand"
+    ],
+    "bestFor": [
+      "Lenses",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-laowa",
+    "title": "Laowa",
+    "shortName": "Laowa",
+    "company": "Venus Optics",
+    "website": "https://www.venuslens.net/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Lenses"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Specialty lenses including macro, wide-angle, probe, and creative optics.",
+    "longDescription": "Laowa is included in The Creative Vault as a photography resource. Specialty lenses including macro, wide-angle, probe, and creative optics.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Lenses",
+      "Lens Brand"
+    ],
+    "bestFor": [
+      "Lenses",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-viltrox",
+    "title": "Viltrox",
+    "shortName": "Viltrox",
+    "company": "Viltrox",
+    "website": "https://viltrox.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Lenses"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Autofocus lenses, adapters, and photography accessories.",
+    "longDescription": "Viltrox is included in The Creative Vault as a photography resource. Autofocus lenses, adapters, and photography accessories.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Lenses",
+      "Lens Brand"
+    ],
+    "bestFor": [
+      "Lenses",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-samyang-rokinon",
+    "title": "Samyang / Rokinon",
+    "shortName": "Samyang / Rokinon",
+    "company": "Samyang Optics",
+    "website": "https://www.samyanglens.com/en/main/main.php",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Lenses"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Photography and cinema lens manufacturer.",
+    "longDescription": "Samyang / Rokinon is included in The Creative Vault as a photography resource. Photography and cinema lens manufacturer.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Lenses",
+      "Lens Brand"
+    ],
+    "bestFor": [
+      "Lenses",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-voigtl-nder",
+    "title": "Voigtländer",
+    "shortName": "Voigtländer",
+    "company": "Cosina",
+    "website": "https://www.voigtlaender.de/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Lenses"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Classic-style manual focus lenses for multiple camera mounts.",
+    "longDescription": "Voigtländer is included in The Creative Vault as a photography resource. Classic-style manual focus lenses for multiple camera mounts.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Lenses",
+      "Lens Brand"
+    ],
+    "bestFor": [
+      "Lenses",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-lensbaby",
+    "title": "Lensbaby",
+    "shortName": "Lensbaby",
+    "company": "Lensbaby",
+    "website": "https://lensbaby.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Lenses"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Creative effect lenses and optics for photography.",
+    "longDescription": "Lensbaby is included in The Creative Vault as a photography resource. Creative effect lenses and optics for photography.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Lenses",
+      "Creative Lenses"
+    ],
+    "bestFor": [
+      "Lenses",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-irix-lens",
+    "title": "Irix Lens",
+    "shortName": "Irix Lens",
+    "company": "Irix",
+    "website": "https://irixlens.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Lenses"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Photography and cine lenses including wide-angle and macro optics.",
+    "longDescription": "Irix Lens is included in The Creative Vault as a photography resource. Photography and cine lenses including wide-angle and macro optics.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Lenses",
+      "Lens Brand"
+    ],
+    "bestFor": [
+      "Lenses",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-ttartisan",
+    "title": "TTArtisan",
+    "shortName": "TTArtisan",
+    "company": "TTArtisan",
+    "website": "https://www.ttartisan.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Lenses"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Affordable manual and autofocus lenses for mirrorless cameras.",
+    "longDescription": "TTArtisan is included in The Creative Vault as a photography resource. Affordable manual and autofocus lenses for mirrorless cameras.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Lenses",
+      "Lens Brand"
+    ],
+    "bestFor": [
+      "Lenses",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-7artisans",
+    "title": "7Artisans",
+    "shortName": "7Artisans",
+    "company": "7Artisans",
+    "website": "https://7artisans.store/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Lenses"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Affordable creative lenses for mirrorless systems.",
+    "longDescription": "7Artisans is included in The Creative Vault as a photography resource. Affordable creative lenses for mirrorless systems.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Lenses",
+      "Lens Brand"
+    ],
+    "bestFor": [
+      "Lenses",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-meyer-optik-g-rlitz",
+    "title": "Meyer Optik Görlitz",
+    "shortName": "Meyer Optik Görlitz",
+    "company": "Meyer Optik Görlitz",
+    "website": "https://www.meyer-optik-goerlitz.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Lenses"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Classic character lenses and specialty optics.",
+    "longDescription": "Meyer Optik Görlitz is included in The Creative Vault as a photography resource. Classic character lenses and specialty optics.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Lenses",
+      "Lens Brand"
+    ],
+    "bestFor": [
+      "Lenses",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-lensrentals-blog",
+    "title": "Lensrentals Blog",
+    "shortName": "Lensrentals Blog",
+    "company": "Lensrentals",
+    "website": "https://www.lensrentals.com/blog/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Lenses"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Lens testing, camera gear teardown, and photography gear education.",
+    "longDescription": "Lensrentals Blog is included in The Creative Vault as a photography resource. Lens testing, camera gear teardown, and photography gear education.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Lenses",
+      "Gear Reviews"
+    ],
+    "bestFor": [
+      "Lenses",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": true,
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

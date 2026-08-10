@@ -1,0 +1,363 @@
+[
+  {
+    "id": "photography-aftershoot",
+    "title": "Aftershoot",
+    "shortName": "Aftershoot",
+    "company": "Aftershoot",
+    "website": "https://aftershoot.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "subcategories": [
+      "Photo Culling"
+    ],
+    "type": "Resource",
+    "shortDescription": "AI-powered photo culling and editing workflow tool.",
+    "longDescription": "Aftershoot is included in The Creative Vault as a photo culling resource. AI-powered photo culling and editing workflow tool.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Photography",
+      "Photo Culling",
+      "AI",
+      "Culling"
+    ],
+    "bestFor": [
+      "Photo Culling",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-narrative-select",
+    "title": "Narrative Select",
+    "shortName": "Narrative Select",
+    "company": "Narrative",
+    "website": "https://narrative.so/select",
+    "category": "Photography",
+    "categoryId": "photography",
+    "subcategories": [
+      "Photo Culling"
+    ],
+    "type": "Resource",
+    "shortDescription": "Photo culling software for photographers.",
+    "longDescription": "Narrative Select is included in The Creative Vault as a photo culling resource. Photo culling software for photographers.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Photography",
+      "Photo Culling",
+      "Culling"
+    ],
+    "bestFor": [
+      "Photo Culling",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-imagen",
+    "title": "Imagen",
+    "shortName": "Imagen",
+    "company": "Imagen",
+    "website": "https://imagen-ai.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "subcategories": [
+      "AI Photo Editing"
+    ],
+    "type": "Resource",
+    "shortDescription": "AI photo editing and workflow tool.",
+    "longDescription": "Imagen is included in The Creative Vault as a ai photo editing resource. AI photo editing and workflow tool.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "AI Photo Editing",
+      "AI"
+    ],
+    "bestFor": [
+      "AI Photo Editing",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-pic-time",
+    "title": "Pic-Time",
+    "shortName": "Pic-Time",
+    "company": "Pic-Time",
+    "website": "https://www.pic-time.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "subcategories": [
+      "Client Galleries"
+    ],
+    "type": "Resource",
+    "shortDescription": "Client gallery, sales, and photography business platform.",
+    "longDescription": "Pic-Time is included in The Creative Vault as a client galleries resource. Client gallery, sales, and photography business platform.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Photography",
+      "Client Galleries",
+      "Galleries"
+    ],
+    "bestFor": [
+      "Client Galleries",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-pixieset",
+    "title": "Pixieset",
+    "shortName": "Pixieset",
+    "company": "Pixieset",
+    "website": "https://pixieset.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "subcategories": [
+      "Client Galleries"
+    ],
+    "type": "Resource",
+    "shortDescription": "Client galleries, websites, store, and studio tools for photographers.",
+    "longDescription": "Pixieset is included in The Creative Vault as a client galleries resource. Client galleries, websites, store, and studio tools for photographers.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Photography",
+      "Client Galleries",
+      "Galleries"
+    ],
+    "bestFor": [
+      "Client Galleries",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-shootproof",
+    "title": "ShootProof",
+    "shortName": "ShootProof",
+    "company": "ShootProof",
+    "website": "https://www.shootproof.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "subcategories": [
+      "Client Galleries"
+    ],
+    "type": "Resource",
+    "shortDescription": "Photography gallery, proofing, contracts, and invoicing platform.",
+    "longDescription": "ShootProof is included in The Creative Vault as a client galleries resource. Photography gallery, proofing, contracts, and invoicing platform.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Photography",
+      "Client Galleries",
+      "Galleries"
+    ],
+    "bestFor": [
+      "Client Galleries",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-format",
+    "title": "Format",
+    "shortName": "Format",
+    "company": "Format",
+    "website": "https://www.format.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "subcategories": [
+      "Portfolio Website"
+    ],
+    "type": "Resource",
+    "shortDescription": "Portfolio website builder for photographers and artists.",
+    "longDescription": "Format is included in The Creative Vault as a portfolio website resource. Portfolio website builder for photographers and artists.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Photography",
+      "Portfolio Website",
+      "Portfolio"
+    ],
+    "bestFor": [
+      "Portfolio Website",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-smugmug",
+    "title": "SmugMug",
+    "shortName": "SmugMug",
+    "company": "SmugMug",
+    "website": "https://www.smugmug.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "subcategories": [
+      "Photo Hosting"
+    ],
+    "type": "Resource",
+    "shortDescription": "Photo hosting, galleries, and sales platform.",
+    "longDescription": "SmugMug is included in The Creative Vault as a photo hosting resource. Photo hosting, galleries, and sales platform.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Photography",
+      "Photo Hosting",
+      "Galleries"
+    ],
+    "bestFor": [
+      "Photo Hosting",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-zenfolio",
+    "title": "Zenfolio",
+    "shortName": "Zenfolio",
+    "company": "Zenfolio",
+    "website": "https://zenfolio.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "subcategories": [
+      "Photo Business"
+    ],
+    "type": "Resource",
+    "shortDescription": "Photography website, galleries, and business platform.",
+    "longDescription": "Zenfolio is included in The Creative Vault as a photo business resource. Photography website, galleries, and business platform.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Photography",
+      "Photo Business",
+      "Business"
+    ],
+    "bestFor": [
+      "Photo Business",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-the-photographer-s-ephemeris",
+    "title": "The Photographer's Ephemeris",
+    "shortName": "The Photographer's Ephemeris",
+    "company": "Crookneck Consulting",
+    "website": "https://photoephemeris.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "subcategories": [
+      "Planning"
+    ],
+    "type": "Resource",
+    "shortDescription": "Sun, moon, and light planning tool for photographers.",
+    "longDescription": "The Photographer's Ephemeris is included in The Creative Vault as a planning resource. Sun, moon, and light planning tool for photographers.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "Planning",
+      "Planning"
+    ],
+    "bestFor": [
+      "Planning",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

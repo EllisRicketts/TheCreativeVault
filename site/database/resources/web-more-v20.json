@@ -1,0 +1,362 @@
+[
+  {
+    "id": "web-astro",
+    "title": "Astro",
+    "shortName": "Astro",
+    "company": "Astro",
+    "website": "https://astro.build/",
+    "category": "Web",
+    "categoryId": "web",
+    "subcategories": [
+      "Web Framework"
+    ],
+    "type": "Resource",
+    "shortDescription": "Modern web framework for content-driven sites.",
+    "longDescription": "Astro is included in The Creative Vault as a web framework resource. Modern web framework for content-driven sites.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Web",
+      "Web Framework",
+      "Framework"
+    ],
+    "bestFor": [
+      "Web Framework",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "web-next-js",
+    "title": "Next.js",
+    "shortName": "Next.js",
+    "company": "Vercel",
+    "website": "https://nextjs.org/",
+    "category": "Web",
+    "categoryId": "web",
+    "subcategories": [
+      "Web Framework"
+    ],
+    "type": "Resource",
+    "shortDescription": "React framework for full-stack web applications.",
+    "longDescription": "Next.js is included in The Creative Vault as a web framework resource. React framework for full-stack web applications.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Web",
+      "Web Framework",
+      "React"
+    ],
+    "bestFor": [
+      "Web Framework",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "web-nuxt",
+    "title": "Nuxt",
+    "shortName": "Nuxt",
+    "company": "Nuxt",
+    "website": "https://nuxt.com/",
+    "category": "Web",
+    "categoryId": "web",
+    "subcategories": [
+      "Web Framework"
+    ],
+    "type": "Resource",
+    "shortDescription": "Vue framework for full-stack web applications.",
+    "longDescription": "Nuxt is included in The Creative Vault as a web framework resource. Vue framework for full-stack web applications.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Web",
+      "Web Framework",
+      "Vue"
+    ],
+    "bestFor": [
+      "Web Framework",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "web-sveltekit",
+    "title": "SvelteKit",
+    "shortName": "SvelteKit",
+    "company": "Svelte",
+    "website": "https://svelte.dev/docs/kit/introduction",
+    "category": "Web",
+    "categoryId": "web",
+    "subcategories": [
+      "Web Framework"
+    ],
+    "type": "Resource",
+    "shortDescription": "Svelte framework for building web apps.",
+    "longDescription": "SvelteKit is included in The Creative Vault as a web framework resource. Svelte framework for building web apps.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Web",
+      "Web Framework",
+      "Svelte"
+    ],
+    "bestFor": [
+      "Web Framework",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "web-remix",
+    "title": "Remix",
+    "shortName": "Remix",
+    "company": "Shopify",
+    "website": "https://remix.run/",
+    "category": "Web",
+    "categoryId": "web",
+    "subcategories": [
+      "Web Framework"
+    ],
+    "type": "Resource",
+    "shortDescription": "Full-stack web framework focused on web standards.",
+    "longDescription": "Remix is included in The Creative Vault as a web framework resource. Full-stack web framework focused on web standards.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Web",
+      "Web Framework",
+      "React"
+    ],
+    "bestFor": [
+      "Web Framework",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "web-eleventy",
+    "title": "Eleventy",
+    "shortName": "Eleventy",
+    "company": "11ty",
+    "website": "https://www.11ty.dev/",
+    "category": "Web",
+    "categoryId": "web",
+    "subcategories": [
+      "Static Site Generator"
+    ],
+    "type": "Resource",
+    "shortDescription": "Simple static site generator.",
+    "longDescription": "Eleventy is included in The Creative Vault as a static site generator resource. Simple static site generator.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Web",
+      "Static Site Generator",
+      "Static Site"
+    ],
+    "bestFor": [
+      "Static Site Generator",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "web-hugo",
+    "title": "Hugo",
+    "shortName": "Hugo",
+    "company": "Hugo",
+    "website": "https://gohugo.io/",
+    "category": "Web",
+    "categoryId": "web",
+    "subcategories": [
+      "Static Site Generator"
+    ],
+    "type": "Resource",
+    "shortDescription": "Fast static site generator written in Go.",
+    "longDescription": "Hugo is included in The Creative Vault as a static site generator resource. Fast static site generator written in Go.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Web",
+      "Static Site Generator",
+      "Static Site"
+    ],
+    "bestFor": [
+      "Static Site Generator",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "web-jekyll",
+    "title": "Jekyll",
+    "shortName": "Jekyll",
+    "company": "Jekyll",
+    "website": "https://jekyllrb.com/",
+    "category": "Web",
+    "categoryId": "web",
+    "subcategories": [
+      "Static Site Generator"
+    ],
+    "type": "Resource",
+    "shortDescription": "Static site generator popular with GitHub Pages.",
+    "longDescription": "Jekyll is included in The Creative Vault as a static site generator resource. Static site generator popular with GitHub Pages.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Web",
+      "Static Site Generator",
+      "Static Site"
+    ],
+    "bestFor": [
+      "Static Site Generator",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "web-docusaurus",
+    "title": "Docusaurus",
+    "shortName": "Docusaurus",
+    "company": "Meta",
+    "website": "https://docusaurus.io/",
+    "category": "Web",
+    "categoryId": "web",
+    "subcategories": [
+      "Documentation Site"
+    ],
+    "type": "Resource",
+    "shortDescription": "Static site generator for documentation websites.",
+    "longDescription": "Docusaurus is included in The Creative Vault as a documentation site resource. Static site generator for documentation websites.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Web",
+      "Documentation Site",
+      "Docs"
+    ],
+    "bestFor": [
+      "Documentation Site",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "web-mintlify",
+    "title": "Mintlify",
+    "shortName": "Mintlify",
+    "company": "Mintlify",
+    "website": "https://mintlify.com/",
+    "category": "Web",
+    "categoryId": "web",
+    "subcategories": [
+      "Documentation Site"
+    ],
+    "type": "Resource",
+    "shortDescription": "Documentation platform for modern developer docs.",
+    "longDescription": "Mintlify is included in The Creative Vault as a documentation site resource. Documentation platform for modern developer docs.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Web",
+      "Documentation Site",
+      "Docs"
+    ],
+    "bestFor": [
+      "Documentation Site",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

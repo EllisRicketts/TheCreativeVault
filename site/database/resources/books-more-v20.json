@@ -1,0 +1,362 @@
+[
+  {
+    "id": "books-openstax",
+    "title": "OpenStax",
+    "shortName": "OpenStax",
+    "company": "OpenStax",
+    "website": "https://openstax.org/",
+    "category": "Books",
+    "categoryId": "books",
+    "subcategories": [
+      "Open Textbooks"
+    ],
+    "type": "Resource",
+    "shortDescription": "Free peer-reviewed textbooks.",
+    "longDescription": "OpenStax is included in The Creative Vault as a open textbooks resource. Free peer-reviewed textbooks.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Books",
+      "Open Textbooks",
+      "Textbooks"
+    ],
+    "bestFor": [
+      "Open Textbooks",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "books-standard-ebooks",
+    "title": "Standard Ebooks",
+    "shortName": "Standard Ebooks",
+    "company": "Standard Ebooks",
+    "website": "https://standardebooks.org/",
+    "category": "Books",
+    "categoryId": "books",
+    "subcategories": [
+      "Public Domain Books"
+    ],
+    "type": "Resource",
+    "shortDescription": "Carefully formatted public domain ebooks.",
+    "longDescription": "Standard Ebooks is included in The Creative Vault as a public domain books resource. Carefully formatted public domain ebooks.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Books",
+      "Public Domain Books",
+      "Public Domain"
+    ],
+    "bestFor": [
+      "Public Domain Books",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "books-manybooks",
+    "title": "ManyBooks",
+    "shortName": "ManyBooks",
+    "company": "ManyBooks",
+    "website": "https://manybooks.net/",
+    "category": "Books",
+    "categoryId": "books",
+    "subcategories": [
+      "Ebooks"
+    ],
+    "type": "Resource",
+    "shortDescription": "Free and discounted ebooks.",
+    "longDescription": "ManyBooks is included in The Creative Vault as a ebooks resource. Free and discounted ebooks.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Books",
+      "Ebooks",
+      "Ebooks"
+    ],
+    "bestFor": [
+      "Ebooks",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "books-bookbub",
+    "title": "BookBub",
+    "shortName": "BookBub",
+    "company": "BookBub",
+    "website": "https://www.bookbub.com/",
+    "category": "Books",
+    "categoryId": "books",
+    "subcategories": [
+      "Book Discovery"
+    ],
+    "type": "Resource",
+    "shortDescription": "Book discovery and deals platform.",
+    "longDescription": "BookBub is included in The Creative Vault as a book discovery resource. Book discovery and deals platform.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Books",
+      "Book Discovery",
+      "Discovery"
+    ],
+    "bestFor": [
+      "Book Discovery",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "books-librivox",
+    "title": "LibriVox",
+    "shortName": "LibriVox",
+    "company": "LibriVox",
+    "website": "https://librivox.org/",
+    "category": "Books",
+    "categoryId": "books",
+    "subcategories": [
+      "Audiobooks"
+    ],
+    "type": "Resource",
+    "shortDescription": "Free public domain audiobooks read by volunteers.",
+    "longDescription": "LibriVox is included in The Creative Vault as a audiobooks resource. Free public domain audiobooks read by volunteers.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Books",
+      "Audiobooks",
+      "Audiobooks"
+    ],
+    "bestFor": [
+      "Audiobooks",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "books-open-library",
+    "title": "Open Library",
+    "shortName": "Open Library",
+    "company": "Internet Archive",
+    "website": "https://openlibrary.org/",
+    "category": "Books",
+    "categoryId": "books",
+    "subcategories": [
+      "Digital Library"
+    ],
+    "type": "Resource",
+    "shortDescription": "Open catalog and digital lending library.",
+    "longDescription": "Open Library is included in The Creative Vault as a digital library resource. Open catalog and digital lending library.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Books",
+      "Digital Library",
+      "Library"
+    ],
+    "bestFor": [
+      "Digital Library",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "books-hathitrust",
+    "title": "HathiTrust",
+    "shortName": "HathiTrust",
+    "company": "HathiTrust",
+    "website": "https://www.hathitrust.org/",
+    "category": "Books",
+    "categoryId": "books",
+    "subcategories": [
+      "Digital Library"
+    ],
+    "type": "Resource",
+    "shortDescription": "Digital library of books and research materials.",
+    "longDescription": "HathiTrust is included in The Creative Vault as a digital library resource. Digital library of books and research materials.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Books",
+      "Digital Library",
+      "Library"
+    ],
+    "bestFor": [
+      "Digital Library",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "books-directory-of-open-access-books",
+    "title": "Directory of Open Access Books",
+    "shortName": "Directory of Open Access Books",
+    "company": "DOAB",
+    "website": "https://www.doabooks.org/",
+    "category": "Books",
+    "categoryId": "books",
+    "subcategories": [
+      "Open Access Books"
+    ],
+    "type": "Resource",
+    "shortDescription": "Directory of peer-reviewed open access books.",
+    "longDescription": "Directory of Open Access Books is included in The Creative Vault as a open access books resource. Directory of peer-reviewed open access books.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Books",
+      "Open Access Books",
+      "Open Access"
+    ],
+    "bestFor": [
+      "Open Access Books",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "books-jstor-open-content",
+    "title": "JSTOR Open Content",
+    "shortName": "JSTOR Open Content",
+    "company": "JSTOR",
+    "website": "https://www.jstor.org/open/",
+    "category": "Books",
+    "categoryId": "books",
+    "subcategories": [
+      "Research Library"
+    ],
+    "type": "Resource",
+    "shortDescription": "Open access journals, books, images, and research materials.",
+    "longDescription": "JSTOR Open Content is included in The Creative Vault as a research library resource. Open access journals, books, images, and research materials.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Books",
+      "Research Library",
+      "Research"
+    ],
+    "bestFor": [
+      "Research Library",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "books-monoskop",
+    "title": "Monoskop",
+    "shortName": "Monoskop",
+    "company": "Monoskop",
+    "website": "https://monoskop.org/",
+    "category": "Books",
+    "categoryId": "books",
+    "subcategories": [
+      "Art Theory Library"
+    ],
+    "type": "Resource",
+    "shortDescription": "Wiki and library for art, media theory, design, and culture.",
+    "longDescription": "Monoskop is included in The Creative Vault as a art theory library resource. Wiki and library for art, media theory, design, and culture.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Books",
+      "Art Theory Library",
+      "Art Theory"
+    ],
+    "bestFor": [
+      "Art Theory Library",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

@@ -1,0 +1,1083 @@
+[
+  {
+    "id": "photography-capture-one",
+    "title": "Capture One",
+    "shortName": "Capture One",
+    "company": "Capture One",
+    "website": "https://www.captureone.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Editing Software"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Professional RAW editing, tethering, color, and photo workflow platform.",
+    "longDescription": "Capture One is included in The Creative Vault as a photography resource. Professional RAW editing, tethering, color, and photo workflow platform.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "Editing Software",
+      "RAW",
+      "Tethering"
+    ],
+    "bestFor": [
+      "Editing Software",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": true,
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-dxo-photolab",
+    "title": "DxO PhotoLab",
+    "shortName": "DxO PhotoLab",
+    "company": "DxO",
+    "website": "https://www.dxo.com/dxo-photolab/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Editing Software"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "RAW photo editor known for lens correction and denoising.",
+    "longDescription": "DxO PhotoLab is included in The Creative Vault as a photography resource. RAW photo editor known for lens correction and denoising.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "Editing Software",
+      "RAW"
+    ],
+    "bestFor": [
+      "Editing Software",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-dxo-pureraw",
+    "title": "DxO PureRAW",
+    "shortName": "DxO PureRAW",
+    "company": "DxO",
+    "website": "https://www.dxo.com/dxo-pureraw/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "RAW Processing"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "RAW preprocessing for noise reduction, demosaicing, and optical corrections.",
+    "longDescription": "DxO PureRAW is included in The Creative Vault as a photography resource. RAW preprocessing for noise reduction, demosaicing, and optical corrections.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "RAW Processing",
+      "RAW"
+    ],
+    "bestFor": [
+      "RAW Processing",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-on1-photo-raw",
+    "title": "ON1 Photo RAW",
+    "shortName": "ON1 Photo RAW",
+    "company": "ON1",
+    "website": "https://www.on1.com/products/photo-raw/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Editing Software"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Photo editing, RAW processing, effects, and organizing software.",
+    "longDescription": "ON1 Photo RAW is included in The Creative Vault as a photography resource. Photo editing, RAW processing, effects, and organizing software.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "Editing Software",
+      "RAW"
+    ],
+    "bestFor": [
+      "Editing Software",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-luminar-neo",
+    "title": "Luminar Neo",
+    "shortName": "Luminar Neo",
+    "company": "Skylum",
+    "website": "https://skylum.com/luminar",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "AI Photo Tools"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "AI-powered photo editor for enhancement, sky replacement, portrait tools, and effects.",
+    "longDescription": "Luminar Neo is included in The Creative Vault as a photography resource. AI-powered photo editor for enhancement, sky replacement, portrait tools, and effects.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "AI Photo Tools",
+      "AI"
+    ],
+    "bestFor": [
+      "AI Photo Tools",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-darktable",
+    "title": "Darktable",
+    "shortName": "Darktable",
+    "company": "Darktable",
+    "website": "https://www.darktable.org/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "RAW Processing"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Free open-source photography workflow and RAW developer.",
+    "longDescription": "Darktable is included in The Creative Vault as a photography resource. Free open-source photography workflow and RAW developer.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "RAW Processing",
+      "Open Source",
+      "RAW"
+    ],
+    "bestFor": [
+      "RAW Processing",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": true,
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-rawtherapee",
+    "title": "RawTherapee",
+    "shortName": "RawTherapee",
+    "company": "RawTherapee",
+    "website": "https://www.rawtherapee.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "RAW Processing"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Free open-source RAW photo processing software.",
+    "longDescription": "RawTherapee is included in The Creative Vault as a photography resource. Free open-source RAW photo processing software.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "RAW Processing",
+      "Open Source",
+      "RAW"
+    ],
+    "bestFor": [
+      "RAW Processing",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": true,
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-art-raw-converter",
+    "title": "ART Raw Converter",
+    "shortName": "ART Raw Converter",
+    "company": "ART",
+    "website": "https://bitbucket.org/agriggio/art/wiki/Home",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "RAW Processing"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Open-source RAW processor derived from RawTherapee.",
+    "longDescription": "ART Raw Converter is included in The Creative Vault as a photography resource. Open-source RAW processor derived from RawTherapee.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "RAW Processing",
+      "Open Source",
+      "RAW"
+    ],
+    "bestFor": [
+      "RAW Processing",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-digikam",
+    "title": "digiKam",
+    "shortName": "digiKam",
+    "company": "digiKam",
+    "website": "https://www.digikam.org/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photo Management"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Open-source photo management and editing application.",
+    "longDescription": "digiKam is included in The Creative Vault as a photography resource. Open-source photo management and editing application.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Photo Management",
+      "Open Source",
+      "DAM"
+    ],
+    "bestFor": [
+      "Photo Management",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": true,
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-adobe-dng-converter",
+    "title": "Adobe DNG Converter",
+    "shortName": "Adobe DNG Converter",
+    "company": "Adobe",
+    "website": "https://helpx.adobe.com/camera-raw/using/adobe-dng-converter.html",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "RAW Processing"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Free converter for camera RAW files to DNG.",
+    "longDescription": "Adobe DNG Converter is included in The Creative Vault as a photography resource. Free converter for camera RAW files to DNG.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "RAW Processing",
+      "RAW",
+      "Adobe"
+    ],
+    "bestFor": [
+      "RAW Processing",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-xnview-mp",
+    "title": "XnView MP",
+    "shortName": "XnView MP",
+    "company": "XnSoft",
+    "website": "https://www.xnview.com/en/xnviewmp/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photo Management"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Image viewer, browser, and converter for photographers.",
+    "longDescription": "XnView MP is included in The Creative Vault as a photography resource. Image viewer, browser, and converter for photographers.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Photo Management",
+      "Browser"
+    ],
+    "bestFor": [
+      "Photo Management",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-faststone-image-viewer",
+    "title": "FastStone Image Viewer",
+    "shortName": "FastStone Image Viewer",
+    "company": "FastStone",
+    "website": "https://www.faststone.org/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photo Management"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Image viewer, browser, converter, and basic editor.",
+    "longDescription": "FastStone Image Viewer is included in The Creative Vault as a photography resource. Image viewer, browser, converter, and basic editor.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Photo Management",
+      "Viewer"
+    ],
+    "bestFor": [
+      "Photo Management",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-irfanview",
+    "title": "IrfanView",
+    "shortName": "IrfanView",
+    "company": "Irfan Skiljan",
+    "website": "https://www.irfanview.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photo Management"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Fast image viewer and converter for Windows.",
+    "longDescription": "IrfanView is included in The Creative Vault as a photography resource. Fast image viewer and converter for Windows.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Photo Management",
+      "Viewer"
+    ],
+    "bestFor": [
+      "Photo Management",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-topaz-photo-ai",
+    "title": "Topaz Photo AI",
+    "shortName": "Topaz Photo AI",
+    "company": "Topaz Labs",
+    "website": "https://www.topazlabs.com/topaz-photo-ai",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "AI Photo Tools"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "AI image enhancement, sharpening, noise reduction, and upscaling.",
+    "longDescription": "Topaz Photo AI is included in The Creative Vault as a photography resource. AI image enhancement, sharpening, noise reduction, and upscaling.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "AI Photo Tools",
+      "AI"
+    ],
+    "bestFor": [
+      "AI Photo Tools",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": true,
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-topaz-gigapixel",
+    "title": "Topaz Gigapixel",
+    "shortName": "Topaz Gigapixel",
+    "company": "Topaz Labs",
+    "website": "https://www.topazlabs.com/gigapixel",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "AI Photo Tools"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "AI image upscaling software.",
+    "longDescription": "Topaz Gigapixel is included in The Creative Vault as a photography resource. AI image upscaling software.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "AI Photo Tools",
+      "AI",
+      "Upscaling"
+    ],
+    "bestFor": [
+      "AI Photo Tools",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-topaz-denoise-archive",
+    "title": "Topaz Denoise Archive",
+    "shortName": "Topaz Denoise Archive",
+    "company": "Topaz Labs",
+    "website": "https://www.topazlabs.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "AI Photo Tools"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Topaz photo noise reduction tools and product ecosystem.",
+    "longDescription": "Topaz Denoise Archive is included in The Creative Vault as a photography resource. Topaz photo noise reduction tools and product ecosystem.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "AI Photo Tools",
+      "AI",
+      "Denoise"
+    ],
+    "bestFor": [
+      "AI Photo Tools",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-imagen",
+    "title": "Imagen",
+    "shortName": "Imagen",
+    "company": "Imagen",
+    "website": "https://imagen-ai.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "AI Photo Tools"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "AI photo editing platform for photographers.",
+    "longDescription": "Imagen is included in The Creative Vault as a photography resource. AI photo editing platform for photographers.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "AI Photo Tools",
+      "AI",
+      "Editing"
+    ],
+    "bestFor": [
+      "AI Photo Tools",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-aftershoot",
+    "title": "Aftershoot",
+    "shortName": "Aftershoot",
+    "company": "Aftershoot",
+    "website": "https://aftershoot.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "AI Photo Tools"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "AI-powered photo culling and editing workflow.",
+    "longDescription": "Aftershoot is included in The Creative Vault as a photography resource. AI-powered photo culling and editing workflow.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Photography",
+      "AI Photo Tools",
+      "AI",
+      "Culling"
+    ],
+    "bestFor": [
+      "AI Photo Tools",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-narrative-select",
+    "title": "Narrative Select",
+    "shortName": "Narrative Select",
+    "company": "Narrative",
+    "website": "https://narrative.so/select",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "AI Photo Tools"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Photo culling software built for photographers.",
+    "longDescription": "Narrative Select is included in The Creative Vault as a photography resource. Photo culling software built for photographers.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Photography",
+      "AI Photo Tools",
+      "Culling"
+    ],
+    "bestFor": [
+      "AI Photo Tools",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-filterpixel",
+    "title": "FilterPixel",
+    "shortName": "FilterPixel",
+    "company": "FilterPixel",
+    "website": "https://filterpixel.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "AI Photo Tools"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "AI culling software for photographers.",
+    "longDescription": "FilterPixel is included in The Creative Vault as a photography resource. AI culling software for photographers.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "AI Photo Tools",
+      "AI",
+      "Culling"
+    ],
+    "bestFor": [
+      "AI Photo Tools",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-excire-foto",
+    "title": "Excire Foto",
+    "shortName": "Excire Foto",
+    "company": "Excire",
+    "website": "https://excire.com/en/excire-foto/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "AI Photo Tools"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "AI photo management and search software.",
+    "longDescription": "Excire Foto is included in The Creative Vault as a photography resource. AI photo management and search software.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "AI Photo Tools",
+      "AI",
+      "DAM"
+    ],
+    "bestFor": [
+      "AI Photo Tools",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-excire-search",
+    "title": "Excire Search",
+    "shortName": "Excire Search",
+    "company": "Excire",
+    "website": "https://excire.com/en/excire-search/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "AI Photo Tools"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "AI search plugin for Lightroom Classic.",
+    "longDescription": "Excire Search is included in The Creative Vault as a photography resource. AI search plugin for Lightroom Classic.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "AI Photo Tools",
+      "AI",
+      "Lightroom"
+    ],
+    "bestFor": [
+      "AI Photo Tools",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-retouch4me",
+    "title": "Retouch4me",
+    "shortName": "Retouch4me",
+    "company": "Retouch4me",
+    "website": "https://retouch4.me/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "AI Photo Tools"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "AI retouching plugins for portrait and commercial photography.",
+    "longDescription": "Retouch4me is included in The Creative Vault as a photography resource. AI retouching plugins for portrait and commercial photography.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "AI Photo Tools",
+      "AI",
+      "Retouching"
+    ],
+    "bestFor": [
+      "AI Photo Tools",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-evoto-ai",
+    "title": "Evoto AI",
+    "shortName": "Evoto AI",
+    "company": "Evoto",
+    "website": "https://www.evoto.ai/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "AI Photo Tools"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "AI photo editing and portrait retouching software.",
+    "longDescription": "Evoto AI is included in The Creative Vault as a photography resource. AI photo editing and portrait retouching software.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "AI Photo Tools",
+      "AI",
+      "Retouching"
+    ],
+    "bestFor": [
+      "AI Photo Tools",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-photoroom",
+    "title": "Photoroom",
+    "shortName": "Photoroom",
+    "company": "Photoroom",
+    "website": "https://www.photoroom.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "AI Photo Tools"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "AI product photo editing, background removal, and ecommerce imagery.",
+    "longDescription": "Photoroom is included in The Creative Vault as a photography resource. AI product photo editing, background removal, and ecommerce imagery.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Photography",
+      "AI Photo Tools",
+      "AI",
+      "Product Photo"
+    ],
+    "bestFor": [
+      "AI Photo Tools",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

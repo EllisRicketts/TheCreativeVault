@@ -1,0 +1,854 @@
+[
+  {
+    "id": "photography-mastin-labs",
+    "title": "Mastin Labs",
+    "shortName": "Mastin Labs",
+    "company": "Mastin Labs",
+    "website": "https://mastinlabs.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Presets"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Film-inspired Lightroom presets and photography education.",
+    "longDescription": "Mastin Labs is included in The Creative Vault as a photography resource. Film-inspired Lightroom presets and photography education.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "Presets",
+      "Lightroom Presets"
+    ],
+    "bestFor": [
+      "Presets",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": true,
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-dvlop",
+    "title": "DVLOP",
+    "shortName": "DVLOP",
+    "company": "DVLOP",
+    "website": "https://dvlop.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Presets"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Lightroom presets and profiles from professional photographers.",
+    "longDescription": "DVLOP is included in The Creative Vault as a photography resource. Lightroom presets and profiles from professional photographers.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "Presets",
+      "Lightroom Presets"
+    ],
+    "bestFor": [
+      "Presets",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": true,
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-rni-films",
+    "title": "RNI Films",
+    "shortName": "RNI Films",
+    "company": "Really Nice Images",
+    "website": "https://reallyniceimages.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Presets"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Film simulation profiles and presets for Lightroom and Capture One.",
+    "longDescription": "RNI Films is included in The Creative Vault as a photography resource. Film simulation profiles and presets for Lightroom and Capture One.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "Presets",
+      "Film Looks"
+    ],
+    "bestFor": [
+      "Presets",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": true,
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-noble-presets",
+    "title": "Noble Presets",
+    "shortName": "Noble Presets",
+    "company": "Noble Presets",
+    "website": "https://noblepresets.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Presets"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Wedding and portrait photography presets.",
+    "longDescription": "Noble Presets is included in The Creative Vault as a photography resource. Wedding and portrait photography presets.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "Presets",
+      "Presets"
+    ],
+    "bestFor": [
+      "Presets",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-archipelago-presets",
+    "title": "Archipelago Presets",
+    "shortName": "Archipelago Presets",
+    "company": "Archipelago",
+    "website": "https://archipelagopresets.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Presets"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Lightroom presets and profiles for photographers.",
+    "longDescription": "Archipelago Presets is included in The Creative Vault as a photography resource. Lightroom presets and profiles for photographers.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "Presets",
+      "Presets"
+    ],
+    "bestFor": [
+      "Presets",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-tribe-archipelago",
+    "title": "Tribe Archipelago",
+    "shortName": "Tribe Archipelago",
+    "company": "Archipelago",
+    "website": "https://archipelagopresets.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Presets"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Editorial and wedding-style Lightroom preset collections.",
+    "longDescription": "Tribe Archipelago is included in The Creative Vault as a photography resource. Editorial and wedding-style Lightroom preset collections.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "Presets",
+      "Presets"
+    ],
+    "bestFor": [
+      "Presets",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-the-archetype-process",
+    "title": "The Archetype Process",
+    "shortName": "The Archetype Process",
+    "company": "The Archetype Process",
+    "website": "https://thearchetypeprocess.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Presets"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Film emulation profiles for Lightroom and Capture One.",
+    "longDescription": "The Archetype Process is included in The Creative Vault as a photography resource. Film emulation profiles for Lightroom and Capture One.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "Presets",
+      "Film Emulation"
+    ],
+    "bestFor": [
+      "Presets",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": true,
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-dehancer",
+    "title": "Dehancer",
+    "shortName": "Dehancer",
+    "company": "Dehancer",
+    "website": "https://www.dehancer.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Color Tools"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Film emulation and color grading plugin for photo and video workflows.",
+    "longDescription": "Dehancer is included in The Creative Vault as a photography resource. Film emulation and color grading plugin for photo and video workflows.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "Color Tools",
+      "Film Emulation"
+    ],
+    "bestFor": [
+      "Color Tools",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": true,
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-3d-lut-creator",
+    "title": "3D LUT Creator",
+    "shortName": "3D LUT Creator",
+    "company": "3D LUT Creator",
+    "website": "https://3dlutcreator.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Color Tools"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Advanced color grading and LUT creation software.",
+    "longDescription": "3D LUT Creator is included in The Creative Vault as a photography resource. Advanced color grading and LUT creation software.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "Color Tools",
+      "LUTs"
+    ],
+    "bestFor": [
+      "Color Tools",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-lutify-me",
+    "title": "Lutify.me",
+    "shortName": "Lutify.me",
+    "company": "Lutify.me",
+    "website": "https://lutify.me/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "LUT Libraries"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Professional LUTs and color grading tools for photo and video.",
+    "longDescription": "Lutify.me is included in The Creative Vault as a photography resource. Professional LUTs and color grading tools for photo and video.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "LUT Libraries",
+      "LUTs"
+    ],
+    "bestFor": [
+      "LUT Libraries",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-iwltbap-luts",
+    "title": "IWLTBAP LUTs",
+    "shortName": "IWLTBAP LUTs",
+    "company": "IWLTBAP",
+    "website": "https://luts.iwltbap.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "LUT Libraries"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Creative LUT packs for video and photography.",
+    "longDescription": "IWLTBAP LUTs is included in The Creative Vault as a photography resource. Creative LUT packs for video and photography.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "LUT Libraries",
+      "LUTs"
+    ],
+    "bestFor": [
+      "LUT Libraries",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-triune-digital-luts",
+    "title": "Triune Digital LUTs",
+    "shortName": "Triune Digital LUTs",
+    "company": "Triune Digital",
+    "website": "https://www.triunedigital.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "LUT Libraries"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "LUTs, film assets, and production tools.",
+    "longDescription": "Triune Digital LUTs is included in The Creative Vault as a photography resource. LUTs, film assets, and production tools.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "LUT Libraries",
+      "LUTs"
+    ],
+    "bestFor": [
+      "LUT Libraries",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-fresh-luts",
+    "title": "Fresh LUTs",
+    "shortName": "Fresh LUTs",
+    "company": "Fresh LUTs",
+    "website": "https://freshluts.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "LUT Libraries"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Free LUT sharing and discovery platform.",
+    "longDescription": "Fresh LUTs is included in The Creative Vault as a photography resource. Free LUT sharing and discovery platform.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "LUT Libraries",
+      "Free LUTs"
+    ],
+    "bestFor": [
+      "LUT Libraries",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-color-io",
+    "title": "Color.io",
+    "shortName": "Color.io",
+    "company": "Color.io",
+    "website": "https://www.color.io/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Color Tools"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Color grading and film look design tool.",
+    "longDescription": "Color.io is included in The Creative Vault as a photography resource. Color grading and film look design tool.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Photography",
+      "Color Tools",
+      "Color Grading"
+    ],
+    "bestFor": [
+      "Color Tools",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-gradient-map-generator",
+    "title": "Gradient Map Generator",
+    "shortName": "Gradient Map Generator",
+    "company": "Learn UI Design",
+    "website": "https://learnui.design/tools/gradient-generator.html",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Color Tools"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Free gradient generator useful for visual color exploration.",
+    "longDescription": "Gradient Map Generator is included in The Creative Vault as a photography resource. Free gradient generator useful for visual color exploration.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Color Tools",
+      "Color"
+    ],
+    "bestFor": [
+      "Color Tools",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-cinematch",
+    "title": "CineMatch",
+    "shortName": "CineMatch",
+    "company": "FilmConvert",
+    "website": "https://www.cinematch.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Color Tools"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Camera matching and color workflow tool.",
+    "longDescription": "CineMatch is included in The Creative Vault as a photography resource. Camera matching and color workflow tool.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "Color Tools",
+      "Color Matching"
+    ],
+    "bestFor": [
+      "Color Tools",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-filmconvert-nitrate",
+    "title": "FilmConvert Nitrate",
+    "shortName": "FilmConvert Nitrate",
+    "company": "FilmConvert",
+    "website": "https://www.filmconvert.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Color Tools"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Film stock emulation and color grading plugin.",
+    "longDescription": "FilmConvert Nitrate is included in The Creative Vault as a photography resource. Film stock emulation and color grading plugin.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "Color Tools",
+      "Film Emulation"
+    ],
+    "bestFor": [
+      "Color Tools",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-color-io-film-emulator",
+    "title": "Color.io Film Emulator",
+    "shortName": "Color.io Film Emulator",
+    "company": "Color.io",
+    "website": "https://www.color.io/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Color Tools"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Browser-based film emulation and color workflow.",
+    "longDescription": "Color.io Film Emulator is included in The Creative Vault as a photography resource. Browser-based film emulation and color workflow.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Photography",
+      "Color Tools",
+      "Color"
+    ],
+    "bestFor": [
+      "Color Tools",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-palette-fm",
+    "title": "Palette.fm",
+    "shortName": "Palette.fm",
+    "company": "Palette.fm",
+    "website": "https://palette.fm/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "AI Photo Tools"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "AI photo colorization tool.",
+    "longDescription": "Palette.fm is included in The Creative Vault as a photography resource. AI photo colorization tool.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Photography",
+      "AI Photo Tools",
+      "AI",
+      "Color"
+    ],
+    "bestFor": [
+      "AI Photo Tools",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-colorize-cc",
+    "title": "Colorize.cc",
+    "shortName": "Colorize.cc",
+    "company": "Colorize",
+    "website": "https://imagecolorizer.com/colorize.html",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "AI Photo Tools"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "AI image colorization tool.",
+    "longDescription": "Colorize.cc is included in The Creative Vault as a photography resource. AI image colorization tool.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Photography",
+      "AI Photo Tools",
+      "AI",
+      "Color"
+    ],
+    "bestFor": [
+      "AI Photo Tools",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

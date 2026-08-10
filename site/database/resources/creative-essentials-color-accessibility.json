@@ -1,0 +1,982 @@
+[
+  {
+    "id": "essential-coolors",
+    "title": "Coolors",
+    "shortName": "Coolors",
+    "company": "Coolors",
+    "website": "https://coolors.co/",
+    "category": "Design",
+    "categoryId": "design",
+    "categories": [
+      "Design",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "design",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Design",
+    "subcategories": [
+      "Color Tools",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Generate color palettes quickly.",
+    "longDescription": "Coolors is included in The Creative Vault Creative Essentials Pack. Generate color palettes quickly.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Design",
+      "Color Tools",
+      "Color"
+    ],
+    "bestFor": [
+      "Color Tools",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-realtime-colors",
+    "title": "Realtime Colors",
+    "shortName": "Realtime Colors",
+    "company": "Realtime Colors",
+    "website": "https://www.realtimecolors.com/",
+    "category": "Design",
+    "categoryId": "design",
+    "categories": [
+      "Design",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "design",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Design",
+    "subcategories": [
+      "Color Tools",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Preview color palettes on real UI examples.",
+    "longDescription": "Realtime Colors is included in The Creative Vault Creative Essentials Pack. Preview color palettes on real UI examples.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Design",
+      "Color Tools",
+      "Color"
+    ],
+    "bestFor": [
+      "Color Tools",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-color-hunt",
+    "title": "Color Hunt",
+    "shortName": "Color Hunt",
+    "company": "Color Hunt",
+    "website": "https://colorhunt.co/",
+    "category": "Design",
+    "categoryId": "design",
+    "categories": [
+      "Design",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "design",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Design",
+    "subcategories": [
+      "Color Palettes",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Curated color palette inspiration.",
+    "longDescription": "Color Hunt is included in The Creative Vault Creative Essentials Pack. Curated color palette inspiration.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Design",
+      "Color Palettes",
+      "Color"
+    ],
+    "bestFor": [
+      "Color Palettes",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-adobe-color-wheel",
+    "title": "Adobe Color Wheel",
+    "shortName": "Adobe Color Wheel",
+    "company": "Adobe",
+    "website": "https://color.adobe.com/create/color-wheel",
+    "category": "Design",
+    "categoryId": "design",
+    "categories": [
+      "Design",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "design",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Design",
+    "subcategories": [
+      "Color Tools",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Create color harmonies and palettes.",
+    "longDescription": "Adobe Color Wheel is included in The Creative Vault Creative Essentials Pack. Create color harmonies and palettes.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Design",
+      "Color Tools",
+      "Color"
+    ],
+    "bestFor": [
+      "Color Tools",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-paletton",
+    "title": "Paletton",
+    "shortName": "Paletton",
+    "company": "Paletton",
+    "website": "https://paletton.com/",
+    "category": "Design",
+    "categoryId": "design",
+    "categories": [
+      "Design",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "design",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Design",
+    "subcategories": [
+      "Color Tools",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Interactive color scheme designer.",
+    "longDescription": "Paletton is included in The Creative Vault Creative Essentials Pack. Interactive color scheme designer.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Design",
+      "Color Tools",
+      "Color"
+    ],
+    "bestFor": [
+      "Color Tools",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-colormind",
+    "title": "Colormind",
+    "shortName": "Colormind",
+    "company": "Colormind",
+    "website": "http://colormind.io/",
+    "category": "Design",
+    "categoryId": "design",
+    "categories": [
+      "Design",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "design",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Design",
+    "subcategories": [
+      "Color Tools",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "AI-powered color palette generator.",
+    "longDescription": "Colormind is included in The Creative Vault Creative Essentials Pack. AI-powered color palette generator.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Design",
+      "Color Tools",
+      "Color"
+    ],
+    "bestFor": [
+      "Color Tools",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-happy-hues",
+    "title": "Happy Hues",
+    "shortName": "Happy Hues",
+    "company": "Happy Hues",
+    "website": "https://www.happyhues.co/",
+    "category": "Design",
+    "categoryId": "design",
+    "categories": [
+      "Design",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "design",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Design",
+    "subcategories": [
+      "Color Inspiration",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Curated color palettes shown on UI examples.",
+    "longDescription": "Happy Hues is included in The Creative Vault Creative Essentials Pack. Curated color palettes shown on UI examples.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Design",
+      "Color Inspiration",
+      "Color"
+    ],
+    "bestFor": [
+      "Color Inspiration",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-accessible-colors",
+    "title": "Accessible Colors",
+    "shortName": "Accessible Colors",
+    "company": "Accessible Colors",
+    "website": "https://accessible-colors.com/",
+    "category": "Accessibility",
+    "categoryId": "accessibility",
+    "categories": [
+      "Accessibility",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "accessibility",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Accessibility",
+    "subcategories": [
+      "Color Accessibility",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Test color contrast and accessibility.",
+    "longDescription": "Accessible Colors is included in The Creative Vault Creative Essentials Pack. Test color contrast and accessibility.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Accessibility",
+      "Color Accessibility",
+      "Contrast"
+    ],
+    "bestFor": [
+      "Color Accessibility",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-webaim-contrast-checker",
+    "title": "WebAIM Contrast Checker",
+    "shortName": "WebAIM Contrast Checker",
+    "company": "WebAIM",
+    "website": "https://webaim.org/resources/contrastchecker/",
+    "category": "Accessibility",
+    "categoryId": "accessibility",
+    "categories": [
+      "Accessibility",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "accessibility",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Accessibility",
+    "subcategories": [
+      "Color Accessibility",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Check text and background color contrast.",
+    "longDescription": "WebAIM Contrast Checker is included in The Creative Vault Creative Essentials Pack. Check text and background color contrast.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Accessibility",
+      "Color Accessibility",
+      "Contrast"
+    ],
+    "bestFor": [
+      "Color Accessibility",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-colorable",
+    "title": "Colorable",
+    "shortName": "Colorable",
+    "company": "Colorable",
+    "website": "https://colorable.jxnblk.com/",
+    "category": "Accessibility",
+    "categoryId": "accessibility",
+    "categories": [
+      "Accessibility",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "accessibility",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Accessibility",
+    "subcategories": [
+      "Color Accessibility",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Color contrast testing tool.",
+    "longDescription": "Colorable is included in The Creative Vault Creative Essentials Pack. Color contrast testing tool.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Accessibility",
+      "Color Accessibility",
+      "Contrast"
+    ],
+    "bestFor": [
+      "Color Accessibility",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-who-can-use",
+    "title": "Who Can Use",
+    "shortName": "Who Can Use",
+    "company": "Corey Ginnivan",
+    "website": "https://www.whocanuse.com/",
+    "category": "Accessibility",
+    "categoryId": "accessibility",
+    "categories": [
+      "Accessibility",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "accessibility",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Accessibility",
+    "subcategories": [
+      "Color Accessibility",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Shows how color contrast affects different users.",
+    "longDescription": "Who Can Use is included in The Creative Vault Creative Essentials Pack. Shows how color contrast affects different users.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Accessibility",
+      "Color Accessibility",
+      "Accessibility"
+    ],
+    "bestFor": [
+      "Color Accessibility",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-stark-contrast-checker",
+    "title": "Stark Contrast Checker",
+    "shortName": "Stark Contrast Checker",
+    "company": "Stark",
+    "website": "https://www.getstark.co/contrast-checker/",
+    "category": "Accessibility",
+    "categoryId": "accessibility",
+    "categories": [
+      "Accessibility",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "accessibility",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Accessibility",
+    "subcategories": [
+      "Color Accessibility",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free web contrast checker.",
+    "longDescription": "Stark Contrast Checker is included in The Creative Vault Creative Essentials Pack. Free web contrast checker.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Accessibility",
+      "Color Accessibility",
+      "Contrast"
+    ],
+    "bestFor": [
+      "Color Accessibility",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-color-safe",
+    "title": "Color Safe",
+    "shortName": "Color Safe",
+    "company": "Color Safe",
+    "website": "http://colorsafe.co/",
+    "category": "Accessibility",
+    "categoryId": "accessibility",
+    "categories": [
+      "Accessibility",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "accessibility",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Accessibility",
+    "subcategories": [
+      "Accessible Palettes",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Generate accessible color palettes.",
+    "longDescription": "Color Safe is included in The Creative Vault Creative Essentials Pack. Generate accessible color palettes.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Accessibility",
+      "Accessible Palettes",
+      "Accessibility"
+    ],
+    "bestFor": [
+      "Accessible Palettes",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-contrast-grid",
+    "title": "Contrast Grid",
+    "shortName": "Contrast Grid",
+    "company": "EightShapes",
+    "website": "https://contrast-grid.eightshapes.com/",
+    "category": "Accessibility",
+    "categoryId": "accessibility",
+    "categories": [
+      "Accessibility",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "accessibility",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Accessibility",
+    "subcategories": [
+      "Color Accessibility",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Test multiple foreground and background color combinations.",
+    "longDescription": "Contrast Grid is included in The Creative Vault Creative Essentials Pack. Test multiple foreground and background color combinations.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Accessibility",
+      "Color Accessibility",
+      "Contrast"
+    ],
+    "bestFor": [
+      "Color Accessibility",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-accessible-brand-colors",
+    "title": "Accessible Brand Colors",
+    "shortName": "Accessible Brand Colors",
+    "company": "Use All Five",
+    "website": "https://abc.useallfive.com/",
+    "category": "Accessibility",
+    "categoryId": "accessibility",
+    "categories": [
+      "Accessibility",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "accessibility",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Accessibility",
+    "subcategories": [
+      "Brand Accessibility",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Test brand color combinations for accessibility.",
+    "longDescription": "Accessible Brand Colors is included in The Creative Vault Creative Essentials Pack. Test brand color combinations for accessibility.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Accessibility",
+      "Brand Accessibility",
+      "Branding"
+    ],
+    "bestFor": [
+      "Brand Accessibility",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-toptal-color-blind-filter",
+    "title": "Toptal Color Blind Filter",
+    "shortName": "Toptal Color Blind Filter",
+    "company": "Toptal",
+    "website": "https://www.toptal.com/designers/colorfilter",
+    "category": "Accessibility",
+    "categoryId": "accessibility",
+    "categories": [
+      "Accessibility",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "accessibility",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Accessibility",
+    "subcategories": [
+      "Color Blindness",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Preview images through color blindness filters.",
+    "longDescription": "Toptal Color Blind Filter is included in The Creative Vault Creative Essentials Pack. Preview images through color blindness filters.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Accessibility",
+      "Color Blindness",
+      "Accessibility"
+    ],
+    "bestFor": [
+      "Color Blindness",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-coblis",
+    "title": "Coblis",
+    "shortName": "Coblis",
+    "company": "Colblindor",
+    "website": "https://www.color-blindness.com/coblis-color-blindness-simulator/",
+    "category": "Accessibility",
+    "categoryId": "accessibility",
+    "categories": [
+      "Accessibility",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "accessibility",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Accessibility",
+    "subcategories": [
+      "Color Blindness",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Color blindness simulator for images.",
+    "longDescription": "Coblis is included in The Creative Vault Creative Essentials Pack. Color blindness simulator for images.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Accessibility",
+      "Color Blindness",
+      "Accessibility"
+    ],
+    "bestFor": [
+      "Color Blindness",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-a11y-project-checklist",
+    "title": "A11y Project Checklist",
+    "shortName": "A11y Project Checklist",
+    "company": "The A11y Project",
+    "website": "https://www.a11yproject.com/checklist/",
+    "category": "Accessibility",
+    "categoryId": "accessibility",
+    "categories": [
+      "Accessibility",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "accessibility",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Accessibility",
+    "subcategories": [
+      "Accessibility Checklist",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Practical accessibility checklist.",
+    "longDescription": "A11y Project Checklist is included in The Creative Vault Creative Essentials Pack. Practical accessibility checklist.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Accessibility",
+      "Accessibility Checklist",
+      "Checklist"
+    ],
+    "bestFor": [
+      "Accessibility Checklist",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-wave",
+    "title": "WAVE",
+    "shortName": "WAVE",
+    "company": "WebAIM",
+    "website": "https://wave.webaim.org/",
+    "category": "Accessibility",
+    "categoryId": "accessibility",
+    "categories": [
+      "Accessibility",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "accessibility",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Accessibility",
+    "subcategories": [
+      "Accessibility Testing",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Evaluate web accessibility issues.",
+    "longDescription": "WAVE is included in The Creative Vault Creative Essentials Pack. Evaluate web accessibility issues.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Accessibility",
+      "Accessibility Testing",
+      "Testing"
+    ],
+    "bestFor": [
+      "Accessibility Testing",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-axe-devtools-browser-extension",
+    "title": "axe DevTools Browser Extension",
+    "shortName": "axe DevTools Browser Extension",
+    "company": "Deque",
+    "website": "https://www.deque.com/axe/devtools/",
+    "category": "Accessibility",
+    "categoryId": "accessibility",
+    "categories": [
+      "Accessibility",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "accessibility",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Accessibility",
+    "subcategories": [
+      "Accessibility Testing",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Browser accessibility testing extension.",
+    "longDescription": "axe DevTools Browser Extension is included in The Creative Vault Creative Essentials Pack. Browser accessibility testing extension.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Accessibility",
+      "Accessibility Testing",
+      "Testing"
+    ],
+    "bestFor": [
+      "Accessibility Testing",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

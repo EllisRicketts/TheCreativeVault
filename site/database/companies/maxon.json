@@ -1,0 +1,11 @@
+{
+  "id": "maxon",
+  "name": "Maxon",
+  "website": "https://www.maxon.net/",
+  "category": "Company",
+  "type": "3D and Motion Software Company",
+  "ecosystems": [
+    "Maxon"
+  ],
+  "description": "3D, sculpting, rendering, VFX, and motion graphics software company."
+}

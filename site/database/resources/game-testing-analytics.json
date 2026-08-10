@@ -1,0 +1,940 @@
+[
+  {
+    "id": "game-dev-extra-gameanalytics",
+    "title": "GameAnalytics",
+    "shortName": "GameAnalytics",
+    "company": "GameAnalytics",
+    "website": "https://gameanalytics.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Testing and Analytics"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Analytics platform for game developers.",
+    "longDescription": "GameAnalytics is included in The Creative Vault as a game development resource. Analytics platform for game developers.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Testing and Analytics",
+      "Analytics"
+    ],
+    "bestFor": [
+      "Testing and Analytics",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-unity-analytics",
+    "title": "Unity Analytics",
+    "shortName": "Unity Analytics",
+    "company": "Unity Technologies",
+    "website": "https://unity.com/products/unity-analytics",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Testing and Analytics"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Analytics tools for Unity games.",
+    "longDescription": "Unity Analytics is included in The Creative Vault as a game development resource. Analytics tools for Unity games.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Testing and Analytics",
+      "Unity",
+      "Analytics"
+    ],
+    "bestFor": [
+      "Testing and Analytics",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-firebase-analytics",
+    "title": "Firebase Analytics",
+    "shortName": "Firebase Analytics",
+    "company": "Google",
+    "website": "https://firebase.google.com/products/analytics",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Testing and Analytics"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Analytics for apps and games integrated with Firebase.",
+    "longDescription": "Firebase Analytics is included in The Creative Vault as a game development resource. Analytics for apps and games integrated with Firebase.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Testing and Analytics",
+      "Analytics",
+      "Mobile"
+    ],
+    "bestFor": [
+      "Testing and Analytics",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-amplitude",
+    "title": "Amplitude",
+    "shortName": "Amplitude",
+    "company": "Amplitude",
+    "website": "https://amplitude.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Testing and Analytics"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Product analytics platform for user behavior and retention.",
+    "longDescription": "Amplitude is included in The Creative Vault as a game development resource. Product analytics platform for user behavior and retention.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Testing and Analytics",
+      "Analytics"
+    ],
+    "bestFor": [
+      "Testing and Analytics",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-mixpanel",
+    "title": "Mixpanel",
+    "shortName": "Mixpanel",
+    "company": "Mixpanel",
+    "website": "https://mixpanel.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Testing and Analytics"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Product analytics platform for event tracking and funnels.",
+    "longDescription": "Mixpanel is included in The Creative Vault as a game development resource. Product analytics platform for event tracking and funnels.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Testing and Analytics",
+      "Analytics"
+    ],
+    "bestFor": [
+      "Testing and Analytics",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-sentry",
+    "title": "Sentry",
+    "shortName": "Sentry",
+    "company": "Sentry",
+    "website": "https://sentry.io/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Testing and Analytics"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Error monitoring and performance tracking for apps and games.",
+    "longDescription": "Sentry is included in The Creative Vault as a game development resource. Error monitoring and performance tracking for apps and games.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Testing and Analytics",
+      "Crash Reporting"
+    ],
+    "bestFor": [
+      "Testing and Analytics",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-backtrace",
+    "title": "Backtrace",
+    "shortName": "Backtrace",
+    "company": "Backtrace",
+    "website": "https://backtrace.io/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Testing and Analytics"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Crash reporting and error monitoring for game development.",
+    "longDescription": "Backtrace is included in The Creative Vault as a game development resource. Crash reporting and error monitoring for game development.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Testing and Analytics",
+      "Crash Reporting"
+    ],
+    "bestFor": [
+      "Testing and Analytics",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-bugsnag",
+    "title": "Bugsnag",
+    "shortName": "Bugsnag",
+    "company": "Bugsnag",
+    "website": "https://www.bugsnag.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Testing and Analytics"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Error monitoring and stability management platform.",
+    "longDescription": "Bugsnag is included in The Creative Vault as a game development resource. Error monitoring and stability management platform.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Testing and Analytics",
+      "Crash Reporting"
+    ],
+    "bestFor": [
+      "Testing and Analytics",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-instabug",
+    "title": "Instabug",
+    "shortName": "Instabug",
+    "company": "Instabug",
+    "website": "https://www.instabug.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Testing and Analytics"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Bug reporting, crash reporting, and app feedback platform.",
+    "longDescription": "Instabug is included in The Creative Vault as a game development resource. Bug reporting, crash reporting, and app feedback platform.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Testing and Analytics",
+      "Bug Reporting"
+    ],
+    "bestFor": [
+      "Testing and Analytics",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-testflight",
+    "title": "TestFlight",
+    "shortName": "TestFlight",
+    "company": "Apple",
+    "website": "https://developer.apple.com/testflight/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Testing and Analytics"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Beta testing platform for Apple apps and games.",
+    "longDescription": "TestFlight is included in The Creative Vault as a game development resource. Beta testing platform for Apple apps and games.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Testing and Analytics",
+      "iOS",
+      "Beta Testing"
+    ],
+    "bestFor": [
+      "Testing and Analytics",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser",
+      "iPhone"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-google-play-beta-testing",
+    "title": "Google Play Beta Testing",
+    "shortName": "Google Play Beta Testing",
+    "company": "Google",
+    "website": "https://support.google.com/googleplay/android-developer/answer/9845334",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Testing and Analytics"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Beta testing tracks for Android apps and games.",
+    "longDescription": "Google Play Beta Testing is included in The Creative Vault as a game development resource. Beta testing tracks for Android apps and games.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Testing and Analytics",
+      "Android",
+      "Beta Testing"
+    ],
+    "bestFor": [
+      "Testing and Analytics",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-steam-playtest",
+    "title": "Steam Playtest",
+    "shortName": "Steam Playtest",
+    "company": "Valve",
+    "website": "https://partner.steamgames.com/doc/features/playtest",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Testing and Analytics"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Steam feature for inviting players to test unreleased games.",
+    "longDescription": "Steam Playtest is included in The Creative Vault as a game development resource. Steam feature for inviting players to test unreleased games.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Testing and Analytics",
+      "Steam",
+      "Beta Testing"
+    ],
+    "bestFor": [
+      "Testing and Analytics",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-usertesting",
+    "title": "UserTesting",
+    "shortName": "UserTesting",
+    "company": "UserTesting",
+    "website": "https://www.usertesting.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Testing and Analytics"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "User research and testing platform.",
+    "longDescription": "UserTesting is included in The Creative Vault as a game development resource. User research and testing platform.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Testing and Analytics",
+      "User Testing"
+    ],
+    "bestFor": [
+      "Testing and Analytics",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-playtestcloud",
+    "title": "PlaytestCloud",
+    "shortName": "PlaytestCloud",
+    "company": "PlaytestCloud",
+    "website": "https://www.playtestcloud.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Testing and Analytics"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Playtesting platform for mobile games.",
+    "longDescription": "PlaytestCloud is included in The Creative Vault as a game development resource. Playtesting platform for mobile games.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Testing and Analytics",
+      "Playtesting",
+      "Mobile"
+    ],
+    "bestFor": [
+      "Testing and Analytics",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-antidote",
+    "title": "Antidote",
+    "shortName": "Antidote",
+    "company": "Antidote",
+    "website": "https://antidote.gg/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Testing and Analytics"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Playtesting and user research platform for games.",
+    "longDescription": "Antidote is included in The Creative Vault as a game development resource. Playtesting and user research platform for games.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Testing and Analytics",
+      "Playtesting"
+    ],
+    "bestFor": [
+      "Testing and Analytics",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-mod-io-analytics",
+    "title": "mod.io Analytics",
+    "shortName": "mod.io Analytics",
+    "company": "mod.io",
+    "website": "https://mod.io/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Testing and Analytics"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Mod distribution platform with community and engagement tools.",
+    "longDescription": "mod.io Analytics is included in The Creative Vault as a game development resource. Mod distribution platform with community and engagement tools.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Testing and Analytics",
+      "Mods",
+      "Analytics"
+    ],
+    "bestFor": [
+      "Testing and Analytics",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-unity-cloud-diagnostics",
+    "title": "Unity Cloud Diagnostics",
+    "shortName": "Unity Cloud Diagnostics",
+    "company": "Unity Technologies",
+    "website": "https://unity.com/products/cloud-diagnostics",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Testing and Analytics"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Crash and exception reporting for Unity games.",
+    "longDescription": "Unity Cloud Diagnostics is included in The Creative Vault as a game development resource. Crash and exception reporting for Unity games.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Testing and Analytics",
+      "Unity",
+      "Diagnostics"
+    ],
+    "bestFor": [
+      "Testing and Analytics",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-firebase-crashlytics",
+    "title": "Firebase Crashlytics",
+    "shortName": "Firebase Crashlytics",
+    "company": "Google",
+    "website": "https://firebase.google.com/products/crashlytics",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Testing and Analytics"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Crash reporting for apps and games.",
+    "longDescription": "Firebase Crashlytics is included in The Creative Vault as a game development resource. Crash reporting for apps and games.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Testing and Analytics",
+      "Crash Reporting"
+    ],
+    "bestFor": [
+      "Testing and Analytics",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-microsoft-app-center-archive",
+    "title": "Microsoft App Center Archive",
+    "shortName": "Microsoft App Center Archive",
+    "company": "Microsoft",
+    "website": "https://learn.microsoft.com/en-us/appcenter/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Testing and Analytics"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "App testing, analytics, and distribution service archive/reference.",
+    "longDescription": "Microsoft App Center Archive is included in The Creative Vault as a game development resource. App testing, analytics, and distribution service archive/reference.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Testing and Analytics",
+      "Testing",
+      "Mobile"
+    ],
+    "bestFor": [
+      "Testing and Analytics",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-browserstack-app-live",
+    "title": "BrowserStack App Live",
+    "shortName": "BrowserStack App Live",
+    "company": "BrowserStack",
+    "website": "https://www.browserstack.com/app-live",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Testing and Analytics"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Test mobile apps and games on real devices.",
+    "longDescription": "BrowserStack App Live is included in The Creative Vault as a game development resource. Test mobile apps and games on real devices.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Testing and Analytics",
+      "Testing",
+      "Devices"
+    ],
+    "bestFor": [
+      "Testing and Analytics",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-sauce-labs",
+    "title": "Sauce Labs",
+    "shortName": "Sauce Labs",
+    "company": "Sauce Labs",
+    "website": "https://saucelabs.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Testing and Analytics"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Cloud testing platform for web and mobile apps.",
+    "longDescription": "Sauce Labs is included in The Creative Vault as a game development resource. Cloud testing platform for web and mobile apps.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Testing and Analytics",
+      "Testing"
+    ],
+    "bestFor": [
+      "Testing and Analytics",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-applause",
+    "title": "Applause",
+    "shortName": "Applause",
+    "company": "Applause",
+    "website": "https://www.applause.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Testing and Analytics"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Crowdtesting and digital quality platform.",
+    "longDescription": "Applause is included in The Creative Vault as a game development resource. Crowdtesting and digital quality platform.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Testing and Analytics",
+      "QA",
+      "Testing"
+    ],
+    "bestFor": [
+      "Testing and Analytics",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-testrail",
+    "title": "TestRail",
+    "shortName": "TestRail",
+    "company": "TestRail",
+    "website": "https://www.testrail.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Testing and Analytics"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Test case management platform for QA teams.",
+    "longDescription": "TestRail is included in The Creative Vault as a game development resource. Test case management platform for QA teams.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Testing and Analytics",
+      "QA",
+      "Test Management"
+    ],
+    "bestFor": [
+      "Testing and Analytics",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-jira",
+    "title": "Jira",
+    "shortName": "Jira",
+    "company": "Atlassian",
+    "website": "https://www.atlassian.com/software/jira",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Testing and Analytics"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Issue tracking and project management for software and game teams.",
+    "longDescription": "Jira is included in The Creative Vault as a game development resource. Issue tracking and project management for software and game teams.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Testing and Analytics",
+      "Bug Tracking"
+    ],
+    "bestFor": [
+      "Testing and Analytics",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-extra-linear",
+    "title": "Linear",
+    "shortName": "Linear",
+    "company": "Linear",
+    "website": "https://linear.app/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Testing and Analytics"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Issue tracking and project management platform.",
+    "longDescription": "Linear is included in The Creative Vault as a game development resource. Issue tracking and project management platform.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Game Dev",
+      "Testing and Analytics",
+      "Bug Tracking"
+    ],
+    "bestFor": [
+      "Testing and Analytics",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

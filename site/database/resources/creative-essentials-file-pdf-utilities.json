@@ -1,0 +1,982 @@
+[
+  {
+    "id": "essential-cloudconvert-free",
+    "title": "CloudConvert Free",
+    "shortName": "CloudConvert Free",
+    "company": "CloudConvert",
+    "website": "https://cloudconvert.com/",
+    "category": "Utilities",
+    "categoryId": "utilities",
+    "categories": [
+      "Utilities",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "utilities",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Utilities",
+    "subcategories": [
+      "File Conversion",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Convert files between many formats.",
+    "longDescription": "CloudConvert Free is included in The Creative Vault Creative Essentials Pack. Convert files between many formats.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Utilities",
+      "File Conversion",
+      "Conversion"
+    ],
+    "bestFor": [
+      "File Conversion",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-convertio-free",
+    "title": "Convertio Free",
+    "shortName": "Convertio Free",
+    "company": "Convertio",
+    "website": "https://convertio.co/",
+    "category": "Utilities",
+    "categoryId": "utilities",
+    "categories": [
+      "Utilities",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "utilities",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Utilities",
+    "subcategories": [
+      "File Conversion",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Online file converter.",
+    "longDescription": "Convertio Free is included in The Creative Vault Creative Essentials Pack. Online file converter.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Utilities",
+      "File Conversion",
+      "Conversion"
+    ],
+    "bestFor": [
+      "File Conversion",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-online-convert",
+    "title": "Online-Convert",
+    "shortName": "Online-Convert",
+    "company": "Online-Convert",
+    "website": "https://www.online-convert.com/",
+    "category": "Utilities",
+    "categoryId": "utilities",
+    "categories": [
+      "Utilities",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "utilities",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Utilities",
+    "subcategories": [
+      "File Conversion",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Convert media, documents, ebooks, and archives online.",
+    "longDescription": "Online-Convert is included in The Creative Vault Creative Essentials Pack. Convert media, documents, ebooks, and archives online.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Utilities",
+      "File Conversion",
+      "Conversion"
+    ],
+    "bestFor": [
+      "File Conversion",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-zamzar-free",
+    "title": "Zamzar Free",
+    "shortName": "Zamzar Free",
+    "company": "Zamzar",
+    "website": "https://www.zamzar.com/",
+    "category": "Utilities",
+    "categoryId": "utilities",
+    "categories": [
+      "Utilities",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "utilities",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Utilities",
+    "subcategories": [
+      "File Conversion",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Online file conversion service.",
+    "longDescription": "Zamzar Free is included in The Creative Vault Creative Essentials Pack. Online file conversion service.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Utilities",
+      "File Conversion",
+      "Conversion"
+    ],
+    "bestFor": [
+      "File Conversion",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-tinywow",
+    "title": "TinyWow",
+    "shortName": "TinyWow",
+    "company": "TinyWow",
+    "website": "https://tinywow.com/",
+    "category": "Utilities",
+    "categoryId": "utilities",
+    "categories": [
+      "Utilities",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "utilities",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Utilities",
+    "subcategories": [
+      "File Utilities",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free PDF, image, writing, and file tools.",
+    "longDescription": "TinyWow is included in The Creative Vault Creative Essentials Pack. Free PDF, image, writing, and file tools.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Utilities",
+      "File Utilities",
+      "Files"
+    ],
+    "bestFor": [
+      "File Utilities",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-ilovepdf",
+    "title": "iLovePDF",
+    "shortName": "iLovePDF",
+    "company": "iLovePDF",
+    "website": "https://www.ilovepdf.com/",
+    "category": "Utilities",
+    "categoryId": "utilities",
+    "categories": [
+      "Utilities",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "utilities",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Utilities",
+    "subcategories": [
+      "PDF Tools",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "PDF merge, split, compress, convert, and edit tools.",
+    "longDescription": "iLovePDF is included in The Creative Vault Creative Essentials Pack. PDF merge, split, compress, convert, and edit tools.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Utilities",
+      "PDF Tools",
+      "PDF"
+    ],
+    "bestFor": [
+      "PDF Tools",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-pdf24-tools",
+    "title": "PDF24 Tools",
+    "shortName": "PDF24 Tools",
+    "company": "PDF24",
+    "website": "https://tools.pdf24.org/",
+    "category": "Utilities",
+    "categoryId": "utilities",
+    "categories": [
+      "Utilities",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "utilities",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Utilities",
+    "subcategories": [
+      "PDF Tools",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free PDF tools for conversion, compression, and editing.",
+    "longDescription": "PDF24 Tools is included in The Creative Vault Creative Essentials Pack. Free PDF tools for conversion, compression, and editing.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Utilities",
+      "PDF Tools",
+      "PDF"
+    ],
+    "bestFor": [
+      "PDF Tools",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-smallpdf-free-tools",
+    "title": "Smallpdf Free Tools",
+    "shortName": "Smallpdf Free Tools",
+    "company": "Smallpdf",
+    "website": "https://smallpdf.com/pdf-tools",
+    "category": "Utilities",
+    "categoryId": "utilities",
+    "categories": [
+      "Utilities",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "utilities",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Utilities",
+    "subcategories": [
+      "PDF Tools",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Browser-based PDF utilities.",
+    "longDescription": "Smallpdf Free Tools is included in The Creative Vault Creative Essentials Pack. Browser-based PDF utilities.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Utilities",
+      "PDF Tools",
+      "PDF"
+    ],
+    "bestFor": [
+      "PDF Tools",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-sejda-pdf",
+    "title": "Sejda PDF",
+    "shortName": "Sejda PDF",
+    "company": "Sejda",
+    "website": "https://www.sejda.com/",
+    "category": "Utilities",
+    "categoryId": "utilities",
+    "categories": [
+      "Utilities",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "utilities",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Utilities",
+    "subcategories": [
+      "PDF Tools",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Online PDF editor and utility suite.",
+    "longDescription": "Sejda PDF is included in The Creative Vault Creative Essentials Pack. Online PDF editor and utility suite.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Utilities",
+      "PDF Tools",
+      "PDF"
+    ],
+    "bestFor": [
+      "PDF Tools",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-pdf-candy",
+    "title": "PDF Candy",
+    "shortName": "PDF Candy",
+    "company": "Icecream Apps",
+    "website": "https://pdfcandy.com/",
+    "category": "Utilities",
+    "categoryId": "utilities",
+    "categories": [
+      "Utilities",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "utilities",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Utilities",
+    "subcategories": [
+      "PDF Tools",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free online PDF tools.",
+    "longDescription": "PDF Candy is included in The Creative Vault Creative Essentials Pack. Free online PDF tools.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Utilities",
+      "PDF Tools",
+      "PDF"
+    ],
+    "bestFor": [
+      "PDF Tools",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-dochub-free",
+    "title": "DocHub Free",
+    "shortName": "DocHub Free",
+    "company": "DocHub",
+    "website": "https://dochub.com/",
+    "category": "Utilities",
+    "categoryId": "utilities",
+    "categories": [
+      "Utilities",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "utilities",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Utilities",
+    "subcategories": [
+      "PDF Tools",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "PDF editing, signing, and form filling.",
+    "longDescription": "DocHub Free is included in The Creative Vault Creative Essentials Pack. PDF editing, signing, and form filling.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Utilities",
+      "PDF Tools",
+      "PDF"
+    ],
+    "bestFor": [
+      "PDF Tools",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-ocr-space",
+    "title": "OCR.Space",
+    "shortName": "OCR.Space",
+    "company": "OCR.Space",
+    "website": "https://ocr.space/",
+    "category": "Utilities",
+    "categoryId": "utilities",
+    "categories": [
+      "Utilities",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "utilities",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Utilities",
+    "subcategories": [
+      "OCR Tools",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free online OCR tool and API.",
+    "longDescription": "OCR.Space is included in The Creative Vault Creative Essentials Pack. Free online OCR tool and API.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Utilities",
+      "OCR Tools",
+      "OCR"
+    ],
+    "bestFor": [
+      "OCR Tools",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-new-ocr",
+    "title": "New OCR",
+    "shortName": "New OCR",
+    "company": "New OCR",
+    "website": "https://www.newocr.com/",
+    "category": "Utilities",
+    "categoryId": "utilities",
+    "categories": [
+      "Utilities",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "utilities",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Utilities",
+    "subcategories": [
+      "OCR Tools",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free online OCR recognition tool.",
+    "longDescription": "New OCR is included in The Creative Vault Creative Essentials Pack. Free online OCR recognition tool.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Utilities",
+      "OCR Tools",
+      "OCR"
+    ],
+    "bestFor": [
+      "OCR Tools",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-tesseract-ocr",
+    "title": "Tesseract OCR",
+    "shortName": "Tesseract OCR",
+    "company": "Tesseract",
+    "website": "https://github.com/tesseract-ocr/tesseract",
+    "category": "Utilities",
+    "categoryId": "utilities",
+    "categories": [
+      "Utilities",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "utilities",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Utilities",
+    "subcategories": [
+      "OCR Tools",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Open-source OCR engine.",
+    "longDescription": "Tesseract OCR is included in The Creative Vault Creative Essentials Pack. Open-source OCR engine.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Utilities",
+      "OCR Tools",
+      "OCR"
+    ],
+    "bestFor": [
+      "OCR Tools",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-wecompress",
+    "title": "WeCompress",
+    "shortName": "WeCompress",
+    "company": "WeCompress",
+    "website": "https://www.wecompress.com/",
+    "category": "Utilities",
+    "categoryId": "utilities",
+    "categories": [
+      "Utilities",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "utilities",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Utilities",
+    "subcategories": [
+      "File Compression",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Compress PDFs, PowerPoints, Word files, Excel files, and images.",
+    "longDescription": "WeCompress is included in The Creative Vault Creative Essentials Pack. Compress PDFs, PowerPoints, Word files, Excel files, and images.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Utilities",
+      "File Compression",
+      "Compression"
+    ],
+    "bestFor": [
+      "File Compression",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-fileinfo",
+    "title": "FileInfo",
+    "shortName": "FileInfo",
+    "company": "FileInfo",
+    "website": "https://fileinfo.com/",
+    "category": "Utilities",
+    "categoryId": "utilities",
+    "categories": [
+      "Utilities",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "utilities",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Utilities",
+    "subcategories": [
+      "File Reference",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Reference database for file extensions.",
+    "longDescription": "FileInfo is included in The Creative Vault Creative Essentials Pack. Reference database for file extensions.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Utilities",
+      "File Reference",
+      "Files"
+    ],
+    "bestFor": [
+      "File Reference",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-exiftool",
+    "title": "ExifTool",
+    "shortName": "ExifTool",
+    "company": "Phil Harvey",
+    "website": "https://exiftool.org/",
+    "category": "Utilities",
+    "categoryId": "utilities",
+    "categories": [
+      "Utilities",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "utilities",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Utilities",
+    "subcategories": [
+      "Metadata Tools",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Read, write, and edit metadata in media files.",
+    "longDescription": "ExifTool is included in The Creative Vault Creative Essentials Pack. Read, write, and edit metadata in media files.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Utilities",
+      "Metadata Tools",
+      "Metadata"
+    ],
+    "bestFor": [
+      "Metadata Tools",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-metadata2go",
+    "title": "Metadata2Go",
+    "shortName": "Metadata2Go",
+    "company": "Metadata2Go",
+    "website": "https://www.metadata2go.com/",
+    "category": "Utilities",
+    "categoryId": "utilities",
+    "categories": [
+      "Utilities",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "utilities",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Utilities",
+    "subcategories": [
+      "Metadata Tools",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Inspect file metadata online.",
+    "longDescription": "Metadata2Go is included in The Creative Vault Creative Essentials Pack. Inspect file metadata online.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Utilities",
+      "Metadata Tools",
+      "Metadata"
+    ],
+    "bestFor": [
+      "Metadata Tools",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-virustotal",
+    "title": "VirusTotal",
+    "shortName": "VirusTotal",
+    "company": "Google Chronicle",
+    "website": "https://www.virustotal.com/",
+    "category": "Utilities",
+    "categoryId": "utilities",
+    "categories": [
+      "Utilities",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "utilities",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Utilities",
+    "subcategories": [
+      "Security Scan",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Scan URLs and files for malware detection.",
+    "longDescription": "VirusTotal is included in The Creative Vault Creative Essentials Pack. Scan URLs and files for malware detection.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Utilities",
+      "Security Scan",
+      "Security"
+    ],
+    "bestFor": [
+      "Security Scan",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-have-i-been-pwned",
+    "title": "Have I Been Pwned",
+    "shortName": "Have I Been Pwned",
+    "company": "Troy Hunt",
+    "website": "https://haveibeenpwned.com/",
+    "category": "Utilities",
+    "categoryId": "utilities",
+    "categories": [
+      "Utilities",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "utilities",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Utilities",
+    "subcategories": [
+      "Security Check",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Check if email accounts appeared in data breaches.",
+    "longDescription": "Have I Been Pwned is included in The Creative Vault Creative Essentials Pack. Check if email accounts appeared in data breaches.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Utilities",
+      "Security Check",
+      "Security"
+    ],
+    "bestFor": [
+      "Security Check",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

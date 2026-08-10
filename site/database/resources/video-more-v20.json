@@ -1,0 +1,362 @@
+[
+  {
+    "id": "video-descript-video",
+    "title": "Descript Video",
+    "shortName": "Descript Video",
+    "company": "Descript",
+    "website": "https://www.descript.com/",
+    "category": "Video",
+    "categoryId": "video",
+    "subcategories": [
+      "Video Editing"
+    ],
+    "type": "Resource",
+    "shortDescription": "Text-based video and podcast editing platform.",
+    "longDescription": "Descript Video is included in The Creative Vault as a video editing resource. Text-based video and podcast editing platform.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Video",
+      "Video Editing",
+      "Editing"
+    ],
+    "bestFor": [
+      "Video Editing",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "video-kapwing",
+    "title": "Kapwing",
+    "shortName": "Kapwing",
+    "company": "Kapwing",
+    "website": "https://www.kapwing.com/",
+    "category": "Video",
+    "categoryId": "video",
+    "subcategories": [
+      "Online Video Editor"
+    ],
+    "type": "Resource",
+    "shortDescription": "Browser-based video editor for social content.",
+    "longDescription": "Kapwing is included in The Creative Vault as a online video editor resource. Browser-based video editor for social content.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Video",
+      "Online Video Editor",
+      "Browser"
+    ],
+    "bestFor": [
+      "Online Video Editor",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "video-veed",
+    "title": "VEED",
+    "shortName": "VEED",
+    "company": "VEED",
+    "website": "https://www.veed.io/",
+    "category": "Video",
+    "categoryId": "video",
+    "subcategories": [
+      "Online Video Editor"
+    ],
+    "type": "Resource",
+    "shortDescription": "Online video editor with captions, templates, and AI tools.",
+    "longDescription": "VEED is included in The Creative Vault as a online video editor resource. Online video editor with captions, templates, and AI tools.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Video",
+      "Online Video Editor",
+      "Browser"
+    ],
+    "bestFor": [
+      "Online Video Editor",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "video-runway-video",
+    "title": "Runway Video",
+    "shortName": "Runway Video",
+    "company": "Runway",
+    "website": "https://runwayml.com/",
+    "category": "Video",
+    "categoryId": "video",
+    "subcategories": [
+      "AI Video"
+    ],
+    "type": "Resource",
+    "shortDescription": "AI video generation and editing platform.",
+    "longDescription": "Runway Video is included in The Creative Vault as a ai video resource. AI video generation and editing platform.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Video",
+      "AI Video",
+      "AI"
+    ],
+    "bestFor": [
+      "AI Video",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "video-topaz-video-ai",
+    "title": "Topaz Video AI",
+    "shortName": "Topaz Video AI",
+    "company": "Topaz Labs",
+    "website": "https://www.topazlabs.com/topaz-video-ai",
+    "category": "Video",
+    "categoryId": "video",
+    "subcategories": [
+      "Video Enhancement"
+    ],
+    "type": "Resource",
+    "shortDescription": "AI video upscaling, denoising, and frame interpolation.",
+    "longDescription": "Topaz Video AI is included in The Creative Vault as a video enhancement resource. AI video upscaling, denoising, and frame interpolation.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Video",
+      "Video Enhancement",
+      "AI"
+    ],
+    "bestFor": [
+      "Video Enhancement",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "video-handbrake",
+    "title": "HandBrake",
+    "shortName": "HandBrake",
+    "company": "HandBrake",
+    "website": "https://handbrake.fr/",
+    "category": "Video",
+    "categoryId": "video",
+    "subcategories": [
+      "Video Conversion"
+    ],
+    "type": "Resource",
+    "shortDescription": "Free open-source video transcoder.",
+    "longDescription": "HandBrake is included in The Creative Vault as a video conversion resource. Free open-source video transcoder.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Video",
+      "Video Conversion",
+      "Conversion"
+    ],
+    "bestFor": [
+      "Video Conversion",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "video-shutter-encoder",
+    "title": "Shutter Encoder",
+    "shortName": "Shutter Encoder",
+    "company": "Shutter Encoder",
+    "website": "https://www.shutterencoder.com/",
+    "category": "Video",
+    "categoryId": "video",
+    "subcategories": [
+      "Video Conversion"
+    ],
+    "type": "Resource",
+    "shortDescription": "Free media conversion and encoding software.",
+    "longDescription": "Shutter Encoder is included in The Creative Vault as a video conversion resource. Free media conversion and encoding software.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Video",
+      "Video Conversion",
+      "Conversion"
+    ],
+    "bestFor": [
+      "Video Conversion",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "video-losslesscut",
+    "title": "LosslessCut",
+    "shortName": "LosslessCut",
+    "company": "LosslessCut",
+    "website": "https://github.com/mifi/lossless-cut",
+    "category": "Video",
+    "categoryId": "video",
+    "subcategories": [
+      "Video Utility"
+    ],
+    "type": "Resource",
+    "shortDescription": "Free tool for lossless video and audio trimming.",
+    "longDescription": "LosslessCut is included in The Creative Vault as a video utility resource. Free tool for lossless video and audio trimming.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Video",
+      "Video Utility",
+      "Utility"
+    ],
+    "bestFor": [
+      "Video Utility",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "video-obs-studio",
+    "title": "OBS Studio",
+    "shortName": "OBS Studio",
+    "company": "OBS Project",
+    "website": "https://obsproject.com/",
+    "category": "Video",
+    "categoryId": "video",
+    "subcategories": [
+      "Streaming and Recording"
+    ],
+    "type": "Resource",
+    "shortDescription": "Free open-source software for live streaming and screen recording.",
+    "longDescription": "OBS Studio is included in The Creative Vault as a streaming and recording resource. Free open-source software for live streaming and screen recording.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Video",
+      "Streaming and Recording",
+      "Streaming"
+    ],
+    "bestFor": [
+      "Streaming and Recording",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "video-screen-studio",
+    "title": "Screen Studio",
+    "shortName": "Screen Studio",
+    "company": "Screen Studio",
+    "website": "https://www.screen.studio/",
+    "category": "Video",
+    "categoryId": "video",
+    "subcategories": [
+      "Screen Recording"
+    ],
+    "type": "Resource",
+    "shortDescription": "Polished screen recording tool for Mac.",
+    "longDescription": "Screen Studio is included in The Creative Vault as a screen recording resource. Polished screen recording tool for Mac.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Video",
+      "Screen Recording",
+      "Recording"
+    ],
+    "bestFor": [
+      "Screen Recording",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

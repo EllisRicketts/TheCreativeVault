@@ -1,0 +1,366 @@
+[
+  {
+    "id": "digital-art-vectorpea",
+    "title": "Vectorpea",
+    "shortName": "Vectorpea",
+    "company": "Photopea",
+    "website": "https://www.vectorpea.com/",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Vector Design"
+    ],
+    "type": "Resource",
+    "shortDescription": "Browser-based vector editor from the makers of Photopea.",
+    "longDescription": "Vectorpea is included in The Creative Vault as a vector design resource. Browser-based vector editor from the makers of Photopea.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Digital Art",
+      "Vector Design",
+      "Vector",
+      "Browser"
+    ],
+    "bestFor": [
+      "Vector Design",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "digital-art-kleki",
+    "title": "Kleki",
+    "shortName": "Kleki",
+    "company": "Kleki",
+    "website": "https://kleki.com/",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Drawing & Painting"
+    ],
+    "type": "Resource",
+    "shortDescription": "Simple browser-based painting and sketching app.",
+    "longDescription": "Kleki is included in The Creative Vault as a drawing & painting resource. Simple browser-based painting and sketching app.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Digital Art",
+      "Drawing & Painting",
+      "Painting",
+      "Browser"
+    ],
+    "bestFor": [
+      "Drawing & Painting",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "digital-art-aggie-io",
+    "title": "Aggie.io",
+    "shortName": "Aggie.io",
+    "company": "Magma",
+    "website": "https://aggie.io/",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Collaborative Drawing"
+    ],
+    "type": "Resource",
+    "shortDescription": "Collaborative online drawing and painting tool.",
+    "longDescription": "Aggie.io is included in The Creative Vault as a collaborative drawing resource. Collaborative online drawing and painting tool.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Digital Art",
+      "Collaborative Drawing",
+      "Collaboration",
+      "Drawing"
+    ],
+    "bestFor": [
+      "Collaborative Drawing",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "digital-art-magma",
+    "title": "Magma",
+    "shortName": "Magma",
+    "company": "Magma",
+    "website": "https://magma.com/",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Collaborative Drawing"
+    ],
+    "type": "Resource",
+    "shortDescription": "Collaborative browser-based art studio for teams and artists.",
+    "longDescription": "Magma is included in The Creative Vault as a collaborative drawing resource. Collaborative browser-based art studio for teams and artists.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Digital Art",
+      "Collaborative Drawing",
+      "Drawing",
+      "Collaboration"
+    ],
+    "bestFor": [
+      "Collaborative Drawing",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "digital-art-heavypaint",
+    "title": "HeavyPaint",
+    "shortName": "HeavyPaint",
+    "company": "HeavyPaint",
+    "website": "https://www.heavypaint.com/",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Painting"
+    ],
+    "type": "Resource",
+    "shortDescription": "Shape-based digital painting app for bold color and composition studies.",
+    "longDescription": "HeavyPaint is included in The Creative Vault as a painting resource. Shape-based digital painting app for bold color and composition studies.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Digital Art",
+      "Painting",
+      "Painting"
+    ],
+    "bestFor": [
+      "Painting",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "digital-art-al-chemy",
+    "title": "Al.chemy",
+    "shortName": "Al.chemy",
+    "company": "Al.chemy",
+    "website": "http://al.chemy.org/",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Experimental Drawing"
+    ],
+    "type": "Resource",
+    "shortDescription": "Experimental open drawing tool for sketching and ideation.",
+    "longDescription": "Al.chemy is included in The Creative Vault as a experimental drawing resource. Experimental open drawing tool for sketching and ideation.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Digital Art",
+      "Experimental Drawing",
+      "Experimental"
+    ],
+    "bestFor": [
+      "Experimental Drawing",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "digital-art-alchemy-beta-archive",
+    "title": "Alchemy Beta Archive",
+    "shortName": "Alchemy Beta Archive",
+    "company": "Alchemy",
+    "website": "https://github.com/karldd/Alchemy",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Experimental Drawing"
+    ],
+    "type": "Resource",
+    "shortDescription": "Open-source experimental sketching software archive.",
+    "longDescription": "Alchemy Beta Archive is included in The Creative Vault as a experimental drawing resource. Open-source experimental sketching software archive.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Digital Art",
+      "Experimental Drawing",
+      "Open Source"
+    ],
+    "bestFor": [
+      "Experimental Drawing",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "digital-art-verve-painter",
+    "title": "Verve Painter",
+    "shortName": "Verve Painter",
+    "company": "Taron",
+    "website": "https://www.taron.de/forum/viewtopic.php?t=4",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Painting"
+    ],
+    "type": "Resource",
+    "shortDescription": "Experimental fluid-based painting software.",
+    "longDescription": "Verve Painter is included in The Creative Vault as a painting resource. Experimental fluid-based painting software.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Digital Art",
+      "Painting",
+      "Painting"
+    ],
+    "bestFor": [
+      "Painting",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "digital-art-twistedbrush-pro-studio",
+    "title": "TwistedBrush Pro Studio",
+    "shortName": "TwistedBrush Pro Studio",
+    "company": "Pixarra",
+    "website": "https://www.pixarra.com/twistedbrush_pro_studio.html",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Painting"
+    ],
+    "type": "Resource",
+    "shortDescription": "Digital art software with a large brush engine.",
+    "longDescription": "TwistedBrush Pro Studio is included in The Creative Vault as a painting resource. Digital art software with a large brush engine.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Digital Art",
+      "Painting",
+      "Brushes"
+    ],
+    "bestFor": [
+      "Painting",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "digital-art-leonardo-graphic-editor",
+    "title": "Leonardo Graphic Editor",
+    "shortName": "Leonardo Graphic Editor",
+    "company": "Leonardo",
+    "website": "https://www.getleonardo.com/",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Drawing & Painting"
+    ],
+    "type": "Resource",
+    "shortDescription": "Infinite canvas drawing and painting app for Windows.",
+    "longDescription": "Leonardo Graphic Editor is included in The Creative Vault as a drawing & painting resource. Infinite canvas drawing and painting app for Windows.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Digital Art",
+      "Drawing & Painting",
+      "Drawing"
+    ],
+    "bestFor": [
+      "Drawing & Painting",
+      "Creative workflows",
+      "Resource discovery"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 62,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

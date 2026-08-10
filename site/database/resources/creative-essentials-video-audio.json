@@ -1,0 +1,983 @@
+[
+  {
+    "id": "essential-obs-studio",
+    "title": "OBS Studio",
+    "shortName": "OBS Studio",
+    "company": "OBS Project",
+    "website": "https://obsproject.com/",
+    "category": "Video",
+    "categoryId": "video",
+    "categories": [
+      "Video",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "video",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Video",
+    "subcategories": [
+      "Recording and Streaming",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free open-source live streaming and screen recording software.",
+    "longDescription": "OBS Studio is included in The Creative Vault Creative Essentials Pack. Free open-source live streaming and screen recording software.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Video",
+      "Recording and Streaming",
+      "Streaming"
+    ],
+    "bestFor": [
+      "Recording and Streaming",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-sharex",
+    "title": "ShareX",
+    "shortName": "ShareX",
+    "company": "ShareX",
+    "website": "https://getsharex.com/",
+    "category": "Video",
+    "categoryId": "video",
+    "categories": [
+      "Video",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "video",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Video",
+    "subcategories": [
+      "Screen Capture",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free open-source screen capture and recording tool for Windows.",
+    "longDescription": "ShareX is included in The Creative Vault Creative Essentials Pack. Free open-source screen capture and recording tool for Windows.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Video",
+      "Screen Capture",
+      "Screen Capture"
+    ],
+    "bestFor": [
+      "Screen Capture",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-screentogif",
+    "title": "ScreenToGif",
+    "shortName": "ScreenToGif",
+    "company": "Nicke Manarin",
+    "website": "https://www.screentogif.com/",
+    "category": "Video",
+    "categoryId": "video",
+    "categories": [
+      "Video",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "video",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Video",
+    "subcategories": [
+      "Screen Recording",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free screen, webcam, and sketchboard recorder with GIF export.",
+    "longDescription": "ScreenToGif is included in The Creative Vault Creative Essentials Pack. Free screen, webcam, and sketchboard recorder with GIF export.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Video",
+      "Screen Recording",
+      "GIF"
+    ],
+    "bestFor": [
+      "Screen Recording",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-kdenlive",
+    "title": "Kdenlive",
+    "shortName": "Kdenlive",
+    "company": "KDE",
+    "website": "https://kdenlive.org/",
+    "category": "Video",
+    "categoryId": "video",
+    "categories": [
+      "Video",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "video",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Video",
+    "subcategories": [
+      "Video Editing",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free open-source video editing software.",
+    "longDescription": "Kdenlive is included in The Creative Vault Creative Essentials Pack. Free open-source video editing software.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Video",
+      "Video Editing",
+      "Editing"
+    ],
+    "bestFor": [
+      "Video Editing",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-shotcut",
+    "title": "Shotcut",
+    "shortName": "Shotcut",
+    "company": "Shotcut",
+    "website": "https://shotcut.org/",
+    "category": "Video",
+    "categoryId": "video",
+    "categories": [
+      "Video",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "video",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Video",
+    "subcategories": [
+      "Video Editing",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free open-source cross-platform video editor.",
+    "longDescription": "Shotcut is included in The Creative Vault Creative Essentials Pack. Free open-source cross-platform video editor.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Video",
+      "Video Editing",
+      "Editing"
+    ],
+    "bestFor": [
+      "Video Editing",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-openshot",
+    "title": "OpenShot",
+    "shortName": "OpenShot",
+    "company": "OpenShot",
+    "website": "https://www.openshot.org/",
+    "category": "Video",
+    "categoryId": "video",
+    "categories": [
+      "Video",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "video",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Video",
+    "subcategories": [
+      "Video Editing",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free open-source video editor.",
+    "longDescription": "OpenShot is included in The Creative Vault Creative Essentials Pack. Free open-source video editor.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Video",
+      "Video Editing",
+      "Editing"
+    ],
+    "bestFor": [
+      "Video Editing",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-olive-video-editor",
+    "title": "Olive Video Editor",
+    "shortName": "Olive Video Editor",
+    "company": "Olive",
+    "website": "https://www.olivevideoeditor.org/",
+    "category": "Video",
+    "categoryId": "video",
+    "categories": [
+      "Video",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "video",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Video",
+    "subcategories": [
+      "Video Editing",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free open-source non-linear video editor.",
+    "longDescription": "Olive Video Editor is included in The Creative Vault Creative Essentials Pack. Free open-source non-linear video editor.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Video",
+      "Video Editing",
+      "Editing"
+    ],
+    "bestFor": [
+      "Video Editing",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-davinci-resolve-free",
+    "title": "DaVinci Resolve Free",
+    "shortName": "DaVinci Resolve Free",
+    "company": "Blackmagic Design",
+    "website": "https://www.blackmagicdesign.com/products/davinciresolve",
+    "category": "Video",
+    "categoryId": "video",
+    "categories": [
+      "Video",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "video",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Video",
+    "subcategories": [
+      "Video Editing",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free professional video editing, color, VFX, and audio software.",
+    "longDescription": "DaVinci Resolve Free is included in The Creative Vault Creative Essentials Pack. Free professional video editing, color, VFX, and audio software.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Video",
+      "Video Editing",
+      "Editing",
+      "Color"
+    ],
+    "bestFor": [
+      "Video Editing",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-handbrake",
+    "title": "HandBrake",
+    "shortName": "HandBrake",
+    "company": "HandBrake",
+    "website": "https://handbrake.fr/",
+    "category": "Video",
+    "categoryId": "video",
+    "categories": [
+      "Video",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "video",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Video",
+    "subcategories": [
+      "Video Conversion",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free open-source video transcoder.",
+    "longDescription": "HandBrake is included in The Creative Vault Creative Essentials Pack. Free open-source video transcoder.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Video",
+      "Video Conversion",
+      "Conversion"
+    ],
+    "bestFor": [
+      "Video Conversion",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-shutter-encoder",
+    "title": "Shutter Encoder",
+    "shortName": "Shutter Encoder",
+    "company": "Shutter Encoder",
+    "website": "https://www.shutterencoder.com/",
+    "category": "Video",
+    "categoryId": "video",
+    "categories": [
+      "Video",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "video",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Video",
+    "subcategories": [
+      "Video Conversion",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free media conversion and encoding tool.",
+    "longDescription": "Shutter Encoder is included in The Creative Vault Creative Essentials Pack. Free media conversion and encoding tool.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Video",
+      "Video Conversion",
+      "Conversion"
+    ],
+    "bestFor": [
+      "Video Conversion",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-audacity",
+    "title": "Audacity",
+    "shortName": "Audacity",
+    "company": "Audacity",
+    "website": "https://www.audacityteam.org/",
+    "category": "Audio",
+    "categoryId": "audio",
+    "categories": [
+      "Audio",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "audio",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Audio",
+    "subcategories": [
+      "Audio Editing",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free open-source audio recording and editing software.",
+    "longDescription": "Audacity is included in The Creative Vault Creative Essentials Pack. Free open-source audio recording and editing software.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Audio",
+      "Audio Editing",
+      "Audio Editing"
+    ],
+    "bestFor": [
+      "Audio Editing",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-ocenaudio",
+    "title": "Ocenaudio",
+    "shortName": "Ocenaudio",
+    "company": "Ocenaudio",
+    "website": "https://www.ocenaudio.com/",
+    "category": "Audio",
+    "categoryId": "audio",
+    "categories": [
+      "Audio",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "audio",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Audio",
+    "subcategories": [
+      "Audio Editing",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free cross-platform audio editor.",
+    "longDescription": "Ocenaudio is included in The Creative Vault Creative Essentials Pack. Free cross-platform audio editor.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Audio",
+      "Audio Editing",
+      "Audio Editing"
+    ],
+    "bestFor": [
+      "Audio Editing",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-cakewalk-by-bandlab",
+    "title": "Cakewalk by BandLab",
+    "shortName": "Cakewalk by BandLab",
+    "company": "BandLab",
+    "website": "https://www.bandlab.com/products/cakewalk",
+    "category": "Audio",
+    "categoryId": "audio",
+    "categories": [
+      "Audio",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "audio",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Audio",
+    "subcategories": [
+      "DAW",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free Windows DAW for music production.",
+    "longDescription": "Cakewalk by BandLab is included in The Creative Vault Creative Essentials Pack. Free Windows DAW for music production.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Audio",
+      "DAW",
+      "DAW"
+    ],
+    "bestFor": [
+      "DAW",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-lmms",
+    "title": "LMMS",
+    "shortName": "LMMS",
+    "company": "LMMS",
+    "website": "https://lmms.io/",
+    "category": "Audio",
+    "categoryId": "audio",
+    "categories": [
+      "Audio",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "audio",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Audio",
+    "subcategories": [
+      "DAW",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free open-source music production software.",
+    "longDescription": "LMMS is included in The Creative Vault Creative Essentials Pack. Free open-source music production software.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Audio",
+      "DAW",
+      "DAW"
+    ],
+    "bestFor": [
+      "DAW",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-ardour",
+    "title": "Ardour",
+    "shortName": "Ardour",
+    "company": "Ardour",
+    "website": "https://ardour.org/",
+    "category": "Audio",
+    "categoryId": "audio",
+    "categories": [
+      "Audio",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "audio",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Audio",
+    "subcategories": [
+      "DAW",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Open-source DAW for recording, editing, and mixing.",
+    "longDescription": "Ardour is included in The Creative Vault Creative Essentials Pack. Open-source DAW for recording, editing, and mixing.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Audio",
+      "DAW",
+      "DAW"
+    ],
+    "bestFor": [
+      "DAW",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-zrythm-community",
+    "title": "Zrythm Community",
+    "shortName": "Zrythm Community",
+    "company": "Zrythm",
+    "website": "https://www.zrythm.org/",
+    "category": "Audio",
+    "categoryId": "audio",
+    "categories": [
+      "Audio",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "audio",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Audio",
+    "subcategories": [
+      "DAW",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Open-source digital audio workstation.",
+    "longDescription": "Zrythm Community is included in The Creative Vault Creative Essentials Pack. Open-source digital audio workstation.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Audio",
+      "DAW",
+      "DAW"
+    ],
+    "bestFor": [
+      "DAW",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-musescore",
+    "title": "MuseScore",
+    "shortName": "MuseScore",
+    "company": "MuseScore",
+    "website": "https://musescore.org/",
+    "category": "Audio",
+    "categoryId": "audio",
+    "categories": [
+      "Audio",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "audio",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Audio",
+    "subcategories": [
+      "Notation",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free music notation and composition software.",
+    "longDescription": "MuseScore is included in The Creative Vault Creative Essentials Pack. Free music notation and composition software.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Audio",
+      "Notation",
+      "Notation"
+    ],
+    "bestFor": [
+      "Notation",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-hydrogen",
+    "title": "Hydrogen",
+    "shortName": "Hydrogen",
+    "company": "Hydrogen",
+    "website": "http://hydrogen-music.org/",
+    "category": "Audio",
+    "categoryId": "audio",
+    "categories": [
+      "Audio",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "audio",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Audio",
+    "subcategories": [
+      "Drum Machine",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free advanced drum machine for GNU/Linux, Windows, and Mac.",
+    "longDescription": "Hydrogen is included in The Creative Vault Creative Essentials Pack. Free advanced drum machine for GNU/Linux, Windows, and Mac.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Audio",
+      "Drum Machine",
+      "Drums"
+    ],
+    "bestFor": [
+      "Drum Machine",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-vcv-rack-free",
+    "title": "VCV Rack Free",
+    "shortName": "VCV Rack Free",
+    "company": "VCV",
+    "website": "https://vcvrack.com/",
+    "category": "Audio",
+    "categoryId": "audio",
+    "categories": [
+      "Audio",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "audio",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Audio",
+    "subcategories": [
+      "Modular Synth",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free virtual modular synthesizer platform.",
+    "longDescription": "VCV Rack Free is included in The Creative Vault Creative Essentials Pack. Free virtual modular synthesizer platform.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Audio",
+      "Modular Synth",
+      "Synth"
+    ],
+    "bestFor": [
+      "Modular Synth",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-vital-basic",
+    "title": "Vital Basic",
+    "shortName": "Vital Basic",
+    "company": "Vital Audio",
+    "website": "https://vital.audio/",
+    "category": "Audio",
+    "categoryId": "audio",
+    "categories": [
+      "Audio",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "audio",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Audio",
+    "subcategories": [
+      "Synth Plugin",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free wavetable synthesizer plugin.",
+    "longDescription": "Vital Basic is included in The Creative Vault Creative Essentials Pack. Free wavetable synthesizer plugin.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Audio",
+      "Synth Plugin",
+      "Synth"
+    ],
+    "bestFor": [
+      "Synth Plugin",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

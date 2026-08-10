@@ -1,0 +1,793 @@
+[
+  {
+    "id": "game-dev-aseprite",
+    "title": "Aseprite",
+    "shortName": "Aseprite",
+    "company": "Igara Studio",
+    "website": "https://www.aseprite.org/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Art Tool"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Pixel art and animation software for sprites, tiles, and retro game graphics.",
+    "longDescription": "Aseprite is included in The Creative Vault as a game development resource. Pixel art and animation software for sprites, tiles, and retro game graphics.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Game Art Tool",
+      "Pixel Art",
+      "Sprites"
+    ],
+    "bestFor": [
+      "Game Art Tool",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-libresprite",
+    "title": "LibreSprite",
+    "shortName": "LibreSprite",
+    "company": "LibreSprite",
+    "website": "https://libresprite.github.io/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Art Tool"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Free open-source pixel art and sprite animation tool.",
+    "longDescription": "LibreSprite is included in The Creative Vault as a game development resource. Free open-source pixel art and sprite animation tool.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Game Art Tool",
+      "Pixel Art",
+      "Open Source"
+    ],
+    "bestFor": [
+      "Game Art Tool",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": true,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-pixelorama",
+    "title": "Pixelorama",
+    "shortName": "Pixelorama",
+    "company": "Orama Interactive",
+    "website": "https://orama-interactive.itch.io/pixelorama",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Art Tool"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Free open-source pixel art editor and animation tool.",
+    "longDescription": "Pixelorama is included in The Creative Vault as a game development resource. Free open-source pixel art editor and animation tool.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Game Art Tool",
+      "Pixel Art",
+      "Open Source"
+    ],
+    "bestFor": [
+      "Game Art Tool",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": true,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-piskel",
+    "title": "Piskel",
+    "shortName": "Piskel",
+    "company": "Piskel",
+    "website": "https://www.piskelapp.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Art Tool"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Free online sprite editor for pixel art and animated sprites.",
+    "longDescription": "Piskel is included in The Creative Vault as a game development resource. Free online sprite editor for pixel art and animated sprites.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Game Art Tool",
+      "Pixel Art",
+      "Browser"
+    ],
+    "bestFor": [
+      "Game Art Tool",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": true,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-tiled-map-editor",
+    "title": "Tiled Map Editor",
+    "shortName": "Tiled Map Editor",
+    "company": "Tiled",
+    "website": "https://www.mapeditor.org/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Art Tool"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Free flexible tile map editor for 2D games.",
+    "longDescription": "Tiled Map Editor is included in The Creative Vault as a game development resource. Free flexible tile map editor for 2D games.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Game Art Tool",
+      "Tilemaps",
+      "Open Source"
+    ],
+    "bestFor": [
+      "Game Art Tool",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": true,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-ldtk",
+    "title": "LDtk",
+    "shortName": "LDtk",
+    "company": "Deepnight",
+    "website": "https://ldtk.io/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Art Tool"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Modern 2D level editor from the creator of Dead Cells.",
+    "longDescription": "LDtk is included in The Creative Vault as a game development resource. Modern 2D level editor from the creator of Dead Cells.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Game Art Tool",
+      "Level Design",
+      "2D"
+    ],
+    "bestFor": [
+      "Game Art Tool",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": true,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-texturepacker",
+    "title": "TexturePacker",
+    "shortName": "TexturePacker",
+    "company": "CodeAndWeb",
+    "website": "https://www.codeandweb.com/texturepacker",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Art Tool"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Sprite sheet packing tool for game development.",
+    "longDescription": "TexturePacker is included in The Creative Vault as a game development resource. Sprite sheet packing tool for game development.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Game Art Tool",
+      "Sprites",
+      "Optimization"
+    ],
+    "bestFor": [
+      "Game Art Tool",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-shoebox",
+    "title": "ShoeBox",
+    "shortName": "ShoeBox",
+    "company": "Renderhjs",
+    "website": "https://renderhjs.net/shoebox/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Art Tool"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Utility for spritesheets, bitmap fonts, and game art processing.",
+    "longDescription": "ShoeBox is included in The Creative Vault as a game development resource. Utility for spritesheets, bitmap fonts, and game art processing.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Game Art Tool",
+      "Sprites",
+      "Utilities"
+    ],
+    "bestFor": [
+      "Game Art Tool",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-spine",
+    "title": "Spine",
+    "shortName": "Spine",
+    "company": "Esoteric Software",
+    "website": "https://esotericsoftware.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Art Tool"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "2D skeletal animation software for games.",
+    "longDescription": "Spine is included in The Creative Vault as a game development resource. 2D skeletal animation software for games.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Game Art Tool",
+      "2D Animation"
+    ],
+    "bestFor": [
+      "Game Art Tool",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-dragonbones",
+    "title": "DragonBones",
+    "shortName": "DragonBones",
+    "company": "Egret",
+    "website": "https://docs.egret.com/dragonbones/en",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Art Tool"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "2D skeletal animation tool for games.",
+    "longDescription": "DragonBones is included in The Creative Vault as a game development resource. 2D skeletal animation tool for games.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Game Art Tool",
+      "2D Animation"
+    ],
+    "bestFor": [
+      "Game Art Tool",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-spriter",
+    "title": "Spriter",
+    "shortName": "Spriter",
+    "company": "BrashMonkey",
+    "website": "https://brashmonkey.com/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Art Tool"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "2D modular animation tool for game sprites.",
+    "longDescription": "Spriter is included in The Creative Vault as a game development resource. 2D modular animation tool for game sprites.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Game Art Tool",
+      "2D Animation"
+    ],
+    "bestFor": [
+      "Game Art Tool",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-krita",
+    "title": "Krita",
+    "shortName": "Krita",
+    "company": "Krita Foundation",
+    "website": "https://krita.org/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Art Tool"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Free open-source painting and illustration software for game art.",
+    "longDescription": "Krita is included in The Creative Vault as a game development resource. Free open-source painting and illustration software for game art.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Game Art Tool",
+      "Painting",
+      "Open Source"
+    ],
+    "bestFor": [
+      "Game Art Tool",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": true,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-clip-studio-paint",
+    "title": "Clip Studio Paint",
+    "shortName": "Clip Studio Paint",
+    "company": "CELSYS",
+    "website": "https://www.clipstudio.net/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Art Tool"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Illustration, comics, and concept art software useful for game artists.",
+    "longDescription": "Clip Studio Paint is included in The Creative Vault as a game development resource. Illustration, comics, and concept art software useful for game artists.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Game Art Tool",
+      "Concept Art",
+      "Illustration"
+    ],
+    "bestFor": [
+      "Game Art Tool",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac",
+      "iPad"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-blender",
+    "title": "Blender",
+    "shortName": "Blender",
+    "company": "Blender Foundation",
+    "website": "https://www.blender.org/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Art Tool"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Free open-source 3D suite for modeling, animation, rendering, and asset creation.",
+    "longDescription": "Blender is included in The Creative Vault as a game development resource. Free open-source 3D suite for modeling, animation, rendering, and asset creation.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Game Art Tool",
+      "3D",
+      "Open Source"
+    ],
+    "bestFor": [
+      "Game Art Tool",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": true,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-blockbench",
+    "title": "Blockbench",
+    "shortName": "Blockbench",
+    "company": "JannisX11",
+    "website": "https://www.blockbench.net/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Art Tool"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Low-poly and voxel-style 3D model editor for games.",
+    "longDescription": "Blockbench is included in The Creative Vault as a game development resource. Low-poly and voxel-style 3D model editor for games.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Game Art Tool",
+      "Low Poly",
+      "Voxel"
+    ],
+    "bestFor": [
+      "Game Art Tool",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux",
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": true,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-magicavoxel",
+    "title": "MagicaVoxel",
+    "shortName": "MagicaVoxel",
+    "company": "Ephtracy",
+    "website": "https://ephtracy.github.io/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Art Tool"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Free voxel art editor and renderer.",
+    "longDescription": "MagicaVoxel is included in The Creative Vault as a game development resource. Free voxel art editor and renderer.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Game Art Tool",
+      "Voxel"
+    ],
+    "bestFor": [
+      "Game Art Tool",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-material-maker",
+    "title": "Material Maker",
+    "shortName": "Material Maker",
+    "company": "RodZilla",
+    "website": "https://www.materialmaker.org/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Art Tool"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Open-source procedural material creation tool.",
+    "longDescription": "Material Maker is included in The Creative Vault as a game development resource. Open-source procedural material creation tool.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Game Art Tool",
+      "Materials",
+      "Open Source"
+    ],
+    "bestFor": [
+      "Game Art Tool",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": true,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-armorpaint",
+    "title": "ArmorPaint",
+    "shortName": "ArmorPaint",
+    "company": "Armory",
+    "website": "https://armorpaint.org/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Art Tool"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "3D texture painting software for PBR assets.",
+    "longDescription": "ArmorPaint is included in The Creative Vault as a game development resource. 3D texture painting software for PBR assets.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Game Dev",
+      "Game Art Tool",
+      "Texturing",
+      "PBR"
+    ],
+    "bestFor": [
+      "Game Art Tool",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": true,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-quixel-mixer",
+    "title": "Quixel Mixer",
+    "shortName": "Quixel Mixer",
+    "company": "Epic Games",
+    "website": "https://quixel.com/mixer",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Art Tool"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Texture and material mixing tool for Megascans workflows.",
+    "longDescription": "Quixel Mixer is included in The Creative Vault as a game development resource. Texture and material mixing tool for Megascans workflows.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Game Dev",
+      "Game Art Tool",
+      "Materials",
+      "Textures"
+    ],
+    "bestFor": [
+      "Game Art Tool",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "game-dev-substance-3d-painter",
+    "title": "Substance 3D Painter",
+    "shortName": "Substance 3D Painter",
+    "company": "Adobe",
+    "website": "https://www.adobe.com/products/substance3d-painter.html",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "subcategories": [
+      "Game Art Tool"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Professional 3D texturing and painting software.",
+    "longDescription": "Substance 3D Painter is included in The Creative Vault as a game development resource. Professional 3D texturing and painting software.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Game Dev",
+      "Game Art Tool",
+      "Texturing",
+      "PBR"
+    ],
+    "bestFor": [
+      "Game Art Tool",
+      "Game development",
+      "Creative production"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

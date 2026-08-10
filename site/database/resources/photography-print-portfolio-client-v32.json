@@ -1,0 +1,1071 @@
+[
+  {
+    "id": "photography-pixieset",
+    "title": "Pixieset",
+    "shortName": "Pixieset",
+    "company": "Pixieset",
+    "website": "https://pixieset.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Client Galleries"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Client galleries, websites, stores, and studio tools for photographers.",
+    "longDescription": "Pixieset is included in The Creative Vault as a photography resource. Client galleries, websites, stores, and studio tools for photographers.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Photography",
+      "Client Galleries",
+      "Client Galleries"
+    ],
+    "bestFor": [
+      "Client Galleries",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": true,
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-pic-time",
+    "title": "Pic-Time",
+    "shortName": "Pic-Time",
+    "company": "Pic-Time",
+    "website": "https://www.pic-time.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Client Galleries"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Client gallery and sales automation platform for photographers.",
+    "longDescription": "Pic-Time is included in The Creative Vault as a photography resource. Client gallery and sales automation platform for photographers.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Photography",
+      "Client Galleries",
+      "Client Galleries"
+    ],
+    "bestFor": [
+      "Client Galleries",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": true,
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-shootproof",
+    "title": "ShootProof",
+    "shortName": "ShootProof",
+    "company": "ShootProof",
+    "website": "https://www.shootproof.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Client Galleries"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Client galleries, proofing, contracts, invoices, and sales tools.",
+    "longDescription": "ShootProof is included in The Creative Vault as a photography resource. Client galleries, proofing, contracts, invoices, and sales tools.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Photography",
+      "Client Galleries",
+      "Client Galleries"
+    ],
+    "bestFor": [
+      "Client Galleries",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-cloudspot",
+    "title": "CloudSpot",
+    "shortName": "CloudSpot",
+    "company": "CloudSpot",
+    "website": "https://www.cloudspot.io/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Client Galleries"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Photo gallery delivery and client proofing platform.",
+    "longDescription": "CloudSpot is included in The Creative Vault as a photography resource. Photo gallery delivery and client proofing platform.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Photography",
+      "Client Galleries",
+      "Client Galleries"
+    ],
+    "bestFor": [
+      "Client Galleries",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-pass-gallery",
+    "title": "PASS Gallery",
+    "shortName": "PASS Gallery",
+    "company": "PASS",
+    "website": "https://passgallery.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Client Galleries"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Online photo galleries and client delivery.",
+    "longDescription": "PASS Gallery is included in The Creative Vault as a photography resource. Online photo galleries and client delivery.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Photography",
+      "Client Galleries",
+      "Client Galleries"
+    ],
+    "bestFor": [
+      "Client Galleries",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-smugmug",
+    "title": "SmugMug",
+    "shortName": "SmugMug",
+    "company": "SmugMug",
+    "website": "https://www.smugmug.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Portfolio and Galleries"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Photo hosting, portfolio, gallery, and print sales platform.",
+    "longDescription": "SmugMug is included in The Creative Vault as a photography resource. Photo hosting, portfolio, gallery, and print sales platform.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Photography",
+      "Portfolio and Galleries",
+      "Portfolio"
+    ],
+    "bestFor": [
+      "Portfolio and Galleries",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-zenfolio",
+    "title": "Zenfolio",
+    "shortName": "Zenfolio",
+    "company": "Zenfolio",
+    "website": "https://zenfolio.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Portfolio and Galleries"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Photography websites, galleries, sales, and business tools.",
+    "longDescription": "Zenfolio is included in The Creative Vault as a photography resource. Photography websites, galleries, sales, and business tools.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Photography",
+      "Portfolio and Galleries",
+      "Portfolio"
+    ],
+    "bestFor": [
+      "Portfolio and Galleries",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-format",
+    "title": "Format",
+    "shortName": "Format",
+    "company": "Format",
+    "website": "https://www.format.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Portfolio and Galleries"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Portfolio website builder for photographers and artists.",
+    "longDescription": "Format is included in The Creative Vault as a photography resource. Portfolio website builder for photographers and artists.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Photography",
+      "Portfolio and Galleries",
+      "Portfolio"
+    ],
+    "bestFor": [
+      "Portfolio and Galleries",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-adobe-portfolio",
+    "title": "Adobe Portfolio",
+    "shortName": "Adobe Portfolio",
+    "company": "Adobe",
+    "website": "https://portfolio.adobe.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Portfolio and Galleries"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Portfolio website builder included with some Adobe plans.",
+    "longDescription": "Adobe Portfolio is included in The Creative Vault as a photography resource. Portfolio website builder included with some Adobe plans.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Photography",
+      "Portfolio and Galleries",
+      "Portfolio",
+      "Adobe"
+    ],
+    "bestFor": [
+      "Portfolio and Galleries",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-behance",
+    "title": "Behance",
+    "shortName": "Behance",
+    "company": "Adobe",
+    "website": "https://www.behance.net/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Portfolio and Galleries"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Creative portfolio and discovery platform.",
+    "longDescription": "Behance is included in The Creative Vault as a photography resource. Creative portfolio and discovery platform.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Portfolio and Galleries",
+      "Portfolio",
+      "Adobe"
+    ],
+    "bestFor": [
+      "Portfolio and Galleries",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": true,
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-500px",
+    "title": "500px",
+    "shortName": "500px",
+    "company": "500px",
+    "website": "https://500px.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Portfolio and Galleries"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Photography portfolio and licensing community.",
+    "longDescription": "500px is included in The Creative Vault as a photography resource. Photography portfolio and licensing community.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Photography",
+      "Portfolio and Galleries",
+      "Portfolio"
+    ],
+    "bestFor": [
+      "Portfolio and Galleries",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-flickr",
+    "title": "Flickr",
+    "shortName": "Flickr",
+    "company": "Flickr",
+    "website": "https://www.flickr.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Portfolio and Galleries"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Photo sharing and community platform.",
+    "longDescription": "Flickr is included in The Creative Vault as a photography resource. Photo sharing and community platform.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Photography",
+      "Portfolio and Galleries",
+      "Community"
+    ],
+    "bestFor": [
+      "Portfolio and Galleries",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-glass",
+    "title": "Glass",
+    "shortName": "Glass",
+    "company": "Glass",
+    "website": "https://glass.photo/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Portfolio and Galleries"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Photography community and portfolio platform.",
+    "longDescription": "Glass is included in The Creative Vault as a photography resource. Photography community and portfolio platform.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Photography",
+      "Portfolio and Galleries",
+      "Community"
+    ],
+    "bestFor": [
+      "Portfolio and Galleries",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-whitewall",
+    "title": "WhiteWall",
+    "shortName": "WhiteWall",
+    "company": "WhiteWall",
+    "website": "https://www.whitewall.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Printing Services"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Gallery-quality photo printing, framing, and wall art.",
+    "longDescription": "WhiteWall is included in The Creative Vault as a photography resource. Gallery-quality photo printing, framing, and wall art.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "Printing Services",
+      "Printing"
+    ],
+    "bestFor": [
+      "Printing Services",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": true,
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-bay-photo",
+    "title": "Bay Photo",
+    "shortName": "Bay Photo",
+    "company": "Bay Photo",
+    "website": "https://www.bayphoto.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Printing Services"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Professional photo lab for prints, albums, wall art, and photo products.",
+    "longDescription": "Bay Photo is included in The Creative Vault as a photography resource. Professional photo lab for prints, albums, wall art, and photo products.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "Printing Services",
+      "Printing"
+    ],
+    "bestFor": [
+      "Printing Services",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-whcc",
+    "title": "WHCC",
+    "shortName": "WHCC",
+    "company": "WHCC",
+    "website": "https://www.whcc.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Printing Services"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Professional photo printing lab and product fulfillment.",
+    "longDescription": "WHCC is included in The Creative Vault as a photography resource. Professional photo printing lab and product fulfillment.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "Printing Services",
+      "Printing"
+    ],
+    "bestFor": [
+      "Printing Services",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-printique",
+    "title": "Printique",
+    "shortName": "Printique",
+    "company": "Printique",
+    "website": "https://www.printique.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Printing Services"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Photo printing, albums, wall decor, and gifts.",
+    "longDescription": "Printique is included in The Creative Vault as a photography resource. Photo printing, albums, wall decor, and gifts.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "Printing Services",
+      "Printing"
+    ],
+    "bestFor": [
+      "Printing Services",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-saal-digital",
+    "title": "Saal Digital",
+    "shortName": "Saal Digital",
+    "company": "Saal Digital",
+    "website": "https://www.saal-digital.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Printing Services"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Professional photo prints, books, wall art, and albums.",
+    "longDescription": "Saal Digital is included in The Creative Vault as a photography resource. Professional photo prints, books, wall art, and albums.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "Printing Services",
+      "Printing"
+    ],
+    "bestFor": [
+      "Printing Services",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-mpix",
+    "title": "Mpix",
+    "shortName": "Mpix",
+    "company": "Mpix",
+    "website": "https://www.mpix.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Printing Services"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Photo printing, wall art, cards, and photo products.",
+    "longDescription": "Mpix is included in The Creative Vault as a photography resource. Photo printing, wall art, cards, and photo products.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "Printing Services",
+      "Printing"
+    ],
+    "bestFor": [
+      "Printing Services",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-nations-photo-lab",
+    "title": "Nations Photo Lab",
+    "shortName": "Nations Photo Lab",
+    "company": "Nations Photo Lab",
+    "website": "https://www.nationsphotolab.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Printing Services"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Professional photo printing and products.",
+    "longDescription": "Nations Photo Lab is included in The Creative Vault as a photography resource. Professional photo printing and products.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "Printing Services",
+      "Printing"
+    ],
+    "bestFor": [
+      "Printing Services",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-artifact-uprising",
+    "title": "Artifact Uprising",
+    "shortName": "Artifact Uprising",
+    "company": "Artifact Uprising",
+    "website": "https://www.artifactuprising.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Printing Services"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Premium photo books, prints, cards, and gifts.",
+    "longDescription": "Artifact Uprising is included in The Creative Vault as a photography resource. Premium photo books, prints, cards, and gifts.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "Printing Services",
+      "Photo Books"
+    ],
+    "bestFor": [
+      "Printing Services",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-blurb",
+    "title": "Blurb",
+    "shortName": "Blurb",
+    "company": "Blurb",
+    "website": "https://www.blurb.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Printing Services"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Photo book, trade book, and magazine printing platform.",
+    "longDescription": "Blurb is included in The Creative Vault as a photography resource. Photo book, trade book, and magazine printing platform.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "Printing Services",
+      "Photo Books"
+    ],
+    "bestFor": [
+      "Printing Services",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-mixbook",
+    "title": "Mixbook",
+    "shortName": "Mixbook",
+    "company": "Mixbook",
+    "website": "https://www.mixbook.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Printing Services"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Photo books, cards, calendars, and prints.",
+    "longDescription": "Mixbook is included in The Creative Vault as a photography resource. Photo books, cards, calendars, and prints.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "Printing Services",
+      "Photo Books"
+    ],
+    "bestFor": [
+      "Printing Services",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-printful-wall-art",
+    "title": "Printful Wall Art",
+    "shortName": "Printful Wall Art",
+    "company": "Printful",
+    "website": "https://www.printful.com/custom/wall-art",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Printing Services"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Print-on-demand wall art and photo products.",
+    "longDescription": "Printful Wall Art is included in The Creative Vault as a photography resource. Print-on-demand wall art and photo products.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Photography",
+      "Printing Services",
+      "POD"
+    ],
+    "bestFor": [
+      "Printing Services",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-gelato-wall-art",
+    "title": "Gelato Wall Art",
+    "shortName": "Gelato Wall Art",
+    "company": "Gelato",
+    "website": "https://www.gelato.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Printing Services"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Global print-on-demand wall art and photo product fulfillment.",
+    "longDescription": "Gelato Wall Art is included in The Creative Vault as a photography resource. Global print-on-demand wall art and photo product fulfillment.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Photography",
+      "Printing Services",
+      "POD"
+    ],
+    "bestFor": [
+      "Printing Services",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

@@ -1,0 +1,81 @@
+{
+  "id": "blender",
+  "title": "Blender",
+  "shortName": "Blender",
+  "companyId": "blender-foundation",
+  "company": "Blender Foundation",
+  "website": "https://www.blender.org/",
+  "category": "3D / CAD",
+  "categoryId": "3d-cad",
+  "subcategories": [
+    "3D Modeling",
+    "Animation",
+    "Rendering",
+    "Sculpting"
+  ],
+  "type": "Software",
+  "shortDescription": "Free open-source 3D creation suite for modeling, animation, rendering, sculpting, and VFX.",
+  "longDescription": "Blender is a full free and open-source 3D creation suite used for modeling, sculpting, animation, rendering, simulations, compositing, motion graphics, game assets, and visual effects.",
+  "whyUseIt": "Use it when you want a powerful no-cost 3D suite with a massive community and professional capabilities.",
+  "bestFor": [
+    "3D modeling",
+    "Animation",
+    "Rendering",
+    "Game assets",
+    "VFX",
+    "3D printing prep"
+  ],
+  "pros": [
+    "Free and open source",
+    "Huge community",
+    "All-in-one 3D suite",
+    "Great plugin ecosystem"
+  ],
+  "cons": [
+    "Steep learning curve",
+    "Interface can overwhelm beginners"
+  ],
+  "platforms": [
+    "Windows",
+    "Mac",
+    "Linux"
+  ],
+  "fileFormats": [
+    "BLEND",
+    "FBX",
+    "OBJ",
+    "GLTF",
+    "STL",
+    "USD"
+  ],
+  "price": "Free",
+  "pricingModel": "Free",
+  "openSource": true,
+  "industryStandard": false,
+  "rating": 4.8,
+  "popularity": 98,
+  "collections": [
+    "best-free-creative-tools",
+    "beginner-3d-kit",
+    "professional-3d-kit"
+  ],
+  "alternatives": [
+    "Maya",
+    "Cinema 4D",
+    "3ds Max",
+    "Houdini"
+  ],
+  "related": [
+    "poly-haven",
+    "blenderkit",
+    "sketchfab",
+    "fab"
+  ],
+  "documentation": "https://docs.blender.org/",
+  "github": "https://github.com/blender/blender",
+  "reddit": "https://www.reddit.com/r/blender/",
+  "featured": true,
+  "editorPick": true,
+  "verified": true,
+  "lastReviewed": "2026-07-07"
+}

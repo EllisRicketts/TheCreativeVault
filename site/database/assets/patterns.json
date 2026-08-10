@@ -1,0 +1,80 @@
+[
+  {
+    "title": "Hero Patterns",
+    "website": "https://heropatterns.com",
+    "price": "Free",
+    "logo": "",
+    "description": "Repeatable SVG background patterns.",
+    "assetType": "patterns",
+    "commercialUse": "Check license",
+    "attribution": "Check license",
+    "formats": [],
+    "featured": true,
+    "lastReviewed": "2026-07-07"
+  },
+  {
+    "title": "Pattern Monster",
+    "website": "https://pattern.monster",
+    "price": "Free",
+    "logo": "",
+    "description": "Free customizable SVG patterns.",
+    "assetType": "patterns",
+    "commercialUse": "Check license",
+    "attribution": "Check license",
+    "formats": [],
+    "featured": true,
+    "lastReviewed": "2026-07-07"
+  },
+  {
+    "title": "SVG Backgrounds",
+    "website": "https://www.svgbackgrounds.com",
+    "price": "Freemium",
+    "logo": "",
+    "description": "SVG backgrounds and patterns for web design.",
+    "assetType": "patterns",
+    "commercialUse": "Check license",
+    "attribution": "Check license",
+    "formats": [],
+    "featured": false,
+    "lastReviewed": "2026-07-07"
+  },
+  {
+    "title": "Toptal Subtle Patterns",
+    "website": "https://www.toptal.com/designers/subtlepatterns/",
+    "price": "Free",
+    "logo": "",
+    "description": "Subtle texture and pattern library.",
+    "assetType": "patterns",
+    "commercialUse": "Check license",
+    "attribution": "Check license",
+    "formats": [],
+    "featured": true,
+    "lastReviewed": "2026-07-07"
+  },
+  {
+    "title": "Patterninja",
+    "website": "https://patterninja.com",
+    "price": "Free",
+    "logo": "",
+    "description": "Pattern generator for graphic and web design.",
+    "assetType": "patterns",
+    "commercialUse": "Check license",
+    "attribution": "Check license",
+    "formats": [],
+    "featured": true,
+    "lastReviewed": "2026-07-07"
+  },
+  {
+    "title": "MagicPattern",
+    "website": "https://www.magicpattern.design",
+    "price": "Freemium",
+    "logo": "",
+    "description": "Pattern, background, and design asset generator.",
+    "assetType": "patterns",
+    "commercialUse": "Check license",
+    "attribution": "Check license",
+    "formats": [],
+    "featured": false,
+    "lastReviewed": "2026-07-07"
+  }
+]

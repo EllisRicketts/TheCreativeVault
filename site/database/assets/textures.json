@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Poly Haven",
+    "website": "https://polyhaven.com",
+    "price": "Free",
+    "logo": "",
+    "description": "Poly Haven resource library.",
+    "commercialUse": "Check license",
+    "formats": [],
+    "featured": true
+  },
+  {
+    "title": "AmbientCG",
+    "website": "https://ambientcg.com",
+    "price": "Free",
+    "logo": "",
+    "description": "AmbientCG resource library.",
+    "commercialUse": "Check license",
+    "formats": [],
+    "featured": true
+  },
+  {
+    "title": "Textures.com",
+    "website": "https://textures.com",
+    "price": "Freemium",
+    "logo": "",
+    "description": "Textures.com resource library.",
+    "commercialUse": "Check license",
+    "formats": [],
+    "featured": false
+  },
+  {
+    "title": "Poliigon",
+    "website": "https://www.poliigon.com",
+    "price": "Subscription",
+    "logo": "",
+    "description": "Poliigon resource library.",
+    "commercialUse": "Check license",
+    "formats": [],
+    "featured": false
+  },
+  {
+    "title": "CGBookcase",
+    "website": "https://www.cgbookcase.com",
+    "price": "Free",
+    "logo": "",
+    "description": "CGBookcase resource library.",
+    "commercialUse": "Check license",
+    "formats": [],
+    "featured": true
+  },
+  {
+    "title": "Quixel Megascans",
+    "website": "https://quixel.com/megascans",
+    "price": "Freemium",
+    "logo": "",
+    "description": "Quixel Megascans resource library.",
+    "commercialUse": "Check license",
+    "formats": [],
+    "featured": false
+  }
+]

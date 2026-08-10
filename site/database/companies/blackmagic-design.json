@@ -1,0 +1,12 @@
+{
+  "id": "blackmagic-design",
+  "name": "Blackmagic Design",
+  "website": "https://www.blackmagicdesign.com/",
+  "category": "Company",
+  "type": "Media Technology Company",
+  "ecosystems": [
+    "Blackmagic Design",
+    "DaVinci Resolve"
+  ],
+  "description": "Video, cinema, broadcast, editing, color, and post-production technology company."
+}

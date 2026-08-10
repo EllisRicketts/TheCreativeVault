@@ -1,0 +1,18 @@
+{
+  "id": "example-resource",
+  "title": "Example Resource",
+  "company": "Example Company",
+  "website": "https://example.com",
+  "category": "Audio",
+  "subcategories": [
+    "Plugins"
+  ],
+  "price": "Free",
+  "tags": [
+    "Example"
+  ],
+  "shortDescription": "Replace with a real resource.",
+  "longDescription": "Delete this file after adding your own resources.",
+  "rating": 5,
+  "verified": true
+}

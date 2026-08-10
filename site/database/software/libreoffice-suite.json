@@ -1,0 +1,389 @@
+[
+  {
+    "id": "software-libreoffice-writer",
+    "title": "LibreOffice Writer",
+    "shortName": "LibreOffice Writer",
+    "company": "The Document Foundation",
+    "website": "https://www.libreoffice.org/discover/writer/",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Word Processing",
+      "Office Suite"
+    ],
+    "categoryIds": [
+      "software",
+      "word-processing",
+      "office-suite"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Word Processing",
+      "Office Suite"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Free",
+    "price": "Free",
+    "license": "Free",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "applications": [
+      "LibreOffice"
+    ],
+    "applicationEcosystems": [
+      "LibreOffice"
+    ],
+    "shortDescription": "Free open-source word processor for documents, reports, manuscripts, and letters.",
+    "longDescription": "LibreOffice Writer is a software application in The Creative Vault. Free open-source word processor for documents, reports, manuscripts, and letters.",
+    "bestFor": [
+      "Writing",
+      "Documents"
+    ],
+    "relatedSoftware": [
+      "Microsoft Word",
+      "Google Docs"
+    ],
+    "tags": [
+      "Software",
+      "The Document Foundation",
+      "LibreOffice",
+      "Word Processing",
+      "Office Suite",
+      "Open Source",
+      "ODT"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-libreoffice-calc",
+    "title": "LibreOffice Calc",
+    "shortName": "LibreOffice Calc",
+    "company": "The Document Foundation",
+    "website": "https://www.libreoffice.org/discover/calc/",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Spreadsheets",
+      "Office Suite"
+    ],
+    "categoryIds": [
+      "software",
+      "spreadsheets",
+      "office-suite"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Spreadsheets",
+      "Office Suite"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Free",
+    "price": "Free",
+    "license": "Free",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "applications": [
+      "LibreOffice"
+    ],
+    "applicationEcosystems": [
+      "LibreOffice"
+    ],
+    "shortDescription": "Free open-source spreadsheet application for data, budgets, tables, and analysis.",
+    "longDescription": "LibreOffice Calc is a software application in The Creative Vault. Free open-source spreadsheet application for data, budgets, tables, and analysis.",
+    "bestFor": [
+      "Spreadsheets",
+      "Data"
+    ],
+    "relatedSoftware": [
+      "Microsoft Excel",
+      "Google Sheets"
+    ],
+    "tags": [
+      "Software",
+      "The Document Foundation",
+      "LibreOffice",
+      "Spreadsheets",
+      "Office Suite",
+      "Open Source",
+      "ODS"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-libreoffice-impress",
+    "title": "LibreOffice Impress",
+    "shortName": "LibreOffice Impress",
+    "company": "The Document Foundation",
+    "website": "https://www.libreoffice.org/discover/impress/",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Presentations",
+      "Office Suite"
+    ],
+    "categoryIds": [
+      "software",
+      "presentations",
+      "office-suite"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Presentations",
+      "Office Suite"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Free",
+    "price": "Free",
+    "license": "Free",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "applications": [
+      "LibreOffice"
+    ],
+    "applicationEcosystems": [
+      "LibreOffice"
+    ],
+    "shortDescription": "Free open-source presentation software for slides, decks, and talks.",
+    "longDescription": "LibreOffice Impress is a software application in The Creative Vault. Free open-source presentation software for slides, decks, and talks.",
+    "bestFor": [
+      "Presentations",
+      "Decks"
+    ],
+    "relatedSoftware": [
+      "Microsoft PowerPoint",
+      "Google Slides"
+    ],
+    "tags": [
+      "Software",
+      "The Document Foundation",
+      "LibreOffice",
+      "Presentations",
+      "Office Suite",
+      "Open Source",
+      "ODP"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-libreoffice-draw",
+    "title": "LibreOffice Draw",
+    "shortName": "LibreOffice Draw",
+    "company": "The Document Foundation",
+    "website": "https://www.libreoffice.org/discover/draw/",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Vector Drawing",
+      "Diagrams",
+      "PDF Editing"
+    ],
+    "categoryIds": [
+      "software",
+      "vector-drawing",
+      "diagrams",
+      "pdf-editing"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Vector Drawing",
+      "Diagrams",
+      "PDF Editing"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Free",
+    "price": "Free",
+    "license": "Free",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "applications": [
+      "LibreOffice"
+    ],
+    "applicationEcosystems": [
+      "LibreOffice"
+    ],
+    "shortDescription": "Free open-source vector drawing, diagrams, flowcharts, and basic PDF editing software.",
+    "longDescription": "LibreOffice Draw is a software application in The Creative Vault. Free open-source vector drawing, diagrams, flowcharts, and basic PDF editing software.",
+    "bestFor": [
+      "Diagrams",
+      "PDF Editing"
+    ],
+    "relatedSoftware": [
+      "Inkscape",
+      "Adobe Acrobat"
+    ],
+    "tags": [
+      "Software",
+      "The Document Foundation",
+      "LibreOffice",
+      "Vector Drawing",
+      "Diagrams",
+      "PDF Editing",
+      "Open Source",
+      "PDF"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-libreoffice-base",
+    "title": "LibreOffice Base",
+    "shortName": "LibreOffice Base",
+    "company": "The Document Foundation",
+    "website": "https://www.libreoffice.org/discover/base/",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Databases",
+      "Office Suite"
+    ],
+    "categoryIds": [
+      "software",
+      "databases",
+      "office-suite"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Databases",
+      "Office Suite"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Free",
+    "price": "Free",
+    "license": "Free",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "applications": [
+      "LibreOffice"
+    ],
+    "applicationEcosystems": [
+      "LibreOffice"
+    ],
+    "shortDescription": "Free open-source database front-end for forms, reports, and data workflows.",
+    "longDescription": "LibreOffice Base is a software application in The Creative Vault. Free open-source database front-end for forms, reports, and data workflows.",
+    "bestFor": [
+      "Databases",
+      "Forms"
+    ],
+    "relatedSoftware": [
+      "Microsoft Access",
+      "Airtable"
+    ],
+    "tags": [
+      "Software",
+      "The Document Foundation",
+      "LibreOffice",
+      "Databases",
+      "Office Suite",
+      "Open Source",
+      "Database"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-libreoffice-math",
+    "title": "LibreOffice Math",
+    "shortName": "LibreOffice Math",
+    "company": "The Document Foundation",
+    "website": "https://www.libreoffice.org/discover/math/",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Formula Editing",
+      "Office Suite"
+    ],
+    "categoryIds": [
+      "software",
+      "formula-editing",
+      "office-suite"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Formula Editing",
+      "Office Suite"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Free",
+    "price": "Free",
+    "license": "Free",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "applications": [
+      "LibreOffice"
+    ],
+    "applicationEcosystems": [
+      "LibreOffice"
+    ],
+    "shortDescription": "Free open-source formula editor for mathematical notation in documents.",
+    "longDescription": "LibreOffice Math is a software application in The Creative Vault. Free open-source formula editor for mathematical notation in documents.",
+    "bestFor": [
+      "Math",
+      "Formulas"
+    ],
+    "relatedSoftware": [
+      "Microsoft Equation Editor"
+    ],
+    "tags": [
+      "Software",
+      "The Document Foundation",
+      "LibreOffice",
+      "Formula Editing",
+      "Office Suite",
+      "Open Source",
+      "Formula"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

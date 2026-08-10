@@ -1,0 +1,342 @@
+[
+  {
+    "id": "photo-mechanic",
+    "title": "Photo Mechanic",
+    "shortName": "Photo Mechanic",
+    "company": "Camera Bits",
+    "website": "https://home.camerabits.com/",
+    "category": "Photography",
+    "categoryId": "photo",
+    "subcategories": [
+      "Photography"
+    ],
+    "type": "Resource",
+    "shortDescription": "Fast photo ingest, culling, metadata, and workflow software.",
+    "longDescription": "Fast photo ingest, culling, metadata, and workflow software.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "Photography"
+    ],
+    "bestFor": [
+      "Photography",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "fastrawviewer",
+    "title": "FastRawViewer",
+    "shortName": "FastRawViewer",
+    "company": "LibRaw",
+    "website": "https://www.fastrawviewer.com/",
+    "category": "Photography",
+    "categoryId": "photo",
+    "subcategories": [
+      "Photography"
+    ],
+    "type": "Resource",
+    "shortDescription": "RAW image viewer and culling tool for photographers.",
+    "longDescription": "RAW image viewer and culling tool for photographers.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "Photography"
+    ],
+    "bestFor": [
+      "Photography",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "exposure-x",
+    "title": "Exposure X",
+    "shortName": "Exposure X",
+    "company": "Exposure Software",
+    "website": "https://exposure.software/",
+    "category": "Photography",
+    "categoryId": "photo",
+    "subcategories": [
+      "Photography"
+    ],
+    "type": "Resource",
+    "shortDescription": "Photo editing and organizing software focused on film looks.",
+    "longDescription": "Photo editing and organizing software focused on film looks.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "Photography"
+    ],
+    "bestFor": [
+      "Photography",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "acdsee-photo-studio",
+    "title": "ACDSee Photo Studio",
+    "shortName": "ACDSee Photo Studio",
+    "company": "ACD Systems",
+    "website": "https://www.acdsee.com/",
+    "category": "Photography",
+    "categoryId": "photo",
+    "subcategories": [
+      "Photography"
+    ],
+    "type": "Resource",
+    "shortDescription": "Photo management and editing software.",
+    "longDescription": "Photo management and editing software.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "Photography"
+    ],
+    "bestFor": [
+      "Photography",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photolab",
+    "title": "PhotoLab",
+    "shortName": "PhotoLab",
+    "company": "DxO",
+    "website": "https://www.dxo.com/dxo-photolab/",
+    "category": "Photography",
+    "categoryId": "photo",
+    "subcategories": [
+      "Photography"
+    ],
+    "type": "Resource",
+    "shortDescription": "RAW photo editor known for optical correction and denoising.",
+    "longDescription": "RAW photo editor known for optical correction and denoising.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "Photography"
+    ],
+    "bestFor": [
+      "Photography",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "capture-one",
+    "title": "Capture One",
+    "shortName": "Capture One",
+    "company": "Capture One",
+    "website": "https://www.captureone.com/",
+    "category": "Photography",
+    "categoryId": "photo",
+    "subcategories": [
+      "Photography"
+    ],
+    "type": "Resource",
+    "shortDescription": "Professional RAW editing and tethering software.",
+    "longDescription": "Professional RAW editing and tethering software.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "Photography"
+    ],
+    "bestFor": [
+      "Photography",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "luminar-neo",
+    "title": "Luminar Neo",
+    "shortName": "Luminar Neo",
+    "company": "Skylum",
+    "website": "https://skylum.com/luminar",
+    "category": "Photography",
+    "categoryId": "photo",
+    "subcategories": [
+      "Photography"
+    ],
+    "type": "Resource",
+    "shortDescription": "AI-powered photo editor and enhancement tool.",
+    "longDescription": "AI-powered photo editor and enhancement tool.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "Photography"
+    ],
+    "bestFor": [
+      "Photography",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "on1-photo-raw",
+    "title": "ON1 Photo RAW",
+    "shortName": "ON1 Photo RAW",
+    "company": "ON1",
+    "website": "https://www.on1.com/products/photo-raw/",
+    "category": "Photography",
+    "categoryId": "photo",
+    "subcategories": [
+      "Photography"
+    ],
+    "type": "Resource",
+    "shortDescription": "RAW photo editing, effects, masking, and organizing software.",
+    "longDescription": "RAW photo editing, effects, masking, and organizing software.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "Photography"
+    ],
+    "bestFor": [
+      "Photography",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "darktable",
+    "title": "Darktable",
+    "shortName": "Darktable",
+    "company": "Darktable",
+    "website": "https://www.darktable.org/",
+    "category": "Photography",
+    "categoryId": "photo",
+    "subcategories": [
+      "Photography"
+    ],
+    "type": "Resource",
+    "shortDescription": "Free open-source photography workflow and RAW developer.",
+    "longDescription": "Free open-source photography workflow and RAW developer.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Photography"
+    ],
+    "bestFor": [
+      "Photography",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "rawtherapee",
+    "title": "RawTherapee",
+    "shortName": "RawTherapee",
+    "company": "RawTherapee",
+    "website": "https://www.rawtherapee.com/",
+    "category": "Photography",
+    "categoryId": "photo",
+    "subcategories": [
+      "Photography"
+    ],
+    "type": "Resource",
+    "shortDescription": "Free open-source RAW photo processing software.",
+    "longDescription": "Free open-source RAW photo processing software.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Photography"
+    ],
+    "bestFor": [
+      "Photography",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

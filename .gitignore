@@ -1,0 +1,35 @@
+# --- Secrets: never commit these ---
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets.json
+
+# --- Dependencies ---
+node_modules/
+npm-debug.log*
+yarn-error.log
+
+# --- Netlify local state ---
+.netlify/
+
+# --- Windows / macOS junk ---
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.url
+.DS_Store
+._*
+
+# --- Editors ---
+.vscode/
+.idea/
+*.swp
+*~
+
+# --- Local scratch, never published ---
+*.log
+/_local/
+/_scratch/

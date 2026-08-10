@@ -1,0 +1,342 @@
+[
+  {
+    "id": "final-cut-pro",
+    "title": "Final Cut Pro",
+    "shortName": "Final Cut Pro",
+    "company": "Apple",
+    "website": "https://www.apple.com/final-cut-pro/",
+    "category": "Video",
+    "categoryId": "video",
+    "subcategories": [
+      "Video Editing"
+    ],
+    "type": "Resource",
+    "shortDescription": "Professional video editing software for Mac and iPad.",
+    "longDescription": "Professional video editing software for Mac and iPad.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Video Editing",
+      "Video"
+    ],
+    "bestFor": [
+      "Video Editing",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "vegas-pro",
+    "title": "Vegas Pro",
+    "shortName": "Vegas Pro",
+    "company": "MAGIX",
+    "website": "https://www.vegascreativesoftware.com/us/vegas-pro/",
+    "category": "Video",
+    "categoryId": "video",
+    "subcategories": [
+      "Video Editing"
+    ],
+    "type": "Resource",
+    "shortDescription": "Professional video editing software for creators and editors.",
+    "longDescription": "Professional video editing software for creators and editors.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Video Editing",
+      "Video"
+    ],
+    "bestFor": [
+      "Video Editing",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "hitfilm",
+    "title": "HitFilm",
+    "shortName": "HitFilm",
+    "company": "FXhome",
+    "website": "https://fxhome.com/product/hitfilm",
+    "category": "Video",
+    "categoryId": "video",
+    "subcategories": [
+      "Video Editing"
+    ],
+    "type": "Resource",
+    "shortDescription": "Video editing and VFX software for creators.",
+    "longDescription": "Video editing and VFX software for creators.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Video Editing",
+      "Video"
+    ],
+    "bestFor": [
+      "Video Editing",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "kdenlive",
+    "title": "Kdenlive",
+    "shortName": "Kdenlive",
+    "company": "Kdenlive",
+    "website": "https://kdenlive.org/",
+    "category": "Video",
+    "categoryId": "video",
+    "subcategories": [
+      "Video Editing"
+    ],
+    "type": "Resource",
+    "shortDescription": "Free open-source video editing software.",
+    "longDescription": "Free open-source video editing software.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Video Editing",
+      "Video"
+    ],
+    "bestFor": [
+      "Video Editing",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "shotcut",
+    "title": "Shotcut",
+    "shortName": "Shotcut",
+    "company": "Shotcut",
+    "website": "https://shotcut.org/",
+    "category": "Video",
+    "categoryId": "video",
+    "subcategories": [
+      "Video Editing"
+    ],
+    "type": "Resource",
+    "shortDescription": "Free open-source cross-platform video editor.",
+    "longDescription": "Free open-source cross-platform video editor.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Video Editing",
+      "Video"
+    ],
+    "bestFor": [
+      "Video Editing",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "lightworks",
+    "title": "Lightworks",
+    "shortName": "Lightworks",
+    "company": "LWKS",
+    "website": "https://lwks.com/",
+    "category": "Video",
+    "categoryId": "video",
+    "subcategories": [
+      "Video Editing"
+    ],
+    "type": "Resource",
+    "shortDescription": "Professional non-linear video editing software.",
+    "longDescription": "Professional non-linear video editing software.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Video Editing",
+      "Video"
+    ],
+    "bestFor": [
+      "Video Editing",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "avid-media-composer",
+    "title": "Avid Media Composer",
+    "shortName": "Avid Media Composer",
+    "company": "Avid",
+    "website": "https://www.avid.com/media-composer",
+    "category": "Video",
+    "categoryId": "video",
+    "subcategories": [
+      "Video Editing"
+    ],
+    "type": "Resource",
+    "shortDescription": "Industry-standard editing software for film and TV.",
+    "longDescription": "Industry-standard editing software for film and TV.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Video Editing",
+      "Video"
+    ],
+    "bestFor": [
+      "Video Editing",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "capcut",
+    "title": "CapCut",
+    "shortName": "CapCut",
+    "company": "ByteDance",
+    "website": "https://www.capcut.com/",
+    "category": "Video",
+    "categoryId": "video",
+    "subcategories": [
+      "Video Editing"
+    ],
+    "type": "Resource",
+    "shortDescription": "Fast video editor for social video, captions, and short-form content.",
+    "longDescription": "Fast video editor for social video, captions, and short-form content.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Video Editing",
+      "Video"
+    ],
+    "bestFor": [
+      "Video Editing",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "clipchamp",
+    "title": "Clipchamp",
+    "shortName": "Clipchamp",
+    "company": "Microsoft",
+    "website": "https://clipchamp.com/",
+    "category": "Video",
+    "categoryId": "video",
+    "subcategories": [
+      "Video Editing"
+    ],
+    "type": "Resource",
+    "shortDescription": "Browser-based video editor from Microsoft.",
+    "longDescription": "Browser-based video editor from Microsoft.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Video Editing",
+      "Video"
+    ],
+    "bestFor": [
+      "Video Editing",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "openshot",
+    "title": "OpenShot",
+    "shortName": "OpenShot",
+    "company": "OpenShot",
+    "website": "https://www.openshot.org/",
+    "category": "Video",
+    "categoryId": "video",
+    "subcategories": [
+      "Video Editing"
+    ],
+    "type": "Resource",
+    "shortDescription": "Free open-source video editor.",
+    "longDescription": "Free open-source video editor.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Video Editing",
+      "Video"
+    ],
+    "bestFor": [
+      "Video Editing",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

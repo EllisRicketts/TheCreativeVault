@@ -1,0 +1,982 @@
+[
+  {
+    "id": "essential-excalidraw",
+    "title": "Excalidraw",
+    "shortName": "Excalidraw",
+    "company": "Excalidraw",
+    "website": "https://excalidraw.com/",
+    "category": "Productivity",
+    "categoryId": "productivity",
+    "categories": [
+      "Productivity",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "productivity",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Productivity",
+    "subcategories": [
+      "Whiteboard",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free hand-drawn style whiteboard tool.",
+    "longDescription": "Excalidraw is included in The Creative Vault Creative Essentials Pack. Free hand-drawn style whiteboard tool.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Productivity",
+      "Whiteboard",
+      "Whiteboard"
+    ],
+    "bestFor": [
+      "Whiteboard",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-tldraw",
+    "title": "tldraw",
+    "shortName": "tldraw",
+    "company": "tldraw",
+    "website": "https://www.tldraw.com/",
+    "category": "Productivity",
+    "categoryId": "productivity",
+    "categories": [
+      "Productivity",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "productivity",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Productivity",
+    "subcategories": [
+      "Whiteboard",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free infinite canvas whiteboard.",
+    "longDescription": "tldraw is included in The Creative Vault Creative Essentials Pack. Free infinite canvas whiteboard.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Productivity",
+      "Whiteboard",
+      "Whiteboard"
+    ],
+    "bestFor": [
+      "Whiteboard",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-whimsical-free",
+    "title": "Whimsical Free",
+    "shortName": "Whimsical Free",
+    "company": "Whimsical",
+    "website": "https://whimsical.com/",
+    "category": "Productivity",
+    "categoryId": "productivity",
+    "categories": [
+      "Productivity",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "productivity",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Productivity",
+    "subcategories": [
+      "Diagrams",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Visual collaboration tool for flowcharts, wireframes, and mind maps.",
+    "longDescription": "Whimsical Free is included in The Creative Vault Creative Essentials Pack. Visual collaboration tool for flowcharts, wireframes, and mind maps.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Productivity",
+      "Diagrams",
+      "Diagrams"
+    ],
+    "bestFor": [
+      "Diagrams",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-draw-io",
+    "title": "Draw.io",
+    "shortName": "Draw.io",
+    "company": "JGraph",
+    "website": "https://www.drawio.com/",
+    "category": "Productivity",
+    "categoryId": "productivity",
+    "categories": [
+      "Productivity",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "productivity",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Productivity",
+    "subcategories": [
+      "Diagrams",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free diagramming and flowchart tool.",
+    "longDescription": "Draw.io is included in The Creative Vault Creative Essentials Pack. Free diagramming and flowchart tool.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Productivity",
+      "Diagrams",
+      "Diagrams"
+    ],
+    "bestFor": [
+      "Diagrams",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-mermaid-live-editor",
+    "title": "Mermaid Live Editor",
+    "shortName": "Mermaid Live Editor",
+    "company": "Mermaid",
+    "website": "https://mermaid.live/",
+    "category": "Productivity",
+    "categoryId": "productivity",
+    "categories": [
+      "Productivity",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "productivity",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Productivity",
+    "subcategories": [
+      "Diagrams",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Create diagrams from text using Mermaid syntax.",
+    "longDescription": "Mermaid Live Editor is included in The Creative Vault Creative Essentials Pack. Create diagrams from text using Mermaid syntax.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Productivity",
+      "Diagrams",
+      "Diagrams"
+    ],
+    "bestFor": [
+      "Diagrams",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-plantuml",
+    "title": "PlantUML",
+    "shortName": "PlantUML",
+    "company": "PlantUML",
+    "website": "https://plantuml.com/",
+    "category": "Productivity",
+    "categoryId": "productivity",
+    "categories": [
+      "Productivity",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "productivity",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Productivity",
+    "subcategories": [
+      "Diagrams",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Open-source text-to-diagram tool.",
+    "longDescription": "PlantUML is included in The Creative Vault Creative Essentials Pack. Open-source text-to-diagram tool.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Productivity",
+      "Diagrams",
+      "Diagrams"
+    ],
+    "bestFor": [
+      "Diagrams",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-mindmup",
+    "title": "MindMup",
+    "shortName": "MindMup",
+    "company": "MindMup",
+    "website": "https://www.mindmup.com/",
+    "category": "Productivity",
+    "categoryId": "productivity",
+    "categories": [
+      "Productivity",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "productivity",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Productivity",
+    "subcategories": [
+      "Mind Mapping",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free mind mapping tool.",
+    "longDescription": "MindMup is included in The Creative Vault Creative Essentials Pack. Free mind mapping tool.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Productivity",
+      "Mind Mapping",
+      "Mind Map"
+    ],
+    "bestFor": [
+      "Mind Mapping",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-coggle",
+    "title": "Coggle",
+    "shortName": "Coggle",
+    "company": "Coggle",
+    "website": "https://coggle.it/",
+    "category": "Productivity",
+    "categoryId": "productivity",
+    "categories": [
+      "Productivity",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "productivity",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Productivity",
+    "subcategories": [
+      "Mind Mapping",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Collaborative mind mapping tool.",
+    "longDescription": "Coggle is included in The Creative Vault Creative Essentials Pack. Collaborative mind mapping tool.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Productivity",
+      "Mind Mapping",
+      "Mind Map"
+    ],
+    "bestFor": [
+      "Mind Mapping",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-workflowy",
+    "title": "Workflowy",
+    "shortName": "Workflowy",
+    "company": "Workflowy",
+    "website": "https://workflowy.com/",
+    "category": "Productivity",
+    "categoryId": "productivity",
+    "categories": [
+      "Productivity",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "productivity",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Productivity",
+    "subcategories": [
+      "Outliner",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Simple outlining and note organization tool.",
+    "longDescription": "Workflowy is included in The Creative Vault Creative Essentials Pack. Simple outlining and note organization tool.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Productivity",
+      "Outliner",
+      "Outliner"
+    ],
+    "bestFor": [
+      "Outliner",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-dynalist",
+    "title": "Dynalist",
+    "shortName": "Dynalist",
+    "company": "Dynalist",
+    "website": "https://dynalist.io/",
+    "category": "Productivity",
+    "categoryId": "productivity",
+    "categories": [
+      "Productivity",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "productivity",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Productivity",
+    "subcategories": [
+      "Outliner",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Outliner for notes, projects, and knowledge organization.",
+    "longDescription": "Dynalist is included in The Creative Vault Creative Essentials Pack. Outliner for notes, projects, and knowledge organization.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Productivity",
+      "Outliner",
+      "Outliner"
+    ],
+    "bestFor": [
+      "Outliner",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-obsidian",
+    "title": "Obsidian",
+    "shortName": "Obsidian",
+    "company": "Obsidian",
+    "website": "https://obsidian.md/",
+    "category": "Productivity",
+    "categoryId": "productivity",
+    "categories": [
+      "Productivity",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "productivity",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Productivity",
+    "subcategories": [
+      "Knowledge Base",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Markdown notes and knowledge base app.",
+    "longDescription": "Obsidian is included in The Creative Vault Creative Essentials Pack. Markdown notes and knowledge base app.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Productivity",
+      "Knowledge Base",
+      "Notes"
+    ],
+    "bestFor": [
+      "Knowledge Base",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-logseq",
+    "title": "Logseq",
+    "shortName": "Logseq",
+    "company": "Logseq",
+    "website": "https://logseq.com/",
+    "category": "Productivity",
+    "categoryId": "productivity",
+    "categories": [
+      "Productivity",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "productivity",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Productivity",
+    "subcategories": [
+      "Knowledge Base",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Open-source outliner and knowledge management tool.",
+    "longDescription": "Logseq is included in The Creative Vault Creative Essentials Pack. Open-source outliner and knowledge management tool.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Productivity",
+      "Knowledge Base",
+      "Notes"
+    ],
+    "bestFor": [
+      "Knowledge Base",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-joplin",
+    "title": "Joplin",
+    "shortName": "Joplin",
+    "company": "Joplin",
+    "website": "https://joplinapp.org/",
+    "category": "Productivity",
+    "categoryId": "productivity",
+    "categories": [
+      "Productivity",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "productivity",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Productivity",
+    "subcategories": [
+      "Notes",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Open-source note-taking and to-do app.",
+    "longDescription": "Joplin is included in The Creative Vault Creative Essentials Pack. Open-source note-taking and to-do app.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Productivity",
+      "Notes",
+      "Notes"
+    ],
+    "bestFor": [
+      "Notes",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-standard-notes",
+    "title": "Standard Notes",
+    "shortName": "Standard Notes",
+    "company": "Standard Notes",
+    "website": "https://standardnotes.com/",
+    "category": "Productivity",
+    "categoryId": "productivity",
+    "categories": [
+      "Productivity",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "productivity",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Productivity",
+    "subcategories": [
+      "Notes",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Privacy-focused notes app with a free plan.",
+    "longDescription": "Standard Notes is included in The Creative Vault Creative Essentials Pack. Privacy-focused notes app with a free plan.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Productivity",
+      "Notes",
+      "Notes"
+    ],
+    "bestFor": [
+      "Notes",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-notion-free",
+    "title": "Notion Free",
+    "shortName": "Notion Free",
+    "company": "Notion Labs",
+    "website": "https://www.notion.com/",
+    "category": "Productivity",
+    "categoryId": "productivity",
+    "categories": [
+      "Productivity",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "productivity",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Productivity",
+    "subcategories": [
+      "Workspace",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Free workspace for notes, databases, docs, and projects.",
+    "longDescription": "Notion Free is included in The Creative Vault Creative Essentials Pack. Free workspace for notes, databases, docs, and projects.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Productivity",
+      "Workspace",
+      "Workspace"
+    ],
+    "bestFor": [
+      "Workspace",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-trello-free",
+    "title": "Trello Free",
+    "shortName": "Trello Free",
+    "company": "Atlassian",
+    "website": "https://trello.com/",
+    "category": "Productivity",
+    "categoryId": "productivity",
+    "categories": [
+      "Productivity",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "productivity",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Productivity",
+    "subcategories": [
+      "Project Management",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Kanban boards for project organization.",
+    "longDescription": "Trello Free is included in The Creative Vault Creative Essentials Pack. Kanban boards for project organization.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Productivity",
+      "Project Management",
+      "Projects"
+    ],
+    "bestFor": [
+      "Project Management",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-clickup-free",
+    "title": "ClickUp Free",
+    "shortName": "ClickUp Free",
+    "company": "ClickUp",
+    "website": "https://clickup.com/",
+    "category": "Productivity",
+    "categoryId": "productivity",
+    "categories": [
+      "Productivity",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "productivity",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Productivity",
+    "subcategories": [
+      "Project Management",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Project management tool with free plan.",
+    "longDescription": "ClickUp Free is included in The Creative Vault Creative Essentials Pack. Project management tool with free plan.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Productivity",
+      "Project Management",
+      "Projects"
+    ],
+    "bestFor": [
+      "Project Management",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-asana-free",
+    "title": "Asana Free",
+    "shortName": "Asana Free",
+    "company": "Asana",
+    "website": "https://asana.com/",
+    "category": "Productivity",
+    "categoryId": "productivity",
+    "categories": [
+      "Productivity",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "productivity",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Productivity",
+    "subcategories": [
+      "Project Management",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Task and project management platform.",
+    "longDescription": "Asana Free is included in The Creative Vault Creative Essentials Pack. Task and project management platform.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Productivity",
+      "Project Management",
+      "Projects"
+    ],
+    "bestFor": [
+      "Project Management",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-todoist-free",
+    "title": "Todoist Free",
+    "shortName": "Todoist Free",
+    "company": "Doist",
+    "website": "https://todoist.com/",
+    "category": "Productivity",
+    "categoryId": "productivity",
+    "categories": [
+      "Productivity",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "productivity",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Productivity",
+    "subcategories": [
+      "Tasks",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Task manager and productivity tool.",
+    "longDescription": "Todoist Free is included in The Creative Vault Creative Essentials Pack. Task manager and productivity tool.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Productivity",
+      "Tasks",
+      "Tasks"
+    ],
+    "bestFor": [
+      "Tasks",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "essential-ticktick-free",
+    "title": "TickTick Free",
+    "shortName": "TickTick Free",
+    "company": "TickTick",
+    "website": "https://ticktick.com/",
+    "category": "Productivity",
+    "categoryId": "productivity",
+    "categories": [
+      "Productivity",
+      "Creative Essentials"
+    ],
+    "categoryIds": [
+      "productivity",
+      "creative-essentials"
+    ],
+    "primaryCategory": "Productivity",
+    "subcategories": [
+      "Tasks",
+      "Creative Essentials"
+    ],
+    "type": "Free Essential Resource",
+    "shortDescription": "Task manager with calendar and habit tracking.",
+    "longDescription": "TickTick Free is included in The Creative Vault Creative Essentials Pack. Task manager with calendar and habit tracking.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Free",
+      "Creative Essentials",
+      "Productivity",
+      "Tasks",
+      "Tasks"
+    ],
+    "bestFor": [
+      "Tasks",
+      "Free creative workflows",
+      "Everyday creator utility"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

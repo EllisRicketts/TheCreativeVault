@@ -1,0 +1,1454 @@
+[
+  {
+    "id": "software-autodesk-maya",
+    "title": "Autodesk Maya",
+    "shortName": "Maya",
+    "company": "Autodesk",
+    "website": "https://www.autodesk.com/products",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "3D Animation",
+      "3D Modeling",
+      "VFX"
+    ],
+    "categoryIds": [
+      "software",
+      "3d-animation",
+      "3d-modeling",
+      "vfx"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "3D Animation",
+      "3D Modeling",
+      "VFX"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Subscription",
+    "price": "Subscription",
+    "license": "Subscription",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "applications": [
+      "Autodesk"
+    ],
+    "applicationEcosystems": [
+      "Autodesk"
+    ],
+    "shortDescription": "Professional 3D animation, modeling, simulation, and rendering software.",
+    "longDescription": "Autodesk Maya is a software application in The Creative Vault. Professional 3D animation, modeling, simulation, and rendering software.",
+    "bestFor": [
+      "Animation",
+      "VFX",
+      "Game Art"
+    ],
+    "relatedSoftware": [
+      "Blender",
+      "Cinema 4D",
+      "Houdini"
+    ],
+    "tags": [
+      "Software",
+      "Autodesk",
+      "3D Animation",
+      "3D Modeling",
+      "VFX",
+      "3D"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-autodesk-3ds-max",
+    "title": "Autodesk 3ds Max",
+    "shortName": "3ds Max",
+    "company": "Autodesk",
+    "website": "https://www.autodesk.com/products",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "3D Modeling",
+      "Rendering",
+      "Visualization"
+    ],
+    "categoryIds": [
+      "software",
+      "3d-modeling",
+      "rendering",
+      "visualization"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "3D Modeling",
+      "Rendering",
+      "Visualization"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Subscription",
+    "price": "Subscription",
+    "license": "Subscription",
+    "platforms": [
+      "Windows"
+    ],
+    "applications": [
+      "Autodesk"
+    ],
+    "applicationEcosystems": [
+      "Autodesk"
+    ],
+    "shortDescription": "Professional 3D modeling, rendering, animation, and visualization software.",
+    "longDescription": "Autodesk 3ds Max is a software application in The Creative Vault. Professional 3D modeling, rendering, animation, and visualization software.",
+    "bestFor": [
+      "Archviz",
+      "Game Art"
+    ],
+    "relatedSoftware": [
+      "Blender",
+      "Cinema 4D"
+    ],
+    "tags": [
+      "Software",
+      "Autodesk",
+      "3D Modeling",
+      "Rendering",
+      "Visualization",
+      "3D"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-autodesk-autocad",
+    "title": "Autodesk AutoCAD",
+    "shortName": "AutoCAD",
+    "company": "Autodesk",
+    "website": "https://www.autodesk.com/products",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "CAD",
+      "Drafting",
+      "Architecture"
+    ],
+    "categoryIds": [
+      "software",
+      "cad",
+      "drafting",
+      "architecture"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "CAD",
+      "Drafting",
+      "Architecture"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Subscription",
+    "price": "Subscription",
+    "license": "Subscription",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Web",
+      "iOS",
+      "Android"
+    ],
+    "applications": [
+      "Autodesk"
+    ],
+    "applicationEcosystems": [
+      "Autodesk"
+    ],
+    "shortDescription": "Professional 2D drafting and 3D CAD design software.",
+    "longDescription": "Autodesk AutoCAD is a software application in The Creative Vault. Professional 2D drafting and 3D CAD design software.",
+    "bestFor": [
+      "Drafting",
+      "Architecture"
+    ],
+    "relatedSoftware": [
+      "DraftSight",
+      "LibreCAD"
+    ],
+    "tags": [
+      "Software",
+      "Autodesk",
+      "CAD",
+      "Drafting",
+      "Architecture"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-autodesk-autocad-lt",
+    "title": "Autodesk AutoCAD LT",
+    "shortName": "AutoCAD LT",
+    "company": "Autodesk",
+    "website": "https://www.autodesk.com/products",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "CAD",
+      "2D Drafting"
+    ],
+    "categoryIds": [
+      "software",
+      "cad",
+      "2d-drafting"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "CAD",
+      "2D Drafting"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Subscription",
+    "price": "Subscription",
+    "license": "Subscription",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "applications": [
+      "Autodesk"
+    ],
+    "applicationEcosystems": [
+      "Autodesk"
+    ],
+    "shortDescription": "2D drafting and documentation software.",
+    "longDescription": "Autodesk AutoCAD LT is a software application in The Creative Vault. 2D drafting and documentation software.",
+    "bestFor": [
+      "2D Drafting"
+    ],
+    "relatedSoftware": [
+      "LibreCAD",
+      "DraftSight"
+    ],
+    "tags": [
+      "Software",
+      "Autodesk",
+      "CAD",
+      "2D Drafting"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-autodesk-fusion",
+    "title": "Autodesk Fusion",
+    "shortName": "Fusion",
+    "company": "Autodesk",
+    "website": "https://www.autodesk.com/products",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "CAD",
+      "CAM",
+      "Product Design"
+    ],
+    "categoryIds": [
+      "software",
+      "cad",
+      "cam",
+      "product-design"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "CAD",
+      "CAM",
+      "Product Design"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Subscription",
+    "price": "Subscription",
+    "license": "Subscription",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Web"
+    ],
+    "applications": [
+      "Autodesk"
+    ],
+    "applicationEcosystems": [
+      "Autodesk"
+    ],
+    "shortDescription": "Cloud-connected 3D CAD, CAM, CAE, and PCB design platform.",
+    "longDescription": "Autodesk Fusion is a software application in The Creative Vault. Cloud-connected 3D CAD, CAM, CAE, and PCB design platform.",
+    "bestFor": [
+      "Product Design",
+      "3D Printing"
+    ],
+    "relatedSoftware": [
+      "SolidWorks",
+      "FreeCAD"
+    ],
+    "tags": [
+      "Software",
+      "Autodesk",
+      "CAD",
+      "CAM",
+      "Product Design",
+      "3D Printing"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-autodesk-inventor",
+    "title": "Autodesk Inventor",
+    "shortName": "Inventor",
+    "company": "Autodesk",
+    "website": "https://www.autodesk.com/products",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Mechanical CAD",
+      "Product Design"
+    ],
+    "categoryIds": [
+      "software",
+      "mechanical-cad",
+      "product-design"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Mechanical CAD",
+      "Product Design"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Subscription",
+    "price": "Subscription",
+    "license": "Subscription",
+    "platforms": [
+      "Windows"
+    ],
+    "applications": [
+      "Autodesk"
+    ],
+    "applicationEcosystems": [
+      "Autodesk"
+    ],
+    "shortDescription": "Professional mechanical design, simulation, and documentation software.",
+    "longDescription": "Autodesk Inventor is a software application in The Creative Vault. Professional mechanical design, simulation, and documentation software.",
+    "bestFor": [
+      "Mechanical Engineering"
+    ],
+    "relatedSoftware": [
+      "SolidWorks",
+      "Fusion"
+    ],
+    "tags": [
+      "Software",
+      "Autodesk",
+      "Mechanical CAD",
+      "Product Design",
+      "CAD"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-autodesk-revit",
+    "title": "Autodesk Revit",
+    "shortName": "Revit",
+    "company": "Autodesk",
+    "website": "https://www.autodesk.com/products",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "BIM",
+      "Architecture",
+      "AEC"
+    ],
+    "categoryIds": [
+      "software",
+      "bim",
+      "architecture",
+      "aec"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "BIM",
+      "Architecture",
+      "AEC"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Subscription",
+    "price": "Subscription",
+    "license": "Subscription",
+    "platforms": [
+      "Windows"
+    ],
+    "applications": [
+      "Autodesk"
+    ],
+    "applicationEcosystems": [
+      "Autodesk"
+    ],
+    "shortDescription": "Building information modeling software for architecture, engineering, and construction.",
+    "longDescription": "Autodesk Revit is a software application in The Creative Vault. Building information modeling software for architecture, engineering, and construction.",
+    "bestFor": [
+      "Architecture",
+      "BIM"
+    ],
+    "relatedSoftware": [
+      "Archicad",
+      "Vectorworks"
+    ],
+    "tags": [
+      "Software",
+      "Autodesk",
+      "BIM",
+      "Architecture",
+      "AEC"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-autodesk-civil-3d",
+    "title": "Autodesk Civil 3D",
+    "shortName": "Civil 3D",
+    "company": "Autodesk",
+    "website": "https://www.autodesk.com/products",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Civil Engineering",
+      "Infrastructure"
+    ],
+    "categoryIds": [
+      "software",
+      "civil-engineering",
+      "infrastructure"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Civil Engineering",
+      "Infrastructure"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Subscription",
+    "price": "Subscription",
+    "license": "Subscription",
+    "platforms": [
+      "Windows"
+    ],
+    "applications": [
+      "Autodesk"
+    ],
+    "applicationEcosystems": [
+      "Autodesk"
+    ],
+    "shortDescription": "Civil engineering design and documentation software.",
+    "longDescription": "Autodesk Civil 3D is a software application in The Creative Vault. Civil engineering design and documentation software.",
+    "bestFor": [
+      "Civil Engineering"
+    ],
+    "relatedSoftware": [
+      "InfraWorks"
+    ],
+    "tags": [
+      "Software",
+      "Autodesk",
+      "Civil Engineering",
+      "Infrastructure",
+      "Civil"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-autodesk-infraworks",
+    "title": "Autodesk InfraWorks",
+    "shortName": "InfraWorks",
+    "company": "Autodesk",
+    "website": "https://www.autodesk.com/products",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Infrastructure Design",
+      "Civil Visualization"
+    ],
+    "categoryIds": [
+      "software",
+      "infrastructure-design",
+      "civil-visualization"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Infrastructure Design",
+      "Civil Visualization"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Subscription",
+    "price": "Subscription",
+    "license": "Subscription",
+    "platforms": [
+      "Windows"
+    ],
+    "applications": [
+      "Autodesk"
+    ],
+    "applicationEcosystems": [
+      "Autodesk"
+    ],
+    "shortDescription": "Conceptual infrastructure design and visualization software.",
+    "longDescription": "Autodesk InfraWorks is a software application in The Creative Vault. Conceptual infrastructure design and visualization software.",
+    "bestFor": [
+      "Civil Planning"
+    ],
+    "relatedSoftware": [
+      "Civil 3D"
+    ],
+    "tags": [
+      "Software",
+      "Autodesk",
+      "Infrastructure Design",
+      "Civil Visualization",
+      "Infrastructure"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-autodesk-motionbuilder",
+    "title": "Autodesk MotionBuilder",
+    "shortName": "MotionBuilder",
+    "company": "Autodesk",
+    "website": "https://www.autodesk.com/products",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Motion Capture",
+      "Character Animation"
+    ],
+    "categoryIds": [
+      "software",
+      "motion-capture",
+      "character-animation"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Motion Capture",
+      "Character Animation"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Subscription",
+    "price": "Subscription",
+    "license": "Subscription",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "applications": [
+      "Autodesk"
+    ],
+    "applicationEcosystems": [
+      "Autodesk"
+    ],
+    "shortDescription": "3D character animation and motion capture editing software.",
+    "longDescription": "Autodesk MotionBuilder is a software application in The Creative Vault. 3D character animation and motion capture editing software.",
+    "bestFor": [
+      "Mocap",
+      "Animation"
+    ],
+    "relatedSoftware": [
+      "Maya",
+      "Cascadeur"
+    ],
+    "tags": [
+      "Software",
+      "Autodesk",
+      "Motion Capture",
+      "Character Animation",
+      "Mocap"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-autodesk-mudbox",
+    "title": "Autodesk Mudbox",
+    "shortName": "Mudbox",
+    "company": "Autodesk",
+    "website": "https://www.autodesk.com/products",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Digital Sculpting",
+      "3D Painting"
+    ],
+    "categoryIds": [
+      "software",
+      "digital-sculpting",
+      "3d-painting"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Digital Sculpting",
+      "3D Painting"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Subscription",
+    "price": "Subscription",
+    "license": "Subscription",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "applications": [
+      "Autodesk"
+    ],
+    "applicationEcosystems": [
+      "Autodesk"
+    ],
+    "shortDescription": "Digital sculpting and texture painting software.",
+    "longDescription": "Autodesk Mudbox is a software application in The Creative Vault. Digital sculpting and texture painting software.",
+    "bestFor": [
+      "Sculpting",
+      "Character Art"
+    ],
+    "relatedSoftware": [
+      "ZBrush",
+      "Blender"
+    ],
+    "tags": [
+      "Software",
+      "Autodesk",
+      "Digital Sculpting",
+      "3D Painting",
+      "Sculpting"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-autodesk-flame",
+    "title": "Autodesk Flame",
+    "shortName": "Flame",
+    "company": "Autodesk",
+    "website": "https://www.autodesk.com/products",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Compositing",
+      "Finishing",
+      "VFX"
+    ],
+    "categoryIds": [
+      "software",
+      "compositing",
+      "finishing",
+      "vfx"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Compositing",
+      "Finishing",
+      "VFX"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Subscription",
+    "price": "Subscription",
+    "license": "Subscription",
+    "platforms": [
+      "Linux",
+      "macOS"
+    ],
+    "applications": [
+      "Autodesk"
+    ],
+    "applicationEcosystems": [
+      "Autodesk"
+    ],
+    "shortDescription": "High-end VFX compositing, finishing, and color workflow software.",
+    "longDescription": "Autodesk Flame is a software application in The Creative Vault. High-end VFX compositing, finishing, and color workflow software.",
+    "bestFor": [
+      "VFX Finishing"
+    ],
+    "relatedSoftware": [
+      "Nuke",
+      "DaVinci Resolve"
+    ],
+    "tags": [
+      "Software",
+      "Autodesk",
+      "Compositing",
+      "Finishing",
+      "VFX"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-autodesk-flow-production-tracking",
+    "title": "Autodesk Flow Production Tracking",
+    "shortName": "Flow Production Tracking",
+    "company": "Autodesk",
+    "website": "https://www.autodesk.com/products",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Production Tracking",
+      "Studio Management"
+    ],
+    "categoryIds": [
+      "software",
+      "production-tracking",
+      "studio-management"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Production Tracking",
+      "Studio Management"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Subscription",
+    "price": "Subscription",
+    "license": "Subscription",
+    "platforms": [
+      "Web"
+    ],
+    "applications": [
+      "Autodesk"
+    ],
+    "applicationEcosystems": [
+      "Autodesk"
+    ],
+    "shortDescription": "Production tracking platform formerly known as ShotGrid.",
+    "longDescription": "Autodesk Flow Production Tracking is a software application in The Creative Vault. Production tracking platform formerly known as ShotGrid.",
+    "bestFor": [
+      "VFX Production"
+    ],
+    "relatedSoftware": [
+      "ftrack",
+      "Kitsu"
+    ],
+    "tags": [
+      "Software",
+      "Autodesk",
+      "Production Tracking",
+      "Studio Management",
+      "Production"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-autodesk-arnold",
+    "title": "Autodesk Arnold",
+    "shortName": "Arnold",
+    "company": "Autodesk",
+    "website": "https://www.autodesk.com/products",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Rendering",
+      "Path Tracing"
+    ],
+    "categoryIds": [
+      "software",
+      "rendering",
+      "path-tracing"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Rendering",
+      "Path Tracing"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Subscription",
+    "price": "Subscription",
+    "license": "Subscription",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "applications": [
+      "Autodesk"
+    ],
+    "applicationEcosystems": [
+      "Autodesk"
+    ],
+    "shortDescription": "Advanced Monte Carlo ray tracing renderer for VFX and animation.",
+    "longDescription": "Autodesk Arnold is a software application in The Creative Vault. Advanced Monte Carlo ray tracing renderer for VFX and animation.",
+    "bestFor": [
+      "Rendering",
+      "VFX"
+    ],
+    "relatedSoftware": [
+      "Redshift",
+      "V-Ray",
+      "Cycles"
+    ],
+    "tags": [
+      "Software",
+      "Autodesk",
+      "Rendering",
+      "Path Tracing",
+      "Renderer"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-autodesk-alias",
+    "title": "Autodesk Alias",
+    "shortName": "Alias",
+    "company": "Autodesk",
+    "website": "https://www.autodesk.com/products",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Industrial Design",
+      "Surface Modeling"
+    ],
+    "categoryIds": [
+      "software",
+      "industrial-design",
+      "surface-modeling"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Industrial Design",
+      "Surface Modeling"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Subscription",
+    "price": "Subscription",
+    "license": "Subscription",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "applications": [
+      "Autodesk"
+    ],
+    "applicationEcosystems": [
+      "Autodesk"
+    ],
+    "shortDescription": "Industrial design and Class-A surface modeling software.",
+    "longDescription": "Autodesk Alias is a software application in The Creative Vault. Industrial design and Class-A surface modeling software.",
+    "bestFor": [
+      "Automotive Design"
+    ],
+    "relatedSoftware": [
+      "Rhino",
+      "Fusion"
+    ],
+    "tags": [
+      "Software",
+      "Autodesk",
+      "Industrial Design",
+      "Surface Modeling"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-autodesk-formit",
+    "title": "Autodesk FormIt",
+    "shortName": "FormIt",
+    "company": "Autodesk",
+    "website": "https://www.autodesk.com/products",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Conceptual Design",
+      "Architecture"
+    ],
+    "categoryIds": [
+      "software",
+      "conceptual-design",
+      "architecture"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Conceptual Design",
+      "Architecture"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Subscription",
+    "price": "Subscription",
+    "license": "Subscription",
+    "platforms": [
+      "Windows",
+      "Web",
+      "iPad"
+    ],
+    "applications": [
+      "Autodesk"
+    ],
+    "applicationEcosystems": [
+      "Autodesk"
+    ],
+    "shortDescription": "Architectural conceptual design and BIM-connected sketching software.",
+    "longDescription": "Autodesk FormIt is a software application in The Creative Vault. Architectural conceptual design and BIM-connected sketching software.",
+    "bestFor": [
+      "Architecture"
+    ],
+    "relatedSoftware": [
+      "SketchUp",
+      "Revit"
+    ],
+    "tags": [
+      "Software",
+      "Autodesk",
+      "Conceptual Design",
+      "Architecture"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-autodesk-navisworks",
+    "title": "Autodesk Navisworks",
+    "shortName": "Navisworks",
+    "company": "Autodesk",
+    "website": "https://www.autodesk.com/products",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "BIM Coordination",
+      "Construction"
+    ],
+    "categoryIds": [
+      "software",
+      "bim-coordination",
+      "construction"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "BIM Coordination",
+      "Construction"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Subscription",
+    "price": "Subscription",
+    "license": "Subscription",
+    "platforms": [
+      "Windows"
+    ],
+    "applications": [
+      "Autodesk"
+    ],
+    "applicationEcosystems": [
+      "Autodesk"
+    ],
+    "shortDescription": "Project review, clash detection, and coordination software for construction.",
+    "longDescription": "Autodesk Navisworks is a software application in The Creative Vault. Project review, clash detection, and coordination software for construction.",
+    "bestFor": [
+      "Construction Coordination"
+    ],
+    "relatedSoftware": [
+      "Revit"
+    ],
+    "tags": [
+      "Software",
+      "Autodesk",
+      "BIM Coordination",
+      "Construction",
+      "BIM"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-autodesk-recap-pro",
+    "title": "Autodesk ReCap Pro",
+    "shortName": "ReCap Pro",
+    "company": "Autodesk",
+    "website": "https://www.autodesk.com/products",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Reality Capture",
+      "Photogrammetry",
+      "LiDAR"
+    ],
+    "categoryIds": [
+      "software",
+      "reality-capture",
+      "photogrammetry",
+      "lidar"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Reality Capture",
+      "Photogrammetry",
+      "LiDAR"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Subscription",
+    "price": "Subscription",
+    "license": "Subscription",
+    "platforms": [
+      "Windows"
+    ],
+    "applications": [
+      "Autodesk"
+    ],
+    "applicationEcosystems": [
+      "Autodesk"
+    ],
+    "shortDescription": "Reality capture and point cloud processing software.",
+    "longDescription": "Autodesk ReCap Pro is a software application in The Creative Vault. Reality capture and point cloud processing software.",
+    "bestFor": [
+      "Scanning",
+      "Point Clouds"
+    ],
+    "relatedSoftware": [
+      "RealityCapture",
+      "Metashape"
+    ],
+    "tags": [
+      "Software",
+      "Autodesk",
+      "Reality Capture",
+      "Photogrammetry",
+      "LiDAR"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-autodesk-vault",
+    "title": "Autodesk Vault",
+    "shortName": "Vault",
+    "company": "Autodesk",
+    "website": "https://www.autodesk.com/products",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Data Management",
+      "CAD Management"
+    ],
+    "categoryIds": [
+      "software",
+      "data-management",
+      "cad-management"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Data Management",
+      "CAD Management"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Subscription",
+    "price": "Subscription",
+    "license": "Subscription",
+    "platforms": [
+      "Windows"
+    ],
+    "applications": [
+      "Autodesk"
+    ],
+    "applicationEcosystems": [
+      "Autodesk"
+    ],
+    "shortDescription": "Product data management software for engineering teams.",
+    "longDescription": "Autodesk Vault is a software application in The Creative Vault. Product data management software for engineering teams.",
+    "bestFor": [
+      "CAD Data"
+    ],
+    "relatedSoftware": [
+      "PDM Systems"
+    ],
+    "tags": [
+      "Software",
+      "Autodesk",
+      "Data Management",
+      "CAD Management",
+      "PDM"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-autodesk-cfd",
+    "title": "Autodesk CFD",
+    "shortName": "CFD",
+    "company": "Autodesk",
+    "website": "https://www.autodesk.com/products",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Simulation",
+      "Computational Fluid Dynamics"
+    ],
+    "categoryIds": [
+      "software",
+      "simulation",
+      "computational-fluid-dynamics"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Simulation",
+      "Computational Fluid Dynamics"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Subscription",
+    "price": "Subscription",
+    "license": "Subscription",
+    "platforms": [
+      "Windows"
+    ],
+    "applications": [
+      "Autodesk"
+    ],
+    "applicationEcosystems": [
+      "Autodesk"
+    ],
+    "shortDescription": "Computational fluid dynamics simulation software.",
+    "longDescription": "Autodesk CFD is a software application in The Creative Vault. Computational fluid dynamics simulation software.",
+    "bestFor": [
+      "Simulation"
+    ],
+    "relatedSoftware": [
+      "Ansys Fluent"
+    ],
+    "tags": [
+      "Software",
+      "Autodesk",
+      "Simulation",
+      "Computational Fluid Dynamics"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-autodesk-advance-steel",
+    "title": "Autodesk Advance Steel",
+    "shortName": "Advance Steel",
+    "company": "Autodesk",
+    "website": "https://www.autodesk.com/products",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Structural Steel",
+      "Detailing"
+    ],
+    "categoryIds": [
+      "software",
+      "structural-steel",
+      "detailing"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Structural Steel",
+      "Detailing"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Subscription",
+    "price": "Subscription",
+    "license": "Subscription",
+    "platforms": [
+      "Windows"
+    ],
+    "applications": [
+      "Autodesk"
+    ],
+    "applicationEcosystems": [
+      "Autodesk"
+    ],
+    "shortDescription": "Steel detailing and fabrication software.",
+    "longDescription": "Autodesk Advance Steel is a software application in The Creative Vault. Steel detailing and fabrication software.",
+    "bestFor": [
+      "Structural Steel"
+    ],
+    "relatedSoftware": [
+      "Tekla Structures"
+    ],
+    "tags": [
+      "Software",
+      "Autodesk",
+      "Structural Steel",
+      "Detailing",
+      "AEC"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-autodesk-vehicle-tracking",
+    "title": "Autodesk Vehicle Tracking",
+    "shortName": "Vehicle Tracking",
+    "company": "Autodesk",
+    "website": "https://www.autodesk.com/products",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Transportation Design",
+      "Civil Engineering"
+    ],
+    "categoryIds": [
+      "software",
+      "transportation-design",
+      "civil-engineering"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Transportation Design",
+      "Civil Engineering"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Subscription",
+    "price": "Subscription",
+    "license": "Subscription",
+    "platforms": [
+      "Windows"
+    ],
+    "applications": [
+      "Autodesk"
+    ],
+    "applicationEcosystems": [
+      "Autodesk"
+    ],
+    "shortDescription": "Vehicle swept path analysis and transportation design software.",
+    "longDescription": "Autodesk Vehicle Tracking is a software application in The Creative Vault. Vehicle swept path analysis and transportation design software.",
+    "bestFor": [
+      "Transportation"
+    ],
+    "relatedSoftware": [
+      "Civil 3D"
+    ],
+    "tags": [
+      "Software",
+      "Autodesk",
+      "Transportation Design",
+      "Civil Engineering",
+      "Civil"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-autodesk-dynamo",
+    "title": "Autodesk Dynamo",
+    "shortName": "Dynamo",
+    "company": "Autodesk",
+    "website": "https://www.autodesk.com/products",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Visual Scripting",
+      "BIM Automation"
+    ],
+    "categoryIds": [
+      "software",
+      "visual-scripting",
+      "bim-automation"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Visual Scripting",
+      "BIM Automation"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Free",
+    "price": "Free",
+    "license": "Free",
+    "platforms": [
+      "Windows"
+    ],
+    "applications": [
+      "Autodesk"
+    ],
+    "applicationEcosystems": [
+      "Autodesk"
+    ],
+    "shortDescription": "Open-source visual programming tool for design automation, especially in Revit workflows.",
+    "longDescription": "Autodesk Dynamo is a software application in The Creative Vault. Open-source visual programming tool for design automation, especially in Revit workflows.",
+    "bestFor": [
+      "BIM Automation"
+    ],
+    "relatedSoftware": [
+      "Grasshopper"
+    ],
+    "tags": [
+      "Software",
+      "Autodesk",
+      "Visual Scripting",
+      "BIM Automation"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "software-autodesk-tandem",
+    "title": "Autodesk Tandem",
+    "shortName": "Tandem",
+    "company": "Autodesk",
+    "website": "https://www.autodesk.com/products",
+    "category": "Software",
+    "categoryId": "software",
+    "categories": [
+      "Software",
+      "Digital Twins"
+    ],
+    "categoryIds": [
+      "software",
+      "digital-twins"
+    ],
+    "primaryCategory": "Software",
+    "subcategories": [
+      "Digital Twins"
+    ],
+    "type": "Software Application",
+    "pricingModel": "Subscription",
+    "price": "Subscription",
+    "license": "Subscription",
+    "platforms": [
+      "Web"
+    ],
+    "applications": [
+      "Autodesk"
+    ],
+    "applicationEcosystems": [
+      "Autodesk"
+    ],
+    "shortDescription": "Digital twin platform for building operations and lifecycle data.",
+    "longDescription": "Autodesk Tandem is a software application in The Creative Vault. Digital twin platform for building operations and lifecycle data.",
+    "bestFor": [
+      "Digital Twins"
+    ],
+    "relatedSoftware": [
+      "Revit"
+    ],
+    "tags": [
+      "Software",
+      "Autodesk",
+      "Digital Twins",
+      "Digital Twin"
+    ],
+    "rating": 4.5,
+    "popularity": 72,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

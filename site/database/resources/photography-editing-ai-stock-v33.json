@@ -1,0 +1,1089 @@
+[
+  {
+    "id": "photography-capture-one",
+    "title": "Capture One",
+    "shortName": "Capture One",
+    "company": "Capture One",
+    "website": "https://www.captureone.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Editing Software"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Professional RAW editing, tethering, color, and photo workflow platform.",
+    "longDescription": "Capture One is included in The Creative Vault as a photography resource. Professional RAW editing, tethering, color, and photo workflow platform.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "Editing Software",
+      "RAW",
+      "Tethering"
+    ],
+    "bestFor": [
+      "Editing Software",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-dxo-photolab",
+    "title": "DxO PhotoLab",
+    "shortName": "DxO PhotoLab",
+    "company": "DxO",
+    "website": "https://www.dxo.com/dxo-photolab/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Editing Software"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "RAW photo editor known for lens correction and denoising.",
+    "longDescription": "DxO PhotoLab is included in The Creative Vault as a photography resource. RAW photo editor known for lens correction and denoising.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "Editing Software",
+      "RAW"
+    ],
+    "bestFor": [
+      "Editing Software",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-on1-photo-raw",
+    "title": "ON1 Photo RAW",
+    "shortName": "ON1 Photo RAW",
+    "company": "ON1",
+    "website": "https://www.on1.com/products/photo-raw/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Editing Software"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Photo editing, RAW processing, effects, and organizing software.",
+    "longDescription": "ON1 Photo RAW is included in The Creative Vault as a photography resource. Photo editing, RAW processing, effects, and organizing software.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "Editing Software",
+      "RAW"
+    ],
+    "bestFor": [
+      "Editing Software",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-luminar-neo",
+    "title": "Luminar Neo",
+    "shortName": "Luminar Neo",
+    "company": "Skylum",
+    "website": "https://skylum.com/luminar",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "AI Photo Tools"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "AI-powered photo editor for enhancement, sky replacement, portrait tools, and effects.",
+    "longDescription": "Luminar Neo is included in The Creative Vault as a photography resource. AI-powered photo editor for enhancement, sky replacement, portrait tools, and effects.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "AI Photo Tools",
+      "AI"
+    ],
+    "bestFor": [
+      "AI Photo Tools",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-darktable",
+    "title": "Darktable",
+    "shortName": "Darktable",
+    "company": "Darktable",
+    "website": "https://www.darktable.org/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "RAW Processing"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Free open-source photography workflow and RAW developer.",
+    "longDescription": "Darktable is included in The Creative Vault as a photography resource. Free open-source photography workflow and RAW developer.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "RAW Processing",
+      "Open Source",
+      "RAW"
+    ],
+    "bestFor": [
+      "RAW Processing",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-rawtherapee",
+    "title": "RawTherapee",
+    "shortName": "RawTherapee",
+    "company": "RawTherapee",
+    "website": "https://www.rawtherapee.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "RAW Processing"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Free open-source RAW photo processing software.",
+    "longDescription": "RawTherapee is included in The Creative Vault as a photography resource. Free open-source RAW photo processing software.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "RAW Processing",
+      "Open Source",
+      "RAW"
+    ],
+    "bestFor": [
+      "RAW Processing",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-digikam",
+    "title": "digiKam",
+    "shortName": "digiKam",
+    "company": "digiKam",
+    "website": "https://www.digikam.org/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photo Management"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Open-source photo management and editing application.",
+    "longDescription": "digiKam is included in The Creative Vault as a photography resource. Open-source photo management and editing application.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Photo Management",
+      "Open Source",
+      "DAM"
+    ],
+    "bestFor": [
+      "Photo Management",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-adobe-dng-converter",
+    "title": "Adobe DNG Converter",
+    "shortName": "Adobe DNG Converter",
+    "company": "Adobe",
+    "website": "https://helpx.adobe.com/camera-raw/using/adobe-dng-converter.html",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "RAW Processing"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Free converter for camera RAW files to DNG.",
+    "longDescription": "Adobe DNG Converter is included in The Creative Vault as a photography resource. Free converter for camera RAW files to DNG.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "RAW Processing",
+      "RAW",
+      "Adobe"
+    ],
+    "bestFor": [
+      "RAW Processing",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-topaz-photo-ai",
+    "title": "Topaz Photo AI",
+    "shortName": "Topaz Photo AI",
+    "company": "Topaz Labs",
+    "website": "https://www.topazlabs.com/topaz-photo-ai",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "AI Photo Tools"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "AI image enhancement, sharpening, noise reduction, and upscaling.",
+    "longDescription": "Topaz Photo AI is included in The Creative Vault as a photography resource. AI image enhancement, sharpening, noise reduction, and upscaling.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "AI Photo Tools",
+      "AI"
+    ],
+    "bestFor": [
+      "AI Photo Tools",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-imagen",
+    "title": "Imagen",
+    "shortName": "Imagen",
+    "company": "Imagen",
+    "website": "https://imagen-ai.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "AI Photo Tools"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "AI photo editing platform for photographers.",
+    "longDescription": "Imagen is included in The Creative Vault as a photography resource. AI photo editing platform for photographers.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "AI Photo Tools",
+      "AI",
+      "Editing"
+    ],
+    "bestFor": [
+      "AI Photo Tools",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-aftershoot",
+    "title": "Aftershoot",
+    "shortName": "Aftershoot",
+    "company": "Aftershoot",
+    "website": "https://aftershoot.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "AI Photo Tools"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "AI-powered photo culling and editing workflow.",
+    "longDescription": "Aftershoot is included in The Creative Vault as a photography resource. AI-powered photo culling and editing workflow.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Photography",
+      "AI Photo Tools",
+      "AI",
+      "Culling"
+    ],
+    "bestFor": [
+      "AI Photo Tools",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-narrative-select",
+    "title": "Narrative Select",
+    "shortName": "Narrative Select",
+    "company": "Narrative",
+    "website": "https://narrative.so/select",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "AI Photo Tools"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Photo culling software built for photographers.",
+    "longDescription": "Narrative Select is included in The Creative Vault as a photography resource. Photo culling software built for photographers.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Photography",
+      "AI Photo Tools",
+      "Culling"
+    ],
+    "bestFor": [
+      "AI Photo Tools",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-filterpixel",
+    "title": "FilterPixel",
+    "shortName": "FilterPixel",
+    "company": "FilterPixel",
+    "website": "https://filterpixel.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "AI Photo Tools"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "AI culling software for photographers.",
+    "longDescription": "FilterPixel is included in The Creative Vault as a photography resource. AI culling software for photographers.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "AI Photo Tools",
+      "AI",
+      "Culling"
+    ],
+    "bestFor": [
+      "AI Photo Tools",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-retouch4me",
+    "title": "Retouch4me",
+    "shortName": "Retouch4me",
+    "company": "Retouch4me",
+    "website": "https://retouch4.me/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "AI Photo Tools"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "AI retouching plugins for portrait and commercial photography.",
+    "longDescription": "Retouch4me is included in The Creative Vault as a photography resource. AI retouching plugins for portrait and commercial photography.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "AI Photo Tools",
+      "AI",
+      "Retouching"
+    ],
+    "bestFor": [
+      "AI Photo Tools",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-evoto-ai",
+    "title": "Evoto AI",
+    "shortName": "Evoto AI",
+    "company": "Evoto",
+    "website": "https://www.evoto.ai/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "AI Photo Tools"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "AI photo editing and portrait retouching software.",
+    "longDescription": "Evoto AI is included in The Creative Vault as a photography resource. AI photo editing and portrait retouching software.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Photography",
+      "AI Photo Tools",
+      "AI",
+      "Retouching"
+    ],
+    "bestFor": [
+      "AI Photo Tools",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-photoroom",
+    "title": "Photoroom",
+    "shortName": "Photoroom",
+    "company": "Photoroom",
+    "website": "https://www.photoroom.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "AI Photo Tools"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "AI product photo editing, background removal, and ecommerce imagery.",
+    "longDescription": "Photoroom is included in The Creative Vault as a photography resource. AI product photo editing, background removal, and ecommerce imagery.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Photography",
+      "AI Photo Tools",
+      "AI",
+      "Product Photo"
+    ],
+    "bestFor": [
+      "AI Photo Tools",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-unsplash",
+    "title": "Unsplash",
+    "shortName": "Unsplash",
+    "company": "Unsplash",
+    "website": "https://unsplash.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Stock Photography"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Free high-resolution stock photography library.",
+    "longDescription": "Unsplash is included in The Creative Vault as a photography resource. Free high-resolution stock photography library.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Stock Photography",
+      "Free Stock"
+    ],
+    "bestFor": [
+      "Stock Photography",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-pexels",
+    "title": "Pexels",
+    "shortName": "Pexels",
+    "company": "Pexels",
+    "website": "https://www.pexels.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Stock Photography"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Free stock photo and video library.",
+    "longDescription": "Pexels is included in The Creative Vault as a photography resource. Free stock photo and video library.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Stock Photography",
+      "Free Stock"
+    ],
+    "bestFor": [
+      "Stock Photography",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-pixabay",
+    "title": "Pixabay",
+    "shortName": "Pixabay",
+    "company": "Pixabay",
+    "website": "https://pixabay.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Stock Photography"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Free photos, illustrations, vectors, videos, music, and sound effects.",
+    "longDescription": "Pixabay is included in The Creative Vault as a photography resource. Free photos, illustrations, vectors, videos, music, and sound effects.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Stock Photography",
+      "Free Stock"
+    ],
+    "bestFor": [
+      "Stock Photography",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-burst",
+    "title": "Burst",
+    "shortName": "Burst",
+    "company": "Shopify",
+    "website": "https://burst.shopify.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Stock Photography"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Free stock photography for commercial and ecommerce projects.",
+    "longDescription": "Burst is included in The Creative Vault as a photography resource. Free stock photography for commercial and ecommerce projects.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Stock Photography",
+      "Free Stock"
+    ],
+    "bestFor": [
+      "Stock Photography",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-adobe-stock-free-collection",
+    "title": "Adobe Stock Free Collection",
+    "shortName": "Adobe Stock Free Collection",
+    "company": "Adobe",
+    "website": "https://stock.adobe.com/free",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Stock Photography"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Free collection of stock photos, vectors, videos, and design assets.",
+    "longDescription": "Adobe Stock Free Collection is included in The Creative Vault as a photography resource. Free collection of stock photos, vectors, videos, and design assets.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Stock Photography",
+      "Free Stock",
+      "Adobe"
+    ],
+    "bestFor": [
+      "Stock Photography",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-texture-ninja",
+    "title": "Texture Ninja",
+    "shortName": "Texture Ninja",
+    "company": "Texture Ninja",
+    "website": "https://texture.ninja/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Textures"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Free texture photography library.",
+    "longDescription": "Texture Ninja is included in The Creative Vault as a photography resource. Free texture photography library.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Textures",
+      "Textures"
+    ],
+    "bestFor": [
+      "Textures",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-textures-com",
+    "title": "Textures.com",
+    "shortName": "Textures.com",
+    "company": "Textures.com",
+    "website": "https://www.textures.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Textures"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Texture library for 3D, design, and photography projects.",
+    "longDescription": "Textures.com is included in The Creative Vault as a photography resource. Texture library for 3D, design, and photography projects.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Photography",
+      "Textures",
+      "Textures"
+    ],
+    "bestFor": [
+      "Textures",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-rawpixel-free",
+    "title": "Rawpixel Free",
+    "shortName": "Rawpixel Free",
+    "company": "Rawpixel",
+    "website": "https://www.rawpixel.com/free-images",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Stock Photography"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Free stock photos, design resources, and public domain images.",
+    "longDescription": "Rawpixel Free is included in The Creative Vault as a photography resource. Free stock photos, design resources, and public domain images.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Photography",
+      "Stock Photography",
+      "Stock"
+    ],
+    "bestFor": [
+      "Stock Photography",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-kaboompics",
+    "title": "Kaboompics",
+    "shortName": "Kaboompics",
+    "company": "Kaboompics",
+    "website": "https://kaboompics.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Stock Photography"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Free lifestyle stock photos and color palettes.",
+    "longDescription": "Kaboompics is included in The Creative Vault as a photography resource. Free lifestyle stock photos and color palettes.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Stock Photography",
+      "Free Stock"
+    ],
+    "bestFor": [
+      "Stock Photography",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

@@ -1,0 +1,75 @@
+{
+  "id": "unreal-engine",
+  "title": "Unreal Engine",
+  "shortName": "Unreal",
+  "companyId": "epic-games",
+  "company": "Epic Games",
+  "website": "https://www.unrealengine.com/",
+  "category": "Game Dev",
+  "categoryId": "game-dev",
+  "subcategories": [
+    "Game Engine",
+    "Realtime 3D",
+    "Virtual Production"
+  ],
+  "type": "Software",
+  "shortDescription": "Powerful realtime 3D engine for games, film, visualization, and interactive experiences.",
+  "longDescription": "Unreal Engine is a realtime 3D engine used for games, virtual production, animation, architectural visualization, simulations, cinematic content, and interactive applications.",
+  "whyUseIt": "Use it when you need high-end realtime visuals, game development tools, virtual production workflows, or cinematic 3D environments.",
+  "bestFor": [
+    "Game development",
+    "Realtime rendering",
+    "Virtual production",
+    "Cinematic environments"
+  ],
+  "pros": [
+    "High-end visuals",
+    "Massive ecosystem",
+    "Strong marketplace",
+    "Used professionally in games and film"
+  ],
+  "cons": [
+    "Can be heavy",
+    "Requires strong hardware for large projects"
+  ],
+  "platforms": [
+    "Windows",
+    "Mac",
+    "Linux"
+  ],
+  "fileFormats": [
+    "UASSET",
+    "FBX",
+    "OBJ",
+    "GLTF",
+    "USD"
+  ],
+  "price": "Free",
+  "pricingModel": "Royalty / commercial terms vary",
+  "openSource": false,
+  "industryStandard": true,
+  "rating": 4.8,
+  "popularity": 96,
+  "collections": [
+    "game-dev-kit",
+    "professional-3d-kit"
+  ],
+  "alternatives": [
+    "Unity",
+    "Godot",
+    "O3DE",
+    "CryEngine"
+  ],
+  "related": [
+    "fab",
+    "quixel-megascans",
+    "metahuman-creator",
+    "twinmotion"
+  ],
+  "documentation": "https://dev.epicgames.com/documentation/en-us/unreal-engine",
+  "reddit": "https://www.reddit.com/r/unrealengine/",
+  "featured": true,
+  "editorPick": true,
+  "verified": true,
+  "lastReviewed": "2026-07-07"
+}

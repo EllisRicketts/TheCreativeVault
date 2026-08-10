@@ -1,0 +1,342 @@
+[
+  {
+    "id": "bambu-studio",
+    "title": "Bambu Studio",
+    "shortName": "Bambu Studio",
+    "company": "Bambu Lab",
+    "website": "https://bambulab.com/en/download/studio",
+    "category": "3D Printing",
+    "categoryId": "3d-printing",
+    "subcategories": [
+      "Maker Tools"
+    ],
+    "type": "Resource",
+    "shortDescription": "Slicer software for Bambu Lab 3D printers.",
+    "longDescription": "Slicer software for Bambu Lab 3D printers.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Maker Tools",
+      "3D Printing"
+    ],
+    "bestFor": [
+      "Maker Tools",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "orcaslicer",
+    "title": "OrcaSlicer",
+    "shortName": "OrcaSlicer",
+    "company": "OrcaSlicer",
+    "website": "https://github.com/SoftFever/OrcaSlicer",
+    "category": "3D Printing",
+    "categoryId": "3d-printing",
+    "subcategories": [
+      "Maker Tools"
+    ],
+    "type": "Resource",
+    "shortDescription": "Open-source 3D printer slicer based on Bambu Studio and PrusaSlicer.",
+    "longDescription": "Open-source 3D printer slicer based on Bambu Studio and PrusaSlicer.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Maker Tools",
+      "3D Printing"
+    ],
+    "bestFor": [
+      "Maker Tools",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "ultimaker-cura",
+    "title": "Ultimaker Cura",
+    "shortName": "Ultimaker Cura",
+    "company": "UltiMaker",
+    "website": "https://ultimaker.com/software/ultimaker-cura/",
+    "category": "3D Printing",
+    "categoryId": "3d-printing",
+    "subcategories": [
+      "Maker Tools"
+    ],
+    "type": "Resource",
+    "shortDescription": "Popular free slicer for FDM 3D printing.",
+    "longDescription": "Popular free slicer for FDM 3D printing.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Maker Tools",
+      "3D Printing"
+    ],
+    "bestFor": [
+      "Maker Tools",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "prusaslicer",
+    "title": "PrusaSlicer",
+    "shortName": "PrusaSlicer",
+    "company": "Prusa",
+    "website": "https://www.prusa3d.com/page/prusaslicer_424/",
+    "category": "3D Printing",
+    "categoryId": "3d-printing",
+    "subcategories": [
+      "Maker Tools"
+    ],
+    "type": "Resource",
+    "shortDescription": "Open-source slicer for FDM and resin printing workflows.",
+    "longDescription": "Open-source slicer for FDM and resin printing workflows.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Maker Tools",
+      "3D Printing"
+    ],
+    "bestFor": [
+      "Maker Tools",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "lychee-slicer",
+    "title": "Lychee Slicer",
+    "shortName": "Lychee Slicer",
+    "company": "Mango 3D",
+    "website": "https://mango3d.io/lychee-slicer/",
+    "category": "3D Printing",
+    "categoryId": "3d-printing",
+    "subcategories": [
+      "Maker Tools"
+    ],
+    "type": "Resource",
+    "shortDescription": "Slicer for resin and filament 3D printing.",
+    "longDescription": "Slicer for resin and filament 3D printing.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Maker Tools",
+      "3D Printing"
+    ],
+    "bestFor": [
+      "Maker Tools",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "chitubox",
+    "title": "CHITUBOX",
+    "shortName": "CHITUBOX",
+    "company": "CHITUBOX",
+    "website": "https://www.chitubox.com/",
+    "category": "3D Printing",
+    "categoryId": "3d-printing",
+    "subcategories": [
+      "Maker Tools"
+    ],
+    "type": "Resource",
+    "shortDescription": "Resin 3D printing slicer software.",
+    "longDescription": "Resin 3D printing slicer software.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Maker Tools",
+      "3D Printing"
+    ],
+    "bestFor": [
+      "Maker Tools",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "lightburn",
+    "title": "LightBurn",
+    "shortName": "LightBurn",
+    "company": "LightBurn",
+    "website": "https://lightburnsoftware.com/",
+    "category": "3D Printing",
+    "categoryId": "3d-printing",
+    "subcategories": [
+      "Maker Tools"
+    ],
+    "type": "Resource",
+    "shortDescription": "Laser cutting and engraving control software.",
+    "longDescription": "Laser cutting and engraving control software.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Maker Tools",
+      "3D Printing"
+    ],
+    "bestFor": [
+      "Maker Tools",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "lasergrbl",
+    "title": "LaserGRBL",
+    "shortName": "LaserGRBL",
+    "company": "LaserGRBL",
+    "website": "https://lasergrbl.com/",
+    "category": "3D Printing",
+    "categoryId": "3d-printing",
+    "subcategories": [
+      "Maker Tools"
+    ],
+    "type": "Resource",
+    "shortDescription": "Free laser engraving control software.",
+    "longDescription": "Free laser engraving control software.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Maker Tools",
+      "3D Printing"
+    ],
+    "bestFor": [
+      "Maker Tools",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "kicad",
+    "title": "KiCad",
+    "shortName": "KiCad",
+    "company": "KiCad",
+    "website": "https://www.kicad.org/",
+    "category": "3D Printing",
+    "categoryId": "3d-printing",
+    "subcategories": [
+      "Maker Tools"
+    ],
+    "type": "Resource",
+    "shortDescription": "Open-source electronics design automation suite.",
+    "longDescription": "Open-source electronics design automation suite.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Maker Tools",
+      "3D Printing"
+    ],
+    "bestFor": [
+      "Maker Tools",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "easyeda",
+    "title": "EasyEDA",
+    "shortName": "EasyEDA",
+    "company": "EasyEDA",
+    "website": "https://easyeda.com/",
+    "category": "3D Printing",
+    "categoryId": "3d-printing",
+    "subcategories": [
+      "Maker Tools"
+    ],
+    "type": "Resource",
+    "shortDescription": "Browser-based PCB design and electronics design platform.",
+    "longDescription": "Browser-based PCB design and electronics design platform.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Maker Tools",
+      "3D Printing"
+    ],
+    "bestFor": [
+      "Maker Tools",
+      "Creative workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.3,
+    "popularity": 65,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

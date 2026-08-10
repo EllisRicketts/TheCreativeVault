@@ -1,0 +1,758 @@
+[
+  {
+    "id": "learning-blender-guru",
+    "title": "Blender Guru",
+    "shortName": "Blender Guru",
+    "company": "Blender Guru",
+    "website": "https://www.youtube.com/@blenderguru",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "3D and VFX Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Blender tutorials and 3D education channel.",
+    "longDescription": "Blender Guru is included in The Creative Vault as a learning resource. Blender tutorials and 3D education channel.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "3D and VFX Education",
+      "Blender",
+      "YouTube"
+    ],
+    "bestFor": [
+      "3D and VFX Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-cg-cookie",
+    "title": "CG Cookie",
+    "shortName": "CG Cookie",
+    "company": "CG Cookie",
+    "website": "https://cgcookie.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "3D and VFX Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Blender, 3D, animation, and game art learning platform.",
+    "longDescription": "CG Cookie is included in The Creative Vault as a learning resource. Blender, 3D, animation, and game art learning platform.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Learning",
+      "3D and VFX Education",
+      "Blender",
+      "3D"
+    ],
+    "bestFor": [
+      "3D and VFX Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-blender-studio-training",
+    "title": "Blender Studio Training",
+    "shortName": "Blender Studio Training",
+    "company": "Blender Studio",
+    "website": "https://studio.blender.org/training/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "3D and VFX Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Official Blender training and production learning resources.",
+    "longDescription": "Blender Studio Training is included in The Creative Vault as a learning resource. Official Blender training and production learning resources.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Learning",
+      "3D and VFX Education",
+      "Blender"
+    ],
+    "bestFor": [
+      "3D and VFX Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-grant-abbitt",
+    "title": "Grant Abbitt",
+    "shortName": "Grant Abbitt",
+    "company": "Grant Abbitt",
+    "website": "https://www.youtube.com/@grabbitt",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "3D and VFX Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Blender beginner tutorials and stylized 3D education.",
+    "longDescription": "Grant Abbitt is included in The Creative Vault as a learning resource. Blender beginner tutorials and stylized 3D education.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "3D and VFX Education",
+      "Blender",
+      "YouTube"
+    ],
+    "bestFor": [
+      "3D and VFX Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-ducky-3d",
+    "title": "Ducky 3D",
+    "shortName": "Ducky 3D",
+    "company": "Ducky 3D",
+    "website": "https://www.youtube.com/@TheDucky3D",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "3D and VFX Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Blender motion graphics, procedural materials, and visual effects tutorials.",
+    "longDescription": "Ducky 3D is included in The Creative Vault as a learning resource. Blender motion graphics, procedural materials, and visual effects tutorials.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "3D and VFX Education",
+      "Blender",
+      "Motion"
+    ],
+    "bestFor": [
+      "3D and VFX Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-cg-boost",
+    "title": "CG Boost",
+    "shortName": "CG Boost",
+    "company": "CG Boost",
+    "website": "https://www.cgboost.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "3D and VFX Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Blender courses, sculpting, environments, and 3D training.",
+    "longDescription": "CG Boost is included in The Creative Vault as a learning resource. Blender courses, sculpting, environments, and 3D training.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Learning",
+      "3D and VFX Education",
+      "Blender",
+      "3D"
+    ],
+    "bestFor": [
+      "3D and VFX Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-flippednormals",
+    "title": "FlippedNormals",
+    "shortName": "FlippedNormals",
+    "company": "FlippedNormals",
+    "website": "https://flippednormals.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "3D and VFX Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Marketplace and tutorials for sculpting, 3D, concept art, and character creation.",
+    "longDescription": "FlippedNormals is included in The Creative Vault as a learning resource. Marketplace and tutorials for sculpting, 3D, concept art, and character creation.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Learning",
+      "3D and VFX Education",
+      "3D",
+      "Sculpting"
+    ],
+    "bestFor": [
+      "3D and VFX Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-3dtotal",
+    "title": "3DTotal",
+    "shortName": "3DTotal",
+    "company": "3DTotal",
+    "website": "https://www.3dtotal.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "3D and VFX Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "3D, concept art, illustration, books, and creative learning resources.",
+    "longDescription": "3DTotal is included in The Creative Vault as a learning resource. 3D, concept art, illustration, books, and creative learning resources.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Learning",
+      "3D and VFX Education",
+      "3D",
+      "Concept Art"
+    ],
+    "bestFor": [
+      "3D and VFX Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-cineversity",
+    "title": "Cineversity",
+    "shortName": "Cineversity",
+    "company": "Maxon",
+    "website": "https://cineversity.maxon.net/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "3D and VFX Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Cinema 4D, Redshift, and Maxon training library.",
+    "longDescription": "Cineversity is included in The Creative Vault as a learning resource. Cinema 4D, Redshift, and Maxon training library.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Learning",
+      "3D and VFX Education",
+      "Cinema 4D",
+      "Redshift"
+    ],
+    "bestFor": [
+      "3D and VFX Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-school-of-motion",
+    "title": "School of Motion",
+    "shortName": "School of Motion",
+    "company": "School of Motion",
+    "website": "https://www.schoolofmotion.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "3D and VFX Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Motion design, animation, Cinema 4D, After Effects, and design courses.",
+    "longDescription": "School of Motion is included in The Creative Vault as a learning resource. Motion design, animation, Cinema 4D, After Effects, and design courses.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Learning",
+      "3D and VFX Education",
+      "Motion Design"
+    ],
+    "bestFor": [
+      "3D and VFX Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-motion-design-school",
+    "title": "Motion Design School",
+    "shortName": "Motion Design School",
+    "company": "Motion Design School",
+    "website": "https://motiondesign.school/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "3D and VFX Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Motion design, animation, 3D, and After Effects courses.",
+    "longDescription": "Motion Design School is included in The Creative Vault as a learning resource. Motion design, animation, 3D, and After Effects courses.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Learning",
+      "3D and VFX Education",
+      "Motion Design"
+    ],
+    "bestFor": [
+      "3D and VFX Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-ben-marriott",
+    "title": "Ben Marriott",
+    "shortName": "Ben Marriott",
+    "company": "Ben Marriott",
+    "website": "https://www.youtube.com/@BenMarriott",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "3D and VFX Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Motion design and animation tutorials.",
+    "longDescription": "Ben Marriott is included in The Creative Vault as a learning resource. Motion design and animation tutorials.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "3D and VFX Education",
+      "Motion",
+      "YouTube"
+    ],
+    "bestFor": [
+      "3D and VFX Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-video-copilot-tutorials",
+    "title": "Video Copilot Tutorials",
+    "shortName": "Video Copilot Tutorials",
+    "company": "Video Copilot",
+    "website": "https://www.videocopilot.net/tutorials/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "3D and VFX Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Classic After Effects and VFX tutorial library.",
+    "longDescription": "Video Copilot Tutorials is included in The Creative Vault as a learning resource. Classic After Effects and VFX tutorial library.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "3D and VFX Education",
+      "VFX",
+      "After Effects"
+    ],
+    "bestFor": [
+      "3D and VFX Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-fxphd",
+    "title": "FXPHD",
+    "shortName": "FXPHD",
+    "company": "FXPHD",
+    "website": "https://www.fxphd.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "3D and VFX Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "VFX, compositing, production, and post-production training.",
+    "longDescription": "FXPHD is included in The Creative Vault as a learning resource. VFX, compositing, production, and post-production training.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Learning",
+      "3D and VFX Education",
+      "VFX",
+      "Compositing"
+    ],
+    "bestFor": [
+      "3D and VFX Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-rebelway",
+    "title": "Rebelway",
+    "shortName": "Rebelway",
+    "company": "Rebelway",
+    "website": "https://www.rebelway.net/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "3D and VFX Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Houdini, FX, environment, and VFX training.",
+    "longDescription": "Rebelway is included in The Creative Vault as a learning resource. Houdini, FX, environment, and VFX training.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Learning",
+      "3D and VFX Education",
+      "Houdini",
+      "VFX"
+    ],
+    "bestFor": [
+      "3D and VFX Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-applied-houdini",
+    "title": "Applied Houdini",
+    "shortName": "Applied Houdini",
+    "company": "Applied Houdini",
+    "website": "https://www.appliedhoudini.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "3D and VFX Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Houdini training focused on procedural effects.",
+    "longDescription": "Applied Houdini is included in The Creative Vault as a learning resource. Houdini training focused on procedural effects.",
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "tags": [
+      "Learning",
+      "3D and VFX Education",
+      "Houdini"
+    ],
+    "bestFor": [
+      "3D and VFX Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": false,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-entagma",
+    "title": "Entagma",
+    "shortName": "Entagma",
+    "company": "Entagma",
+    "website": "https://entagma.com/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "3D and VFX Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Houdini, procedural animation, and design tutorials.",
+    "longDescription": "Entagma is included in The Creative Vault as a learning resource. Houdini, procedural animation, and design tutorials.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Learning",
+      "3D and VFX Education",
+      "Houdini",
+      "Procedural"
+    ],
+    "bestFor": [
+      "3D and VFX Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-sidefx-learning",
+    "title": "SideFX Learning",
+    "shortName": "SideFX Learning",
+    "company": "SideFX",
+    "website": "https://www.sidefx.com/learn/",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "3D and VFX Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Official Houdini learning resources and tutorials.",
+    "longDescription": "SideFX Learning is included in The Creative Vault as a learning resource. Official Houdini learning resources and tutorials.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "3D and VFX Education",
+      "Houdini",
+      "Official"
+    ],
+    "bestFor": [
+      "3D and VFX Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-autodesk-maya-learning",
+    "title": "Autodesk Maya Learning",
+    "shortName": "Autodesk Maya Learning",
+    "company": "Autodesk",
+    "website": "https://www.autodesk.com/learn/ondemand/collection/learn-maya",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "3D and VFX Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Official Autodesk Maya learning resources.",
+    "longDescription": "Autodesk Maya Learning is included in The Creative Vault as a learning resource. Official Autodesk Maya learning resources.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "3D and VFX Education",
+      "Maya",
+      "Official"
+    ],
+    "bestFor": [
+      "3D and VFX Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "learning-unreal-engine-learning",
+    "title": "Unreal Engine Learning",
+    "shortName": "Unreal Engine Learning",
+    "company": "Epic Games",
+    "website": "https://dev.epicgames.com/community/learning",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "3D and VFX Education"
+    ],
+    "type": "Learning Resource",
+    "shortDescription": "Official Unreal Engine and real-time 3D learning hub.",
+    "longDescription": "Unreal Engine Learning is included in The Creative Vault as a learning resource. Official Unreal Engine and real-time 3D learning hub.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Learning",
+      "3D and VFX Education",
+      "Unreal",
+      "Realtime"
+    ],
+    "bestFor": [
+      "3D and VFX Education",
+      "Creative education",
+      "Skill building"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 70,
+    "openSource": false,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]

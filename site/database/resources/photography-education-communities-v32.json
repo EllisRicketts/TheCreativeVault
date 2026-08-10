@@ -1,0 +1,1276 @@
+[
+  {
+    "id": "photography-strobist",
+    "title": "Strobist",
+    "shortName": "Strobist",
+    "company": "David Hobby",
+    "website": "https://strobist.blogspot.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Education"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Classic free lighting education resource for photographers.",
+    "longDescription": "Strobist is included in The Creative Vault as a photography resource. Classic free lighting education resource for photographers.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Photography Education",
+      "Lighting Education"
+    ],
+    "bestFor": [
+      "Photography Education",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": true,
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-fstoppers",
+    "title": "Fstoppers",
+    "shortName": "Fstoppers",
+    "company": "Fstoppers",
+    "website": "https://fstoppers.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Education"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Photography education, news, tutorials, and gear reviews.",
+    "longDescription": "Fstoppers is included in The Creative Vault as a photography resource. Photography education, news, tutorials, and gear reviews.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Photography Education",
+      "Education"
+    ],
+    "bestFor": [
+      "Photography Education",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": true,
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-petapixel",
+    "title": "PetaPixel",
+    "shortName": "PetaPixel",
+    "company": "PetaPixel",
+    "website": "https://petapixel.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Education"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Photography news, tutorials, reviews, and inspiration.",
+    "longDescription": "PetaPixel is included in The Creative Vault as a photography resource. Photography news, tutorials, reviews, and inspiration.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Photography Education",
+      "News"
+    ],
+    "bestFor": [
+      "Photography Education",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": true,
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-dpreview-archive",
+    "title": "DPReview Archive",
+    "shortName": "DPReview Archive",
+    "company": "DPReview",
+    "website": "https://www.dpreview.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Education"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Camera reviews, forums, samples, and photography gear reference.",
+    "longDescription": "DPReview Archive is included in The Creative Vault as a photography resource. Camera reviews, forums, samples, and photography gear reference.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Photography Education",
+      "Gear Reviews"
+    ],
+    "bestFor": [
+      "Photography Education",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": true,
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": true,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-photography-life",
+    "title": "Photography Life",
+    "shortName": "Photography Life",
+    "company": "Photography Life",
+    "website": "https://photographylife.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Education"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Photography tutorials, reviews, technique guides, and education.",
+    "longDescription": "Photography Life is included in The Creative Vault as a photography resource. Photography tutorials, reviews, technique guides, and education.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Photography Education",
+      "Education"
+    ],
+    "bestFor": [
+      "Photography Education",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": true,
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-slr-lounge",
+    "title": "SLR Lounge",
+    "shortName": "SLR Lounge",
+    "company": "SLR Lounge",
+    "website": "https://www.slrlounge.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Education"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Photography tutorials, business education, lighting, and editing courses.",
+    "longDescription": "SLR Lounge is included in The Creative Vault as a photography resource. Photography tutorials, business education, lighting, and editing courses.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Photography",
+      "Photography Education",
+      "Education"
+    ],
+    "bestFor": [
+      "Photography Education",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-digital-photography-school",
+    "title": "Digital Photography School",
+    "shortName": "Digital Photography School",
+    "company": "Digital Photography School",
+    "website": "https://digital-photography-school.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Education"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Photography tips, tutorials, and beginner education.",
+    "longDescription": "Digital Photography School is included in The Creative Vault as a photography resource. Photography tips, tutorials, and beginner education.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Photography Education",
+      "Education"
+    ],
+    "bestFor": [
+      "Photography Education",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-the-phoblographer",
+    "title": "The Phoblographer",
+    "shortName": "The Phoblographer",
+    "company": "The Phoblographer",
+    "website": "https://www.thephoblographer.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Education"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Photography reviews, inspiration, and industry commentary.",
+    "longDescription": "The Phoblographer is included in The Creative Vault as a photography resource. Photography reviews, inspiration, and industry commentary.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Photography Education",
+      "News"
+    ],
+    "bestFor": [
+      "Photography Education",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-photoshelter-blog",
+    "title": "PhotoShelter Blog",
+    "shortName": "PhotoShelter Blog",
+    "company": "PhotoShelter",
+    "website": "https://blog.photoshelter.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Education"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Photography business, marketing, and industry resources.",
+    "longDescription": "PhotoShelter Blog is included in The Creative Vault as a photography resource. Photography business, marketing, and industry resources.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Photography Education",
+      "Business"
+    ],
+    "bestFor": [
+      "Photography Education",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-bandh-explora-photography",
+    "title": "B&H Explora Photography",
+    "shortName": "B&H Explora Photography",
+    "company": "B&H Photo Video",
+    "website": "https://www.bhphotovideo.com/explora/photography",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Education"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Photography tutorials, gear guides, and education from B&H.",
+    "longDescription": "B&H Explora Photography is included in The Creative Vault as a photography resource. Photography tutorials, gear guides, and education from B&H.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Photography Education",
+      "Education"
+    ],
+    "bestFor": [
+      "Photography Education",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-adorama-learning-center",
+    "title": "Adorama Learning Center",
+    "shortName": "Adorama Learning Center",
+    "company": "Adorama",
+    "website": "https://www.adorama.com/alc/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Education"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Photography and video education, tutorials, and buying guides.",
+    "longDescription": "Adorama Learning Center is included in The Creative Vault as a photography resource. Photography and video education, tutorials, and buying guides.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Photography Education",
+      "Education"
+    ],
+    "bestFor": [
+      "Photography Education",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-creativelive-photography",
+    "title": "CreativeLive Photography",
+    "shortName": "CreativeLive Photography",
+    "company": "CreativeLive",
+    "website": "https://www.creativelive.com/photography",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Education"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Photography classes and education platform.",
+    "longDescription": "CreativeLive Photography is included in The Creative Vault as a photography resource. Photography classes and education platform.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Photography",
+      "Photography Education",
+      "Courses"
+    ],
+    "bestFor": [
+      "Photography Education",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-kelbyone",
+    "title": "KelbyOne",
+    "shortName": "KelbyOne",
+    "company": "KelbyOne",
+    "website": "https://kelbyone.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Education"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Photography, Lightroom, Photoshop, and creative training.",
+    "longDescription": "KelbyOne is included in The Creative Vault as a photography resource. Photography, Lightroom, Photoshop, and creative training.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Photography",
+      "Photography Education",
+      "Courses"
+    ],
+    "bestFor": [
+      "Photography Education",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-phlearn",
+    "title": "Phlearn",
+    "shortName": "Phlearn",
+    "company": "Phlearn",
+    "website": "https://phlearn.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Education"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Photoshop, Lightroom, retouching, and photography education.",
+    "longDescription": "Phlearn is included in The Creative Vault as a photography resource. Photoshop, Lightroom, retouching, and photography education.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "tags": [
+      "Photography",
+      "Photography Education",
+      "Editing"
+    ],
+    "bestFor": [
+      "Photography Education",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-piximperfect",
+    "title": "PiXimperfect",
+    "shortName": "PiXimperfect",
+    "company": "PiXimperfect",
+    "website": "https://www.youtube.com/@PiXimperfect",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Education"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Photoshop, retouching, compositing, and photo editing tutorials.",
+    "longDescription": "PiXimperfect is included in The Creative Vault as a photography resource. Photoshop, retouching, compositing, and photo editing tutorials.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Photography Education",
+      "YouTube"
+    ],
+    "bestFor": [
+      "Photography Education",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": true,
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-mango-street",
+    "title": "Mango Street",
+    "shortName": "Mango Street",
+    "company": "Mango Street",
+    "website": "https://www.youtube.com/@MangoStreet",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Education"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Photography and filmmaking education channel.",
+    "longDescription": "Mango Street is included in The Creative Vault as a photography resource. Photography and filmmaking education channel.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Photography Education",
+      "YouTube"
+    ],
+    "bestFor": [
+      "Photography Education",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-peter-mckinnon",
+    "title": "Peter McKinnon",
+    "shortName": "Peter McKinnon",
+    "company": "Peter McKinnon",
+    "website": "https://www.youtube.com/@PeterMcKinnon",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Education"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Photography, video, editing, and creator education.",
+    "longDescription": "Peter McKinnon is included in The Creative Vault as a photography resource. Photography, video, editing, and creator education.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Photography Education",
+      "YouTube"
+    ],
+    "bestFor": [
+      "Photography Education",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-sean-tucker",
+    "title": "Sean Tucker",
+    "shortName": "Sean Tucker",
+    "company": "Sean Tucker",
+    "website": "https://www.youtube.com/@seantuck",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Education"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Photography philosophy, technique, and creative storytelling.",
+    "longDescription": "Sean Tucker is included in The Creative Vault as a photography resource. Photography philosophy, technique, and creative storytelling.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Photography Education",
+      "YouTube"
+    ],
+    "bestFor": [
+      "Photography Education",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": true,
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-chris-hau",
+    "title": "Chris Hau",
+    "shortName": "Chris Hau",
+    "company": "Chris Hau",
+    "website": "https://www.youtube.com/@thechrishau",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Education"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Photography, filmmaking, travel, and creator education.",
+    "longDescription": "Chris Hau is included in The Creative Vault as a photography resource. Photography, filmmaking, travel, and creator education.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Photography Education",
+      "YouTube"
+    ],
+    "bestFor": [
+      "Photography Education",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-the-art-of-photography",
+    "title": "The Art of Photography",
+    "shortName": "The Art of Photography",
+    "company": "Ted Forbes",
+    "website": "https://www.youtube.com/@theartofphotography",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Education"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Photography history, technique, and creative education.",
+    "longDescription": "The Art of Photography is included in The Creative Vault as a photography resource. Photography history, technique, and creative education.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Photography Education",
+      "YouTube"
+    ],
+    "bestFor": [
+      "Photography Education",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": true,
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-kai-w",
+    "title": "Kai W",
+    "shortName": "Kai W",
+    "company": "Kai W",
+    "website": "https://www.youtube.com/@KaiManWong",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Education"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Photography gear, camera reviews, and creator content.",
+    "longDescription": "Kai W is included in The Creative Vault as a photography resource. Photography gear, camera reviews, and creator content.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Photography Education",
+      "YouTube"
+    ],
+    "bestFor": [
+      "Photography Education",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-tony-and-chelsea-northrup",
+    "title": "Tony & Chelsea Northrup",
+    "shortName": "Tony & Chelsea Northrup",
+    "company": "Tony & Chelsea Northrup",
+    "website": "https://www.youtube.com/@TonyAndChelsea",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Education"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Photography tutorials, gear reviews, and photo education.",
+    "longDescription": "Tony & Chelsea Northrup is included in The Creative Vault as a photography resource. Photography tutorials, gear reviews, and photo education.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Photography Education",
+      "YouTube"
+    ],
+    "bestFor": [
+      "Photography Education",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-jared-polin",
+    "title": "Jared Polin",
+    "shortName": "Jared Polin",
+    "company": "FroKnowsPhoto",
+    "website": "https://www.youtube.com/@froknowsphoto",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Education"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Camera reviews, photography education, and industry commentary.",
+    "longDescription": "Jared Polin is included in The Creative Vault as a photography resource. Camera reviews, photography education, and industry commentary.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Photography Education",
+      "YouTube"
+    ],
+    "bestFor": [
+      "Photography Education",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-chris-niccolls",
+    "title": "Chris Niccolls",
+    "shortName": "Chris Niccolls",
+    "company": "PetaPixel",
+    "website": "https://www.youtube.com/@PetaPixel",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Education"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Camera reviews and photography education from PetaPixel.",
+    "longDescription": "Chris Niccolls is included in The Creative Vault as a photography resource. Camera reviews and photography education from PetaPixel.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Photography Education",
+      "YouTube"
+    ],
+    "bestFor": [
+      "Photography Education",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-bandh-photo-youtube",
+    "title": "B&H Photo YouTube",
+    "shortName": "B&H Photo YouTube",
+    "company": "B&H Photo Video",
+    "website": "https://www.youtube.com/@BandH",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Education"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Photography, video, lighting, and gear education.",
+    "longDescription": "B&H Photo YouTube is included in The Creative Vault as a photography resource. Photography, video, lighting, and gear education.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Photography Education",
+      "YouTube"
+    ],
+    "bestFor": [
+      "Photography Education",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-adoramatv",
+    "title": "AdoramaTV",
+    "shortName": "AdoramaTV",
+    "company": "Adorama",
+    "website": "https://www.youtube.com/@Adorama",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Education"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Photography tutorials, lighting education, and gear guides.",
+    "longDescription": "AdoramaTV is included in The Creative Vault as a photography resource. Photography tutorials, lighting education, and gear guides.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Photography Education",
+      "YouTube"
+    ],
+    "bestFor": [
+      "Photography Education",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-the-slanted-lens",
+    "title": "The Slanted Lens",
+    "shortName": "The Slanted Lens",
+    "company": "The Slanted Lens",
+    "website": "https://www.youtube.com/@TheSlantedLens",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Education"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Lighting, portrait, commercial, and photography education.",
+    "longDescription": "The Slanted Lens is included in The Creative Vault as a photography resource. Lighting, portrait, commercial, and photography education.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Photography Education",
+      "Lighting"
+    ],
+    "bestFor": [
+      "Photography Education",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-manny-ortiz",
+    "title": "Manny Ortiz",
+    "shortName": "Manny Ortiz",
+    "company": "Manny Ortiz",
+    "website": "https://www.youtube.com/@MannyOrtiz",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Education"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Portrait photography, lighting, and editing tutorials.",
+    "longDescription": "Manny Ortiz is included in The Creative Vault as a photography resource. Portrait photography, lighting, and editing tutorials.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Photography Education",
+      "Portraits"
+    ],
+    "bestFor": [
+      "Photography Education",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-jessica-kobeissi",
+    "title": "Jessica Kobeissi",
+    "shortName": "Jessica Kobeissi",
+    "company": "Jessica Kobeissi",
+    "website": "https://www.youtube.com/@JessicaKobeissi",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Education"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Portrait photography, fashion, posing, and editing content.",
+    "longDescription": "Jessica Kobeissi is included in The Creative Vault as a photography resource. Portrait photography, fashion, posing, and editing content.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "tags": [
+      "Photography",
+      "Photography Education",
+      "Portraits"
+    ],
+    "bestFor": [
+      "Photography Education",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": true,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photography-karl-taylor-education",
+    "title": "Karl Taylor Education",
+    "shortName": "Karl Taylor Education",
+    "company": "Karl Taylor",
+    "website": "https://visualeducation.com/",
+    "category": "Photography",
+    "categoryId": "photography",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photography"
+    ],
+    "primaryCategory": "Photography",
+    "subcategories": [
+      "Photography Education"
+    ],
+    "type": "Photography Resource",
+    "shortDescription": "Professional photography, lighting, product, portrait, and CGI education.",
+    "longDescription": "Karl Taylor Education is included in The Creative Vault as a photography resource. Professional photography, lighting, product, portrait, and CGI education.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "tags": [
+      "Photography",
+      "Photography Education",
+      "Lighting"
+    ],
+    "bestFor": [
+      "Photography Education",
+      "Photography workflows",
+      "Creative production"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "rating": 4.4,
+    "popularity": 68,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "lastReviewed": "2026-07-08"
+  }
+]
