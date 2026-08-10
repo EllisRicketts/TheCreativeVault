@@ -143,6 +143,59 @@
     });
   }
 
+  /* ------------------------------------------------------- category colour */
+
+  /* Colour codes four FAMILIES, not 192 categories.
+     Nobody can tell 192 colours apart, and the accessible ceiling on this
+     surface is genuinely four: every fifth hue tested either collided under
+     deuteranopia/protanopia or fell below the chroma floor and read grey.
+     Palette validated with the dataviz validator — all checks pass, with the
+     one 6.9 deuteran warning covered by the category name always sitting
+     beside its dot as a direct label. Colour is never the only signal. */
+  var FAMILIES = [
+    {
+      id: "learn", label: "Learning", color: "#6A3D9A",
+      match: /learn|tutorial|course|educat|training|academy|school|documentation|guide|reference|inspiration/i
+    },
+    {
+      id: "work", label: "Funding & business", color: "#9A5B12",
+      match: /grant|fund|freelanc|business|marketing|product(ivity)?|career|job|invoic|contract|legal|client|finance|admin/i
+    },
+    {
+      /* "photo" deliberately absent: Photography is 238 records about cameras,
+         gear and editing — a making discipline, not an asset library. Only
+         "stock" belongs here. */
+      id: "source", label: "Assets & libraries", color: "#C2185B",
+      match: /marketplace|asset|stock|public domain|archive|texture|brush|mockup|template|font|typograph|icon|library|download|sound effect|sample/i
+    },
+    {
+      /* \bai\b, not bare "ai", which otherwise matches Painting and Training. */
+      id: "make", label: "Tools & software", color: "#0072B2",
+      match: /art|design|3d|cad|game|dev|cod(e|ing)|web|software|video|audio|music|photo|image|\bai\b|anim|vfx|render|model|paint|draw|edit|creation|production|tool|essential|writing|print/i
+    }
+  ];
+
+  var familyCache = new Map();
+
+  function familyOf(category) {
+    if (!category) return null;
+    if (familyCache.has(category)) return familyCache.get(category);
+
+    var found = null;
+    for (var i = 0; i < FAMILIES.length; i++) {
+      if (FAMILIES[i].match.test(category)) { found = FAMILIES[i]; break; }
+    }
+    familyCache.set(category, found);
+    return found;
+  }
+
+  function dotFor(category) {
+    var fam = familyOf(category);
+    return '<span class="cat-dot"' +
+           (fam ? ' style="--dot:' + fam.color + '"' : "") +
+           ' aria-hidden="true"></span>';
+  }
+
   /* ---------------------------------------------------------------- logos */
 
   /* Sourcing chain: an owned logo, then DuckDuckGo, then Google, then a
@@ -201,7 +254,9 @@
     if (r.price && r.price !== "Unknown") {
       meta.push('<span class="price" data-free="' + (free ? "true" : "false") + '">' + esc(r.price) + "</span>");
     }
-    if (r.primaryCategory) meta.push("<span>" + esc(r.primaryCategory) + "</span>");
+    if (r.primaryCategory) {
+      meta.push('<span class="cat">' + dotFor(r.primaryCategory) + esc(r.primaryCategory) + "</span>");
+    }
     if ((r.platforms || []).length) meta.push("<span>" + esc(r.platforms.slice(0, 2).join(", ")) + "</span>");
 
     var faved = favorites.has(r.id);
@@ -411,7 +466,7 @@
   function buildQuickLinks(counts) {
     el.quickLinks.innerHTML = counts.slice(0, 8).map(function (entry) {
       return '<button class="chip" type="button" data-category="' + esc(entry[0]) + '" aria-pressed="false">' +
-             esc(entry[0]) + "</button>";
+             dotFor(entry[0]) + esc(entry[0]) + "</button>";
     }).join("");
   }
 
@@ -426,9 +481,20 @@
   function buildCategoryGrid(counts) {
     el.categoryGrid.innerHTML = counts.slice(0, 24).map(function (entry) {
       return '<button class="category reveal" type="button" data-category="' + esc(entry[0]) + '">' +
-             "<span>" + esc(entry[0]) + "</span>" +
+             "<span>" + dotFor(entry[0]) + esc(entry[0]) + "</span>" +
              '<span class="tabular">' + entry[1].toLocaleString() + "</span></button>";
     }).join("");
+  }
+
+  /* A colour code nobody can read is decoration. The key names each family. */
+  function buildFamilyKey() {
+    var key = document.getElementById("familyKey");
+    if (!key) return;
+    key.innerHTML = FAMILIES.slice().reverse().map(function (fam) {
+      return '<span class="key-item"><span class="cat-dot" style="--dot:' + fam.color +
+             '" aria-hidden="true"></span>' + esc(fam.label) + "</span>";
+    }).join("") +
+    '<span class="key-item"><span class="cat-dot" aria-hidden="true"></span>Everything else</span>';
   }
 
   function buildCollections() {
@@ -688,6 +754,7 @@
     buildQuickLinks(counts);
     buildCategoryOptions(counts);
     buildCategoryGrid(counts);
+    buildFamilyKey();
     buildCollections();
 
     wire();

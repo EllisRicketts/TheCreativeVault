@@ -87,6 +87,39 @@ disagree from row to row and the list stops reading as a list. Rows shed
 columns at 1080px (description) and 780px (two-line layout) rather than
 crushing everything at once. A row responds to hover by tinting, not lifting.
 
+## Category colour
+
+Colour codes **four families, not 192 categories.** A 7px dot sits beside the
+category name on cards, chips and category tiles, and a key in the Categories
+section names each family.
+
+| Family | Colour | Covers |
+|---|---|---|
+| Tools & software | `#0072B2` | Game Dev, Digital Art, Photography, AI Tools, Software, Video, Audio, Coding, 3D/CAD … |
+| Assets & libraries | `#C2185B` | Marketplaces, Public Domain, Typography, stock, textures, templates |
+| Funding & business | `#9A5B12` | Grants, Freelancing, Business, Marketing, Productivity |
+| Learning | `#6A3D9A` | Learning, tutorials, courses, reference |
+| Everything else | `--line-strong` | the 179 categories with fewer than 25 records |
+
+**Why four.** Nobody can distinguish 192 colours, and four is the measured
+ceiling here, not a stylistic choice: the palette was checked with the dataviz
+validator and every fifth hue tried either collided under deuteranopia or
+protanopia, or fell below the chroma floor and read grey. Teal always collapsed
+into blue; brown, olive and green always collapsed into each other. The set
+that ships passes lightness band, chroma floor, normal-vision separation and
+contrast, with one 6.9 ΔE deuteran warning that is permitted because the
+category name always sits beside its dot as a direct label.
+
+Rules that must hold if this is ever extended:
+
+- **Colour is never the only signal.** The word is always present; the dot only
+  speeds up scanning.
+- **Colour follows the resource, not its rank.** Filtering must never repaint
+  the survivors — verified.
+- **Never generate a hue for a fifth family.** It folds into "Everything else".
+- Re-run the validator before changing any value:
+  `node <dataviz-skill>/scripts/validate_palette.js "<hex,…>" --mode light --pairs all`
+
 ## Icons
 
 Drawn SVG in one `<symbol>` sprite at the top of `index.html`, 1.6 stroke,

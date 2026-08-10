@@ -466,6 +466,39 @@ p { margin: 0; }
    Categories
    ========================================================================== */
 
+/* ==========================================================================
+   Category colour — four families, never 192 categories
+   ==========================================================================
+   The palette is validated for colourblind separation, chroma and contrast.
+   Colour is always a companion to the category name, never a replacement:
+   the dot speeds up scanning, the word carries the meaning. */
+
+.cat-dot {
+  display: inline-block;
+  width: 7px;
+  height: 7px;
+  margin-right: 7px;
+  border-radius: 50%;
+  background: var(--dot, var(--line-strong));
+  flex: none;
+  vertical-align: 0.06em;
+}
+
+.card-meta .cat { display: inline-flex; align-items: center; }
+
+.family-key {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 20px;
+  margin-bottom: 20px;
+  padding-bottom: 16px;
+  border-bottom: 1px solid var(--line);
+  font-size: 13px;
+  color: var(--ink-2);
+}
+
+.key-item { display: inline-flex; align-items: center; }
+
 .category-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(196px, 1fr));
