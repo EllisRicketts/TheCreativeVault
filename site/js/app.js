@@ -97,15 +97,33 @@
 
   /* ------------------------------------------------------------- indexing */
 
+  /* 40 records carry a stray "true" in their platform list, and one lists
+     nothing else. Left alone it prints on the card, pollutes the search
+     index and offers itself as a filter value. Dropped here so the display
+     is clean today; the source JSON still wants correcting at some point. */
+  var JUNK_VALUE = /^(true|false|null|undefined|n\/a|none|-)$/i;
+
+  function cleanList(list) {
+    return (list || [])
+      .map(function (v) { return typeof v === "string" ? v.trim() : ""; })
+      .filter(function (v) { return v && !JUNK_VALUE.test(v); });
+  }
+
   function prepare() {
     all.forEach(function (r) {
       byId.set(r.id, r);
       r._host = hostOf(r.website);
+      r.platforms = cleanList(r.platforms);
+      r.categories = cleanList(r.categories);
+      /* Price belongs in the haystack: "free" is one of the most common
+         things anyone types into a tool directory. */
       r._blob = [
         r.title, r.shortName, r.company, r._host,
         r.shortDescription, (r.categories || []).join(" "),
-        (r.tags || []).join(" "), (r.platforms || []).join(" ")
+        (r.tags || []).join(" "), (r.platforms || []).join(" "),
+        r.price, r.type
       ].join(" ").toLowerCase();
+      r._title = String(r.title || "").toLowerCase();
       r._rank =
         (r.editorPick ? 0 : 1) * 1000000 +
         (r.featured ? 0 : 1) * 100000 +
@@ -226,17 +244,39 @@
     };
   }
 
+  /* How well a record answers the query. A product's own name must outrank a
+     passing mention of it in somebody else's description. */
+  function relevance(r, q) {
+    if (r._title === q) return 0;
+    if (r._title.indexOf(q) === 0) return 1;
+    if (r._title.indexOf(q) !== -1) return 2;
+    if (String(r.company || "").toLowerCase().indexOf(q) !== -1) return 3;
+    if ((r._host || "").indexOf(q) !== -1) return 3;
+    return 4;
+  }
+
   function applyFilters() {
     var f = currentFilters();
 
+    /* Every word must appear somewhere, in any order, so "free 3d" and
+       "3d free" both work. A single substring match over the whole record
+       found nothing for either. */
+    var terms = f.q ? f.q.split(/\s+/).filter(Boolean) : [];
+
     filtered = all.filter(function (r) {
-      if (f.q && r._blob.indexOf(f.q) === -1) return false;
+      for (var i = 0; i < terms.length; i++) {
+        if (r._blob.indexOf(terms[i]) === -1) return false;
+      }
       if (f.category !== "all" && (r.categories || []).indexOf(f.category) === -1) return false;
       if (f.price !== "all" && r.price !== f.price) return false;
       if (f.platform !== "all" && (r.platforms || []).indexOf(f.platform) === -1) return false;
       if (activeCollection && (r.collections || []).indexOf(activeCollection) === -1) return false;
       return true;
     });
+
+    if (terms.length) {
+      filtered.forEach(function (r) { r._rel = relevance(r, f.q); });
+    }
 
     if (f.sort === "az") {
       filtered.sort(function (a, b) { return a.title.localeCompare(b.title); });
@@ -245,6 +285,10 @@
         var af = /^free$/i.test(a.price) ? 0 : 1;
         var bf = /^free$/i.test(b.price) ? 0 : 1;
         return af - bf || a._rank - b._rank;
+      });
+    } else if (terms.length) {
+      filtered.sort(function (a, b) {
+        return a._rel - b._rel || a._rank - b._rank || a.title.localeCompare(b.title);
       });
     } else {
       filtered.sort(function (a, b) { return a._rank - b._rank || a.title.localeCompare(b.title); });
@@ -481,14 +525,36 @@
     observeAll();
   }
 
-  function observeAll() {
-    if (!revealObserver) return;
-    document.querySelectorAll(".reveal:not(.is-in)").forEach(function (node) {
-      revealObserver.observe(node);
+  /* Anything already on screen is shown at once; only what sits below the
+     fold waits for the scroll animation.
+
+     Filter results arrive in the viewport without any scrolling, so leaving
+     them to the observer left the grid blank for ~650ms and unreadable for
+     ~1.5s after every keystroke. A reveal is for scrolling, and it must
+     never stand between someone and the results they just asked for.
+
+     Rects are read in one pass before any class is written, so sixty nodes
+     cost one layout rather than sixty. */
+  function observeOrShow(nodeList) {
+    var nodes = Array.prototype.slice.call(nodeList);
+    if (!nodes.length) return;
+
+    var fold = window.innerHeight || 800;
+    var tops = nodes.map(function (n) { return n.getBoundingClientRect().top; });
+
+    nodes.forEach(function (node, i) {
+      if (tops[i] < fold) node.classList.add("is-instant", "is-in");
+      else if (revealObserver) revealObserver.observe(node);
     });
   }
 
-  function revealNew() { observeAll(); }
+  function observeAll() {
+    observeOrShow(document.querySelectorAll(".reveal:not(.is-in)"));
+  }
+
+  function revealNew() {
+    observeOrShow(el.grid.querySelectorAll(".reveal:not(.is-in)"));
+  }
 
   function setupInfiniteScroll() {
     if (!("IntersectionObserver" in window)) return;

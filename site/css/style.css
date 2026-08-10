@@ -1062,11 +1062,26 @@ p { margin: 0; }
   transform: translateY(14px);
 }
 
+/* Animations, not transitions. A card inserted and revealed in the same
+   frame has no previously-painted style to transition from, so a transition
+   silently never runs and the card stays invisible. An animation always
+   plays, which is exactly what filter results need. */
 .js-reveal .reveal.is-in {
-  opacity: 1;
-  transform: none;
-  transition: opacity var(--slow) var(--ease), transform var(--slow) var(--ease);
-  transition-delay: var(--reveal-delay, 0ms);
+  animation: reveal-in var(--slow) var(--ease) both;
+  animation-delay: var(--reveal-delay, 0ms);
+}
+
+@keyframes reveal-in {
+  from { opacity: 0; transform: translateY(14px); }
+  to   { opacity: 1; transform: none; }
+}
+
+/* Results that are already on screen when they arrive — a filter, not a
+   scroll. They still fade, but briskly and without waiting their turn:
+   nobody should watch a queue animate before they can read an answer. */
+.js-reveal .reveal.is-in.is-instant {
+  animation-duration: 240ms;
+  animation-delay: 0ms;
 }
 
 .js-reveal .section-rule {
@@ -1074,8 +1089,12 @@ p { margin: 0; }
 }
 
 .js-reveal .section-rule.is-in {
-  transform: scaleX(1);
-  transition: transform 900ms var(--ease);
+  animation: rule-in 900ms var(--ease) both;
+}
+
+@keyframes rule-in {
+  from { transform: scaleX(0); }
+  to   { transform: scaleX(1); }
 }
 
 @media (prefers-reduced-motion: reduce) {

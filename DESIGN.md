@@ -103,6 +103,18 @@ Two related moments, not a fade on everything:
    order via IntersectionObserver.
 2. Section rules draw in from the left over 900ms.
 
+**Keyframe animations, never transitions, for reveals.** An element that is
+inserted and revealed in the same frame has no previously-painted style to
+transition from, so a transition silently never runs and the element stays
+invisible. Animations always play. This matters because filter results are
+exactly that case.
+
+**A reveal must never gate content the visitor asked for.** Anything already
+on screen when it renders is shown at once (`.is-instant`, 240ms, no
+stagger); only what sits below the fold waits for the observer. Filter
+results arrive without any scrolling, so leaving them to the scroll observer
+makes the grid look empty right after a search.
+
 Content is visible by default. The pre-state only exists when JS is running and
 the visitor has not asked for reduced motion — `.js-reveal` is added by script,
 never present in the markup, so a JS failure shows the page rather than a blank.

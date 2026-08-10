@@ -90,6 +90,11 @@ Ellis Ricketts 3D logo mark.
   signals nothing.
 - No testimonials, traffic figures, user counts, press coverage or partnerships
   exist. None may be invented.
+- **40 records carry a literal `"true"` in their `platforms` array**, and at
+  least one has nothing else there. The app strips junk values at load so
+  nothing leaks onto a card, into the search index or into the platform
+  filter, but the source JSON under `site/database/` is still wrong and
+  wants correcting at the data layer.
 
 ## Product Principles
 
