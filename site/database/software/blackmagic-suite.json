@@ -11,13 +11,15 @@
       "Software",
       "Video Editing",
       "Color Grading",
-      "Post Production"
+      "Post Production",
+      "Video"
     ],
     "categoryIds": [
       "software",
       "video-editing",
       "color-grading",
-      "post-production"
+      "post-production",
+      "video"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -82,13 +84,15 @@
       "Software",
       "Video Editing",
       "Color Grading",
-      "VFX"
+      "VFX",
+      "Video"
     ],
     "categoryIds": [
       "software",
       "video-editing",
       "color-grading",
-      "vfx"
+      "vfx",
+      "video"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -151,13 +155,15 @@
       "Software",
       "Compositing",
       "VFX",
-      "Motion Graphics"
+      "Motion Graphics",
+      "Video"
     ],
     "categoryIds": [
       "software",
       "compositing",
       "vfx",
-      "motion-graphics"
+      "motion-graphics",
+      "video"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -215,12 +221,14 @@
     "categories": [
       "Software",
       "Audio Post",
-      "Mixing"
+      "Mixing",
+      "Audio"
     ],
     "categoryIds": [
       "software",
       "audio-post",
-      "mixing"
+      "mixing",
+      "audio"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -280,12 +288,16 @@
     "categories": [
       "Software",
       "Cloud Collaboration",
-      "Video Workflow"
+      "Video Workflow",
+      "Video",
+      "Business"
     ],
     "categoryIds": [
       "software",
       "cloud-collaboration",
-      "video-workflow"
+      "video-workflow",
+      "video",
+      "business"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -338,12 +350,14 @@
     "categories": [
       "Software",
       "Live Production",
-      "Switcher Control"
+      "Switcher Control",
+      "Video"
     ],
     "categoryIds": [
       "software",
       "live-production",
-      "switcher-control"
+      "switcher-control",
+      "video"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -397,12 +411,14 @@
     "categories": [
       "Software",
       "Camera Utility",
-      "Firmware"
+      "Firmware",
+      "Video"
     ],
     "categoryIds": [
       "software",
       "camera-utility",
-      "firmware"
+      "firmware",
+      "video"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -456,12 +472,14 @@
     "categories": [
       "Software",
       "RAW Video",
-      "Media Playback"
+      "Media Playback",
+      "Video"
     ],
     "categoryIds": [
       "software",
       "raw-video",
-      "media-playback"
+      "media-playback",
+      "video"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -515,12 +533,14 @@
     "categories": [
       "Software",
       "Proxy Workflow",
-      "Video Utility"
+      "Video Utility",
+      "Video"
     ],
     "categoryIds": [
       "software",
       "proxy-workflow",
-      "video-utility"
+      "video-utility",
+      "video"
     ],
     "primaryCategory": "Software",
     "subcategories": [

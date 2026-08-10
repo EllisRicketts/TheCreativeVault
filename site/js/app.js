@@ -489,8 +489,40 @@
       }).join("");
   }
 
+  /* The grid is wayfinding, not a leaderboard. Ranking all 191 categories by
+     size and cutting at 24 let a real section fall off the page because a few
+     records moved: Music sat at rank 26 and had no tile at all, so the only
+     way to reach it was the dropdown. The curated list in categories.js is the
+     site's actual promise, so every curated section that has something in it
+     is guaranteed a tile, and the largest remaining categories fill the rest.
+     Order still reads biggest-first, so nothing about the grid's scan changes.
+
+     A curated category with nothing in it stays out: a door onto an empty room
+     is worse than no door. */
+  var GRID_LIMIT = 24;
+
+  function gridCategories(counts) {
+    var curated = typeof vaultCategories === "undefined" ? [] : vaultCategories;
+    var byLabel = new Map(counts);
+    var chosen = new Map();
+
+    curated.forEach(function (category) {
+      var total = byLabel.get(category.label) || 0;
+      if (total) chosen.set(category.label, total);
+    });
+
+    counts.forEach(function (entry) {
+      if (chosen.size >= GRID_LIMIT || chosen.has(entry[0])) return;
+      chosen.set(entry[0], entry[1]);
+    });
+
+    return [...chosen.entries()].sort(function (a, b) {
+      return b[1] - a[1] || a[0].localeCompare(b[0]);
+    });
+  }
+
   function buildCategoryGrid(counts) {
-    el.categoryGrid.innerHTML = counts.slice(0, 24).map(function (entry) {
+    el.categoryGrid.innerHTML = gridCategories(counts).map(function (entry) {
       return '<button class="category reveal" type="button" data-category="' + esc(entry[0]) + '">' +
              "<span>" + dotFor(entry[0]) + esc(entry[0]) + "</span>" +
              '<span class="tabular">' + entry[1].toLocaleString() + "</span></button>";

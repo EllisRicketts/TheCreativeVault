@@ -10,12 +10,14 @@
     "categories": [
       "Software",
       "Vector Graphics",
-      "Graphic Design"
+      "Graphic Design",
+      "Digital Art"
     ],
     "categoryIds": [
       "software",
       "vector-graphics",
-      "graphic-design"
+      "graphic-design",
+      "digital-art"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -72,12 +74,16 @@
     "categories": [
       "Software",
       "Photo Editing",
-      "Raster Graphics"
+      "Raster Graphics",
+      "Photography",
+      "Digital Art"
     ],
     "categoryIds": [
       "software",
       "photo-editing",
-      "raster-graphics"
+      "raster-graphics",
+      "photography",
+      "digital-art"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -134,12 +140,14 @@
     "categories": [
       "Software",
       "Page Layout",
-      "Publishing"
+      "Publishing",
+      "Digital Art"
     ],
     "categoryIds": [
       "software",
       "page-layout",
-      "publishing"
+      "publishing",
+      "digital-art"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -195,12 +203,14 @@
     "categories": [
       "Software",
       "Office Suite",
-      "Collaboration"
+      "Collaboration",
+      "Business"
     ],
     "categoryIds": [
       "software",
       "office-suite",
-      "collaboration"
+      "collaboration",
+      "business"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -257,12 +267,14 @@
     "categories": [
       "Software",
       "Office Suite",
-      "Documents"
+      "Documents",
+      "Business"
     ],
     "categoryIds": [
       "software",
       "office-suite",
-      "documents"
+      "documents",
+      "business"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -321,12 +333,14 @@
     "categories": [
       "Software",
       "Word Processing",
-      "Collaboration"
+      "Collaboration",
+      "Business"
     ],
     "categoryIds": [
       "software",
       "word-processing",
-      "collaboration"
+      "collaboration",
+      "business"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -385,12 +399,14 @@
     "categories": [
       "Software",
       "Spreadsheets",
-      "Collaboration"
+      "Collaboration",
+      "Business"
     ],
     "categoryIds": [
       "software",
       "spreadsheets",
-      "collaboration"
+      "collaboration",
+      "business"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -449,12 +465,14 @@
     "categories": [
       "Software",
       "Presentations",
-      "Collaboration"
+      "Collaboration",
+      "Business"
     ],
     "categoryIds": [
       "software",
       "presentations",
-      "collaboration"
+      "collaboration",
+      "business"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -513,12 +531,14 @@
     "categories": [
       "Software",
       "Word Processing",
-      "Office Suite"
+      "Office Suite",
+      "Business"
     ],
     "categoryIds": [
       "software",
       "word-processing",
-      "office-suite"
+      "office-suite",
+      "business"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -579,12 +599,14 @@
     "categories": [
       "Software",
       "Spreadsheets",
-      "Data Analysis"
+      "Data Analysis",
+      "Business"
     ],
     "categoryIds": [
       "software",
       "spreadsheets",
-      "data-analysis"
+      "data-analysis",
+      "business"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -645,12 +667,16 @@
     "categories": [
       "Software",
       "Presentations",
-      "Slide Design"
+      "Slide Design",
+      "Digital Art",
+      "Business"
     ],
     "categoryIds": [
       "software",
       "presentations",
-      "slide-design"
+      "slide-design",
+      "digital-art",
+      "business"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -711,12 +737,14 @@
     "categories": [
       "Software",
       "Word Processing",
-      "Office Suite"
+      "Office Suite",
+      "Business"
     ],
     "categoryIds": [
       "software",
       "word-processing",
-      "office-suite"
+      "office-suite",
+      "business"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -775,12 +803,14 @@
     "categories": [
       "Software",
       "Spreadsheets",
-      "Office Suite"
+      "Office Suite",
+      "Business"
     ],
     "categoryIds": [
       "software",
       "spreadsheets",
-      "office-suite"
+      "office-suite",
+      "business"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -839,12 +869,14 @@
     "categories": [
       "Software",
       "Presentations",
-      "Office Suite"
+      "Office Suite",
+      "Business"
     ],
     "categoryIds": [
       "software",
       "presentations",
-      "office-suite"
+      "office-suite",
+      "business"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -904,13 +936,17 @@
       "Software",
       "3D Modeling",
       "Animation",
-      "VFX"
+      "VFX",
+      "3D / CAD",
+      "Video"
     ],
     "categoryIds": [
       "software",
       "3d-modeling",
       "animation",
-      "vfx"
+      "vfx",
+      "3d-cad",
+      "video"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -970,12 +1006,18 @@
     "categories": [
       "Software",
       "3D Learning",
-      "Production Assets"
+      "Production Assets",
+      "3D / CAD",
+      "Assets",
+      "Learning"
     ],
     "categoryIds": [
       "software",
       "3d-learning",
-      "production-assets"
+      "production-assets",
+      "3d-cad",
+      "assets",
+      "learning"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -1029,12 +1071,16 @@
     "categories": [
       "Software",
       "3D Add-ons",
-      "Extensions"
+      "Extensions",
+      "3D / CAD",
+      "Assets"
     ],
     "categoryIds": [
       "software",
       "3d-add-ons",
-      "extensions"
+      "extensions",
+      "3d-cad",
+      "assets"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -1088,13 +1134,17 @@
       "Software",
       "3D Modeling",
       "Motion Graphics",
-      "Rendering"
+      "Rendering",
+      "3D / CAD",
+      "Video"
     ],
     "categoryIds": [
       "software",
       "3d-modeling",
       "motion-graphics",
-      "rendering"
+      "rendering",
+      "3d-cad",
+      "video"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -1151,12 +1201,14 @@
     "categories": [
       "Software",
       "Digital Sculpting",
-      "Character Art"
+      "Character Art",
+      "3D / CAD"
     ],
     "categoryIds": [
       "software",
       "digital-sculpting",
-      "character-art"
+      "character-art",
+      "3d-cad"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -1212,12 +1264,14 @@
     "categories": [
       "Software",
       "Rendering",
-      "GPU Renderer"
+      "GPU Renderer",
+      "3D / CAD"
     ],
     "categoryIds": [
       "software",
       "rendering",
-      "gpu-renderer"
+      "gpu-renderer",
+      "3d-cad"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -1274,12 +1328,16 @@
     "categories": [
       "Software",
       "Motion Graphics",
-      "VFX Plugins"
+      "VFX Plugins",
+      "Video",
+      "Assets"
     ],
     "categoryIds": [
       "software",
       "motion-graphics",
-      "vfx-plugins"
+      "vfx-plugins",
+      "video",
+      "assets"
     ],
     "primaryCategory": "Software",
     "subcategories": [

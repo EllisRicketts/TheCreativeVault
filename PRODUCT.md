@@ -43,9 +43,11 @@ suggested by email.
 
 ## Capabilities and Constraints
 
-- **Scale:** ~2,262 resource records render on the page, drawn from
-  `site/database/**/*.json` (1,510 records) plus the `site/data/ecosystems/*.js`
-  sets. 192 categories.
+- **Scale:** ~2,262 resource records render on the page, drawn entirely from
+  `site/database/**/*.json`. 191 categories. The hand-edited `site/data/*.js`
+  arrays that used to supply 390 of these were migrated into the database on
+  2026-08-10 and deleted, so there is one source of truth and the compiler
+  sees all of it.
 - **Build:** source JSON in `site/database/`, compiled to `site/data/generated-*.js`
   by `site/tools/compile-database.js` (`npm run compile`). Compiled files are
   committed. Deploy is a static publish of `site/` — no build step runs on Netlify.

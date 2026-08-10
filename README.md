@@ -28,16 +28,29 @@ TheCreativeVault/
 
 ## Editing the resource database
 
-The page reads `site/data/generated-*.js`. Those files are **compiled output** —
-do not hand-edit them. Edit the JSON under `site/database/resources/`, then
-regenerate:
+`site/database/` is the only source of truth. The page reads
+`site/data/generated-resources.js`, which is **compiled output** — do not
+hand-edit it. Edit the JSON under `site/database/`, then regenerate:
 
 ```
 cd site
 npm run compile
 ```
 
-Commit both the JSON you changed and the regenerated files in `site/data/`.
+Commit both the JSON you changed and the regenerated `site/data/generated-resources.js`.
+
+The compiler reads four trees: `database/resources/` (recursively),
+`database/software/`, `database/companies/` and `database/applications/`.
+
+Until 2026-08-10 some resources also lived in hand-edited arrays under
+`site/data/` that the compiler never saw. Those were migrated into
+`site/database/` and deleted, so there is now one place to edit and one
+place only. See `site/database/README.txt`.
+
+**Categories are matched by exact label.** A resource shows under Music only if
+`"Music"` is literally in its `categories` array — `"DAW"` or `"Music Production"`
+will not do it. The homepage grid renders the 24 biggest categories, so a
+thinly-populated label has no tile even though the dropdown still finds it.
 
 ## The share card and SEO
 

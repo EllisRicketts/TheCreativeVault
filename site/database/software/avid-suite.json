@@ -11,13 +11,15 @@
       "Software",
       "DAW",
       "Audio Recording",
-      "Music Production"
+      "Music Production",
+      "Audio"
     ],
     "categoryIds": [
       "software",
       "daw",
       "audio-recording",
-      "music-production"
+      "music-production",
+      "audio"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -81,13 +83,15 @@
       "Software",
       "DAW",
       "Audio Recording",
-      "Music Production"
+      "Music Production",
+      "Audio"
     ],
     "categoryIds": [
       "software",
       "daw",
       "audio-recording",
-      "music-production"
+      "music-production",
+      "audio"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -148,13 +152,15 @@
       "Software",
       "DAW",
       "Audio Post",
-      "Music Production"
+      "Music Production",
+      "Audio"
     ],
     "categoryIds": [
       "software",
       "daw",
       "audio-post",
-      "music-production"
+      "music-production",
+      "audio"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -216,13 +222,17 @@
       "Software",
       "DAW",
       "Post Production",
-      "Large Format Mixing"
+      "Large Format Mixing",
+      "Video",
+      "Audio"
     ],
     "categoryIds": [
       "software",
       "daw",
       "post-production",
-      "large-format-mixing"
+      "large-format-mixing",
+      "video",
+      "audio"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -282,11 +292,13 @@
     "categoryId": "software",
     "categories": [
       "Software",
+      "Music",
       "Music Notation",
       "Composition"
     ],
     "categoryIds": [
       "software",
+      "music",
       "music-notation",
       "composition"
     ],
@@ -347,13 +359,15 @@
       "Software",
       "Video Editing",
       "Film Editing",
-      "Broadcast"
+      "Broadcast",
+      "Video"
     ],
     "categoryIds": [
       "software",
       "video-editing",
       "film-editing",
-      "broadcast"
+      "broadcast",
+      "video"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -412,12 +426,14 @@
     "categories": [
       "Software",
       "Software Management",
-      "Creative Community"
+      "Creative Community",
+      "Content Creation"
     ],
     "categoryIds": [
       "software",
       "software-management",
-      "creative-community"
+      "creative-community",
+      "content-creation"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -530,12 +546,14 @@
     "categories": [
       "Software",
       "Live Sound",
-      "Mixing Consoles"
+      "Mixing Consoles",
+      "Audio"
     ],
     "categoryIds": [
       "software",
       "live-sound",
-      "mixing-consoles"
+      "mixing-consoles",
+      "audio"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -590,12 +608,14 @@
     "categories": [
       "Software",
       "Broadcast Graphics",
-      "Real-Time Graphics"
+      "Real-Time Graphics",
+      "Video"
     ],
     "categoryIds": [
       "software",
       "broadcast-graphics",
-      "real-time-graphics"
+      "real-time-graphics",
+      "video"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -649,13 +669,15 @@
       "Software",
       "Broadcast Production",
       "Ingest",
-      "Playout"
+      "Playout",
+      "Video"
     ],
     "categoryIds": [
       "software",
       "broadcast-production",
       "ingest",
-      "playout"
+      "playout",
+      "video"
     ],
     "primaryCategory": "Software",
     "subcategories": [

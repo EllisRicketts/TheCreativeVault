@@ -10,12 +10,14 @@
     "categories": [
       "Software",
       "Word Processing",
-      "Office Suite"
+      "Office Suite",
+      "Business"
     ],
     "categoryIds": [
       "software",
       "word-processing",
-      "office-suite"
+      "office-suite",
+      "business"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -74,12 +76,14 @@
     "categories": [
       "Software",
       "Spreadsheets",
-      "Office Suite"
+      "Office Suite",
+      "Business"
     ],
     "categoryIds": [
       "software",
       "spreadsheets",
-      "office-suite"
+      "office-suite",
+      "business"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -138,12 +142,14 @@
     "categories": [
       "Software",
       "Presentations",
-      "Office Suite"
+      "Office Suite",
+      "Business"
     ],
     "categoryIds": [
       "software",
       "presentations",
-      "office-suite"
+      "office-suite",
+      "business"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -203,13 +209,17 @@
       "Software",
       "Vector Drawing",
       "Diagrams",
-      "PDF Editing"
+      "PDF Editing",
+      "Digital Art",
+      "Business"
     ],
     "categoryIds": [
       "software",
       "vector-drawing",
       "diagrams",
-      "pdf-editing"
+      "pdf-editing",
+      "digital-art",
+      "business"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -270,12 +280,16 @@
     "categories": [
       "Software",
       "Databases",
-      "Office Suite"
+      "Office Suite",
+      "Web & Dev",
+      "Business"
     ],
     "categoryIds": [
       "software",
       "databases",
-      "office-suite"
+      "office-suite",
+      "web-and-dev",
+      "business"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -334,12 +348,14 @@
     "categories": [
       "Software",
       "Formula Editing",
-      "Office Suite"
+      "Office Suite",
+      "Business"
     ],
     "categoryIds": [
       "software",
       "formula-editing",
-      "office-suite"
+      "office-suite",
+      "business"
     ],
     "primaryCategory": "Software",
     "subcategories": [

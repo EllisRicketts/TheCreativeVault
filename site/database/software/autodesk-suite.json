@@ -11,13 +11,19 @@
       "Software",
       "3D Animation",
       "3D Modeling",
-      "VFX"
+      "VFX",
+      "3D / CAD",
+      "Animation",
+      "Video"
     ],
     "categoryIds": [
       "software",
       "3d-animation",
       "3d-modeling",
-      "vfx"
+      "vfx",
+      "3d-cad",
+      "animation",
+      "video"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -79,13 +85,15 @@
       "Software",
       "3D Modeling",
       "Rendering",
-      "Visualization"
+      "Visualization",
+      "3D / CAD"
     ],
     "categoryIds": [
       "software",
       "3d-modeling",
       "rendering",
-      "visualization"
+      "visualization",
+      "3d-cad"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -143,13 +151,15 @@
       "Software",
       "CAD",
       "Drafting",
-      "Architecture"
+      "Architecture",
+      "3D / CAD"
     ],
     "categoryIds": [
       "software",
       "cad",
       "drafting",
-      "architecture"
+      "architecture",
+      "3d-cad"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -209,12 +219,14 @@
     "categories": [
       "Software",
       "CAD",
-      "2D Drafting"
+      "2D Drafting",
+      "3D / CAD"
     ],
     "categoryIds": [
       "software",
       "cad",
-      "2d-drafting"
+      "2d-drafting",
+      "3d-cad"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -269,13 +281,15 @@
       "Software",
       "CAD",
       "CAM",
-      "Product Design"
+      "Product Design",
+      "3D / CAD"
     ],
     "categoryIds": [
       "software",
       "cad",
       "cam",
-      "product-design"
+      "product-design",
+      "3d-cad"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -334,12 +348,14 @@
     "categories": [
       "Software",
       "Mechanical CAD",
-      "Product Design"
+      "Product Design",
+      "3D / CAD"
     ],
     "categoryIds": [
       "software",
       "mechanical-cad",
-      "product-design"
+      "product-design",
+      "3d-cad"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -394,13 +410,15 @@
       "Software",
       "BIM",
       "Architecture",
-      "AEC"
+      "AEC",
+      "3D / CAD"
     ],
     "categoryIds": [
       "software",
       "bim",
       "architecture",
-      "aec"
+      "aec",
+      "3d-cad"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -456,12 +474,14 @@
     "categories": [
       "Software",
       "Civil Engineering",
-      "Infrastructure"
+      "Infrastructure",
+      "3D / CAD"
     ],
     "categoryIds": [
       "software",
       "civil-engineering",
-      "infrastructure"
+      "infrastructure",
+      "3d-cad"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -514,12 +534,14 @@
     "categories": [
       "Software",
       "Infrastructure Design",
-      "Civil Visualization"
+      "Civil Visualization",
+      "3D / CAD"
     ],
     "categoryIds": [
       "software",
       "infrastructure-design",
-      "civil-visualization"
+      "civil-visualization",
+      "3d-cad"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -572,12 +594,14 @@
     "categories": [
       "Software",
       "Motion Capture",
-      "Character Animation"
+      "Character Animation",
+      "Animation"
     ],
     "categoryIds": [
       "software",
       "motion-capture",
-      "character-animation"
+      "character-animation",
+      "animation"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -633,12 +657,14 @@
     "categories": [
       "Software",
       "Digital Sculpting",
-      "3D Painting"
+      "3D Painting",
+      "3D / CAD"
     ],
     "categoryIds": [
       "software",
       "digital-sculpting",
-      "3d-painting"
+      "3d-painting",
+      "3d-cad"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -696,13 +722,15 @@
       "Software",
       "Compositing",
       "Finishing",
-      "VFX"
+      "VFX",
+      "Video"
     ],
     "categoryIds": [
       "software",
       "compositing",
       "finishing",
-      "vfx"
+      "vfx",
+      "video"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -758,12 +786,14 @@
     "categories": [
       "Software",
       "Production Tracking",
-      "Studio Management"
+      "Studio Management",
+      "Video"
     ],
     "categoryIds": [
       "software",
       "production-tracking",
-      "studio-management"
+      "studio-management",
+      "video"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -817,12 +847,14 @@
     "categories": [
       "Software",
       "Rendering",
-      "Path Tracing"
+      "Path Tracing",
+      "3D / CAD"
     ],
     "categoryIds": [
       "software",
       "rendering",
-      "path-tracing"
+      "path-tracing",
+      "3d-cad"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -880,12 +912,14 @@
     "categories": [
       "Software",
       "Industrial Design",
-      "Surface Modeling"
+      "Surface Modeling",
+      "3D / CAD"
     ],
     "categoryIds": [
       "software",
       "industrial-design",
-      "surface-modeling"
+      "surface-modeling",
+      "3d-cad"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -939,12 +973,14 @@
     "categories": [
       "Software",
       "Conceptual Design",
-      "Architecture"
+      "Architecture",
+      "3D / CAD"
     ],
     "categoryIds": [
       "software",
       "conceptual-design",
-      "architecture"
+      "architecture",
+      "3d-cad"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -999,12 +1035,14 @@
     "categories": [
       "Software",
       "BIM Coordination",
-      "Construction"
+      "Construction",
+      "3D / CAD"
     ],
     "categoryIds": [
       "software",
       "bim-coordination",
-      "construction"
+      "construction",
+      "3d-cad"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -1058,13 +1096,17 @@
       "Software",
       "Reality Capture",
       "Photogrammetry",
-      "LiDAR"
+      "LiDAR",
+      "3D / CAD",
+      "Photography"
     ],
     "categoryIds": [
       "software",
       "reality-capture",
       "photogrammetry",
-      "lidar"
+      "lidar",
+      "3d-cad",
+      "photography"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -1120,12 +1162,14 @@
     "categories": [
       "Software",
       "Data Management",
-      "CAD Management"
+      "CAD Management",
+      "3D / CAD"
     ],
     "categoryIds": [
       "software",
       "data-management",
-      "cad-management"
+      "cad-management",
+      "3d-cad"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -1178,12 +1222,14 @@
     "categories": [
       "Software",
       "Simulation",
-      "Computational Fluid Dynamics"
+      "Computational Fluid Dynamics",
+      "3D / CAD"
     ],
     "categoryIds": [
       "software",
       "simulation",
-      "computational-fluid-dynamics"
+      "computational-fluid-dynamics",
+      "3d-cad"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -1235,12 +1281,14 @@
     "categories": [
       "Software",
       "Structural Steel",
-      "Detailing"
+      "Detailing",
+      "3D / CAD"
     ],
     "categoryIds": [
       "software",
       "structural-steel",
-      "detailing"
+      "detailing",
+      "3d-cad"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -1293,12 +1341,14 @@
     "categories": [
       "Software",
       "Transportation Design",
-      "Civil Engineering"
+      "Civil Engineering",
+      "3D / CAD"
     ],
     "categoryIds": [
       "software",
       "transportation-design",
-      "civil-engineering"
+      "civil-engineering",
+      "3d-cad"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -1351,12 +1401,14 @@
     "categories": [
       "Software",
       "Visual Scripting",
-      "BIM Automation"
+      "BIM Automation",
+      "3D / CAD"
     ],
     "categoryIds": [
       "software",
       "visual-scripting",
-      "bim-automation"
+      "bim-automation",
+      "3d-cad"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -1407,11 +1459,13 @@
     "categoryId": "software",
     "categories": [
       "Software",
-      "Digital Twins"
+      "Digital Twins",
+      "3D / CAD"
     ],
     "categoryIds": [
       "software",
-      "digital-twins"
+      "digital-twins",
+      "3d-cad"
     ],
     "primaryCategory": "Software",
     "subcategories": [

@@ -45,6 +45,69 @@ const generatedResources = [
     "primaryCategory": "Game Dev"
   },
   {
+    "id": "1001-fonts",
+    "title": "1001 Fonts",
+    "website": "https://www.1001fonts.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Large free font library with category browsing.",
+    "longDescription": "1001 Fonts is a fonts resource in The Creative Vault. Large free font library with category browsing. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Fonts"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan or free assets available with paid upgrades or premium options.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Fonts",
+      "Typography",
+      "Type",
+      "Design Resources"
+    ],
+    "bestFor": [
+      "Fonts",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-illustrator",
+      "affinity-designer",
+      "canva",
+      "adobe-photoshop"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for fonts.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "marketplace-123rf",
     "title": "123RF",
     "shortName": "123RF",
@@ -289,7 +352,7 @@ const generatedResources = [
     "verified": true,
     "featured": false,
     "editorPick": false,
-    "lastReviewed": "2026-07-09"
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "photography-3d-lut-creator",
@@ -419,6 +482,69 @@ const generatedResources = [
       "marketplaces"
     ],
     "primaryCategory": "Marketplaces"
+  },
+  {
+    "id": "3dtextures-me",
+    "title": "3DTextures.me",
+    "website": "https://3dtextures.me/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Free seamless PBR textures for 3D artists.",
+    "longDescription": "3DTextures.me is a brushes & textures resource in The Creative Vault. Free seamless PBR textures for 3D artists. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Brushes & Textures"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan or free assets available with paid upgrades or premium options.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Brushes",
+      "Textures",
+      "Assets",
+      "Design Resources"
+    ],
+    "bestFor": [
+      "Brushes & Textures",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "clip-studio-paint",
+      "krita",
+      "procreate"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for brushes & textures.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "learning-3dtotal",
@@ -916,6 +1042,104 @@ const generatedResources = [
     "primaryCategory": "Game Dev"
   },
   {
+    "id": "ableton-live",
+    "title": "Ableton Live",
+    "shortName": "Ableton Live",
+    "company": "Ableton",
+    "companyWebsite": "",
+    "website": "https://www.ableton.com/en/live/",
+    "logo": "",
+    "favicon": "",
+    "heroImage": "",
+    "screenshots": [],
+    "category": "Music",
+    "categoryId": "music",
+    "subcategories": [
+      "DAW",
+      "Music Production"
+    ],
+    "type": "Software",
+    "industries": [],
+    "useCases": [],
+    "tags": [
+      "DAW",
+      "Music Production"
+    ],
+    "collections": [],
+    "shortDescription": "Music production software known for electronic music, live performance, and loop-based workflows.",
+    "longDescription": "Ableton Live is part of the Ableton ecosystem in The Creative Vault. Music production software known for electronic music, live performance, and loop-based workflows.",
+    "whyUseIt": "",
+    "bestFor": [
+      "DAW",
+      "Music Production",
+      "Creative workflows"
+    ],
+    "pros": [],
+    "cons": [],
+    "notes": "Added as part of the V7 ecosystem architecture.",
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "operatingSystems": [
+      "Windows",
+      "Mac"
+    ],
+    "mobileSupport": false,
+    "browserSupport": false,
+    "offline": true,
+    "cloudSync": false,
+    "fileFormats": [],
+    "integrations": [],
+    "api": false,
+    "plugins": false,
+    "extensions": false,
+    "ai": false,
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "pricingDetails": "Check official website for current pricing and licensing.",
+    "freeTrial": true,
+    "studentDiscount": false,
+    "commercialUse": null,
+    "license": "Licensing varies. Check the official website before commercial use.",
+    "licenseType": "",
+    "rating": 4.5,
+    "popularity": 75,
+    "beginnerFriendly": false,
+    "professional": true,
+    "learningCurve": "Medium",
+    "industryStandard": true,
+    "openSource": false,
+    "verified": true,
+    "lastReviewed": "2026-07-07",
+    "alternatives": [],
+    "competitors": [],
+    "related": [
+      "fl-studio",
+      "logic-pro"
+    ],
+    "tutorials": [],
+    "youtubeChannels": [],
+    "documentation": "",
+    "community": "",
+    "discord": "",
+    "reddit": "",
+    "github": "",
+    "twitter": "",
+    "instagram": "",
+    "featured": true,
+    "editorPick": true,
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "Music"
+    ],
+    "categoryIds": [
+      "music"
+    ],
+    "primaryCategory": "Music"
+  },
+  {
     "id": "grant-academy-of-american-poets-prizes",
     "title": "Academy of American Poets Prizes",
     "shortName": "Academy of American Poets Prizes",
@@ -1365,7 +1589,7 @@ const generatedResources = [
     "verified": true,
     "featured": false,
     "editorPick": false,
-    "lastReviewed": "2026-07-09"
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "software-adobe-acrobat-pro",
@@ -1378,12 +1602,14 @@ const generatedResources = [
     "categories": [
       "Software",
       "PDF Tools",
-      "Document Editing"
+      "Document Editing",
+      "Business"
     ],
     "categoryIds": [
       "software",
       "pdf-tools",
-      "document-editing"
+      "document-editing",
+      "business"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -1443,12 +1669,14 @@ const generatedResources = [
     "categories": [
       "Software",
       "PDF Tools",
-      "Document Viewer"
+      "Document Viewer",
+      "Business"
     ],
     "categoryIds": [
       "software",
       "pdf-tools",
-      "document-viewer"
+      "document-viewer",
+      "business"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -1507,12 +1735,14 @@ const generatedResources = [
     "categories": [
       "Software",
       "AR Design",
-      "Immersive Media"
+      "Immersive Media",
+      "Video"
     ],
     "categoryIds": [
       "software",
       "ar-design",
-      "immersive-media"
+      "immersive-media",
+      "video"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -1561,6 +1791,105 @@ const generatedResources = [
     "lastReviewed": "2026-07-08"
   },
   {
+    "id": "adobe-after-effects",
+    "title": "Adobe After Effects",
+    "shortName": "Adobe After Effects",
+    "company": "Adobe",
+    "companyWebsite": "",
+    "website": "https://www.adobe.com/products/aftereffects.html",
+    "logo": "",
+    "favicon": "",
+    "heroImage": "",
+    "screenshots": [],
+    "category": "Video",
+    "categoryId": "video",
+    "subcategories": [
+      "Motion Graphics",
+      "VFX"
+    ],
+    "type": "Software",
+    "industries": [],
+    "useCases": [],
+    "tags": [
+      "Adobe",
+      "Motion Graphics",
+      "VFX"
+    ],
+    "collections": [],
+    "shortDescription": "Industry-standard motion graphics and visual effects software.",
+    "longDescription": "Adobe After Effects is part of the Adobe ecosystem in The Creative Vault. Industry-standard motion graphics and visual effects software.",
+    "whyUseIt": "",
+    "bestFor": [
+      "Motion Graphics",
+      "VFX",
+      "Creative workflows"
+    ],
+    "pros": [],
+    "cons": [],
+    "notes": "Added as part of the V7 ecosystem architecture.",
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "operatingSystems": [
+      "Windows",
+      "Mac"
+    ],
+    "mobileSupport": false,
+    "browserSupport": false,
+    "offline": true,
+    "cloudSync": false,
+    "fileFormats": [],
+    "integrations": [],
+    "api": false,
+    "plugins": false,
+    "extensions": false,
+    "ai": true,
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "pricingDetails": "Check official website for current pricing and licensing.",
+    "freeTrial": true,
+    "studentDiscount": false,
+    "commercialUse": null,
+    "license": "Licensing varies. Check the official website before commercial use.",
+    "licenseType": "",
+    "rating": 4.5,
+    "popularity": 75,
+    "beginnerFriendly": false,
+    "professional": true,
+    "learningCurve": "Medium",
+    "industryStandard": true,
+    "openSource": false,
+    "verified": true,
+    "lastReviewed": "2026-07-07",
+    "alternatives": [],
+    "competitors": [],
+    "related": [
+      "adobe-premiere-pro",
+      "adobe-media-encoder"
+    ],
+    "tutorials": [],
+    "youtubeChannels": [],
+    "documentation": "",
+    "community": "",
+    "discord": "",
+    "reddit": "",
+    "github": "",
+    "twitter": "",
+    "instagram": "",
+    "featured": true,
+    "editorPick": true,
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "Video"
+    ],
+    "categoryIds": [
+      "video"
+    ],
+    "primaryCategory": "Video"
+  },
+  {
     "id": "software-adobe-after-effects",
     "title": "Adobe After Effects",
     "shortName": "After Effects",
@@ -1572,13 +1901,15 @@ const generatedResources = [
       "Software",
       "Motion Graphics",
       "VFX",
-      "Compositing"
+      "Compositing",
+      "Video"
     ],
     "categoryIds": [
       "software",
       "motion-graphics",
       "vfx",
-      "compositing"
+      "compositing",
+      "video"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -1630,6 +1961,102 @@ const generatedResources = [
     "lastReviewed": "2026-07-08"
   },
   {
+    "id": "adobe-animate",
+    "title": "Adobe Animate",
+    "shortName": "Adobe Animate",
+    "company": "Adobe",
+    "companyWebsite": "",
+    "website": "https://www.adobe.com/products/animate.html",
+    "logo": "",
+    "favicon": "",
+    "heroImage": "",
+    "screenshots": [],
+    "category": "Animation",
+    "categoryId": "animation",
+    "subcategories": [
+      "2D Animation"
+    ],
+    "type": "Software",
+    "industries": [],
+    "useCases": [],
+    "tags": [
+      "Adobe",
+      "Animation",
+      "2D"
+    ],
+    "collections": [],
+    "shortDescription": "2D animation software for cartoons, web animation, and interactive content.",
+    "longDescription": "Adobe Animate is part of the Adobe ecosystem in The Creative Vault. 2D animation software for cartoons, web animation, and interactive content.",
+    "whyUseIt": "",
+    "bestFor": [
+      "2D Animation",
+      "Creative workflows"
+    ],
+    "pros": [],
+    "cons": [],
+    "notes": "Added as part of the V7 ecosystem architecture.",
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "operatingSystems": [
+      "Windows",
+      "Mac"
+    ],
+    "mobileSupport": false,
+    "browserSupport": false,
+    "offline": true,
+    "cloudSync": false,
+    "fileFormats": [],
+    "integrations": [],
+    "api": false,
+    "plugins": false,
+    "extensions": false,
+    "ai": false,
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "pricingDetails": "Check official website for current pricing and licensing.",
+    "freeTrial": true,
+    "studentDiscount": false,
+    "commercialUse": null,
+    "license": "Licensing varies. Check the official website before commercial use.",
+    "licenseType": "",
+    "rating": 4.5,
+    "popularity": 75,
+    "beginnerFriendly": false,
+    "professional": true,
+    "learningCurve": "Medium",
+    "industryStandard": false,
+    "openSource": false,
+    "verified": true,
+    "lastReviewed": "2026-07-07",
+    "alternatives": [],
+    "competitors": [],
+    "related": [
+      "adobe-after-effects"
+    ],
+    "tutorials": [],
+    "youtubeChannels": [],
+    "documentation": "",
+    "community": "",
+    "discord": "",
+    "reddit": "",
+    "github": "",
+    "twitter": "",
+    "instagram": "",
+    "featured": false,
+    "editorPick": false,
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "Animation"
+    ],
+    "categoryIds": [
+      "animation"
+    ],
+    "primaryCategory": "Animation"
+  },
+  {
     "id": "software-adobe-animate",
     "title": "Adobe Animate",
     "shortName": "Animate",
@@ -1640,12 +2067,14 @@ const generatedResources = [
     "categories": [
       "Software",
       "2D Animation",
-      "Interactive Animation"
+      "Interactive Animation",
+      "Animation"
     ],
     "categoryIds": [
       "software",
       "2d-animation",
-      "interactive-animation"
+      "interactive-animation",
+      "animation"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -1694,6 +2123,104 @@ const generatedResources = [
     "lastReviewed": "2026-07-08"
   },
   {
+    "id": "adobe-audition",
+    "title": "Adobe Audition",
+    "shortName": "Adobe Audition",
+    "company": "Adobe",
+    "companyWebsite": "",
+    "website": "https://www.adobe.com/products/audition.html",
+    "logo": "",
+    "favicon": "",
+    "heroImage": "",
+    "screenshots": [],
+    "category": "Audio",
+    "categoryId": "audio",
+    "subcategories": [
+      "Audio Editing",
+      "Podcasting"
+    ],
+    "type": "Software",
+    "industries": [],
+    "useCases": [],
+    "tags": [
+      "Adobe",
+      "Audio",
+      "Podcasting"
+    ],
+    "collections": [],
+    "shortDescription": "Professional audio editing, cleanup, and post-production software.",
+    "longDescription": "Adobe Audition is part of the Adobe ecosystem in The Creative Vault. Professional audio editing, cleanup, and post-production software.",
+    "whyUseIt": "",
+    "bestFor": [
+      "Audio Editing",
+      "Podcasting",
+      "Creative workflows"
+    ],
+    "pros": [],
+    "cons": [],
+    "notes": "Added as part of the V7 ecosystem architecture.",
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "operatingSystems": [
+      "Windows",
+      "Mac"
+    ],
+    "mobileSupport": false,
+    "browserSupport": false,
+    "offline": true,
+    "cloudSync": false,
+    "fileFormats": [],
+    "integrations": [],
+    "api": false,
+    "plugins": false,
+    "extensions": false,
+    "ai": false,
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "pricingDetails": "Check official website for current pricing and licensing.",
+    "freeTrial": true,
+    "studentDiscount": false,
+    "commercialUse": null,
+    "license": "Licensing varies. Check the official website before commercial use.",
+    "licenseType": "",
+    "rating": 4.5,
+    "popularity": 75,
+    "beginnerFriendly": false,
+    "professional": true,
+    "learningCurve": "Medium",
+    "industryStandard": false,
+    "openSource": false,
+    "verified": true,
+    "lastReviewed": "2026-07-07",
+    "alternatives": [],
+    "competitors": [],
+    "related": [
+      "adobe-premiere-pro"
+    ],
+    "tutorials": [],
+    "youtubeChannels": [],
+    "documentation": "",
+    "community": "",
+    "discord": "",
+    "reddit": "",
+    "github": "",
+    "twitter": "",
+    "instagram": "",
+    "featured": false,
+    "editorPick": true,
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "Audio"
+    ],
+    "categoryIds": [
+      "audio"
+    ],
+    "primaryCategory": "Audio"
+  },
+  {
     "id": "software-adobe-audition",
     "title": "Adobe Audition",
     "shortName": "Audition",
@@ -1705,13 +2232,15 @@ const generatedResources = [
       "Software",
       "Audio Editing",
       "Podcasting",
-      "Post Audio"
+      "Post Audio",
+      "Audio"
     ],
     "categoryIds": [
       "software",
       "audio-editing",
       "podcasting",
-      "post-audio"
+      "post-audio",
+      "audio"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -1773,12 +2302,14 @@ const generatedResources = [
     "categories": [
       "Software",
       "Digital Asset Management",
-      "Photo Management"
+      "Photo Management",
+      "Photography"
     ],
     "categoryIds": [
       "software",
       "digital-asset-management",
-      "photo-management"
+      "photo-management",
+      "photography"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -1837,12 +2368,14 @@ const generatedResources = [
     "categories": [
       "Software",
       "RAW Processing",
-      "Photo Editing"
+      "Photo Editing",
+      "Photography"
     ],
     "categoryIds": [
       "software",
       "raw-processing",
-      "photo-editing"
+      "photo-editing",
+      "photography"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -1901,12 +2434,14 @@ const generatedResources = [
     "categories": [
       "Software",
       "Character Animation",
-      "Motion Capture"
+      "Motion Capture",
+      "Animation"
     ],
     "categoryIds": [
       "software",
       "character-animation",
-      "motion-capture"
+      "motion-capture",
+      "animation"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -1953,6 +2488,69 @@ const generatedResources = [
     "editorPick": true,
     "verified": true,
     "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "adobe-color",
+    "title": "Adobe Color",
+    "website": "https://color.adobe.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Create color palettes, explore harmonies, and extract palettes from images.",
+    "longDescription": "Adobe Color is a color resource in The Creative Vault. Create color palettes, explore harmonies, and extract palettes from images. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Color"
+    ],
+    "price": "Free",
+    "pricingDetails": "Free to use. Check individual licensing terms before commercial work.",
+    "rating": 4.5,
+    "popularity": 84,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": true,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Color",
+      "Palette",
+      "Branding",
+      "Design"
+    ],
+    "bestFor": [
+      "Color",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "best-free-creative-tools"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "adobe-illustrator",
+      "affinity-designer",
+      "canva"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for color.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Free",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "essential-adobe-color-wheel",
@@ -2119,12 +2717,14 @@ const generatedResources = [
     "categories": [
       "Software",
       "Web Design",
-      "Code Editor"
+      "Code Editor",
+      "Web & Dev"
     ],
     "categoryIds": [
       "software",
       "web-design",
-      "code-editor"
+      "code-editor",
+      "web-and-dev"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -2174,6 +2774,69 @@ const generatedResources = [
     "lastReviewed": "2026-07-08"
   },
   {
+    "id": "adobe-exchange",
+    "title": "Adobe Exchange",
+    "website": "https://exchange.adobe.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Marketplace for Adobe plugins, extensions, brushes, and creative add-ons.",
+    "longDescription": "Adobe Exchange is a brushes & textures resource in The Creative Vault. Marketplace for Adobe plugins, extensions, brushes, and creative add-ons. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Brushes & Textures"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan or free assets available with paid upgrades or premium options.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Brushes",
+      "Textures",
+      "Assets",
+      "Design Resources"
+    ],
+    "bestFor": [
+      "Brushes & Textures",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "clip-studio-paint",
+      "krita",
+      "procreate"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for brushes & textures.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "marketplace-adobe-exchange",
     "title": "Adobe Exchange",
     "shortName": "Adobe Exchange",
@@ -2215,6 +2878,106 @@ const generatedResources = [
       "marketplaces"
     ],
     "primaryCategory": "Marketplaces"
+  },
+  {
+    "id": "adobe-express",
+    "title": "Adobe Express",
+    "shortName": "Adobe Express",
+    "company": "Adobe",
+    "companyWebsite": "",
+    "website": "https://www.adobe.com/express/",
+    "logo": "",
+    "favicon": "",
+    "heroImage": "",
+    "screenshots": [],
+    "category": "Content Creation",
+    "categoryId": "content-creation",
+    "subcategories": [
+      "Design",
+      "Social Media"
+    ],
+    "type": "Software",
+    "industries": [],
+    "useCases": [],
+    "tags": [
+      "Adobe",
+      "Social",
+      "Templates"
+    ],
+    "collections": [],
+    "shortDescription": "Fast browser-based design tool for posts, videos, flyers, and marketing content.",
+    "longDescription": "Adobe Express is part of the Adobe ecosystem in The Creative Vault. Fast browser-based design tool for posts, videos, flyers, and marketing content.",
+    "whyUseIt": "",
+    "bestFor": [
+      "Design",
+      "Social Media",
+      "Creative workflows"
+    ],
+    "pros": [],
+    "cons": [],
+    "notes": "Added as part of the V7 ecosystem architecture.",
+    "platforms": [
+      "Browser",
+      "iPhone",
+      "Android"
+    ],
+    "operatingSystems": [
+      "Browser",
+      "iPhone",
+      "Android"
+    ],
+    "mobileSupport": true,
+    "browserSupport": true,
+    "offline": false,
+    "cloudSync": false,
+    "fileFormats": [],
+    "integrations": [],
+    "api": false,
+    "plugins": false,
+    "extensions": false,
+    "ai": true,
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "pricingDetails": "Check official website for current pricing and licensing.",
+    "freeTrial": true,
+    "studentDiscount": false,
+    "commercialUse": null,
+    "license": "Licensing varies. Check the official website before commercial use.",
+    "licenseType": "",
+    "rating": 4.5,
+    "popularity": 75,
+    "beginnerFriendly": false,
+    "professional": true,
+    "learningCurve": "Medium",
+    "industryStandard": false,
+    "openSource": false,
+    "verified": true,
+    "lastReviewed": "2026-07-07",
+    "alternatives": [],
+    "competitors": [],
+    "related": [
+      "canva"
+    ],
+    "tutorials": [],
+    "youtubeChannels": [],
+    "documentation": "",
+    "community": "",
+    "discord": "",
+    "reddit": "",
+    "github": "",
+    "twitter": "",
+    "instagram": "",
+    "featured": false,
+    "editorPick": false,
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "Content Creation"
+    ],
+    "categoryIds": [
+      "content-creation"
+    ],
+    "primaryCategory": "Content Creation"
   },
   {
     "id": "software-adobe-express",
@@ -2335,6 +3098,68 @@ const generatedResources = [
     "lastReviewed": "2026-07-08"
   },
   {
+    "id": "adobe-firefly",
+    "title": "Adobe Firefly",
+    "company": "Adobe",
+    "website": "https://www.adobe.com/products/firefly.html",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Adobe generative AI for images, text effects, generative fill, and creative workflows.",
+    "longDescription": "Adobe Firefly is a ai image resource in The Creative Vault. Adobe generative AI for images, text effects, generative fill, and creative workflows. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Image"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": true,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI",
+      "Image Generation",
+      "Concept Art",
+      "Visuals"
+    ],
+    "bestFor": [
+      "AI Image",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit",
+      "ai-image-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "midjourney",
+      "leonardo-ai",
+      "ideogram"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai image.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "software-adobe-firefly",
     "title": "Adobe Firefly",
     "shortName": "Firefly",
@@ -2345,12 +3170,14 @@ const generatedResources = [
     "categories": [
       "Software",
       "AI Image Generation",
-      "Generative AI"
+      "Generative AI",
+      "AI Tools"
     ],
     "categoryIds": [
       "software",
       "ai-image-generation",
-      "generative-ai"
+      "generative-ai",
+      "ai-tools"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -2400,6 +3227,69 @@ const generatedResources = [
     "lastReviewed": "2026-07-08"
   },
   {
+    "id": "adobe-fonts",
+    "title": "Adobe Fonts",
+    "website": "https://fonts.adobe.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Font library included with Adobe Creative Cloud subscriptions.",
+    "longDescription": "Adobe Fonts is a fonts resource in The Creative Vault. Font library included with Adobe Creative Cloud subscriptions. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Fonts"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.6,
+    "popularity": 86,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Fonts",
+      "Typography",
+      "Type",
+      "Design Resources"
+    ],
+    "bestFor": [
+      "Fonts",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-illustrator",
+      "affinity-designer",
+      "canva",
+      "adobe-photoshop"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for fonts.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "software-adobe-fonts",
     "title": "Adobe Fonts",
     "shortName": "Fonts",
@@ -2410,12 +3300,14 @@ const generatedResources = [
     "categories": [
       "Software",
       "Typography",
-      "Font Library"
+      "Font Library",
+      "Assets"
     ],
     "categoryIds": [
       "software",
       "typography",
-      "font-library"
+      "font-library",
+      "assets"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -2463,6 +3355,70 @@ const generatedResources = [
     "lastReviewed": "2026-07-08"
   },
   {
+    "id": "adobe-fresco",
+    "title": "Adobe Fresco",
+    "website": "https://www.adobe.com/products/fresco.html",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Drawing and painting app with live brushes, vector brushes, and Adobe integration.",
+    "longDescription": "Adobe Fresco is a drawing & painting resource in The Creative Vault. Drawing and painting app with live brushes, vector brushes, and Adobe integration. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Drawing & Painting"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "iPad",
+      "iPhone",
+      "Android"
+    ],
+    "tags": [
+      "Drawing",
+      "Painting",
+      "Illustration",
+      "Digital Art"
+    ],
+    "bestFor": [
+      "Drawing & Painting",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "clip-studio-paint",
+      "krita",
+      "procreate"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for drawing & painting.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "software-adobe-fresco",
     "title": "Adobe Fresco",
     "shortName": "Fresco",
@@ -2474,13 +3430,15 @@ const generatedResources = [
       "Software",
       "Digital Painting",
       "Drawing",
-      "Illustration"
+      "Illustration",
+      "Digital Art"
     ],
     "categoryIds": [
       "software",
       "digital-painting",
       "drawing",
-      "illustration"
+      "illustration",
+      "digital-art"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -2531,6 +3489,68 @@ const generatedResources = [
     "lastReviewed": "2026-07-08"
   },
   {
+    "id": "adobe-illustrator",
+    "title": "Adobe Illustrator",
+    "website": "https://www.adobe.com/products/illustrator.html",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Professional vector graphics software for logos, icons, typography, and illustration.",
+    "longDescription": "Adobe Illustrator is a vector design resource in The Creative Vault. Professional vector graphics software for logos, icons, typography, and illustration. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Vector Design"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.7,
+    "popularity": 94,
+    "skillLevel": "Beginner to Professional",
+    "featured": true,
+    "editorPick": true,
+    "openSource": false,
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "tags": [
+      "Vector",
+      "Logo",
+      "Design",
+      "SVG"
+    ],
+    "bestFor": [
+      "Vector Design",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "affinity-designer",
+      "inkscape",
+      "figma"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for vector design.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "software-adobe-illustrator",
     "title": "Adobe Illustrator",
     "shortName": "Illustrator",
@@ -2542,13 +3562,15 @@ const generatedResources = [
       "Software",
       "Vector Graphics",
       "Illustration",
-      "Logo Design"
+      "Logo Design",
+      "Digital Art"
     ],
     "categoryIds": [
       "software",
       "vector-graphics",
       "illustration",
-      "logo-design"
+      "logo-design",
+      "digital-art"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -2614,12 +3636,14 @@ const generatedResources = [
     "categories": [
       "Software",
       "Editorial Workflow",
-      "Copy Editing"
+      "Copy Editing",
+      "Business"
     ],
     "categoryIds": [
       "software",
       "editorial-workflow",
-      "copy-editing"
+      "copy-editing",
+      "business"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -2667,6 +3691,106 @@ const generatedResources = [
     "lastReviewed": "2026-07-08"
   },
   {
+    "id": "adobe-indesign",
+    "title": "Adobe InDesign",
+    "shortName": "Adobe InDesign",
+    "company": "Adobe",
+    "companyWebsite": "",
+    "website": "https://www.adobe.com/products/indesign.html",
+    "logo": "",
+    "favicon": "",
+    "heroImage": "",
+    "screenshots": [],
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Publishing",
+      "Layout"
+    ],
+    "type": "Software",
+    "industries": [],
+    "useCases": [],
+    "tags": [
+      "Adobe",
+      "Layout",
+      "Publishing",
+      "Print"
+    ],
+    "collections": [],
+    "shortDescription": "Professional page layout software for print, books, magazines, and editorial design.",
+    "longDescription": "Adobe InDesign is part of the Adobe ecosystem in The Creative Vault. Professional page layout software for print, books, magazines, and editorial design.",
+    "whyUseIt": "",
+    "bestFor": [
+      "Publishing",
+      "Layout",
+      "Creative workflows"
+    ],
+    "pros": [],
+    "cons": [],
+    "notes": "Added as part of the V7 ecosystem architecture.",
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "operatingSystems": [
+      "Windows",
+      "Mac"
+    ],
+    "mobileSupport": false,
+    "browserSupport": false,
+    "offline": true,
+    "cloudSync": false,
+    "fileFormats": [],
+    "integrations": [],
+    "api": false,
+    "plugins": false,
+    "extensions": false,
+    "ai": false,
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "pricingDetails": "Check official website for current pricing and licensing.",
+    "freeTrial": true,
+    "studentDiscount": false,
+    "commercialUse": null,
+    "license": "Licensing varies. Check the official website before commercial use.",
+    "licenseType": "",
+    "rating": 4.5,
+    "popularity": 75,
+    "beginnerFriendly": false,
+    "professional": true,
+    "learningCurve": "Medium",
+    "industryStandard": true,
+    "openSource": false,
+    "verified": true,
+    "lastReviewed": "2026-07-07",
+    "alternatives": [],
+    "competitors": [],
+    "related": [
+      "adobe-photoshop",
+      "adobe-illustrator"
+    ],
+    "tutorials": [],
+    "youtubeChannels": [],
+    "documentation": "",
+    "community": "",
+    "discord": "",
+    "reddit": "",
+    "github": "",
+    "twitter": "",
+    "instagram": "",
+    "featured": false,
+    "editorPick": true,
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art"
+  },
+  {
     "id": "software-adobe-indesign",
     "title": "Adobe InDesign",
     "shortName": "InDesign",
@@ -2678,13 +3802,15 @@ const generatedResources = [
       "Software",
       "Page Layout",
       "Publishing",
-      "Print Design"
+      "Print Design",
+      "Digital Art"
     ],
     "categoryIds": [
       "software",
       "page-layout",
       "publishing",
-      "print-design"
+      "print-design",
+      "digital-art"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -2735,6 +3861,110 @@ const generatedResources = [
     "editorPick": true,
     "verified": true,
     "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "adobe-lightroom",
+    "title": "Adobe Lightroom",
+    "shortName": "Adobe Lightroom",
+    "company": "Adobe",
+    "companyWebsite": "",
+    "website": "https://www.adobe.com/products/photoshop-lightroom.html",
+    "logo": "",
+    "favicon": "",
+    "heroImage": "",
+    "screenshots": [],
+    "category": "Photography",
+    "categoryId": "photo",
+    "subcategories": [
+      "Photo Editing",
+      "RAW"
+    ],
+    "type": "Software",
+    "industries": [],
+    "useCases": [],
+    "tags": [
+      "Adobe",
+      "Photo",
+      "RAW"
+    ],
+    "collections": [],
+    "shortDescription": "Photo editing and cloud-based photography workflow tool.",
+    "longDescription": "Adobe Lightroom is part of the Adobe ecosystem in The Creative Vault. Photo editing and cloud-based photography workflow tool.",
+    "whyUseIt": "",
+    "bestFor": [
+      "Photo Editing",
+      "RAW",
+      "Creative workflows"
+    ],
+    "pros": [],
+    "cons": [],
+    "notes": "Added as part of the V7 ecosystem architecture.",
+    "platforms": [
+      "Windows",
+      "Mac",
+      "iPad",
+      "iPhone",
+      "Android"
+    ],
+    "operatingSystems": [
+      "Windows",
+      "Mac",
+      "iPad",
+      "iPhone",
+      "Android"
+    ],
+    "mobileSupport": true,
+    "browserSupport": false,
+    "offline": true,
+    "cloudSync": false,
+    "fileFormats": [],
+    "integrations": [],
+    "api": false,
+    "plugins": false,
+    "extensions": false,
+    "ai": true,
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "pricingDetails": "Check official website for current pricing and licensing.",
+    "freeTrial": true,
+    "studentDiscount": false,
+    "commercialUse": null,
+    "license": "Licensing varies. Check the official website before commercial use.",
+    "licenseType": "",
+    "rating": 4.5,
+    "popularity": 75,
+    "beginnerFriendly": false,
+    "professional": true,
+    "learningCurve": "Medium",
+    "industryStandard": true,
+    "openSource": false,
+    "verified": true,
+    "lastReviewed": "2026-07-07",
+    "alternatives": [],
+    "competitors": [],
+    "related": [
+      "adobe-photoshop"
+    ],
+    "tutorials": [],
+    "youtubeChannels": [],
+    "documentation": "",
+    "community": "",
+    "discord": "",
+    "reddit": "",
+    "github": "",
+    "twitter": "",
+    "instagram": "",
+    "featured": false,
+    "editorPick": true,
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "Photography"
+    ],
+    "categoryIds": [
+      "photo"
+    ],
+    "primaryCategory": "Photography"
   },
   {
     "id": "software-adobe-lightroom",
@@ -2819,13 +4049,15 @@ const generatedResources = [
       "Software",
       "Photo Editing",
       "RAW Processing",
-      "Photo Management"
+      "Photo Management",
+      "Photography"
     ],
     "categoryIds": [
       "software",
       "photo-editing",
       "raw-processing",
-      "photo-management"
+      "photo-management",
+      "photography"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -2887,12 +4119,14 @@ const generatedResources = [
     "categories": [
       "Software",
       "Video Encoding",
-      "Media Conversion"
+      "Media Conversion",
+      "Video"
     ],
     "categoryIds": [
       "software",
       "video-encoding",
-      "media-conversion"
+      "media-conversion",
+      "video"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -2941,6 +4175,119 @@ const generatedResources = [
     "lastReviewed": "2026-07-08"
   },
   {
+    "id": "adobe-photoshop",
+    "title": "Adobe Photoshop",
+    "website": "https://www.adobe.com/products/photoshop.html",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Professional image editing, digital painting, compositing, and design software.",
+    "longDescription": "Adobe Photoshop is a drawing & painting resource in The Creative Vault. Professional image editing, digital painting, compositing, and design software. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Drawing & Painting"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.8,
+    "popularity": 98,
+    "skillLevel": "Beginner to Professional",
+    "featured": true,
+    "editorPick": true,
+    "openSource": false,
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "tags": [
+      "Drawing",
+      "Painting",
+      "Illustration",
+      "Digital Art"
+    ],
+    "bestFor": [
+      "Drawing & Painting",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "clip-studio-paint",
+      "krita",
+      "procreate"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for drawing & painting.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "shortName": "Photoshop",
+    "company": "Adobe",
+    "companyWebsite": "https://www.adobe.com/",
+    "type": "Software",
+    "industries": [
+      "Design",
+      "Photography",
+      "Film",
+      "Advertising",
+      "Apparel"
+    ],
+    "whyUseIt": "Use it when you need an industry-standard tool for professional image editing, compositing, digital painting, mockups, and production design.",
+    "pros": [
+      "Industry standard",
+      "Huge tutorial ecosystem",
+      "Strong plugin and brush support",
+      "Excellent for professional raster workflows"
+    ],
+    "cons": [
+      "Subscription required",
+      "Can feel heavy for simple edits"
+    ],
+    "fileFormats": [
+      "PSD",
+      "PSB",
+      "PNG",
+      "JPG",
+      "TIFF",
+      "PDF",
+      "RAW"
+    ],
+    "integrations": [
+      "Adobe Illustrator",
+      "Adobe Lightroom",
+      "Adobe Firefly",
+      "Adobe Fonts",
+      "Adobe Stock"
+    ],
+    "plugins": true,
+    "extensions": true,
+    "ai": true,
+    "offline": true,
+    "cloudSync": true,
+    "api": false,
+    "freeTrial": true,
+    "studentDiscount": true,
+    "commercialUse": true,
+    "industryStandard": true,
+    "beginnerFriendly": false,
+    "professional": true,
+    "learningCurve": "Medium",
+    "documentation": "https://helpx.adobe.com/photoshop/user-guide.html",
+    "reddit": "https://www.reddit.com/r/photoshop/",
+    "lastReviewed": "2026-07-07",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "verified": true
+  },
+  {
     "id": "software-adobe-photoshop",
     "title": "Adobe Photoshop",
     "shortName": "Photoshop",
@@ -2952,13 +4299,17 @@ const generatedResources = [
       "Software",
       "Raster Graphics",
       "Photo Editing",
-      "Digital Painting"
+      "Digital Painting",
+      "Photography",
+      "Digital Art"
     ],
     "categoryIds": [
       "software",
       "raster-graphics",
       "photo-editing",
-      "digital-painting"
+      "digital-painting",
+      "photography",
+      "digital-art"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -3014,6 +4365,67 @@ const generatedResources = [
     "lastReviewed": "2026-07-08"
   },
   {
+    "id": "adobe-podcast",
+    "title": "Adobe Podcast",
+    "company": "Adobe",
+    "website": "https://podcast.adobe.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI audio enhancement and podcast recording tools.",
+    "longDescription": "Adobe Podcast is a ai audio resource in The Creative Vault. AI audio enhancement and podcast recording tools. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Audio"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Audio",
+      "Cleanup",
+      "Podcasting",
+      "Sound"
+    ],
+    "bestFor": [
+      "AI Audio",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "elevenlabs",
+      "descript",
+      "krisp"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai audio.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "software-adobe-podcast",
     "title": "Adobe Podcast",
     "shortName": "Podcast",
@@ -3024,12 +4436,16 @@ const generatedResources = [
     "categories": [
       "Software",
       "AI Audio",
-      "Podcasting"
+      "Podcasting",
+      "Audio",
+      "AI Tools"
     ],
     "categoryIds": [
       "software",
       "ai-audio",
-      "podcasting"
+      "podcasting",
+      "audio",
+      "ai-tools"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -3128,11 +4544,15 @@ const generatedResources = [
     "categoryId": "software",
     "categories": [
       "Software",
-      "Portfolio Website"
+      "Portfolio Website",
+      "Web & Dev",
+      "Content Creation"
     ],
     "categoryIds": [
       "software",
-      "portfolio-website"
+      "portfolio-website",
+      "web-and-dev",
+      "content-creation"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -3177,6 +4597,105 @@ const generatedResources = [
     "lastReviewed": "2026-07-08"
   },
   {
+    "id": "adobe-premiere-pro",
+    "title": "Adobe Premiere Pro",
+    "shortName": "Adobe Premiere Pro",
+    "company": "Adobe",
+    "companyWebsite": "",
+    "website": "https://www.adobe.com/products/premiere.html",
+    "logo": "",
+    "favicon": "",
+    "heroImage": "",
+    "screenshots": [],
+    "category": "Video",
+    "categoryId": "video",
+    "subcategories": [
+      "Video Editing"
+    ],
+    "type": "Software",
+    "industries": [],
+    "useCases": [],
+    "tags": [
+      "Adobe",
+      "Video Editing",
+      "Film"
+    ],
+    "collections": [
+      "creator-video-kit"
+    ],
+    "shortDescription": "Professional video editing software for film, social, broadcast, and commercial work.",
+    "longDescription": "Adobe Premiere Pro is part of the Adobe ecosystem in The Creative Vault. Professional video editing software for film, social, broadcast, and commercial work.",
+    "whyUseIt": "",
+    "bestFor": [
+      "Video Editing",
+      "Creative workflows"
+    ],
+    "pros": [],
+    "cons": [],
+    "notes": "Added as part of the V7 ecosystem architecture.",
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "operatingSystems": [
+      "Windows",
+      "Mac"
+    ],
+    "mobileSupport": false,
+    "browserSupport": false,
+    "offline": true,
+    "cloudSync": false,
+    "fileFormats": [],
+    "integrations": [],
+    "api": false,
+    "plugins": false,
+    "extensions": false,
+    "ai": true,
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "pricingDetails": "Check official website for current pricing and licensing.",
+    "freeTrial": true,
+    "studentDiscount": false,
+    "commercialUse": null,
+    "license": "Licensing varies. Check the official website before commercial use.",
+    "licenseType": "",
+    "rating": 4.5,
+    "popularity": 75,
+    "beginnerFriendly": false,
+    "professional": true,
+    "learningCurve": "Medium",
+    "industryStandard": true,
+    "openSource": false,
+    "verified": true,
+    "lastReviewed": "2026-07-07",
+    "alternatives": [],
+    "competitors": [],
+    "related": [
+      "adobe-after-effects",
+      "adobe-media-encoder"
+    ],
+    "tutorials": [],
+    "youtubeChannels": [],
+    "documentation": "",
+    "community": "",
+    "discord": "",
+    "reddit": "",
+    "github": "",
+    "twitter": "",
+    "instagram": "",
+    "featured": true,
+    "editorPick": true,
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "Video"
+    ],
+    "categoryIds": [
+      "video"
+    ],
+    "primaryCategory": "Video"
+  },
+  {
     "id": "software-adobe-premiere-pro",
     "title": "Adobe Premiere Pro",
     "shortName": "Premiere Pro",
@@ -3187,12 +4706,14 @@ const generatedResources = [
     "categories": [
       "Software",
       "Video Editing",
-      "Post Production"
+      "Post Production",
+      "Video"
     ],
     "categoryIds": [
       "software",
       "video-editing",
-      "post-production"
+      "post-production",
+      "video"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -3241,6 +4762,69 @@ const generatedResources = [
     "editorPick": true,
     "verified": true,
     "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "adobe-stock",
+    "title": "Adobe Stock",
+    "website": "https://stock.adobe.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Premium stock photos, vectors, videos, templates, and 3D assets.",
+    "longDescription": "Adobe Stock is a stock images resource in The Creative Vault. Premium stock photos, vectors, videos, templates, and 3D assets. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Stock Images"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Stock",
+      "Photography",
+      "Images",
+      "Creative Assets"
+    ],
+    "bestFor": [
+      "Stock Images",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "canva",
+      "freepik",
+      "unsplash"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for stock images.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "marketplace-adobe-stock",
@@ -3296,12 +4880,16 @@ const generatedResources = [
     "categories": [
       "Software",
       "Stock Assets",
-      "Marketplace"
+      "Marketplace",
+      "Assets",
+      "Marketplaces"
     ],
     "categoryIds": [
       "software",
       "stock-assets",
-      "marketplace"
+      "marketplace",
+      "assets",
+      "marketplaces"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -3400,12 +4988,14 @@ const generatedResources = [
     "categories": [
       "Software",
       "Procedural Materials",
-      "3D Texturing"
+      "3D Texturing",
+      "3D / CAD"
     ],
     "categoryIds": [
       "software",
       "procedural-materials",
-      "3d-texturing"
+      "3d-texturing",
+      "3d-cad"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -3465,12 +5055,14 @@ const generatedResources = [
     "categories": [
       "Software",
       "3D Texturing",
-      "Game Art"
+      "Game Art",
+      "3D / CAD"
     ],
     "categoryIds": [
       "software",
       "3d-texturing",
-      "game-art"
+      "game-art",
+      "3d-cad"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -3531,12 +5123,14 @@ const generatedResources = [
     "categories": [
       "Software",
       "Material Capture",
-      "3D Texturing"
+      "3D Texturing",
+      "3D / CAD"
     ],
     "categoryIds": [
       "software",
       "material-capture",
-      "3d-texturing"
+      "3d-texturing",
+      "3d-cad"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -3593,12 +5187,14 @@ const generatedResources = [
     "categories": [
       "Software",
       "3D Staging",
-      "Product Visualization"
+      "Product Visualization",
+      "3D / CAD"
     ],
     "categoryIds": [
       "software",
       "3d-staging",
-      "product-visualization"
+      "product-visualization",
+      "3d-cad"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -3656,12 +5252,14 @@ const generatedResources = [
     "categories": [
       "Software",
       "Project Management",
-      "Enterprise Workflow"
+      "Enterprise Workflow",
+      "Business"
     ],
     "categoryIds": [
       "software",
       "project-management",
-      "enterprise-workflow"
+      "enterprise-workflow",
+      "business"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -3715,12 +5313,14 @@ const generatedResources = [
     "categories": [
       "Software",
       "UI Design",
-      "Prototyping"
+      "Prototyping",
+      "Digital Art"
     ],
     "categoryIds": [
       "software",
       "ui-design",
-      "prototyping"
+      "prototyping",
+      "digital-art"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -3906,6 +5506,68 @@ const generatedResources = [
     "lastReviewed": "2026-07-08"
   },
   {
+    "id": "adorkastock",
+    "title": "AdorkaStock",
+    "website": "https://www.adorkastock.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Pose reference photo library for artists.",
+    "longDescription": "AdorkaStock is a reference resource in The Creative Vault. Pose reference photo library for artists. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Reference"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Reference",
+      "Pose",
+      "Anatomy",
+      "Drawing Practice"
+    ],
+    "bestFor": [
+      "Reference",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "line-of-action",
+      "quickposes",
+      "posemy-art",
+      "proko"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for reference.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "game-dev-extra-adventure-creator",
     "title": "Adventure Creator",
     "shortName": "Adventure Creator",
@@ -3998,6 +5660,68 @@ const generatedResources = [
     "primaryCategory": "Game Dev"
   },
   {
+    "id": "affinity-designer",
+    "title": "Affinity Designer",
+    "website": "https://affinity.serif.com/designer/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Vector and raster design software for illustration, branding, UI, and print design.",
+    "longDescription": "Affinity Designer is a vector design resource in The Creative Vault. Vector and raster design software for illustration, branding, UI, and print design. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Vector Design"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.6,
+    "popularity": 82,
+    "skillLevel": "Beginner to Professional",
+    "featured": true,
+    "editorPick": true,
+    "openSource": false,
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "tags": [
+      "Vector",
+      "Logo",
+      "Design",
+      "SVG"
+    ],
+    "bestFor": [
+      "Vector Design",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-illustrator",
+      "inkscape",
+      "figma"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for vector design.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "software-affinity-designer",
     "title": "Affinity Designer",
     "shortName": "Affinity Designer",
@@ -4008,12 +5732,14 @@ const generatedResources = [
     "categories": [
       "Software",
       "Vector Graphics",
-      "Graphic Design"
+      "Graphic Design",
+      "Digital Art"
     ],
     "categoryIds": [
       "software",
       "vector-graphics",
-      "graphic-design"
+      "graphic-design",
+      "digital-art"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -4060,6 +5786,68 @@ const generatedResources = [
     "lastReviewed": "2026-07-08"
   },
   {
+    "id": "affinity-photo",
+    "title": "Affinity Photo",
+    "website": "https://affinity.serif.com/photo/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Professional photo editing and raster design software without Adobe subscription.",
+    "longDescription": "Affinity Photo is a photo editing resource in The Creative Vault. Professional photo editing and raster design software without Adobe subscription. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Photo Editing"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "tags": [
+      "Photo",
+      "Editing",
+      "Raster",
+      "Retouching"
+    ],
+    "bestFor": [
+      "Photo Editing",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "photopea",
+      "gimp"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for photo editing.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "software-affinity-photo",
     "title": "Affinity Photo",
     "shortName": "Affinity Photo",
@@ -4070,12 +5858,16 @@ const generatedResources = [
     "categories": [
       "Software",
       "Photo Editing",
-      "Raster Graphics"
+      "Raster Graphics",
+      "Photography",
+      "Digital Art"
     ],
     "categoryIds": [
       "software",
       "photo-editing",
-      "raster-graphics"
+      "raster-graphics",
+      "photography",
+      "digital-art"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -4132,12 +5924,14 @@ const generatedResources = [
     "categories": [
       "Software",
       "Page Layout",
-      "Publishing"
+      "Publishing",
+      "Digital Art"
     ],
     "categoryIds": [
       "software",
       "page-layout",
-      "publishing"
+      "publishing",
+      "digital-art"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -4456,6 +6250,106 @@ const generatedResources = [
     "primaryCategory": "Marketplaces"
   },
   {
+    "id": "airtable",
+    "title": "Airtable",
+    "shortName": "Airtable",
+    "company": "Airtable",
+    "companyWebsite": "",
+    "website": "https://www.airtable.com/",
+    "logo": "",
+    "favicon": "",
+    "heroImage": "",
+    "screenshots": [],
+    "category": "Business",
+    "categoryId": "business",
+    "subcategories": [
+      "Database",
+      "Project Management"
+    ],
+    "type": "Software",
+    "industries": [],
+    "useCases": [],
+    "tags": [
+      "Database",
+      "Productivity"
+    ],
+    "collections": [],
+    "shortDescription": "Spreadsheet-database hybrid for organizing creative projects, content, and operations.",
+    "longDescription": "Airtable is part of the Airtable ecosystem in The Creative Vault. Spreadsheet-database hybrid for organizing creative projects, content, and operations.",
+    "whyUseIt": "",
+    "bestFor": [
+      "Database",
+      "Project Management",
+      "Creative workflows"
+    ],
+    "pros": [],
+    "cons": [],
+    "notes": "Added as part of the V7 ecosystem architecture.",
+    "platforms": [
+      "Browser",
+      "iPhone",
+      "Android"
+    ],
+    "operatingSystems": [
+      "Browser",
+      "iPhone",
+      "Android"
+    ],
+    "mobileSupport": true,
+    "browserSupport": true,
+    "offline": false,
+    "cloudSync": false,
+    "fileFormats": [],
+    "integrations": [],
+    "api": false,
+    "plugins": false,
+    "extensions": false,
+    "ai": false,
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "pricingDetails": "Check official website for current pricing and licensing.",
+    "freeTrial": true,
+    "studentDiscount": false,
+    "commercialUse": null,
+    "license": "Licensing varies. Check the official website before commercial use.",
+    "licenseType": "",
+    "rating": 4.5,
+    "popularity": 75,
+    "beginnerFriendly": false,
+    "professional": true,
+    "learningCurve": "Medium",
+    "industryStandard": false,
+    "openSource": false,
+    "verified": true,
+    "lastReviewed": "2026-07-07",
+    "alternatives": [],
+    "competitors": [],
+    "related": [
+      "notion",
+      "google-sheets"
+    ],
+    "tutorials": [],
+    "youtubeChannels": [],
+    "documentation": "",
+    "community": "",
+    "discord": "",
+    "reddit": "",
+    "github": "",
+    "twitter": "",
+    "instagram": "",
+    "featured": false,
+    "editorPick": true,
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "Business"
+    ],
+    "categoryIds": [
+      "business"
+    ],
+    "primaryCategory": "Business"
+  },
+  {
     "id": "freelancing-airtable",
     "title": "Airtable",
     "shortName": "Airtable",
@@ -4540,6 +6434,67 @@ const generatedResources = [
       "marketplaces"
     ],
     "primaryCategory": "Marketplaces"
+  },
+  {
+    "id": "aiva",
+    "title": "AIVA",
+    "company": "AIVA",
+    "website": "https://www.aiva.ai/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI music composition tool for soundtracks and creative projects.",
+    "longDescription": "AIVA is a ai music resource in The Creative Vault. AI music composition tool for soundtracks and creative projects. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Music"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI Music",
+      "Songs",
+      "Audio",
+      "Generation"
+    ],
+    "bestFor": [
+      "AI Music",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "suno",
+      "udio",
+      "stable-audio"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai music.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "grant-akin-studio-program",
@@ -5172,6 +7127,70 @@ const generatedResources = [
     "lastReviewed": "2026-07-08"
   },
   {
+    "id": "ambientcg",
+    "title": "ambientCG",
+    "website": "https://ambientcg.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Free PBR materials and textures for 3D and design workflows.",
+    "longDescription": "ambientCG is a brushes & textures resource in The Creative Vault. Free PBR materials and textures for 3D and design workflows. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Brushes & Textures"
+    ],
+    "price": "Free",
+    "pricingDetails": "Free to use. Check individual licensing terms before commercial work.",
+    "rating": 4.6,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Brushes",
+      "Textures",
+      "Assets",
+      "Design Resources"
+    ],
+    "bestFor": [
+      "Brushes & Textures",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "best-free-creative-tools",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "clip-studio-paint",
+      "krita",
+      "procreate"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for brushes & textures.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Free",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "game-dev-ambientcg",
     "title": "ambientCG",
     "shortName": "ambientCG",
@@ -5308,6 +7327,130 @@ const generatedResources = [
       "game-dev"
     ],
     "primaryCategory": "Game Dev"
+  },
+  {
+    "id": "anatomy-for-sculptors",
+    "title": "Anatomy for Sculptors",
+    "website": "https://anatomy4sculptors.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Anatomy books and references built for artists and sculptors.",
+    "longDescription": "Anatomy for Sculptors is a reference resource in The Creative Vault. Anatomy books and references built for artists and sculptors. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Reference"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Reference",
+      "Pose",
+      "Anatomy",
+      "Drawing Practice"
+    ],
+    "bestFor": [
+      "Reference",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "line-of-action",
+      "quickposes",
+      "posemy-art",
+      "proko"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for reference.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
+    "id": "anatomy360",
+    "title": "Anatomy360",
+    "website": "https://anatomy360.info/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "3D scanned reference packs and anatomy tools for artists.",
+    "longDescription": "Anatomy360 is a reference resource in The Creative Vault. 3D scanned reference packs and anatomy tools for artists. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Reference"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Reference",
+      "Pose",
+      "Anatomy",
+      "Drawing Practice"
+    ],
+    "bestFor": [
+      "Reference",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "line-of-action",
+      "quickposes",
+      "posemy-art",
+      "proko"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for reference.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "game-dev-extra-anchorpoint",
@@ -5581,6 +7724,69 @@ const generatedResources = [
       "marketing"
     ],
     "primaryCategory": "Marketing"
+  },
+  {
+    "id": "anthony-boyd-graphics",
+    "title": "Anthony Boyd Graphics",
+    "website": "https://www.anthonyboyd.graphics/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "High-quality free mockups for branding and design presentations.",
+    "longDescription": "Anthony Boyd Graphics is a mockups resource in The Creative Vault. High-quality free mockups for branding and design presentations. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Mockups"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Mockups",
+      "Presentation",
+      "Branding",
+      "Design Assets"
+    ],
+    "bestFor": [
+      "Mockups",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "affinity-photo",
+      "canva",
+      "creative-market"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for mockups.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "learning-anthropic-prompt-engineering-guide",
@@ -5903,12 +8109,14 @@ const generatedResources = [
     "categories": [
       "Software",
       "Presentations",
-      "Office Suite"
+      "Office Suite",
+      "Business"
     ],
     "categoryIds": [
       "software",
       "presentations",
-      "office-suite"
+      "office-suite",
+      "business"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -5967,12 +8175,14 @@ const generatedResources = [
     "categories": [
       "Software",
       "Spreadsheets",
-      "Office Suite"
+      "Office Suite",
+      "Business"
     ],
     "categoryIds": [
       "software",
       "spreadsheets",
-      "office-suite"
+      "office-suite",
+      "business"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -6031,12 +8241,14 @@ const generatedResources = [
     "categories": [
       "Software",
       "Word Processing",
-      "Office Suite"
+      "Office Suite",
+      "Business"
     ],
     "categoryIds": [
       "software",
       "word-processing",
-      "office-suite"
+      "office-suite",
+      "business"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -6798,6 +9010,105 @@ const generatedResources = [
     "primaryCategory": "Game Dev"
   },
   {
+    "id": "autodesk-arnold",
+    "title": "Arnold Renderer",
+    "shortName": "Arnold Renderer",
+    "company": "Autodesk",
+    "companyWebsite": "",
+    "website": "https://www.autodesk.com/products/arnold/overview",
+    "logo": "",
+    "favicon": "",
+    "heroImage": "",
+    "screenshots": [],
+    "category": "3D / CAD",
+    "categoryId": "3d-cad",
+    "subcategories": [
+      "Rendering"
+    ],
+    "type": "Software",
+    "industries": [],
+    "useCases": [],
+    "tags": [
+      "Rendering",
+      "VFX"
+    ],
+    "collections": [],
+    "shortDescription": "Advanced Monte Carlo ray tracing renderer for animation and VFX.",
+    "longDescription": "Arnold Renderer is part of the Autodesk ecosystem in The Creative Vault. Advanced Monte Carlo ray tracing renderer for animation and VFX.",
+    "whyUseIt": "",
+    "bestFor": [
+      "Rendering",
+      "Creative workflows"
+    ],
+    "pros": [],
+    "cons": [],
+    "notes": "Added as part of the V7 ecosystem architecture.",
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "operatingSystems": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "mobileSupport": false,
+    "browserSupport": false,
+    "offline": true,
+    "cloudSync": false,
+    "fileFormats": [],
+    "integrations": [],
+    "api": false,
+    "plugins": false,
+    "extensions": false,
+    "ai": false,
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "pricingDetails": "Check official website for current pricing and licensing.",
+    "freeTrial": true,
+    "studentDiscount": false,
+    "commercialUse": null,
+    "license": "Licensing varies. Check the official website before commercial use.",
+    "licenseType": "",
+    "rating": 4.5,
+    "popularity": 75,
+    "beginnerFriendly": false,
+    "professional": true,
+    "learningCurve": "Medium",
+    "industryStandard": false,
+    "openSource": false,
+    "verified": true,
+    "lastReviewed": "2026-07-07",
+    "alternatives": [],
+    "competitors": [],
+    "related": [
+      "redshift",
+      "octane",
+      "vray"
+    ],
+    "tutorials": [],
+    "youtubeChannels": [],
+    "documentation": "",
+    "community": "",
+    "discord": "",
+    "reddit": "",
+    "github": "",
+    "twitter": "",
+    "instagram": "",
+    "featured": false,
+    "editorPick": true,
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "3D / CAD"
+    ],
+    "categoryIds": [
+      "3d-cad"
+    ],
+    "primaryCategory": "3D / CAD"
+  },
+  {
     "id": "learning-art-institute-of-chicago-collection",
     "title": "Art Institute of Chicago Collection",
     "shortName": "Art Institute of Chicago Collection",
@@ -6983,6 +9294,69 @@ const generatedResources = [
       "grants"
     ],
     "primaryCategory": "Grants"
+  },
+  {
+    "id": "artbreeder",
+    "title": "Artbreeder",
+    "company": "Artbreeder",
+    "website": "https://www.artbreeder.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI image creation platform for character, portrait, and image mixing workflows.",
+    "longDescription": "Artbreeder is a ai image resource in The Creative Vault. AI image creation platform for character, portrait, and image mixing workflows. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Image"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI",
+      "Image Generation",
+      "Concept Art",
+      "Visuals"
+    ],
+    "bestFor": [
+      "AI Image",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit",
+      "ai-image-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "midjourney",
+      "leonardo-ai",
+      "ideogram",
+      "adobe-firefly"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai image.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "marketplace-artfinder",
@@ -7431,6 +9805,69 @@ const generatedResources = [
     "primaryCategory": "Grants"
   },
   {
+    "id": "artrage",
+    "title": "ArtRage",
+    "website": "https://www.artrage.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Natural painting app with realistic oils, pencils, canvas texture, and simple tools.",
+    "longDescription": "ArtRage is a drawing & painting resource in The Creative Vault. Natural painting app with realistic oils, pencils, canvas texture, and simple tools. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Drawing & Painting"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "tags": [
+      "Drawing",
+      "Painting",
+      "Illustration",
+      "Digital Art"
+    ],
+    "bestFor": [
+      "Drawing & Painting",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "clip-studio-paint",
+      "krita",
+      "procreate"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for drawing & painting.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "grant-arts-council-england",
     "title": "Arts Council England",
     "shortName": "Arts Council England",
@@ -7823,6 +10260,68 @@ const generatedResources = [
     "primaryCategory": "Grants"
   },
   {
+    "id": "artstation",
+    "title": "ArtStation",
+    "website": "https://www.artstation.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Portfolio and discovery platform for concept art, 3D, games, and entertainment art.",
+    "longDescription": "ArtStation is a inspiration resource in The Creative Vault. Portfolio and discovery platform for concept art, 3D, games, and entertainment art. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Inspiration"
+    ],
+    "price": "Free",
+    "pricingDetails": "Free to use. Check individual licensing terms before commercial work.",
+    "rating": 4.7,
+    "popularity": 90,
+    "skillLevel": "Beginner to Professional",
+    "featured": true,
+    "editorPick": true,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Inspiration",
+      "Portfolio",
+      "Design",
+      "Moodboard"
+    ],
+    "bestFor": [
+      "Inspiration",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "best-free-creative-tools"
+    ],
+    "alternatives": [],
+    "related": [
+      "behance",
+      "dribbble",
+      "pinterest"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for inspiration.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Free",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "freelancing-artstation-jobs",
     "title": "ArtStation Jobs",
     "shortName": "ArtStation Jobs",
@@ -7909,6 +10408,75 @@ const generatedResources = [
       "learning"
     ],
     "primaryCategory": "Learning"
+  },
+  {
+    "id": "artstation-marketplace",
+    "title": "ArtStation Marketplace",
+    "website": "https://www.artstation.com/marketplace",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Marketplace for brushes, tutorials, 3D assets, references, and professional art resources.",
+    "longDescription": "ArtStation Marketplace lets creators buy and sell tutorials, brushes, reference packs, models, materials, tools, and other professional art resources.",
+    "category": "Assets",
+    "categoryId": "assets",
+    "subcategories": [
+      "Marketplace",
+      "Brushes",
+      "Tutorials",
+      "Reference Packs"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Mixed free and paid marketplace items.",
+    "rating": 4.5,
+    "popularity": 83,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Marketplace",
+      "Brushes",
+      "Tutorials",
+      "Assets",
+      "Reference"
+    ],
+    "bestFor": [
+      "Brush packs",
+      "Tutorials",
+      "Reference packs",
+      "Professional assets"
+    ],
+    "collections": [],
+    "alternatives": [
+      "Cubebrush",
+      "Gumroad",
+      "Blender Market",
+      "Sketchfab"
+    ],
+    "related": [
+      "proko",
+      "blender",
+      "clip-studio-paint"
+    ],
+    "license": "Marketplace licensing varies by product.",
+    "notes": "Always check license terms for each asset.",
+    "dateAdded": "2026-07-01",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Assets"
+    ],
+    "categoryIds": [
+      "assets"
+    ],
+    "primaryCategory": "Assets",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "grant-artswa",
@@ -8382,12 +10950,14 @@ const generatedResources = [
     "categories": [
       "Software",
       "Live Production",
-      "Switcher Control"
+      "Switcher Control",
+      "Video"
     ],
     "categoryIds": [
       "software",
       "live-production",
-      "switcher-control"
+      "switcher-control",
+      "video"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -8478,6 +11048,105 @@ const generatedResources = [
     "editorPick": false,
     "verified": true,
     "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "audacity",
+    "title": "Audacity",
+    "shortName": "Audacity",
+    "company": "Audacity Team",
+    "companyWebsite": "",
+    "website": "https://www.audacityteam.org/",
+    "logo": "",
+    "favicon": "",
+    "heroImage": "",
+    "screenshots": [],
+    "category": "Audio",
+    "categoryId": "audio",
+    "subcategories": [
+      "Audio Editing"
+    ],
+    "type": "Software",
+    "industries": [],
+    "useCases": [],
+    "tags": [
+      "Audio",
+      "Open Source"
+    ],
+    "collections": [
+      "best-free-creative-tools"
+    ],
+    "shortDescription": "Free open-source audio editor for recording, editing, and simple production.",
+    "longDescription": "Audacity is part of the Audacity Team ecosystem in The Creative Vault. Free open-source audio editor for recording, editing, and simple production.",
+    "whyUseIt": "",
+    "bestFor": [
+      "Audio Editing",
+      "Creative workflows"
+    ],
+    "pros": [],
+    "cons": [],
+    "notes": "Added as part of the V7 ecosystem architecture.",
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "operatingSystems": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "mobileSupport": false,
+    "browserSupport": false,
+    "offline": true,
+    "cloudSync": false,
+    "fileFormats": [],
+    "integrations": [],
+    "api": false,
+    "plugins": false,
+    "extensions": false,
+    "ai": false,
+    "price": "Free",
+    "pricingModel": "Free",
+    "pricingDetails": "Check official website for current pricing and licensing.",
+    "freeTrial": false,
+    "studentDiscount": false,
+    "commercialUse": null,
+    "license": "Licensing varies. Check the official website before commercial use.",
+    "licenseType": "",
+    "rating": 4.5,
+    "popularity": 75,
+    "beginnerFriendly": false,
+    "professional": true,
+    "learningCurve": "Medium",
+    "industryStandard": false,
+    "openSource": true,
+    "verified": true,
+    "lastReviewed": "2026-07-07",
+    "alternatives": [],
+    "competitors": [],
+    "related": [
+      "ocenaudio"
+    ],
+    "tutorials": [],
+    "youtubeChannels": [],
+    "documentation": "",
+    "community": "",
+    "discord": "",
+    "reddit": "",
+    "github": "",
+    "twitter": "",
+    "instagram": "",
+    "featured": false,
+    "editorPick": true,
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "Audio"
+    ],
+    "categoryIds": [
+      "audio"
+    ],
+    "primaryCategory": "Audio"
   },
   {
     "id": "marketplace-audiojungle",
@@ -8665,6 +11334,107 @@ const generatedResources = [
     "primaryCategory": "Grants"
   },
   {
+    "id": "autodesk-autocad",
+    "title": "AutoCAD",
+    "shortName": "AutoCAD",
+    "company": "Autodesk",
+    "companyWebsite": "",
+    "website": "https://www.autodesk.com/products/autocad/overview",
+    "logo": "",
+    "favicon": "",
+    "heroImage": "",
+    "screenshots": [],
+    "category": "3D / CAD",
+    "categoryId": "3d-cad",
+    "subcategories": [
+      "CAD",
+      "Drafting"
+    ],
+    "type": "Software",
+    "industries": [],
+    "useCases": [],
+    "tags": [
+      "CAD",
+      "Architecture",
+      "Drafting"
+    ],
+    "collections": [],
+    "shortDescription": "Professional CAD software for 2D drafting, architecture, engineering, and design.",
+    "longDescription": "AutoCAD is part of the Autodesk ecosystem in The Creative Vault. Professional CAD software for 2D drafting, architecture, engineering, and design.",
+    "whyUseIt": "",
+    "bestFor": [
+      "CAD",
+      "Drafting",
+      "Creative workflows"
+    ],
+    "pros": [],
+    "cons": [],
+    "notes": "Added as part of the V7 ecosystem architecture.",
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Browser"
+    ],
+    "operatingSystems": [
+      "Windows",
+      "Mac",
+      "Browser"
+    ],
+    "mobileSupport": false,
+    "browserSupport": true,
+    "offline": false,
+    "cloudSync": false,
+    "fileFormats": [],
+    "integrations": [],
+    "api": false,
+    "plugins": false,
+    "extensions": false,
+    "ai": false,
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "pricingDetails": "Check official website for current pricing and licensing.",
+    "freeTrial": true,
+    "studentDiscount": false,
+    "commercialUse": null,
+    "license": "Licensing varies. Check the official website before commercial use.",
+    "licenseType": "",
+    "rating": 4.5,
+    "popularity": 75,
+    "beginnerFriendly": false,
+    "professional": true,
+    "learningCurve": "Medium",
+    "industryStandard": true,
+    "openSource": false,
+    "verified": true,
+    "lastReviewed": "2026-07-07",
+    "alternatives": [],
+    "competitors": [],
+    "related": [
+      "bricscad",
+      "freecad"
+    ],
+    "tutorials": [],
+    "youtubeChannels": [],
+    "documentation": "",
+    "community": "",
+    "discord": "",
+    "reddit": "",
+    "github": "",
+    "twitter": "",
+    "instagram": "",
+    "featured": false,
+    "editorPick": true,
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "3D / CAD"
+    ],
+    "categoryIds": [
+      "3d-cad"
+    ],
+    "primaryCategory": "3D / CAD"
+  },
+  {
     "id": "autodesk",
     "name": "Autodesk",
     "website": "https://www.autodesk.com/",
@@ -8697,7 +11467,104 @@ const generatedResources = [
     "verified": true,
     "featured": false,
     "editorPick": false,
-    "lastReviewed": "2026-07-09"
+    "lastReviewed": "2026-08-10"
+  },
+  {
+    "id": "autodesk-3ds-max",
+    "title": "Autodesk 3ds Max",
+    "shortName": "Autodesk 3ds Max",
+    "company": "Autodesk",
+    "companyWebsite": "",
+    "website": "https://www.autodesk.com/products/3ds-max/overview",
+    "logo": "",
+    "favicon": "",
+    "heroImage": "",
+    "screenshots": [],
+    "category": "3D / CAD",
+    "categoryId": "3d-cad",
+    "subcategories": [
+      "3D Modeling",
+      "Rendering"
+    ],
+    "type": "Software",
+    "industries": [],
+    "useCases": [],
+    "tags": [
+      "3D",
+      "Rendering",
+      "Autodesk"
+    ],
+    "collections": [],
+    "shortDescription": "Professional 3D modeling and rendering software for games, visualization, and design.",
+    "longDescription": "Autodesk 3ds Max is part of the Autodesk ecosystem in The Creative Vault. Professional 3D modeling and rendering software for games, visualization, and design.",
+    "whyUseIt": "",
+    "bestFor": [
+      "3D Modeling",
+      "Rendering",
+      "Creative workflows"
+    ],
+    "pros": [],
+    "cons": [],
+    "notes": "Added as part of the V7 ecosystem architecture.",
+    "platforms": [
+      "Windows"
+    ],
+    "operatingSystems": [
+      "Windows"
+    ],
+    "mobileSupport": false,
+    "browserSupport": false,
+    "offline": true,
+    "cloudSync": false,
+    "fileFormats": [],
+    "integrations": [],
+    "api": false,
+    "plugins": false,
+    "extensions": false,
+    "ai": false,
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "pricingDetails": "Check official website for current pricing and licensing.",
+    "freeTrial": true,
+    "studentDiscount": false,
+    "commercialUse": null,
+    "license": "Licensing varies. Check the official website before commercial use.",
+    "licenseType": "",
+    "rating": 4.5,
+    "popularity": 75,
+    "beginnerFriendly": false,
+    "professional": true,
+    "learningCurve": "Medium",
+    "industryStandard": true,
+    "openSource": false,
+    "verified": true,
+    "lastReviewed": "2026-07-07",
+    "alternatives": [],
+    "competitors": [],
+    "related": [
+      "blender",
+      "maya"
+    ],
+    "tutorials": [],
+    "youtubeChannels": [],
+    "documentation": "",
+    "community": "",
+    "discord": "",
+    "reddit": "",
+    "github": "",
+    "twitter": "",
+    "instagram": "",
+    "featured": false,
+    "editorPick": true,
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "3D / CAD"
+    ],
+    "categoryIds": [
+      "3d-cad"
+    ],
+    "primaryCategory": "3D / CAD"
   },
   {
     "id": "software-autodesk-3ds-max",
@@ -8711,13 +11578,15 @@ const generatedResources = [
       "Software",
       "3D Modeling",
       "Rendering",
-      "Visualization"
+      "Visualization",
+      "3D / CAD"
     ],
     "categoryIds": [
       "software",
       "3d-modeling",
       "rendering",
-      "visualization"
+      "visualization",
+      "3d-cad"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -8774,12 +11643,14 @@ const generatedResources = [
     "categories": [
       "Software",
       "Structural Steel",
-      "Detailing"
+      "Detailing",
+      "3D / CAD"
     ],
     "categoryIds": [
       "software",
       "structural-steel",
-      "detailing"
+      "detailing",
+      "3d-cad"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -8832,12 +11703,14 @@ const generatedResources = [
     "categories": [
       "Software",
       "Industrial Design",
-      "Surface Modeling"
+      "Surface Modeling",
+      "3D / CAD"
     ],
     "categoryIds": [
       "software",
       "industrial-design",
-      "surface-modeling"
+      "surface-modeling",
+      "3d-cad"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -8891,12 +11764,14 @@ const generatedResources = [
     "categories": [
       "Software",
       "Rendering",
-      "Path Tracing"
+      "Path Tracing",
+      "3D / CAD"
     ],
     "categoryIds": [
       "software",
       "rendering",
-      "path-tracing"
+      "path-tracing",
+      "3d-cad"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -8955,13 +11830,15 @@ const generatedResources = [
       "Software",
       "CAD",
       "Drafting",
-      "Architecture"
+      "Architecture",
+      "3D / CAD"
     ],
     "categoryIds": [
       "software",
       "cad",
       "drafting",
-      "architecture"
+      "architecture",
+      "3d-cad"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -9021,12 +11898,14 @@ const generatedResources = [
     "categories": [
       "Software",
       "CAD",
-      "2D Drafting"
+      "2D Drafting",
+      "3D / CAD"
     ],
     "categoryIds": [
       "software",
       "cad",
-      "2d-drafting"
+      "2d-drafting",
+      "3d-cad"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -9080,12 +11959,14 @@ const generatedResources = [
     "categories": [
       "Software",
       "Simulation",
-      "Computational Fluid Dynamics"
+      "Computational Fluid Dynamics",
+      "3D / CAD"
     ],
     "categoryIds": [
       "software",
       "simulation",
-      "computational-fluid-dynamics"
+      "computational-fluid-dynamics",
+      "3d-cad"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -9137,12 +12018,14 @@ const generatedResources = [
     "categories": [
       "Software",
       "Civil Engineering",
-      "Infrastructure"
+      "Infrastructure",
+      "3D / CAD"
     ],
     "categoryIds": [
       "software",
       "civil-engineering",
-      "infrastructure"
+      "infrastructure",
+      "3d-cad"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -9195,12 +12078,14 @@ const generatedResources = [
     "categories": [
       "Software",
       "Visual Scripting",
-      "BIM Automation"
+      "BIM Automation",
+      "3D / CAD"
     ],
     "categoryIds": [
       "software",
       "visual-scripting",
-      "bim-automation"
+      "bim-automation",
+      "3d-cad"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -9253,13 +12138,15 @@ const generatedResources = [
       "Software",
       "Compositing",
       "Finishing",
-      "VFX"
+      "VFX",
+      "Video"
     ],
     "categoryIds": [
       "software",
       "compositing",
       "finishing",
-      "vfx"
+      "vfx",
+      "video"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -9315,12 +12202,14 @@ const generatedResources = [
     "categories": [
       "Software",
       "Production Tracking",
-      "Studio Management"
+      "Studio Management",
+      "Video"
     ],
     "categoryIds": [
       "software",
       "production-tracking",
-      "studio-management"
+      "studio-management",
+      "video"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -9374,12 +12263,14 @@ const generatedResources = [
     "categories": [
       "Software",
       "Conceptual Design",
-      "Architecture"
+      "Architecture",
+      "3D / CAD"
     ],
     "categoryIds": [
       "software",
       "conceptual-design",
-      "architecture"
+      "architecture",
+      "3d-cad"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -9435,13 +12326,15 @@ const generatedResources = [
       "Software",
       "CAD",
       "CAM",
-      "Product Design"
+      "Product Design",
+      "3D / CAD"
     ],
     "categoryIds": [
       "software",
       "cad",
       "cam",
-      "product-design"
+      "product-design",
+      "3d-cad"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -9500,12 +12393,14 @@ const generatedResources = [
     "categories": [
       "Software",
       "Infrastructure Design",
-      "Civil Visualization"
+      "Civil Visualization",
+      "3D / CAD"
     ],
     "categoryIds": [
       "software",
       "infrastructure-design",
-      "civil-visualization"
+      "civil-visualization",
+      "3d-cad"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -9548,6 +12443,100 @@ const generatedResources = [
     "lastReviewed": "2026-07-08"
   },
   {
+    "id": "autodesk-inventor",
+    "title": "Autodesk Inventor",
+    "shortName": "Autodesk Inventor",
+    "company": "Autodesk",
+    "companyWebsite": "",
+    "website": "https://www.autodesk.com/products/inventor/overview",
+    "logo": "",
+    "favicon": "",
+    "heroImage": "",
+    "screenshots": [],
+    "category": "3D / CAD",
+    "categoryId": "3d-cad",
+    "subcategories": [
+      "Mechanical CAD"
+    ],
+    "type": "Software",
+    "industries": [],
+    "useCases": [],
+    "tags": [
+      "CAD",
+      "Mechanical Design"
+    ],
+    "collections": [],
+    "shortDescription": "Professional mechanical design and 3D CAD software.",
+    "longDescription": "Autodesk Inventor is part of the Autodesk ecosystem in The Creative Vault. Professional mechanical design and 3D CAD software.",
+    "whyUseIt": "",
+    "bestFor": [
+      "Mechanical CAD",
+      "Creative workflows"
+    ],
+    "pros": [],
+    "cons": [],
+    "notes": "Added as part of the V7 ecosystem architecture.",
+    "platforms": [
+      "Windows"
+    ],
+    "operatingSystems": [
+      "Windows"
+    ],
+    "mobileSupport": false,
+    "browserSupport": false,
+    "offline": true,
+    "cloudSync": false,
+    "fileFormats": [],
+    "integrations": [],
+    "api": false,
+    "plugins": false,
+    "extensions": false,
+    "ai": false,
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "pricingDetails": "Check official website for current pricing and licensing.",
+    "freeTrial": true,
+    "studentDiscount": false,
+    "commercialUse": null,
+    "license": "Licensing varies. Check the official website before commercial use.",
+    "licenseType": "",
+    "rating": 4.5,
+    "popularity": 75,
+    "beginnerFriendly": false,
+    "professional": true,
+    "learningCurve": "Medium",
+    "industryStandard": false,
+    "openSource": false,
+    "verified": true,
+    "lastReviewed": "2026-07-07",
+    "alternatives": [],
+    "competitors": [],
+    "related": [
+      "solidworks",
+      "fusion-360"
+    ],
+    "tutorials": [],
+    "youtubeChannels": [],
+    "documentation": "",
+    "community": "",
+    "discord": "",
+    "reddit": "",
+    "github": "",
+    "twitter": "",
+    "instagram": "",
+    "featured": false,
+    "editorPick": true,
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "3D / CAD"
+    ],
+    "categoryIds": [
+      "3d-cad"
+    ],
+    "primaryCategory": "3D / CAD"
+  },
+  {
     "id": "software-autodesk-inventor",
     "title": "Autodesk Inventor",
     "shortName": "Inventor",
@@ -9558,12 +12547,14 @@ const generatedResources = [
     "categories": [
       "Software",
       "Mechanical CAD",
-      "Product Design"
+      "Product Design",
+      "3D / CAD"
     ],
     "categoryIds": [
       "software",
       "mechanical-cad",
-      "product-design"
+      "product-design",
+      "3d-cad"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -9607,6 +12598,107 @@ const generatedResources = [
     "lastReviewed": "2026-07-08"
   },
   {
+    "id": "autodesk-maya",
+    "title": "Autodesk Maya",
+    "shortName": "Autodesk Maya",
+    "company": "Autodesk",
+    "companyWebsite": "",
+    "website": "https://www.autodesk.com/products/maya/overview",
+    "logo": "",
+    "favicon": "",
+    "heroImage": "",
+    "screenshots": [],
+    "category": "3D / CAD",
+    "categoryId": "3d-cad",
+    "subcategories": [
+      "3D Animation",
+      "Modeling"
+    ],
+    "type": "Software",
+    "industries": [],
+    "useCases": [],
+    "tags": [
+      "3D",
+      "Animation",
+      "Autodesk"
+    ],
+    "collections": [],
+    "shortDescription": "Professional 3D animation, modeling, simulation, and rendering software.",
+    "longDescription": "Autodesk Maya is part of the Autodesk ecosystem in The Creative Vault. Professional 3D animation, modeling, simulation, and rendering software.",
+    "whyUseIt": "",
+    "bestFor": [
+      "3D Animation",
+      "Modeling",
+      "Creative workflows"
+    ],
+    "pros": [],
+    "cons": [],
+    "notes": "Added as part of the V7 ecosystem architecture.",
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "operatingSystems": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "mobileSupport": false,
+    "browserSupport": false,
+    "offline": true,
+    "cloudSync": false,
+    "fileFormats": [],
+    "integrations": [],
+    "api": false,
+    "plugins": false,
+    "extensions": false,
+    "ai": false,
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "pricingDetails": "Check official website for current pricing and licensing.",
+    "freeTrial": true,
+    "studentDiscount": false,
+    "commercialUse": null,
+    "license": "Licensing varies. Check the official website before commercial use.",
+    "licenseType": "",
+    "rating": 4.5,
+    "popularity": 75,
+    "beginnerFriendly": false,
+    "professional": true,
+    "learningCurve": "Medium",
+    "industryStandard": true,
+    "openSource": false,
+    "verified": true,
+    "lastReviewed": "2026-07-07",
+    "alternatives": [],
+    "competitors": [],
+    "related": [
+      "blender",
+      "cinema-4d"
+    ],
+    "tutorials": [],
+    "youtubeChannels": [],
+    "documentation": "",
+    "community": "",
+    "discord": "",
+    "reddit": "",
+    "github": "",
+    "twitter": "",
+    "instagram": "",
+    "featured": true,
+    "editorPick": true,
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "3D / CAD"
+    ],
+    "categoryIds": [
+      "3d-cad"
+    ],
+    "primaryCategory": "3D / CAD"
+  },
+  {
     "id": "software-autodesk-maya",
     "title": "Autodesk Maya",
     "shortName": "Maya",
@@ -9618,13 +12710,19 @@ const generatedResources = [
       "Software",
       "3D Animation",
       "3D Modeling",
-      "VFX"
+      "VFX",
+      "3D / CAD",
+      "Animation",
+      "Video"
     ],
     "categoryIds": [
       "software",
       "3d-animation",
       "3d-modeling",
-      "vfx"
+      "vfx",
+      "3d-cad",
+      "animation",
+      "video"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -9730,12 +12828,14 @@ const generatedResources = [
     "categories": [
       "Software",
       "Motion Capture",
-      "Character Animation"
+      "Character Animation",
+      "Animation"
     ],
     "categoryIds": [
       "software",
       "motion-capture",
-      "character-animation"
+      "character-animation",
+      "animation"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -9791,12 +12891,14 @@ const generatedResources = [
     "categories": [
       "Software",
       "Digital Sculpting",
-      "3D Painting"
+      "3D Painting",
+      "3D / CAD"
     ],
     "categoryIds": [
       "software",
       "digital-sculpting",
-      "3d-painting"
+      "3d-painting",
+      "3d-cad"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -9853,12 +12955,14 @@ const generatedResources = [
     "categories": [
       "Software",
       "BIM Coordination",
-      "Construction"
+      "Construction",
+      "3D / CAD"
     ],
     "categoryIds": [
       "software",
       "bim-coordination",
-      "construction"
+      "construction",
+      "3d-cad"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -9901,6 +13005,102 @@ const generatedResources = [
     "lastReviewed": "2026-07-08"
   },
   {
+    "id": "autodesk-recap",
+    "title": "Autodesk ReCap",
+    "shortName": "Autodesk ReCap",
+    "company": "Autodesk",
+    "companyWebsite": "",
+    "website": "https://www.autodesk.com/products/recap/overview",
+    "logo": "",
+    "favicon": "",
+    "heroImage": "",
+    "screenshots": [],
+    "category": "3D / CAD",
+    "categoryId": "3d-cad",
+    "subcategories": [
+      "Scanning",
+      "Reality Capture"
+    ],
+    "type": "Software",
+    "industries": [],
+    "useCases": [],
+    "tags": [
+      "Scanning",
+      "Photogrammetry"
+    ],
+    "collections": [],
+    "shortDescription": "Reality capture and 3D scanning software for point clouds and photogrammetry.",
+    "longDescription": "Autodesk ReCap is part of the Autodesk ecosystem in The Creative Vault. Reality capture and 3D scanning software for point clouds and photogrammetry.",
+    "whyUseIt": "",
+    "bestFor": [
+      "Scanning",
+      "Reality Capture",
+      "Creative workflows"
+    ],
+    "pros": [],
+    "cons": [],
+    "notes": "Added as part of the V7 ecosystem architecture.",
+    "platforms": [
+      "Windows"
+    ],
+    "operatingSystems": [
+      "Windows"
+    ],
+    "mobileSupport": false,
+    "browserSupport": false,
+    "offline": true,
+    "cloudSync": false,
+    "fileFormats": [],
+    "integrations": [],
+    "api": false,
+    "plugins": false,
+    "extensions": false,
+    "ai": false,
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "pricingDetails": "Check official website for current pricing and licensing.",
+    "freeTrial": true,
+    "studentDiscount": false,
+    "commercialUse": null,
+    "license": "Licensing varies. Check the official website before commercial use.",
+    "licenseType": "",
+    "rating": 4.5,
+    "popularity": 75,
+    "beginnerFriendly": false,
+    "professional": true,
+    "learningCurve": "Medium",
+    "industryStandard": false,
+    "openSource": false,
+    "verified": true,
+    "lastReviewed": "2026-07-07",
+    "alternatives": [],
+    "competitors": [],
+    "related": [
+      "realitycapture",
+      "polycam"
+    ],
+    "tutorials": [],
+    "youtubeChannels": [],
+    "documentation": "",
+    "community": "",
+    "discord": "",
+    "reddit": "",
+    "github": "",
+    "twitter": "",
+    "instagram": "",
+    "featured": false,
+    "editorPick": false,
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "3D / CAD"
+    ],
+    "categoryIds": [
+      "3d-cad"
+    ],
+    "primaryCategory": "3D / CAD"
+  },
+  {
     "id": "software-autodesk-recap-pro",
     "title": "Autodesk ReCap Pro",
     "shortName": "ReCap Pro",
@@ -9912,13 +13112,17 @@ const generatedResources = [
       "Software",
       "Reality Capture",
       "Photogrammetry",
-      "LiDAR"
+      "LiDAR",
+      "3D / CAD",
+      "Photography"
     ],
     "categoryIds": [
       "software",
       "reality-capture",
       "photogrammetry",
-      "lidar"
+      "lidar",
+      "3d-cad",
+      "photography"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -9975,13 +13179,15 @@ const generatedResources = [
       "Software",
       "BIM",
       "Architecture",
-      "AEC"
+      "AEC",
+      "3D / CAD"
     ],
     "categoryIds": [
       "software",
       "bim",
       "architecture",
-      "aec"
+      "aec",
+      "3d-cad"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -10036,11 +13242,13 @@ const generatedResources = [
     "categoryId": "software",
     "categories": [
       "Software",
-      "Digital Twins"
+      "Digital Twins",
+      "3D / CAD"
     ],
     "categoryIds": [
       "software",
-      "digital-twins"
+      "digital-twins",
+      "3d-cad"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -10091,12 +13299,14 @@ const generatedResources = [
     "categories": [
       "Software",
       "Data Management",
-      "CAD Management"
+      "CAD Management",
+      "3D / CAD"
     ],
     "categoryIds": [
       "software",
       "data-management",
-      "cad-management"
+      "cad-management",
+      "3d-cad"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -10149,12 +13359,14 @@ const generatedResources = [
     "categories": [
       "Software",
       "Transportation Design",
-      "Civil Engineering"
+      "Civil Engineering",
+      "3D / CAD"
     ],
     "categoryIds": [
       "software",
       "transportation-design",
-      "civil-engineering"
+      "civil-engineering",
+      "3d-cad"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -10195,6 +13407,134 @@ const generatedResources = [
     "editorPick": true,
     "verified": true,
     "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "autogen",
+    "title": "AutoGen",
+    "company": "Microsoft",
+    "website": "https://microsoft.github.io/autogen/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Framework for building multi-agent AI applications.",
+    "longDescription": "AutoGen is a ai automation resource in The Creative Vault. Framework for building multi-agent AI applications. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Automation"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Intermediate to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": true,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Automation",
+      "Agents",
+      "Workflows",
+      "APIs"
+    ],
+    "bestFor": [
+      "AI Automation",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "n8n",
+      "zapier-ai",
+      "make",
+      "flowise"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai automation.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
+    "id": "automatic1111",
+    "title": "AUTOMATIC1111",
+    "company": "Open Source Community",
+    "website": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Popular web UI for running Stable Diffusion locally with extensions and controls.",
+    "longDescription": "AUTOMATIC1111 is a ai image resource in The Creative Vault. Popular web UI for running Stable Diffusion locally with extensions and controls. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Image"
+    ],
+    "price": "Free",
+    "pricingDetails": "Free to use. Check usage limits and licensing before commercial work.",
+    "rating": 4.5,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": true,
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "tags": [
+      "AI",
+      "Image Generation",
+      "Concept Art",
+      "Visuals"
+    ],
+    "bestFor": [
+      "AI Image",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit",
+      "ai-image-kit",
+      "best-free-creative-tools"
+    ],
+    "alternatives": [],
+    "related": [
+      "midjourney",
+      "leonardo-ai",
+      "ideogram",
+      "adobe-firefly"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai image.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Free",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "game-dev-extra-autotilegen",
@@ -10275,7 +13615,7 @@ const generatedResources = [
     "verified": true,
     "featured": false,
     "editorPick": false,
-    "lastReviewed": "2026-07-09"
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "software-avid-link",
@@ -10288,12 +13628,14 @@ const generatedResources = [
     "categories": [
       "Software",
       "Software Management",
-      "Creative Community"
+      "Creative Community",
+      "Content Creation"
     ],
     "categoryIds": [
       "software",
       "software-management",
-      "creative-community"
+      "creative-community",
+      "content-creation"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -10347,12 +13689,14 @@ const generatedResources = [
     "categories": [
       "Software",
       "Broadcast Graphics",
-      "Real-Time Graphics"
+      "Real-Time Graphics",
+      "Video"
     ],
     "categoryIds": [
       "software",
       "broadcast-graphics",
-      "real-time-graphics"
+      "real-time-graphics",
+      "video"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -10447,13 +13791,15 @@ const generatedResources = [
       "Software",
       "Video Editing",
       "Film Editing",
-      "Broadcast"
+      "Broadcast",
+      "Video"
     ],
     "categoryIds": [
       "software",
       "video-editing",
       "film-editing",
-      "broadcast"
+      "broadcast",
+      "video"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -10572,13 +13918,15 @@ const generatedResources = [
       "Software",
       "DAW",
       "Audio Recording",
-      "Music Production"
+      "Music Production",
+      "Audio"
     ],
     "categoryIds": [
       "software",
       "daw",
       "audio-recording",
-      "music-production"
+      "music-production",
+      "audio"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -10639,13 +13987,15 @@ const generatedResources = [
       "Software",
       "DAW",
       "Audio Recording",
-      "Music Production"
+      "Music Production",
+      "Audio"
     ],
     "categoryIds": [
       "software",
       "daw",
       "audio-recording",
-      "music-production"
+      "music-production",
+      "audio"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -10709,13 +14059,15 @@ const generatedResources = [
       "Software",
       "DAW",
       "Audio Post",
-      "Music Production"
+      "Music Production",
+      "Audio"
     ],
     "categoryIds": [
       "software",
       "daw",
       "audio-post",
-      "music-production"
+      "music-production",
+      "audio"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -10777,13 +14129,17 @@ const generatedResources = [
       "Software",
       "DAW",
       "Post Production",
-      "Large Format Mixing"
+      "Large Format Mixing",
+      "Video",
+      "Audio"
     ],
     "categoryIds": [
       "software",
       "daw",
       "post-production",
-      "large-format-mixing"
+      "large-format-mixing",
+      "video",
+      "audio"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -10843,11 +14199,13 @@ const generatedResources = [
     "categoryId": "software",
     "categories": [
       "Software",
+      "Music",
       "Music Notation",
       "Composition"
     ],
     "categoryIds": [
       "software",
+      "music",
       "music-notation",
       "composition"
     ],
@@ -10908,13 +14266,15 @@ const generatedResources = [
       "Software",
       "Broadcast Production",
       "Ingest",
-      "Playout"
+      "Playout",
+      "Video"
     ],
     "categoryIds": [
       "software",
       "broadcast-production",
       "ingest",
-      "playout"
+      "playout",
+      "video"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -10970,12 +14330,14 @@ const generatedResources = [
     "categories": [
       "Software",
       "Live Sound",
-      "Mixing Consoles"
+      "Mixing Consoles",
+      "Audio"
     ],
     "categoryIds": [
       "software",
       "live-sound",
-      "mixing-consoles"
+      "mixing-consoles",
+      "audio"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -11111,6 +14473,68 @@ const generatedResources = [
       "game-dev"
     ],
     "primaryCategory": "Game Dev"
+  },
+  {
+    "id": "awwwards",
+    "title": "Awwwards",
+    "website": "https://www.awwwards.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Award platform and gallery for high-end web design inspiration.",
+    "longDescription": "Awwwards is a inspiration resource in The Creative Vault. Award platform and gallery for high-end web design inspiration. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Inspiration"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan or free assets available with paid upgrades or premium options.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Inspiration",
+      "Portfolio",
+      "Design",
+      "Moodboard"
+    ],
+    "bestFor": [
+      "Inspiration",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "behance",
+      "dribbble",
+      "artstation",
+      "pinterest"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for inspiration.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "learning-awwwards-academy",
@@ -11645,6 +15069,73 @@ const generatedResources = [
     "primaryCategory": "3D Printing"
   },
   {
+    "id": "bandcamp",
+    "title": "Bandcamp",
+    "website": "https://bandcamp.com/artists",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Music and merch platform for artists to sell directly to fans.",
+    "longDescription": "Bandcamp lets musicians and labels sell digital music, physical music, merch, and fan-supported releases directly to listeners.",
+    "category": "Music",
+    "categoryId": "music",
+    "subcategories": [
+      "Music Sales",
+      "Merch",
+      "Fan Platform"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free to start. Bandcamp takes a revenue share from sales.",
+    "rating": 4.7,
+    "popularity": 88,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": true,
+    "openSource": false,
+    "platforms": [
+      "Browser",
+      "iPhone",
+      "Android"
+    ],
+    "tags": [
+      "Music",
+      "Merch",
+      "Fans",
+      "Direct Sales"
+    ],
+    "bestFor": [
+      "Independent musicians",
+      "Merch sales",
+      "Albums",
+      "Fan support"
+    ],
+    "collections": [],
+    "alternatives": [
+      "Shopify",
+      "Gumroad",
+      "DistroKid",
+      "SoundCloud"
+    ],
+    "related": [
+      "socan"
+    ],
+    "license": "Commercial platform.",
+    "notes": "Strong artist-direct platform for music and merch.",
+    "dateAdded": "2026-07-01",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Music"
+    ],
+    "categoryIds": [
+      "music"
+    ],
+    "primaryCategory": "Music",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "audio-bandlab",
     "title": "BandLab",
     "shortName": "BandLab",
@@ -11779,6 +15270,69 @@ const generatedResources = [
       "freelancing"
     ],
     "primaryCategory": "Freelancing"
+  },
+  {
+    "id": "base44",
+    "title": "Base44",
+    "company": "Base44",
+    "website": "https://base44.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI app builder for creating web apps and software from plain-language prompts.",
+    "longDescription": "Base44 is a ai coding resource in The Creative Vault. AI app builder for creating web apps and software from plain-language prompts. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Coding"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI Coding",
+      "Developer",
+      "App Builder",
+      "Vibe Coding"
+    ],
+    "bestFor": [
+      "AI Coding",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit",
+      "ai-coding-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "cursor",
+      "windsurf",
+      "github-copilot",
+      "replit"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai coding.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "freelancing-basecamp",
@@ -12049,6 +15603,129 @@ const generatedResources = [
     "primaryCategory": "Writing"
   },
   {
+    "id": "beatoven",
+    "title": "Beatoven",
+    "company": "Beatoven",
+    "website": "https://www.beatoven.ai/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI music generator for videos, podcasts, and creator content.",
+    "longDescription": "Beatoven is a ai music resource in The Creative Vault. AI music generator for videos, podcasts, and creator content. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Music"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI Music",
+      "Songs",
+      "Audio",
+      "Generation"
+    ],
+    "bestFor": [
+      "AI Music",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "suno",
+      "udio",
+      "stable-audio",
+      "aiva"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai music.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
+    "id": "beautiful-ai",
+    "title": "Beautiful.ai",
+    "company": "Beautiful.ai",
+    "website": "https://www.beautiful.ai/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI-assisted presentation design platform.",
+    "longDescription": "Beautiful.ai is a ai presentation resource in The Creative Vault. AI-assisted presentation design platform. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Presentation"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Presentations",
+      "Slides",
+      "Pitch Decks",
+      "AI"
+    ],
+    "bestFor": [
+      "AI Presentation",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "gamma",
+      "tome",
+      "canva-ai"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai presentation.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "marketplace-beehiiv",
     "title": "Beehiiv",
     "shortName": "Beehiiv",
@@ -12186,6 +15863,194 @@ const generatedResources = [
     "primaryCategory": "Game Dev"
   },
   {
+    "id": "befonts",
+    "title": "Befonts",
+    "website": "https://befonts.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Free font directory for display, script, sans, serif, and creative fonts.",
+    "longDescription": "Befonts is a fonts resource in The Creative Vault. Free font directory for display, script, sans, serif, and creative fonts. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Fonts"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan or free assets available with paid upgrades or premium options.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Fonts",
+      "Typography",
+      "Type",
+      "Design Resources"
+    ],
+    "bestFor": [
+      "Fonts",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-illustrator",
+      "affinity-designer",
+      "canva",
+      "adobe-photoshop"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for fonts.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
+    "id": "befunky",
+    "title": "BeFunky",
+    "website": "https://www.befunky.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Online photo editor, collage maker, and graphic design platform.",
+    "longDescription": "BeFunky is a photo editing resource in The Creative Vault. Online photo editor, collage maker, and graphic design platform. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Photo Editing"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan or free assets available with paid upgrades or premium options.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "tags": [
+      "Photo",
+      "Editing",
+      "Raster",
+      "Retouching"
+    ],
+    "bestFor": [
+      "Photo Editing",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "affinity-photo",
+      "photopea",
+      "gimp"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for photo editing.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
+    "id": "behance",
+    "title": "Behance",
+    "website": "https://www.behance.net/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Creative portfolio and inspiration platform for designers, artists, and studios.",
+    "longDescription": "Behance is a inspiration resource in The Creative Vault. Creative portfolio and inspiration platform for designers, artists, and studios. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Inspiration"
+    ],
+    "price": "Free",
+    "pricingDetails": "Free to use. Check individual licensing terms before commercial work.",
+    "rating": 4.6,
+    "popularity": 90,
+    "skillLevel": "Beginner to Professional",
+    "featured": true,
+    "editorPick": true,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Inspiration",
+      "Portfolio",
+      "Design",
+      "Moodboard"
+    ],
+    "bestFor": [
+      "Inspiration",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "best-free-creative-tools"
+    ],
+    "alternatives": [],
+    "related": [
+      "dribbble",
+      "artstation",
+      "pinterest"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for inspiration.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Free",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "photography-behance",
     "title": "Behance",
     "shortName": "Behance",
@@ -12240,12 +16105,14 @@ const generatedResources = [
     "categories": [
       "Software",
       "Portfolio",
-      "Creative Community"
+      "Creative Community",
+      "Content Creation"
     ],
     "categoryIds": [
       "software",
       "portfolio",
-      "creative-community"
+      "creative-community",
+      "content-creation"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -13240,6 +17107,68 @@ const generatedResources = [
     "primaryCategory": "Music"
   },
   {
+    "id": "black-ink",
+    "title": "Black Ink",
+    "website": "https://blackink.bleank.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Experimental digital painting software built around procedural brushes.",
+    "longDescription": "Black Ink is a drawing & painting resource in The Creative Vault. Experimental digital painting software built around procedural brushes. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Drawing & Painting"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Windows"
+    ],
+    "tags": [
+      "Drawing",
+      "Painting",
+      "Illustration",
+      "Digital Art"
+    ],
+    "bestFor": [
+      "Drawing & Painting",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "clip-studio-paint",
+      "krita",
+      "procreate"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for drawing & painting.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "grant-black-public-media",
     "title": "Black Public Media",
     "shortName": "Black Public Media",
@@ -13338,6 +17267,103 @@ const generatedResources = [
     "primaryCategory": "Grants"
   },
   {
+    "id": "blackmagic-camera-app",
+    "title": "Blackmagic Camera App",
+    "shortName": "Blackmagic Camera App",
+    "company": "Blackmagic Design",
+    "companyWebsite": "",
+    "website": "https://www.blackmagicdesign.com/products/blackmagiccamera",
+    "logo": "",
+    "favicon": "",
+    "heroImage": "",
+    "screenshots": [],
+    "category": "Video",
+    "categoryId": "video",
+    "subcategories": [
+      "Camera App"
+    ],
+    "type": "Software",
+    "industries": [],
+    "useCases": [],
+    "tags": [
+      "Camera",
+      "Mobile Video"
+    ],
+    "collections": [
+      "best-free-creative-tools"
+    ],
+    "shortDescription": "Professional video camera app for mobile filmmaking.",
+    "longDescription": "Blackmagic Camera App is part of the Blackmagic Design ecosystem in The Creative Vault. Professional video camera app for mobile filmmaking.",
+    "whyUseIt": "",
+    "bestFor": [
+      "Camera App",
+      "Creative workflows"
+    ],
+    "pros": [],
+    "cons": [],
+    "notes": "Added as part of the V7 ecosystem architecture.",
+    "platforms": [
+      "iPhone",
+      "Android"
+    ],
+    "operatingSystems": [
+      "iPhone",
+      "Android"
+    ],
+    "mobileSupport": true,
+    "browserSupport": false,
+    "offline": false,
+    "cloudSync": false,
+    "fileFormats": [],
+    "integrations": [],
+    "api": false,
+    "plugins": false,
+    "extensions": false,
+    "ai": false,
+    "price": "Free",
+    "pricingModel": "Free",
+    "pricingDetails": "Check official website for current pricing and licensing.",
+    "freeTrial": false,
+    "studentDiscount": false,
+    "commercialUse": null,
+    "license": "Licensing varies. Check the official website before commercial use.",
+    "licenseType": "",
+    "rating": 4.5,
+    "popularity": 75,
+    "beginnerFriendly": false,
+    "professional": true,
+    "learningCurve": "Medium",
+    "industryStandard": false,
+    "openSource": false,
+    "verified": true,
+    "lastReviewed": "2026-07-07",
+    "alternatives": [],
+    "competitors": [],
+    "related": [
+      "film-making-apps"
+    ],
+    "tutorials": [],
+    "youtubeChannels": [],
+    "documentation": "",
+    "community": "",
+    "discord": "",
+    "reddit": "",
+    "github": "",
+    "twitter": "",
+    "instagram": "",
+    "featured": false,
+    "editorPick": true,
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "Video"
+    ],
+    "categoryIds": [
+      "video"
+    ],
+    "primaryCategory": "Video"
+  },
+  {
     "id": "software-blackmagic-camera-setup",
     "title": "Blackmagic Camera Setup",
     "shortName": "Blackmagic Camera Setup",
@@ -13348,12 +17374,14 @@ const generatedResources = [
     "categories": [
       "Software",
       "Camera Utility",
-      "Firmware"
+      "Firmware",
+      "Video"
     ],
     "categoryIds": [
       "software",
       "camera-utility",
-      "firmware"
+      "firmware",
+      "video"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -13407,12 +17435,16 @@ const generatedResources = [
     "categories": [
       "Software",
       "Cloud Collaboration",
-      "Video Workflow"
+      "Video Workflow",
+      "Video",
+      "Business"
     ],
     "categoryIds": [
       "software",
       "cloud-collaboration",
-      "video-workflow"
+      "video-workflow",
+      "video",
+      "business"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -13488,7 +17520,7 @@ const generatedResources = [
     "verified": true,
     "featured": false,
     "editorPick": false,
-    "lastReviewed": "2026-07-09"
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "software-blackmagic-proxy-generator",
@@ -13501,12 +17533,14 @@ const generatedResources = [
     "categories": [
       "Software",
       "Proxy Workflow",
-      "Video Utility"
+      "Video Utility",
+      "Video"
     ],
     "categoryIds": [
       "software",
       "proxy-workflow",
-      "video-utility"
+      "video-utility",
+      "video"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -13553,6 +17587,106 @@ const generatedResources = [
     "lastReviewed": "2026-07-08"
   },
   {
+    "id": "blackmagic-raw",
+    "title": "Blackmagic RAW",
+    "shortName": "Blackmagic RAW",
+    "company": "Blackmagic Design",
+    "companyWebsite": "",
+    "website": "https://www.blackmagicdesign.com/products/blackmagicraw",
+    "logo": "",
+    "favicon": "",
+    "heroImage": "",
+    "screenshots": [],
+    "category": "Video",
+    "categoryId": "video",
+    "subcategories": [
+      "Codec",
+      "Post Production"
+    ],
+    "type": "Software",
+    "industries": [],
+    "useCases": [],
+    "tags": [
+      "RAW",
+      "Video",
+      "Codec"
+    ],
+    "collections": [],
+    "shortDescription": "High-performance RAW codec for professional video workflows.",
+    "longDescription": "Blackmagic RAW is part of the Blackmagic Design ecosystem in The Creative Vault. High-performance RAW codec for professional video workflows.",
+    "whyUseIt": "",
+    "bestFor": [
+      "Codec",
+      "Post Production",
+      "Creative workflows"
+    ],
+    "pros": [],
+    "cons": [],
+    "notes": "Added as part of the V7 ecosystem architecture.",
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "operatingSystems": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "mobileSupport": false,
+    "browserSupport": false,
+    "offline": true,
+    "cloudSync": false,
+    "fileFormats": [],
+    "integrations": [],
+    "api": false,
+    "plugins": false,
+    "extensions": false,
+    "ai": false,
+    "price": "Free",
+    "pricingModel": "Free",
+    "pricingDetails": "Check official website for current pricing and licensing.",
+    "freeTrial": false,
+    "studentDiscount": false,
+    "commercialUse": null,
+    "license": "Licensing varies. Check the official website before commercial use.",
+    "licenseType": "",
+    "rating": 4.5,
+    "popularity": 75,
+    "beginnerFriendly": false,
+    "professional": true,
+    "learningCurve": "Medium",
+    "industryStandard": false,
+    "openSource": false,
+    "verified": true,
+    "lastReviewed": "2026-07-07",
+    "alternatives": [],
+    "competitors": [],
+    "related": [
+      "prores"
+    ],
+    "tutorials": [],
+    "youtubeChannels": [],
+    "documentation": "",
+    "community": "",
+    "discord": "",
+    "reddit": "",
+    "github": "",
+    "twitter": "",
+    "instagram": "",
+    "featured": false,
+    "editorPick": true,
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "Video"
+    ],
+    "categoryIds": [
+      "video"
+    ],
+    "primaryCategory": "Video"
+  },
+  {
     "id": "software-blackmagic-raw-player",
     "title": "Blackmagic RAW Player",
     "shortName": "Blackmagic RAW Player",
@@ -13563,12 +17697,14 @@ const generatedResources = [
     "categories": [
       "Software",
       "RAW Video",
-      "Media Playback"
+      "Media Playback",
+      "Video"
     ],
     "categoryIds": [
       "software",
       "raw-video",
-      "media-playback"
+      "media-playback",
+      "video"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -13808,13 +17944,17 @@ const generatedResources = [
       "Software",
       "3D Modeling",
       "Animation",
-      "VFX"
+      "VFX",
+      "3D / CAD",
+      "Video"
     ],
     "categoryIds": [
       "software",
       "3d-modeling",
       "animation",
-      "vfx"
+      "vfx",
+      "3d-cad",
+      "video"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -13917,12 +18057,16 @@ const generatedResources = [
     "categories": [
       "Software",
       "3D Add-ons",
-      "Extensions"
+      "Extensions",
+      "3D / CAD",
+      "Assets"
     ],
     "categoryIds": [
       "software",
       "3d-add-ons",
-      "extensions"
+      "extensions",
+      "3d-cad",
+      "assets"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -14153,12 +18297,18 @@ const generatedResources = [
     "categories": [
       "Software",
       "3D Learning",
-      "Production Assets"
+      "Production Assets",
+      "3D / CAD",
+      "Assets",
+      "Learning"
     ],
     "categoryIds": [
       "software",
       "3d-learning",
-      "production-assets"
+      "production-assets",
+      "3d-cad",
+      "assets",
+      "learning"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -14244,6 +18394,69 @@ const generatedResources = [
       "learning"
     ],
     "primaryCategory": "Learning"
+  },
+  {
+    "id": "blenderkit",
+    "title": "BlenderKit",
+    "website": "https://www.blenderkit.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Asset library integrated with Blender for models, materials, and scenes.",
+    "longDescription": "BlenderKit is a brushes & textures resource in The Creative Vault. Asset library integrated with Blender for models, materials, and scenes. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Brushes & Textures"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan or free assets available with paid upgrades or premium options.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Brushes",
+      "Textures",
+      "Assets",
+      "Design Resources"
+    ],
+    "bestFor": [
+      "Brushes & Textures",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "clip-studio-paint",
+      "krita",
+      "procreate"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for brushes & textures.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "game-dev-blenderkit",
@@ -14655,6 +18868,131 @@ const generatedResources = [
     "primaryCategory": "Learning"
   },
   {
+    "id": "bodies-in-motion",
+    "title": "Bodies in Motion",
+    "website": "https://www.bodiesinmotion.photo/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Dynamic human motion photography for artists.",
+    "longDescription": "Bodies in Motion is a reference resource in The Creative Vault. Dynamic human motion photography for artists. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Reference"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Reference",
+      "Pose",
+      "Anatomy",
+      "Drawing Practice"
+    ],
+    "bestFor": [
+      "Reference",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "line-of-action",
+      "quickposes",
+      "posemy-art",
+      "proko"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for reference.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
+    "id": "bolt",
+    "title": "Bolt",
+    "company": "StackBlitz",
+    "website": "https://bolt.new/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI app builder for generating and editing web apps in the browser.",
+    "longDescription": "Bolt is a ai coding resource in The Creative Vault. AI app builder for generating and editing web apps in the browser. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Coding"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI Coding",
+      "Developer",
+      "App Builder",
+      "Vibe Coding"
+    ],
+    "bestFor": [
+      "AI Coding",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit",
+      "ai-coding-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "cursor",
+      "windsurf",
+      "github-copilot",
+      "replit"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai coding.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "bonsai",
     "title": "Bonsai",
     "shortName": "Bonsai",
@@ -14868,6 +19206,68 @@ const generatedResources = [
       "game-dev"
     ],
     "primaryCategory": "Game Dev"
+  },
+  {
+    "id": "boomy",
+    "title": "Boomy",
+    "company": "Boomy",
+    "website": "https://boomy.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI music creation platform for generating songs quickly.",
+    "longDescription": "Boomy is a ai music resource in The Creative Vault. AI music creation platform for generating songs quickly. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Music"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI Music",
+      "Songs",
+      "Audio",
+      "Generation"
+    ],
+    "bestFor": [
+      "AI Music",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "suno",
+      "udio",
+      "stable-audio",
+      "aiva"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai music.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "film-boords",
@@ -15097,6 +19497,69 @@ const generatedResources = [
     "primaryCategory": "Game Dev"
   },
   {
+    "id": "boxy-svg",
+    "title": "Boxy SVG",
+    "website": "https://boxy-svg.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "SVG editor for creating vector graphics, icons, and web-ready illustrations.",
+    "longDescription": "Boxy SVG is a vector design resource in The Creative Vault. SVG editor for creating vector graphics, icons, and web-ready illustrations. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Vector Design"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan or free assets available with paid upgrades or premium options.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "tags": [
+      "Vector",
+      "Logo",
+      "Design",
+      "SVG"
+    ],
+    "bestFor": [
+      "Vector Design",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-illustrator",
+      "affinity-designer",
+      "inkscape",
+      "figma"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for vector design.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "game-dev-brackeys",
     "title": "Brackeys",
     "shortName": "Brackeys",
@@ -15189,6 +19652,69 @@ const generatedResources = [
       "grants"
     ],
     "primaryCategory": "Grants"
+  },
+  {
+    "id": "brandcolors",
+    "title": "BrandColors",
+    "website": "https://brandcolors.net/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Collection of official brand color codes.",
+    "longDescription": "BrandColors is a color resource in The Creative Vault. Collection of official brand color codes. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Color"
+    ],
+    "price": "Free",
+    "pricingDetails": "Free to use. Check individual licensing terms before commercial work.",
+    "rating": 4.6,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Color",
+      "Palette",
+      "Branding",
+      "Design"
+    ],
+    "bestFor": [
+      "Color",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "best-free-creative-tools"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "adobe-illustrator",
+      "affinity-designer",
+      "canva"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for color.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Free",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "freelancing-brandcrowd-designers",
@@ -15518,6 +20044,132 @@ const generatedResources = [
     "primaryCategory": "Game Dev"
   },
   {
+    "id": "brusheezy",
+    "title": "Brusheezy",
+    "website": "https://www.brusheezy.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Free and premium Photoshop brushes, patterns, and design resources.",
+    "longDescription": "Brusheezy is a brushes & textures resource in The Creative Vault. Free and premium Photoshop brushes, patterns, and design resources. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Brushes & Textures"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan or free assets available with paid upgrades or premium options.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Brushes",
+      "Textures",
+      "Assets",
+      "Design Resources"
+    ],
+    "bestFor": [
+      "Brushes & Textures",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "clip-studio-paint",
+      "krita",
+      "procreate"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for brushes & textures.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
+    "id": "brushlovers",
+    "title": "BrushLovers",
+    "website": "https://www.brushlovers.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Photoshop brush directory for free creative brush downloads.",
+    "longDescription": "BrushLovers is a brushes & textures resource in The Creative Vault. Photoshop brush directory for free creative brush downloads. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Brushes & Textures"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan or free assets available with paid upgrades or premium options.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Brushes",
+      "Textures",
+      "Assets",
+      "Design Resources"
+    ],
+    "bestFor": [
+      "Brushes & Textures",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "clip-studio-paint",
+      "krita",
+      "procreate"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for brushes & textures.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "essential-buffer-free",
     "title": "Buffer Free",
     "shortName": "Buffer Free",
@@ -15842,6 +20494,70 @@ const generatedResources = [
     "primaryCategory": "Grants"
   },
   {
+    "id": "burst",
+    "title": "Burst",
+    "website": "https://burst.shopify.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Free stock photo library from Shopify.",
+    "longDescription": "Burst is a stock images resource in The Creative Vault. Free stock photo library from Shopify. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Stock Images"
+    ],
+    "price": "Free",
+    "pricingDetails": "Free to use. Check individual licensing terms before commercial work.",
+    "rating": 4.6,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Stock",
+      "Photography",
+      "Images",
+      "Creative Assets"
+    ],
+    "bestFor": [
+      "Stock Images",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "best-free-creative-tools",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "canva",
+      "freepik",
+      "unsplash"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for stock images.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Free",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "photography-burst",
     "title": "Burst",
     "shortName": "Burst",
@@ -16054,7 +20770,7 @@ const generatedResources = [
     "verified": true,
     "featured": false,
     "editorPick": false,
-    "lastReviewed": "2026-07-09"
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "marketplace-cafepress",
@@ -16966,6 +21682,72 @@ const generatedResources = [
     "primaryCategory": "Grants"
   },
   {
+    "id": "canada-council-for-the-arts",
+    "title": "Canada Council for the Arts",
+    "website": "https://canadacouncil.ca/funding",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "National arts funding programs and grants for Canadian artists and arts organizations.",
+    "longDescription": "Canada Council for the Arts provides national funding programs, grants, and support for Canadian artists, groups, and arts organizations.",
+    "category": "Grants",
+    "categoryId": "grants",
+    "subcategories": [
+      "Canada",
+      "Artist Grants",
+      "Arts Funding"
+    ],
+    "price": "Free",
+    "pricingDetails": "Free to browse and apply where eligible.",
+    "rating": 4.8,
+    "popularity": 82,
+    "skillLevel": "Intermediate",
+    "featured": false,
+    "editorPick": true,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Funding",
+      "Canada",
+      "Grants",
+      "Artists"
+    ],
+    "bestFor": [
+      "Canadian artists",
+      "Arts organizations",
+      "Project funding"
+    ],
+    "collections": [
+      "canadian-artist-funding"
+    ],
+    "alternatives": [
+      "Ontario Arts Council",
+      "Toronto Arts Council",
+      "FACTOR",
+      "SOCAN Foundation"
+    ],
+    "related": [
+      "ontario-arts-council"
+    ],
+    "license": "Government/arts funding resource.",
+    "notes": "Core funding resource for Canadian artists.",
+    "dateAdded": "2026-07-01",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Grants"
+    ],
+    "categoryIds": [
+      "grants"
+    ],
+    "primaryCategory": "Grants",
+    "pricingModel": "Free",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "grant-canada-council-music-grants",
     "title": "Canada Council Music Grants",
     "shortName": "Canada Council Music Grants",
@@ -17252,6 +22034,140 @@ const generatedResources = [
     "editorPick": false,
     "verified": true,
     "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "canva",
+    "title": "Canva",
+    "website": "https://www.canva.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Browser-based design platform for posts, presentations, flyers, and quick layouts.",
+    "longDescription": "Canva is a template-based design platform for creating social posts, presentations, videos, flyers, brand assets, thumbnails, and marketing content quickly.",
+    "category": "Content Creation",
+    "categoryId": "content-creation",
+    "subcategories": [
+      "Templates",
+      "Social Media",
+      "Graphic Design"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan with paid Pro features.",
+    "rating": 4.4,
+    "popularity": 91,
+    "skillLevel": "Beginner",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser",
+      "iPhone",
+      "Android"
+    ],
+    "tags": [
+      "Templates",
+      "Social Media",
+      "Design",
+      "Branding"
+    ],
+    "bestFor": [
+      "Quick graphics",
+      "Social posts",
+      "Presentations",
+      "Small business marketing"
+    ],
+    "collections": [
+      "creator-video-kit"
+    ],
+    "alternatives": [
+      "Adobe Express",
+      "VistaCreate",
+      "Figma",
+      "Photoshop"
+    ],
+    "related": [
+      "adobe-photoshop",
+      "adobe-illustrator",
+      "capcut"
+    ],
+    "license": "Commercial freemium service.",
+    "notes": "Excellent for fast layouts and non-designer workflows.",
+    "dateAdded": "2026-07-01",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Content Creation"
+    ],
+    "categoryIds": [
+      "content-creation"
+    ],
+    "primaryCategory": "Content Creation",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
+    "id": "canva-ai",
+    "title": "Canva AI",
+    "company": "Canva",
+    "website": "https://www.canva.com/ai/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI design and content tools built into Canva for creators and marketers.",
+    "longDescription": "Canva AI is a ai design resource in The Creative Vault. AI design and content tools built into Canva for creators and marketers. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Design"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser",
+      "iPhone",
+      "Android"
+    ],
+    "tags": [
+      "Design",
+      "Branding",
+      "Marketing",
+      "AI"
+    ],
+    "bestFor": [
+      "AI Design",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "recraft",
+      "adobe-firefly",
+      "freepik-ai"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai design.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "essential-canva-free",
@@ -17706,6 +22622,68 @@ const generatedResources = [
     "primaryCategory": "Grants"
   },
   {
+    "id": "cargo",
+    "title": "Cargo",
+    "website": "https://cargo.site/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Portfolio platform and showcase for experimental visual websites.",
+    "longDescription": "Cargo is a inspiration resource in The Creative Vault. Portfolio platform and showcase for experimental visual websites. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Inspiration"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan or free assets available with paid upgrades or premium options.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Inspiration",
+      "Portfolio",
+      "Design",
+      "Moodboard"
+    ],
+    "bestFor": [
+      "Inspiration",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "behance",
+      "dribbble",
+      "artstation",
+      "pinterest"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for inspiration.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "essential-carrd-free",
     "title": "Carrd Free",
     "shortName": "Carrd Free",
@@ -17796,6 +22774,68 @@ const generatedResources = [
       "business"
     ],
     "primaryCategory": "Business"
+  },
+  {
+    "id": "cartesia",
+    "title": "Cartesia",
+    "company": "Cartesia",
+    "website": "https://cartesia.ai/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI voice platform for fast real-time speech generation.",
+    "longDescription": "Cartesia is a ai voice resource in The Creative Vault. AI voice platform for fast real-time speech generation. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Voice"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI Voice",
+      "Voiceover",
+      "Narration",
+      "Audio"
+    ],
+    "bestFor": [
+      "AI Voice",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "elevenlabs",
+      "playht",
+      "murf",
+      "fish-audio"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai voice.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "cascadeur",
@@ -18340,6 +23380,70 @@ const generatedResources = [
     "primaryCategory": "Learning"
   },
   {
+    "id": "cgbookcase",
+    "title": "CGBookcase",
+    "website": "https://www.cgbookcase.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Free PBR texture library for 3D artists and designers.",
+    "longDescription": "CGBookcase is a brushes & textures resource in The Creative Vault. Free PBR texture library for 3D artists and designers. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Brushes & Textures"
+    ],
+    "price": "Free",
+    "pricingDetails": "Free to use. Check individual licensing terms before commercial work.",
+    "rating": 4.6,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Brushes",
+      "Textures",
+      "Assets",
+      "Design Resources"
+    ],
+    "bestFor": [
+      "Brushes & Textures",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "best-free-creative-tools",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "clip-studio-paint",
+      "krita",
+      "procreate"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for brushes & textures.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Free",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "learning-cgma",
     "title": "CGMA",
     "shortName": "CGMA",
@@ -18470,6 +23574,69 @@ const generatedResources = [
       "marketplaces"
     ],
     "primaryCategory": "Marketplaces"
+  },
+  {
+    "id": "characterdesigns-com",
+    "title": "CharacterDesigns.com",
+    "website": "https://characterdesigns.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Free reference photos for character artists and illustrators.",
+    "longDescription": "CharacterDesigns.com is a reference resource in The Creative Vault. Free reference photos for character artists and illustrators. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Reference"
+    ],
+    "price": "Free",
+    "pricingDetails": "Free to use. Check individual licensing terms before commercial work.",
+    "rating": 4.6,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Reference",
+      "Pose",
+      "Anatomy",
+      "Drawing Practice"
+    ],
+    "bestFor": [
+      "Reference",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "best-free-creative-tools"
+    ],
+    "alternatives": [],
+    "related": [
+      "line-of-action",
+      "quickposes",
+      "posemy-art",
+      "proko"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for reference.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Free",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "game-dev-charisma-ai",
@@ -18655,6 +23822,99 @@ const generatedResources = [
     "editorPick": false,
     "verified": true,
     "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "chatgpt",
+    "title": "ChatGPT",
+    "company": "OpenAI",
+    "website": "https://chatgpt.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI assistant for writing, coding, research, brainstorming, images, and creative workflows.",
+    "longDescription": "ChatGPT is a ai assistant resource in The Creative Vault. AI assistant for writing, coding, research, brainstorming, images, and creative workflows. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Assistant"
+    ],
+    "price": "Subscription",
+    "pricingDetails": "Subscription-based service or paid plan model.",
+    "rating": 4.9,
+    "popularity": 99,
+    "skillLevel": "Beginner to Professional",
+    "featured": true,
+    "editorPick": true,
+    "openSource": false,
+    "platforms": [
+      "Browser",
+      "iPhone",
+      "Android"
+    ],
+    "tags": [
+      "AI",
+      "Assistant",
+      "Writing",
+      "Research"
+    ],
+    "bestFor": [
+      "AI Assistant",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "claude",
+      "google-gemini",
+      "perplexity"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai assistant.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "shortName": "ChatGPT",
+    "companyWebsite": "https://openai.com/",
+    "type": "AI Assistant",
+    "industries": [
+      "Writing",
+      "Coding",
+      "Research",
+      "Design",
+      "Education"
+    ],
+    "whyUseIt": "Use it as a flexible creative partner for planning, writing, coding, research, brainstorming, image prompts, and workflow design.",
+    "pros": [
+      "Extremely flexible",
+      "Strong for writing and coding",
+      "Useful for image and creative direction",
+      "Good for brainstorming"
+    ],
+    "cons": [
+      "Needs verification for factual work",
+      "Output quality depends heavily on prompts"
+    ],
+    "api": true,
+    "ai": true,
+    "browserSupport": true,
+    "mobileSupport": true,
+    "commercialUse": true,
+    "beginnerFriendly": true,
+    "professional": true,
+    "industryStandard": true,
+    "learningCurve": "Easy",
+    "documentation": "https://help.openai.com/",
+    "lastReviewed": "2026-07-07",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Subscription",
+    "verified": true
   },
   {
     "id": "learning-checklist-design",
@@ -19146,6 +24406,104 @@ const generatedResources = [
     "primaryCategory": "Learning"
   },
   {
+    "id": "cinema-4d",
+    "title": "Cinema 4D",
+    "shortName": "Cinema 4D",
+    "company": "Maxon",
+    "companyWebsite": "",
+    "website": "https://www.maxon.net/en/cinema-4d",
+    "logo": "",
+    "favicon": "",
+    "heroImage": "",
+    "screenshots": [],
+    "category": "3D / CAD",
+    "categoryId": "3d-cad",
+    "subcategories": [
+      "3D Modeling",
+      "Motion Graphics"
+    ],
+    "type": "Software",
+    "industries": [],
+    "useCases": [],
+    "tags": [
+      "3D",
+      "Motion Graphics"
+    ],
+    "collections": [],
+    "shortDescription": "Professional 3D software known for motion graphics, design, and visualization.",
+    "longDescription": "Cinema 4D is part of the Maxon ecosystem in The Creative Vault. Professional 3D software known for motion graphics, design, and visualization.",
+    "whyUseIt": "",
+    "bestFor": [
+      "3D Modeling",
+      "Motion Graphics",
+      "Creative workflows"
+    ],
+    "pros": [],
+    "cons": [],
+    "notes": "Added as part of the V7 ecosystem architecture.",
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "operatingSystems": [
+      "Windows",
+      "Mac"
+    ],
+    "mobileSupport": false,
+    "browserSupport": false,
+    "offline": true,
+    "cloudSync": false,
+    "fileFormats": [],
+    "integrations": [],
+    "api": false,
+    "plugins": false,
+    "extensions": false,
+    "ai": false,
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "pricingDetails": "Check official website for current pricing and licensing.",
+    "freeTrial": true,
+    "studentDiscount": false,
+    "commercialUse": null,
+    "license": "Licensing varies. Check the official website before commercial use.",
+    "licenseType": "",
+    "rating": 4.5,
+    "popularity": 75,
+    "beginnerFriendly": false,
+    "professional": true,
+    "learningCurve": "Medium",
+    "industryStandard": true,
+    "openSource": false,
+    "verified": true,
+    "lastReviewed": "2026-07-07",
+    "alternatives": [],
+    "competitors": [],
+    "related": [
+      "blender",
+      "maya"
+    ],
+    "tutorials": [],
+    "youtubeChannels": [],
+    "documentation": "",
+    "community": "",
+    "discord": "",
+    "reddit": "",
+    "github": "",
+    "twitter": "",
+    "instagram": "",
+    "featured": true,
+    "editorPick": true,
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "3D / CAD"
+    ],
+    "categoryIds": [
+      "3d-cad"
+    ],
+    "primaryCategory": "3D / CAD"
+  },
+  {
     "id": "software-cinema-4d",
     "title": "Cinema 4D",
     "shortName": "Cinema 4D",
@@ -19157,13 +24515,17 @@ const generatedResources = [
       "Software",
       "3D Modeling",
       "Motion Graphics",
-      "Rendering"
+      "Rendering",
+      "3D / CAD",
+      "Video"
     ],
     "categoryIds": [
       "software",
       "3d-modeling",
       "motion-graphics",
-      "rendering"
+      "rendering",
+      "3d-cad",
+      "video"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -19531,6 +24893,132 @@ const generatedResources = [
     "primaryCategory": "Grants"
   },
   {
+    "id": "claude",
+    "title": "Claude",
+    "company": "Anthropic",
+    "website": "https://claude.ai/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI assistant known for writing, reasoning, coding, analysis, and long-context document work.",
+    "longDescription": "Claude is a ai assistant resource in The Creative Vault. AI assistant known for writing, reasoning, coding, analysis, and long-context document work. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Assistant"
+    ],
+    "price": "Subscription",
+    "pricingDetails": "Subscription-based service or paid plan model.",
+    "rating": 4.8,
+    "popularity": 94,
+    "skillLevel": "Beginner to Professional",
+    "featured": true,
+    "editorPick": true,
+    "openSource": false,
+    "platforms": [
+      "Browser",
+      "iPhone",
+      "Android"
+    ],
+    "tags": [
+      "AI",
+      "Assistant",
+      "Writing",
+      "Research"
+    ],
+    "bestFor": [
+      "AI Assistant",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "chatgpt",
+      "google-gemini",
+      "perplexity"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai assistant.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Subscription",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
+    "id": "cleanup-pictures",
+    "title": "Cleanup.pictures",
+    "company": "Clipdrop",
+    "website": "https://cleanup.pictures/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI object removal and image cleanup tool.",
+    "longDescription": "Cleanup.pictures is a ai image resource in The Creative Vault. AI object removal and image cleanup tool. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Image"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI",
+      "Image Generation",
+      "Concept Art",
+      "Visuals"
+    ],
+    "bestFor": [
+      "AI Image",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit",
+      "ai-image-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "midjourney",
+      "leonardo-ai",
+      "ideogram",
+      "adobe-firefly"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai image.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "photography-clear-outside",
     "title": "Clear Outside",
     "shortName": "Clear Outside",
@@ -19800,6 +25288,108 @@ const generatedResources = [
     "primaryCategory": "Game Dev"
   },
   {
+    "id": "clickup",
+    "title": "ClickUp",
+    "shortName": "ClickUp",
+    "company": "ClickUp",
+    "companyWebsite": "",
+    "website": "https://clickup.com/",
+    "logo": "",
+    "favicon": "",
+    "heroImage": "",
+    "screenshots": [],
+    "category": "Business",
+    "categoryId": "business",
+    "subcategories": [
+      "Project Management"
+    ],
+    "type": "Software",
+    "industries": [],
+    "useCases": [],
+    "tags": [
+      "Projects",
+      "Tasks"
+    ],
+    "collections": [],
+    "shortDescription": "Project management and productivity platform for tasks, docs, goals, and teams.",
+    "longDescription": "ClickUp is part of the ClickUp ecosystem in The Creative Vault. Project management and productivity platform for tasks, docs, goals, and teams.",
+    "whyUseIt": "",
+    "bestFor": [
+      "Project Management",
+      "Creative workflows"
+    ],
+    "pros": [],
+    "cons": [],
+    "notes": "Added as part of the V7 ecosystem architecture.",
+    "platforms": [
+      "Browser",
+      "Windows",
+      "Mac",
+      "iPhone",
+      "Android"
+    ],
+    "operatingSystems": [
+      "Browser",
+      "Windows",
+      "Mac",
+      "iPhone",
+      "Android"
+    ],
+    "mobileSupport": true,
+    "browserSupport": true,
+    "offline": false,
+    "cloudSync": false,
+    "fileFormats": [],
+    "integrations": [],
+    "api": false,
+    "plugins": false,
+    "extensions": false,
+    "ai": true,
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "pricingDetails": "Check official website for current pricing and licensing.",
+    "freeTrial": true,
+    "studentDiscount": false,
+    "commercialUse": null,
+    "license": "Licensing varies. Check the official website before commercial use.",
+    "licenseType": "",
+    "rating": 4.5,
+    "popularity": 75,
+    "beginnerFriendly": false,
+    "professional": true,
+    "learningCurve": "Medium",
+    "industryStandard": false,
+    "openSource": false,
+    "verified": true,
+    "lastReviewed": "2026-07-07",
+    "alternatives": [],
+    "competitors": [],
+    "related": [
+      "notion",
+      "asana"
+    ],
+    "tutorials": [],
+    "youtubeChannels": [],
+    "documentation": "",
+    "community": "",
+    "discord": "",
+    "reddit": "",
+    "github": "",
+    "twitter": "",
+    "instagram": "",
+    "featured": false,
+    "editorPick": true,
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "Business"
+    ],
+    "categoryIds": [
+      "business"
+    ],
+    "primaryCategory": "Business"
+  },
+  {
     "id": "freelancing-clickup",
     "title": "ClickUp",
     "shortName": "ClickUp",
@@ -19934,6 +25524,68 @@ const generatedResources = [
     "editorPick": false,
     "verified": true,
     "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "clip-studio-paint",
+    "title": "Clip Studio Paint",
+    "website": "https://www.clipstudio.net/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Illustration, comics, manga, and animation software with strong brushes and asset support.",
+    "longDescription": "Clip Studio Paint is a drawing & painting resource in The Creative Vault. Illustration, comics, manga, and animation software with strong brushes and asset support. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Drawing & Painting"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.8,
+    "popularity": 92,
+    "skillLevel": "Beginner to Professional",
+    "featured": true,
+    "editorPick": true,
+    "openSource": false,
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "tags": [
+      "Drawing",
+      "Painting",
+      "Illustration",
+      "Digital Art"
+    ],
+    "bestFor": [
+      "Drawing & Painting",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "krita",
+      "procreate"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for drawing & painting.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "game-dev-clip-studio-paint",
@@ -20071,6 +25723,69 @@ const generatedResources = [
     "editorPick": false,
     "verified": true,
     "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "clipdrop",
+    "title": "Clipdrop",
+    "company": "Clipdrop",
+    "website": "https://clipdrop.co/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI image editing tools for cleanup, background removal, relighting, and generation.",
+    "longDescription": "Clipdrop is a ai image resource in The Creative Vault. AI image editing tools for cleanup, background removal, relighting, and generation. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Image"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI",
+      "Image Generation",
+      "Concept Art",
+      "Visuals"
+    ],
+    "bestFor": [
+      "AI Image",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit",
+      "ai-image-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "midjourney",
+      "leonardo-ai",
+      "ideogram",
+      "adobe-firefly"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai image.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "freelancing-clockify",
@@ -20564,6 +26279,69 @@ const generatedResources = [
     "primaryCategory": "Game Dev"
   },
   {
+    "id": "codeium",
+    "title": "Codeium",
+    "company": "Codeium",
+    "website": "https://codeium.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI coding assistant and autocomplete tool for developers.",
+    "longDescription": "Codeium is a ai coding resource in The Creative Vault. AI coding assistant and autocomplete tool for developers. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Coding"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI Coding",
+      "Developer",
+      "App Builder",
+      "Vibe Coding"
+    ],
+    "bestFor": [
+      "AI Coding",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit",
+      "ai-coding-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "cursor",
+      "windsurf",
+      "github-copilot",
+      "replit"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai coding.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "codepen",
     "title": "CodePen",
     "shortName": "CodePen",
@@ -20738,6 +26516,68 @@ const generatedResources = [
     "editorPick": false,
     "verified": true,
     "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "collectui",
+    "title": "CollectUI",
+    "website": "https://collectui.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Daily UI design inspiration gallery.",
+    "longDescription": "CollectUI is a inspiration resource in The Creative Vault. Daily UI design inspiration gallery. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Inspiration"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan or free assets available with paid upgrades or premium options.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Inspiration",
+      "Portfolio",
+      "Design",
+      "Moodboard"
+    ],
+    "bestFor": [
+      "Inspiration",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "behance",
+      "dribbble",
+      "artstation",
+      "pinterest"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for inspiration.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "essential-collletttivo",
@@ -20924,6 +26764,68 @@ const generatedResources = [
     "primaryCategory": "Typography"
   },
   {
+    "id": "color-designer",
+    "title": "Color Designer",
+    "website": "https://colordesigner.io/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Color palette generator and color tools for designers.",
+    "longDescription": "Color Designer is a color resource in The Creative Vault. Color palette generator and color tools for designers. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Color"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Color",
+      "Palette",
+      "Branding",
+      "Design"
+    ],
+    "bestFor": [
+      "Color",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "adobe-illustrator",
+      "affinity-designer",
+      "canva"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for color.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "essential-color-hunt",
     "title": "Color Hunt",
     "shortName": "Color Hunt",
@@ -20971,6 +26873,69 @@ const generatedResources = [
     "editorPick": false,
     "verified": true,
     "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "color-hunt",
+    "title": "Color Hunt",
+    "website": "https://colorhunt.co/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Curated color palette inspiration for designers and artists.",
+    "longDescription": "Color Hunt is a color resource in The Creative Vault. Curated color palette inspiration for designers and artists. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Color"
+    ],
+    "price": "Free",
+    "pricingDetails": "Free to use. Check individual licensing terms before commercial work.",
+    "rating": 4.6,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Color",
+      "Palette",
+      "Branding",
+      "Design"
+    ],
+    "bestFor": [
+      "Color",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "best-free-creative-tools"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "adobe-illustrator",
+      "affinity-designer",
+      "canva"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for color.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Free",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "essential-color-safe",
@@ -21206,6 +27171,68 @@ const generatedResources = [
     "primaryCategory": "Grants"
   },
   {
+    "id": "colorbox",
+    "title": "ColorBox",
+    "website": "https://colorbox.io/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Color scale generator for design systems and UI palettes.",
+    "longDescription": "ColorBox is a color resource in The Creative Vault. Color scale generator for design systems and UI palettes. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Color"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Color",
+      "Palette",
+      "Branding",
+      "Design"
+    ],
+    "bestFor": [
+      "Color",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "adobe-illustrator",
+      "affinity-designer",
+      "canva"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for color.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "photography-colorize-cc",
     "title": "Colorize.cc",
     "shortName": "Colorize.cc",
@@ -21299,6 +27326,131 @@ const generatedResources = [
     "lastReviewed": "2026-07-08"
   },
   {
+    "id": "colormind",
+    "title": "Colormind",
+    "website": "http://colormind.io/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI-powered color palette generator.",
+    "longDescription": "Colormind is a color resource in The Creative Vault. AI-powered color palette generator. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Color"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan or free assets available with paid upgrades or premium options.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Color",
+      "Palette",
+      "Branding",
+      "Design"
+    ],
+    "bestFor": [
+      "Color",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "adobe-illustrator",
+      "affinity-designer",
+      "canva"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for color.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
+    "id": "colossyan",
+    "title": "Colossyan",
+    "company": "Colossyan",
+    "website": "https://www.colossyan.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI video generation platform for workplace learning and training content.",
+    "longDescription": "Colossyan is a ai video resource in The Creative Vault. AI video generation platform for workplace learning and training content. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Video"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI Video",
+      "Video Generation",
+      "Motion",
+      "Filmmaking"
+    ],
+    "bestFor": [
+      "AI Video",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit",
+      "ai-video-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "runway",
+      "kling-ai",
+      "pika",
+      "luma-dream-machine"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai video.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "game-dev-colyseus",
     "title": "Colyseus",
     "shortName": "Colyseus",
@@ -21344,6 +27496,96 @@ const generatedResources = [
       "game-dev"
     ],
     "primaryCategory": "Game Dev"
+  },
+  {
+    "id": "comfyui",
+    "title": "ComfyUI",
+    "company": "Open Source Community",
+    "website": "https://github.com/comfyanonymous/ComfyUI",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Node-based interface for advanced Stable Diffusion and AI image workflows.",
+    "longDescription": "ComfyUI is a ai image resource in The Creative Vault. Node-based interface for advanced Stable Diffusion and AI image workflows. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Image"
+    ],
+    "price": "Free",
+    "pricingDetails": "Free to use. Check usage limits and licensing before commercial work.",
+    "rating": 4.6,
+    "popularity": 86,
+    "skillLevel": "Beginner to Professional",
+    "featured": true,
+    "editorPick": true,
+    "openSource": true,
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "tags": [
+      "AI",
+      "Image Generation",
+      "Concept Art",
+      "Visuals"
+    ],
+    "bestFor": [
+      "AI Image",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit",
+      "ai-image-kit",
+      "best-free-creative-tools"
+    ],
+    "alternatives": [],
+    "related": [
+      "midjourney",
+      "leonardo-ai",
+      "ideogram",
+      "adobe-firefly"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai image.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "type": "Local AI Workflow Tool",
+    "industries": [
+      "AI Art",
+      "Research",
+      "Automation",
+      "Image Generation"
+    ],
+    "whyUseIt": "Use it when you want deep control over local AI image workflows, node graphs, custom models, ControlNet, and repeatable generation pipelines.",
+    "pros": [
+      "Powerful node workflows",
+      "Open source",
+      "Excellent control",
+      "Huge community ecosystem"
+    ],
+    "cons": [
+      "Technical learning curve",
+      "Requires local hardware or hosted setup"
+    ],
+    "ai": true,
+    "offline": true,
+    "commercialUse": null,
+    "beginnerFriendly": false,
+    "professional": true,
+    "learningCurve": "Hard",
+    "github": "https://github.com/comfyanonymous/ComfyUI",
+    "lastReviewed": "2026-07-07",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Free",
+    "verified": true
   },
   {
     "id": "typography-commercial-type",
@@ -21487,6 +27729,132 @@ const generatedResources = [
     "lastReviewed": "2026-07-08"
   },
   {
+    "id": "concepts",
+    "title": "Concepts",
+    "website": "https://concepts.app/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Flexible sketching, design, and visual thinking app with an infinite canvas.",
+    "longDescription": "Concepts is a drawing & painting resource in The Creative Vault. Flexible sketching, design, and visual thinking app with an infinite canvas. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Drawing & Painting"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan or free assets available with paid upgrades or premium options.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "iPad",
+      "iPhone",
+      "Android"
+    ],
+    "tags": [
+      "Drawing",
+      "Painting",
+      "Illustration",
+      "Digital Art"
+    ],
+    "bestFor": [
+      "Drawing & Painting",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "clip-studio-paint",
+      "krita",
+      "procreate"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for drawing & painting.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
+    "id": "connected-papers",
+    "title": "Connected Papers",
+    "company": "Connected Papers",
+    "website": "https://www.connectedpapers.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Visual tool for discovering related academic papers.",
+    "longDescription": "Connected Papers is a ai research resource in The Creative Vault. Visual tool for discovering related academic papers. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Research"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI Research",
+      "Search",
+      "Sources",
+      "Knowledge"
+    ],
+    "bestFor": [
+      "AI Research",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "perplexity",
+      "notebooklm",
+      "elicit",
+      "consensus"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai research.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "essential-connected-papers",
     "title": "Connected Papers",
     "shortName": "Connected Papers",
@@ -21585,6 +27953,67 @@ const generatedResources = [
     "primaryCategory": "Grants"
   },
   {
+    "id": "consensus",
+    "title": "Consensus",
+    "company": "Consensus",
+    "website": "https://consensus.app/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI search engine for answers grounded in scientific research papers.",
+    "longDescription": "Consensus is a ai research resource in The Creative Vault. AI search engine for answers grounded in scientific research papers. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Research"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI Research",
+      "Search",
+      "Sources",
+      "Knowledge"
+    ],
+    "bestFor": [
+      "AI Research",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "perplexity",
+      "notebooklm",
+      "elicit"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai research.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "game-dev-construct-3",
     "title": "Construct 3",
     "shortName": "Construct 3",
@@ -21674,6 +28103,72 @@ const generatedResources = [
       "freelancing"
     ],
     "primaryCategory": "Freelancing"
+  },
+  {
+    "id": "continue-dev",
+    "title": "Continue.dev",
+    "company": "Continue",
+    "website": "https://www.continue.dev/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Open-source AI coding assistant for IDEs and local models.",
+    "longDescription": "Continue.dev is a ai coding resource in The Creative Vault. Open-source AI coding assistant for IDEs and local models. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Coding"
+    ],
+    "price": "Free",
+    "pricingDetails": "Free to use. Check usage limits and licensing before commercial work.",
+    "rating": 4.5,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": true,
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "tags": [
+      "AI Coding",
+      "Developer",
+      "App Builder",
+      "Vibe Coding"
+    ],
+    "bestFor": [
+      "AI Coding",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit",
+      "ai-coding-kit",
+      "best-free-creative-tools"
+    ],
+    "alternatives": [],
+    "related": [
+      "cursor",
+      "windsurf",
+      "github-copilot",
+      "replit"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai coding.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Free",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "freelancing-contra",
@@ -21950,6 +28445,68 @@ const generatedResources = [
     "primaryCategory": "Learning"
   },
   {
+    "id": "coolhue",
+    "title": "CoolHue",
+    "website": "https://webkul.github.io/coolhue/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Gradient palette collection for UI and graphic design.",
+    "longDescription": "CoolHue is a color resource in The Creative Vault. Gradient palette collection for UI and graphic design. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Color"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Color",
+      "Palette",
+      "Branding",
+      "Design"
+    ],
+    "bestFor": [
+      "Color",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "adobe-illustrator",
+      "affinity-designer",
+      "canva"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for color.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "essential-coolors",
     "title": "Coolors",
     "shortName": "Coolors",
@@ -21997,6 +28554,131 @@ const generatedResources = [
     "editorPick": false,
     "verified": true,
     "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "coolors",
+    "title": "Coolors",
+    "website": "https://coolors.co/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Fast color palette generator for artists, designers, and brands.",
+    "longDescription": "Coolors is a color resource in The Creative Vault. Fast color palette generator for artists, designers, and brands. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Color"
+    ],
+    "price": "Free",
+    "pricingDetails": "Free to use. Check individual licensing terms before commercial work.",
+    "rating": 4.6,
+    "popularity": 86,
+    "skillLevel": "Beginner to Professional",
+    "featured": true,
+    "editorPick": true,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Color",
+      "Palette",
+      "Branding",
+      "Design"
+    ],
+    "bestFor": [
+      "Color",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "best-free-creative-tools"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "adobe-illustrator",
+      "affinity-designer",
+      "canva"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for color.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Free",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
+    "id": "copy-ai",
+    "title": "Copy.ai",
+    "company": "Copy.ai",
+    "website": "https://www.copy.ai/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI copywriting and go-to-market content platform.",
+    "longDescription": "Copy.ai is a ai writing resource in The Creative Vault. AI copywriting and go-to-market content platform. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Writing"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Writing",
+      "Copywriting",
+      "Content",
+      "AI"
+    ],
+    "bestFor": [
+      "AI Writing",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "chatgpt",
+      "claude",
+      "grammarly",
+      "jasper"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai writing.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "learning-copyblogger",
@@ -22090,6 +28772,132 @@ const generatedResources = [
     "editorPick": false,
     "verified": true,
     "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "corel-painter",
+    "title": "Corel Painter",
+    "website": "https://www.painterartist.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Professional digital painting software focused on traditional media simulation.",
+    "longDescription": "Corel Painter is a drawing & painting resource in The Creative Vault. Professional digital painting software focused on traditional media simulation. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Drawing & Painting"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "tags": [
+      "Drawing",
+      "Painting",
+      "Illustration",
+      "Digital Art"
+    ],
+    "bestFor": [
+      "Drawing & Painting",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "clip-studio-paint",
+      "krita",
+      "procreate"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for drawing & painting.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
+    "id": "coreldraw",
+    "title": "CorelDRAW",
+    "website": "https://www.coreldraw.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Professional vector illustration, layout, and design software suite.",
+    "longDescription": "CorelDRAW is a vector design resource in The Creative Vault. Professional vector illustration, layout, and design software suite. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Vector Design"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "tags": [
+      "Vector",
+      "Logo",
+      "Design",
+      "SVG"
+    ],
+    "bestFor": [
+      "Vector Design",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-illustrator",
+      "affinity-designer",
+      "inkscape",
+      "figma"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for vector design.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "learning-corridor-crew",
@@ -22227,6 +29035,68 @@ const generatedResources = [
       "assets"
     ],
     "primaryCategory": "Assets"
+  },
+  {
+    "id": "cosmos",
+    "title": "Cosmos",
+    "website": "https://www.cosmos.so/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Visual bookmarking and inspiration platform for creatives.",
+    "longDescription": "Cosmos is a inspiration resource in The Creative Vault. Visual bookmarking and inspiration platform for creatives. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Inspiration"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan or free assets available with paid upgrades or premium options.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Inspiration",
+      "Portfolio",
+      "Design",
+      "Moodboard"
+    ],
+    "bestFor": [
+      "Inspiration",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "behance",
+      "dribbble",
+      "artstation",
+      "pinterest"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for inspiration.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "learning-coursera",
@@ -22738,6 +29608,69 @@ const generatedResources = [
     "primaryCategory": "Grants"
   },
   {
+    "id": "creative-fabrica",
+    "title": "Creative Fabrica",
+    "website": "https://www.creativefabrica.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Marketplace for fonts, graphics, crafts, templates, and creative assets.",
+    "longDescription": "Creative Fabrica is a fonts resource in The Creative Vault. Marketplace for fonts, graphics, crafts, templates, and creative assets. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Fonts"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan or free assets available with paid upgrades or premium options.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Fonts",
+      "Typography",
+      "Type",
+      "Design Resources"
+    ],
+    "bestFor": [
+      "Fonts",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-illustrator",
+      "affinity-designer",
+      "canva",
+      "adobe-photoshop"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for fonts.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "marketplace-creative-fabrica",
     "title": "Creative Fabrica",
     "shortName": "Creative Fabrica",
@@ -22781,6 +29714,69 @@ const generatedResources = [
     "primaryCategory": "Marketplaces"
   },
   {
+    "id": "creative-market",
+    "title": "Creative Market",
+    "website": "https://creativemarket.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Marketplace for fonts, templates, mockups, graphics, brushes, and design assets.",
+    "longDescription": "Creative Market is a brushes & textures resource in The Creative Vault. Marketplace for fonts, templates, mockups, graphics, brushes, and design assets. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Brushes & Textures"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan or free assets available with paid upgrades or premium options.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Brushes",
+      "Textures",
+      "Assets",
+      "Design Resources"
+    ],
+    "bestFor": [
+      "Brushes & Textures",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "clip-studio-paint",
+      "krita",
+      "procreate"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for brushes & textures.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "marketplace-creative-market",
     "title": "Creative Market",
     "shortName": "Creative Market",
@@ -22822,6 +29818,69 @@ const generatedResources = [
       "marketplaces"
     ],
     "primaryCategory": "Marketplaces"
+  },
+  {
+    "id": "creative-market-mockups",
+    "title": "Creative Market Mockups",
+    "website": "https://creativemarket.com/templates/mockups",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Marketplace for premium mockups and presentation assets.",
+    "longDescription": "Creative Market Mockups is a mockups resource in The Creative Vault. Marketplace for premium mockups and presentation assets. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Mockups"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Mockups",
+      "Presentation",
+      "Branding",
+      "Design Assets"
+    ],
+    "bestFor": [
+      "Mockups",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "affinity-photo",
+      "canva",
+      "creative-market"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for mockups.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "grant-creative-new-zealand",
@@ -23240,6 +30299,68 @@ const generatedResources = [
     "primaryCategory": "Learning"
   },
   {
+    "id": "crewai",
+    "title": "CrewAI",
+    "company": "CrewAI",
+    "website": "https://www.crewai.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Framework and platform for building multi-agent AI workflows.",
+    "longDescription": "CrewAI is a ai automation resource in The Creative Vault. Framework and platform for building multi-agent AI workflows. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Automation"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Intermediate to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": true,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Automation",
+      "Agents",
+      "Workflows",
+      "APIs"
+    ],
+    "bestFor": [
+      "AI Automation",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "n8n",
+      "zapier-ai",
+      "make",
+      "flowise"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai automation.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "game-dev-extra-crocotile-3d",
     "title": "CrocoTile 3D",
     "shortName": "CrocoTile 3D",
@@ -23334,6 +30455,69 @@ const generatedResources = [
     "editorPick": false,
     "verified": true,
     "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "croquis-cafe",
+    "title": "Croquis Cafe",
+    "website": "https://croquis.cafe/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Figure drawing reference videos and photo sets.",
+    "longDescription": "Croquis Cafe is a reference resource in The Creative Vault. Figure drawing reference videos and photo sets. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Reference"
+    ],
+    "price": "Free",
+    "pricingDetails": "Free to use. Check individual licensing terms before commercial work.",
+    "rating": 4.6,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Reference",
+      "Pose",
+      "Anatomy",
+      "Drawing Practice"
+    ],
+    "bestFor": [
+      "Reference",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "best-free-creative-tools"
+    ],
+    "alternatives": [],
+    "related": [
+      "line-of-action",
+      "quickposes",
+      "posemy-art",
+      "proko"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for reference.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Free",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "learning-crossmind-studio",
@@ -23562,6 +30746,68 @@ const generatedResources = [
     "primaryCategory": "Game Dev"
   },
   {
+    "id": "css-design-awards",
+    "title": "CSS Design Awards",
+    "website": "https://www.cssdesignawards.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Award platform for creative web design and UI inspiration.",
+    "longDescription": "CSS Design Awards is a inspiration resource in The Creative Vault. Award platform for creative web design and UI inspiration. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Inspiration"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan or free assets available with paid upgrades or premium options.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Inspiration",
+      "Portfolio",
+      "Design",
+      "Moodboard"
+    ],
+    "bestFor": [
+      "Inspiration",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "behance",
+      "dribbble",
+      "artstation",
+      "pinterest"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for inspiration.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "learning-css-tricks",
     "title": "CSS-Tricks",
     "shortName": "CSS-Tricks",
@@ -23739,6 +30985,69 @@ const generatedResources = [
     "primaryCategory": "Music"
   },
   {
+    "id": "cubebrush",
+    "title": "Cubebrush",
+    "website": "https://cubebrush.co/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Marketplace for brushes, tutorials, 3D assets, and art resources.",
+    "longDescription": "Cubebrush is a brushes & textures resource in The Creative Vault. Marketplace for brushes, tutorials, 3D assets, and art resources. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Brushes & Textures"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan or free assets available with paid upgrades or premium options.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Brushes",
+      "Textures",
+      "Assets",
+      "Design Resources"
+    ],
+    "bestFor": [
+      "Brushes & Textures",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "clip-studio-paint",
+      "krita",
+      "procreate"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for brushes & textures.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "grant-culture-moves-europe",
     "title": "Culture Moves Europe",
     "shortName": "Culture Moves Europe",
@@ -23833,6 +31142,133 @@ const generatedResources = [
     "primaryCategory": "Game Dev"
   },
   {
+    "id": "cursor",
+    "title": "Cursor",
+    "company": "Anysphere",
+    "website": "https://www.cursor.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI-powered code editor for building, editing, debugging, and refactoring projects.",
+    "longDescription": "Cursor is a ai coding resource in The Creative Vault. AI-powered code editor for building, editing, debugging, and refactoring projects. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Coding"
+    ],
+    "price": "Subscription",
+    "pricingDetails": "Subscription-based service or paid plan model.",
+    "rating": 4.8,
+    "popularity": 92,
+    "skillLevel": "Beginner to Professional",
+    "featured": true,
+    "editorPick": true,
+    "openSource": false,
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "tags": [
+      "AI Coding",
+      "Developer",
+      "App Builder",
+      "Vibe Coding"
+    ],
+    "bestFor": [
+      "AI Coding",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit",
+      "ai-coding-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "windsurf",
+      "github-copilot",
+      "replit"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai coding.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Subscription",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
+    "id": "d-id",
+    "title": "D-ID",
+    "company": "D-ID",
+    "website": "https://www.d-id.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI avatar and talking-head video generation platform.",
+    "longDescription": "D-ID is a ai video resource in The Creative Vault. AI avatar and talking-head video generation platform. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Video"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI Video",
+      "Video Generation",
+      "Motion",
+      "Filmmaking"
+    ],
+    "bestFor": [
+      "AI Video",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit",
+      "ai-video-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "runway",
+      "kling-ai",
+      "pika",
+      "luma-dream-machine"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai video.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "writing-dabble",
     "title": "Dabble",
     "shortName": "Dabble",
@@ -23874,6 +31310,69 @@ const generatedResources = [
       "writing"
     ],
     "primaryCategory": "Writing"
+  },
+  {
+    "id": "dafont",
+    "title": "DaFont",
+    "website": "https://www.dafont.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Large free font directory with decorative, display, and novelty fonts.",
+    "longDescription": "DaFont is a fonts resource in The Creative Vault. Large free font directory with decorative, display, and novelty fonts. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Fonts"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan or free assets available with paid upgrades or premium options.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Fonts",
+      "Typography",
+      "Type",
+      "Design Resources"
+    ],
+    "bestFor": [
+      "Fonts",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-illustrator",
+      "affinity-designer",
+      "canva",
+      "adobe-photoshop"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for fonts.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "game-dev-extra-dafont",
@@ -24373,6 +31872,78 @@ const generatedResources = [
     "primaryCategory": "Learning"
   },
   {
+    "id": "davinci-resolve",
+    "title": "DaVinci Resolve",
+    "website": "https://www.blackmagicdesign.com/products/davinciresolve",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Professional video editing, color grading, VFX, and audio post-production.",
+    "longDescription": "DaVinci Resolve combines professional editing, color grading, visual effects, motion graphics, and audio post-production in one application.",
+    "category": "Video",
+    "categoryId": "video",
+    "subcategories": [
+      "Video Editing",
+      "Color Grading",
+      "VFX",
+      "Audio Post"
+    ],
+    "price": "Free",
+    "pricingDetails": "Free version available. Paid Studio version unlocks extra features.",
+    "rating": 4.8,
+    "popularity": 93,
+    "skillLevel": "Intermediate to Professional",
+    "featured": true,
+    "editorPick": true,
+    "openSource": false,
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "tags": [
+      "Editing",
+      "Color",
+      "VFX",
+      "Post Production",
+      "Film"
+    ],
+    "bestFor": [
+      "Video editing",
+      "Color grading",
+      "YouTube",
+      "Film post-production"
+    ],
+    "collections": [
+      "best-free-creative-tools",
+      "creator-video-kit"
+    ],
+    "alternatives": [
+      "Premiere Pro",
+      "Final Cut Pro",
+      "CapCut",
+      "Kdenlive"
+    ],
+    "related": [
+      "capcut"
+    ],
+    "license": "Commercial software with free version.",
+    "notes": "One of the best free professional-grade video tools.",
+    "dateAdded": "2026-07-01",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Video"
+    ],
+    "categoryIds": [
+      "video"
+    ],
+    "primaryCategory": "Video",
+    "pricingModel": "Free",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "software-davinci-resolve",
     "title": "DaVinci Resolve",
     "shortName": "DaVinci Resolve",
@@ -24384,13 +31955,15 @@ const generatedResources = [
       "Software",
       "Video Editing",
       "Color Grading",
-      "Post Production"
+      "Post Production",
+      "Video"
     ],
     "categoryIds": [
       "software",
       "video-editing",
       "color-grading",
-      "post-production"
+      "post-production",
+      "video"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -24505,13 +32078,15 @@ const generatedResources = [
       "Software",
       "Video Editing",
       "Color Grading",
-      "VFX"
+      "VFX",
+      "Video"
     ],
     "categoryIds": [
       "software",
       "video-editing",
       "color-grading",
-      "vfx"
+      "vfx",
+      "video"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -24591,7 +32166,7 @@ const generatedResources = [
     "verified": true,
     "featured": false,
     "editorPick": false,
-    "lastReviewed": "2026-07-09"
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "marketplace-daz-3d-shop",
@@ -25010,6 +32585,69 @@ const generatedResources = [
     "primaryCategory": "Game Dev"
   },
   {
+    "id": "depositphotos",
+    "title": "Depositphotos",
+    "website": "https://depositphotos.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Stock photo, vector, and video marketplace.",
+    "longDescription": "Depositphotos is a stock images resource in The Creative Vault. Stock photo, vector, and video marketplace. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Stock Images"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Stock",
+      "Photography",
+      "Images",
+      "Creative Assets"
+    ],
+    "bestFor": [
+      "Stock Images",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "canva",
+      "freepik",
+      "unsplash"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for stock images.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "marketplace-depositphotos",
     "title": "Depositphotos",
     "shortName": "Depositphotos",
@@ -25137,6 +32775,67 @@ const generatedResources = [
     "editorPick": false,
     "verified": true,
     "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "descript",
+    "title": "Descript",
+    "company": "Descript",
+    "website": "https://www.descript.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI-powered audio and video editing platform with transcription and cleanup tools.",
+    "longDescription": "Descript is a ai audio resource in The Creative Vault. AI-powered audio and video editing platform with transcription and cleanup tools. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Audio"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Audio",
+      "Cleanup",
+      "Podcasting",
+      "Sound"
+    ],
+    "bestFor": [
+      "AI Audio",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-podcast",
+      "elevenlabs",
+      "krisp"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai audio.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "video-descript-video",
@@ -25532,6 +33231,68 @@ const generatedResources = [
     "primaryCategory": "Learning"
   },
   {
+    "id": "designspiration",
+    "title": "Designspiration",
+    "website": "https://www.designspiration.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Design and visual inspiration search platform.",
+    "longDescription": "Designspiration is a inspiration resource in The Creative Vault. Design and visual inspiration search platform. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Inspiration"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Inspiration",
+      "Portfolio",
+      "Design",
+      "Moodboard"
+    ],
+    "bestFor": [
+      "Inspiration",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "behance",
+      "dribbble",
+      "artstation",
+      "pinterest"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for inspiration.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "public-domain-deutsche-digitale-bibliothek",
     "title": "Deutsche Digitale Bibliothek",
     "shortName": "Deutsche Digitale Bibliothek",
@@ -25622,6 +33383,69 @@ const generatedResources = [
     "editorPick": false,
     "verified": true,
     "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "deviantart",
+    "title": "DeviantArt",
+    "website": "https://www.deviantart.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Long-running online art community and gallery platform.",
+    "longDescription": "DeviantArt is a inspiration resource in The Creative Vault. Long-running online art community and gallery platform. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Inspiration"
+    ],
+    "price": "Free",
+    "pricingDetails": "Free to use. Check individual licensing terms before commercial work.",
+    "rating": 4.6,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Inspiration",
+      "Portfolio",
+      "Design",
+      "Moodboard"
+    ],
+    "bestFor": [
+      "Inspiration",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "best-free-creative-tools"
+    ],
+    "alternatives": [],
+    "related": [
+      "behance",
+      "dribbble",
+      "artstation",
+      "pinterest"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for inspiration.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Free",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "game-dev-devolver-digital",
@@ -26109,6 +33933,109 @@ const generatedResources = [
     "lastReviewed": "2026-07-08"
   },
   {
+    "id": "discord",
+    "title": "Discord",
+    "shortName": "Discord",
+    "company": "Discord",
+    "companyWebsite": "",
+    "website": "https://discord.com/",
+    "logo": "",
+    "favicon": "",
+    "heroImage": "",
+    "screenshots": [],
+    "category": "Business",
+    "categoryId": "business",
+    "subcategories": [
+      "Community",
+      "Communication"
+    ],
+    "type": "Software",
+    "industries": [],
+    "useCases": [],
+    "tags": [
+      "Community",
+      "Chat"
+    ],
+    "collections": [],
+    "shortDescription": "Community and communication platform for creators, teams, and fan communities.",
+    "longDescription": "Discord is part of the Discord ecosystem in The Creative Vault. Community and communication platform for creators, teams, and fan communities.",
+    "whyUseIt": "",
+    "bestFor": [
+      "Community",
+      "Communication",
+      "Creative workflows"
+    ],
+    "pros": [],
+    "cons": [],
+    "notes": "Added as part of the V7 ecosystem architecture.",
+    "platforms": [
+      "Browser",
+      "Windows",
+      "Mac",
+      "iPhone",
+      "Android"
+    ],
+    "operatingSystems": [
+      "Browser",
+      "Windows",
+      "Mac",
+      "iPhone",
+      "Android"
+    ],
+    "mobileSupport": true,
+    "browserSupport": true,
+    "offline": false,
+    "cloudSync": false,
+    "fileFormats": [],
+    "integrations": [],
+    "api": false,
+    "plugins": false,
+    "extensions": false,
+    "ai": false,
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "pricingDetails": "Check official website for current pricing and licensing.",
+    "freeTrial": true,
+    "studentDiscount": false,
+    "commercialUse": null,
+    "license": "Licensing varies. Check the official website before commercial use.",
+    "licenseType": "",
+    "rating": 4.5,
+    "popularity": 75,
+    "beginnerFriendly": false,
+    "professional": true,
+    "learningCurve": "Medium",
+    "industryStandard": false,
+    "openSource": false,
+    "verified": true,
+    "lastReviewed": "2026-07-07",
+    "alternatives": [],
+    "competitors": [],
+    "related": [
+      "slack"
+    ],
+    "tutorials": [],
+    "youtubeChannels": [],
+    "documentation": "",
+    "community": "",
+    "discord": "",
+    "reddit": "",
+    "github": "",
+    "twitter": "",
+    "instagram": "",
+    "featured": true,
+    "editorPick": true,
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "Business"
+    ],
+    "categoryIds": [
+      "business"
+    ],
+    "primaryCategory": "Business"
+  },
+  {
     "id": "freelancing-discord",
     "title": "Discord",
     "shortName": "Discord",
@@ -26395,6 +34322,105 @@ const generatedResources = [
     "editorPick": false,
     "verified": true,
     "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "docker-desktop",
+    "title": "Docker Desktop",
+    "shortName": "Docker Desktop",
+    "company": "Docker",
+    "companyWebsite": "",
+    "website": "https://www.docker.com/products/docker-desktop/",
+    "logo": "",
+    "favicon": "",
+    "heroImage": "",
+    "screenshots": [],
+    "category": "Web & Dev",
+    "categoryId": "web-dev",
+    "subcategories": [
+      "Development",
+      "Containers"
+    ],
+    "type": "Software",
+    "industries": [],
+    "useCases": [],
+    "tags": [
+      "Docker",
+      "Containers"
+    ],
+    "collections": [],
+    "shortDescription": "Desktop container platform for building and running development environments.",
+    "longDescription": "Docker Desktop is part of the Docker ecosystem in The Creative Vault. Desktop container platform for building and running development environments.",
+    "whyUseIt": "",
+    "bestFor": [
+      "Development",
+      "Containers",
+      "Creative workflows"
+    ],
+    "pros": [],
+    "cons": [],
+    "notes": "Added as part of the V7 ecosystem architecture.",
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "operatingSystems": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "mobileSupport": false,
+    "browserSupport": false,
+    "offline": true,
+    "cloudSync": false,
+    "fileFormats": [],
+    "integrations": [],
+    "api": false,
+    "plugins": false,
+    "extensions": false,
+    "ai": false,
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "pricingDetails": "Check official website for current pricing and licensing.",
+    "freeTrial": true,
+    "studentDiscount": false,
+    "commercialUse": null,
+    "license": "Licensing varies. Check the official website before commercial use.",
+    "licenseType": "",
+    "rating": 4.5,
+    "popularity": 75,
+    "beginnerFriendly": false,
+    "professional": true,
+    "learningCurve": "Medium",
+    "industryStandard": false,
+    "openSource": false,
+    "verified": true,
+    "lastReviewed": "2026-07-07",
+    "alternatives": [],
+    "competitors": [],
+    "related": [
+      "github"
+    ],
+    "tutorials": [],
+    "youtubeChannels": [],
+    "documentation": "",
+    "community": "",
+    "discord": "",
+    "reddit": "",
+    "github": "",
+    "twitter": "",
+    "instagram": "",
+    "featured": false,
+    "editorPick": true,
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "Web & Dev"
+    ],
+    "categoryIds": [
+      "web-dev"
+    ],
+    "primaryCategory": "Web & Dev"
   },
   {
     "id": "web-docusaurus",
@@ -26843,6 +34869,70 @@ const generatedResources = [
     "lastReviewed": "2026-07-08"
   },
   {
+    "id": "draw-io",
+    "title": "Draw.io",
+    "website": "https://www.drawio.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Free diagramming tool for flowcharts, wireframes, and visual maps.",
+    "longDescription": "Draw.io is a vector design resource in The Creative Vault. Free diagramming tool for flowcharts, wireframes, and visual maps. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Vector Design"
+    ],
+    "price": "Free",
+    "pricingDetails": "Free to use. Check individual licensing terms before commercial work.",
+    "rating": 4.6,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "tags": [
+      "Vector",
+      "Logo",
+      "Design",
+      "SVG"
+    ],
+    "bestFor": [
+      "Vector Design",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "best-free-creative-tools"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-illustrator",
+      "affinity-designer",
+      "inkscape",
+      "figma"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for vector design.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Free",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "learning-drawabox",
     "title": "DrawABox",
     "shortName": "DrawABox",
@@ -26886,6 +34976,69 @@ const generatedResources = [
       "learning"
     ],
     "primaryCategory": "Learning"
+  },
+  {
+    "id": "dreamstime",
+    "title": "Dreamstime",
+    "website": "https://www.dreamstime.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Stock photography, illustrations, video, and audio marketplace.",
+    "longDescription": "Dreamstime is a stock images resource in The Creative Vault. Stock photography, illustrations, video, and audio marketplace. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Stock Images"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Stock",
+      "Photography",
+      "Images",
+      "Creative Assets"
+    ],
+    "bestFor": [
+      "Stock Images",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "canva",
+      "freepik",
+      "unsplash"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for stock images.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "marketplace-dreamstime",
@@ -26972,6 +35125,131 @@ const generatedResources = [
     "editorPick": false,
     "verified": true,
     "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "dreamstudio",
+    "title": "DreamStudio",
+    "company": "Stability AI",
+    "website": "https://dreamstudio.ai/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Stability AI image generation platform for Stable Diffusion models.",
+    "longDescription": "DreamStudio is a ai image resource in The Creative Vault. Stability AI image generation platform for Stable Diffusion models. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Image"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI",
+      "Image Generation",
+      "Concept Art",
+      "Visuals"
+    ],
+    "bestFor": [
+      "AI Image",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit",
+      "ai-image-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "midjourney",
+      "leonardo-ai",
+      "ideogram",
+      "adobe-firefly"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai image.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
+    "id": "dribbble",
+    "title": "Dribbble",
+    "website": "https://dribbble.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Design inspiration and portfolio platform for UI, branding, and visual design.",
+    "longDescription": "Dribbble is a inspiration resource in The Creative Vault. Design inspiration and portfolio platform for UI, branding, and visual design. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Inspiration"
+    ],
+    "price": "Free",
+    "pricingDetails": "Free to use. Check individual licensing terms before commercial work.",
+    "rating": 4.4,
+    "popularity": 84,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Inspiration",
+      "Portfolio",
+      "Design",
+      "Moodboard"
+    ],
+    "bestFor": [
+      "Inspiration",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "best-free-creative-tools"
+    ],
+    "alternatives": [],
+    "related": [
+      "behance",
+      "artstation",
+      "pinterest"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for inspiration.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Free",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "freelancing-dribbble-jobs",
@@ -27459,6 +35737,69 @@ const generatedResources = [
     "lastReviewed": "2026-07-08"
   },
   {
+    "id": "dxo-photolab",
+    "title": "DxO PhotoLab",
+    "website": "https://www.dxo.com/dxo-photolab/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "RAW photo editor known for optical corrections and noise reduction.",
+    "longDescription": "DxO PhotoLab is a photo editing resource in The Creative Vault. RAW photo editor known for optical corrections and noise reduction. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Photo Editing"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "tags": [
+      "Photo",
+      "Editing",
+      "Raster",
+      "Retouching"
+    ],
+    "bestFor": [
+      "Photo Editing",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "affinity-photo",
+      "photopea",
+      "gimp"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for photo editing.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "photography-dxo-photolab",
     "title": "DxO PhotoLab",
     "shortName": "DxO PhotoLab",
@@ -27861,6 +36202,130 @@ const generatedResources = [
     "primaryCategory": "Learning"
   },
   {
+    "id": "elai",
+    "title": "Elai",
+    "company": "Elai",
+    "website": "https://elai.io/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI avatar video generator for presentations, education, and business content.",
+    "longDescription": "Elai is a ai video resource in The Creative Vault. AI avatar video generator for presentations, education, and business content. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Video"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI Video",
+      "Video Generation",
+      "Motion",
+      "Filmmaking"
+    ],
+    "bestFor": [
+      "AI Video",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit",
+      "ai-video-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "runway",
+      "kling-ai",
+      "pika",
+      "luma-dream-machine"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai video.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
+    "id": "elevenlabs",
+    "title": "ElevenLabs",
+    "company": "ElevenLabs",
+    "website": "https://elevenlabs.io/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI voice generation, voice cloning, narration, dubbing, and audio tools.",
+    "longDescription": "ElevenLabs is a ai voice resource in The Creative Vault. AI voice generation, voice cloning, narration, dubbing, and audio tools. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Voice"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product or commercial service.",
+    "rating": 4.7,
+    "popularity": 90,
+    "skillLevel": "Beginner to Professional",
+    "featured": true,
+    "editorPick": true,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI Voice",
+      "Voiceover",
+      "Narration",
+      "Audio"
+    ],
+    "bestFor": [
+      "AI Voice",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "playht",
+      "murf",
+      "fish-audio"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai voice.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "web-eleventy",
     "title": "Eleventy",
     "shortName": "Eleventy",
@@ -27902,6 +36367,67 @@ const generatedResources = [
       "web"
     ],
     "primaryCategory": "Web"
+  },
+  {
+    "id": "elicit",
+    "title": "Elicit",
+    "company": "Elicit",
+    "website": "https://elicit.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI research assistant for finding, summarizing, and comparing academic papers.",
+    "longDescription": "Elicit is a ai research resource in The Creative Vault. AI research assistant for finding, summarizing, and comparing academic papers. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Research"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI Research",
+      "Search",
+      "Sources",
+      "Knowledge"
+    ],
+    "bestFor": [
+      "AI Research",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "perplexity",
+      "notebooklm",
+      "consensus"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai research.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "photography-elinchrom",
@@ -28080,6 +36606,69 @@ const generatedResources = [
     "primaryCategory": "Freelancing"
   },
   {
+    "id": "envato-elements",
+    "title": "Envato Elements",
+    "website": "https://elements.envato.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Subscription library for stock assets, templates, fonts, mockups, and creative resources.",
+    "longDescription": "Envato Elements is a brushes & textures resource in The Creative Vault. Subscription library for stock assets, templates, fonts, mockups, and creative resources. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Brushes & Textures"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan or free assets available with paid upgrades or premium options.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Brushes",
+      "Textures",
+      "Assets",
+      "Design Resources"
+    ],
+    "bestFor": [
+      "Brushes & Textures",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "clip-studio-paint",
+      "krita",
+      "procreate"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for brushes & textures.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "marketplace-envato-elements",
     "title": "Envato Elements",
     "shortName": "Envato Elements",
@@ -28121,6 +36710,69 @@ const generatedResources = [
       "marketplaces"
     ],
     "primaryCategory": "Marketplaces"
+  },
+  {
+    "id": "envato-elements-mockups",
+    "title": "Envato Elements Mockups",
+    "website": "https://elements.envato.com/graphic-templates/mockups",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Subscription mockup library inside Envato Elements.",
+    "longDescription": "Envato Elements Mockups is a mockups resource in The Creative Vault. Subscription mockup library inside Envato Elements. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Mockups"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Mockups",
+      "Presentation",
+      "Branding",
+      "Design Assets"
+    ],
+    "bestFor": [
+      "Mockups",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "affinity-photo",
+      "canva",
+      "creative-market"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for mockups.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "marketplace-envato-market",
@@ -28257,7 +36909,7 @@ const generatedResources = [
     "verified": true,
     "featured": false,
     "editorPick": false,
-    "lastReviewed": "2026-07-09"
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "game-dev-epic-games-store-publishing",
@@ -28766,6 +37418,68 @@ const generatedResources = [
     "primaryCategory": "Public Domain"
   },
   {
+    "id": "eva-colors",
+    "title": "Eva Colors",
+    "website": "https://colors.eva.design/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI-assisted color palette generator for UI design systems.",
+    "longDescription": "Eva Colors is a color resource in The Creative Vault. AI-assisted color palette generator for UI design systems. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Color"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Color",
+      "Palette",
+      "Branding",
+      "Design"
+    ],
+    "bestFor": [
+      "Color",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "adobe-illustrator",
+      "affinity-designer",
+      "canva"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for color.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "learning-evan-abrams",
     "title": "Evan Abrams",
     "shortName": "Evan Abrams",
@@ -28930,7 +37644,7 @@ const generatedResources = [
     "type": "Resource",
     "featured": false,
     "editorPick": false,
-    "lastReviewed": "2026-07-09"
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "game-dev-extra-excalibur-js",
@@ -29475,6 +38189,69 @@ const generatedResources = [
     "primaryCategory": "Photography"
   },
   {
+    "id": "expresii",
+    "title": "Expresii",
+    "website": "https://www.expresii.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Expressive digital ink painting software inspired by East Asian brushwork.",
+    "longDescription": "Expresii is a drawing & painting resource in The Creative Vault. Expressive digital ink painting software inspired by East Asian brushwork. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Drawing & Painting"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "tags": [
+      "Drawing",
+      "Painting",
+      "Illustration",
+      "Digital Art"
+    ],
+    "bestFor": [
+      "Drawing & Painting",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "clip-studio-paint",
+      "krita",
+      "procreate"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for drawing & painting.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "game-dev-extra-credits",
     "title": "Extra Credits",
     "shortName": "Extra Credits",
@@ -29616,6 +38393,105 @@ const generatedResources = [
     "editorPick": false,
     "verified": true,
     "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "fab",
+    "title": "Fab",
+    "shortName": "Fab",
+    "company": "Epic Games",
+    "companyWebsite": "",
+    "website": "https://www.fab.com/",
+    "logo": "",
+    "favicon": "",
+    "heroImage": "",
+    "screenshots": [],
+    "category": "Assets",
+    "categoryId": "assets",
+    "subcategories": [
+      "Marketplace",
+      "3D Assets"
+    ],
+    "type": "Software",
+    "industries": [],
+    "useCases": [],
+    "tags": [
+      "Assets",
+      "Marketplace",
+      "3D"
+    ],
+    "collections": [
+      "asset-library"
+    ],
+    "shortDescription": "Epic's marketplace for 3D assets, environments, plugins, and creative resources.",
+    "longDescription": "Fab is part of the Epic Games ecosystem in The Creative Vault. Epic's marketplace for 3D assets, environments, plugins, and creative resources.",
+    "whyUseIt": "",
+    "bestFor": [
+      "Marketplace",
+      "3D Assets",
+      "Creative workflows"
+    ],
+    "pros": [],
+    "cons": [],
+    "notes": "Added as part of the V7 ecosystem architecture.",
+    "platforms": [
+      "Browser"
+    ],
+    "operatingSystems": [
+      "Browser"
+    ],
+    "mobileSupport": false,
+    "browserSupport": true,
+    "offline": false,
+    "cloudSync": false,
+    "fileFormats": [],
+    "integrations": [],
+    "api": false,
+    "plugins": false,
+    "extensions": false,
+    "ai": false,
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "pricingDetails": "Check official website for current pricing and licensing.",
+    "freeTrial": true,
+    "studentDiscount": false,
+    "commercialUse": null,
+    "license": "Licensing varies. Check the official website before commercial use.",
+    "licenseType": "",
+    "rating": 4.5,
+    "popularity": 75,
+    "beginnerFriendly": false,
+    "professional": true,
+    "learningCurve": "Medium",
+    "industryStandard": false,
+    "openSource": false,
+    "verified": true,
+    "lastReviewed": "2026-07-07",
+    "alternatives": [],
+    "competitors": [],
+    "related": [
+      "sketchfab",
+      "blender-market"
+    ],
+    "tutorials": [],
+    "youtubeChannels": [],
+    "documentation": "",
+    "community": "",
+    "discord": "",
+    "reddit": "",
+    "github": "",
+    "twitter": "",
+    "instagram": "",
+    "featured": false,
+    "editorPick": true,
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "Assets"
+    ],
+    "categoryIds": [
+      "assets"
+    ],
+    "primaryCategory": "Assets"
   },
   {
     "id": "game-dev-fab",
@@ -29798,6 +38674,105 @@ const generatedResources = [
     "primaryCategory": "Film"
   },
   {
+    "id": "blackmagic-fairlight",
+    "title": "Fairlight",
+    "shortName": "Fairlight",
+    "company": "Blackmagic Design",
+    "companyWebsite": "",
+    "website": "https://www.blackmagicdesign.com/products/davinciresolve/fairlight",
+    "logo": "",
+    "favicon": "",
+    "heroImage": "",
+    "screenshots": [],
+    "category": "Audio",
+    "categoryId": "audio",
+    "subcategories": [
+      "Audio Post"
+    ],
+    "type": "Software",
+    "industries": [],
+    "useCases": [],
+    "tags": [
+      "Audio",
+      "Post Production"
+    ],
+    "collections": [
+      "creator-video-kit"
+    ],
+    "shortDescription": "Professional audio post-production tools inside DaVinci Resolve.",
+    "longDescription": "Fairlight is part of the Blackmagic Design ecosystem in The Creative Vault. Professional audio post-production tools inside DaVinci Resolve.",
+    "whyUseIt": "",
+    "bestFor": [
+      "Audio Post",
+      "Creative workflows"
+    ],
+    "pros": [],
+    "cons": [],
+    "notes": "Added as part of the V7 ecosystem architecture.",
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "operatingSystems": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "mobileSupport": false,
+    "browserSupport": false,
+    "offline": true,
+    "cloudSync": false,
+    "fileFormats": [],
+    "integrations": [],
+    "api": false,
+    "plugins": false,
+    "extensions": false,
+    "ai": false,
+    "price": "Free",
+    "pricingModel": "Free",
+    "pricingDetails": "Check official website for current pricing and licensing.",
+    "freeTrial": false,
+    "studentDiscount": false,
+    "commercialUse": null,
+    "license": "Licensing varies. Check the official website before commercial use.",
+    "licenseType": "",
+    "rating": 4.5,
+    "popularity": 75,
+    "beginnerFriendly": false,
+    "professional": true,
+    "learningCurve": "Medium",
+    "industryStandard": false,
+    "openSource": false,
+    "verified": true,
+    "lastReviewed": "2026-07-07",
+    "alternatives": [],
+    "competitors": [],
+    "related": [
+      "adobe-audition"
+    ],
+    "tutorials": [],
+    "youtubeChannels": [],
+    "documentation": "",
+    "community": "",
+    "discord": "",
+    "reddit": "",
+    "github": "",
+    "twitter": "",
+    "instagram": "",
+    "featured": false,
+    "editorPick": true,
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "Audio"
+    ],
+    "categoryIds": [
+      "audio"
+    ],
+    "primaryCategory": "Audio"
+  },
+  {
     "id": "software-fairlight",
     "title": "Fairlight",
     "shortName": "Fairlight",
@@ -29808,12 +38783,14 @@ const generatedResources = [
     "categories": [
       "Software",
       "Audio Post",
-      "Mixing"
+      "Mixing",
+      "Audio"
     ],
     "categoryIds": [
       "software",
       "audio-post",
-      "mixing"
+      "mixing",
+      "audio"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -30173,6 +39150,67 @@ const generatedResources = [
     "primaryCategory": "Game Dev"
   },
   {
+    "id": "figma",
+    "title": "Figma",
+    "website": "https://www.figma.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Collaborative interface design and vector-based design platform.",
+    "longDescription": "Figma is a vector design resource in The Creative Vault. Collaborative interface design and vector-based design platform. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Vector Design"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan or free assets available with paid upgrades or premium options.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Vector",
+      "Logo",
+      "Design",
+      "SVG"
+    ],
+    "bestFor": [
+      "Vector Design",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-illustrator",
+      "affinity-designer",
+      "inkscape"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for vector design.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "game-dev-extra-figma",
     "title": "Figma",
     "shortName": "Figma",
@@ -30349,6 +39387,68 @@ const generatedResources = [
       "marketplaces"
     ],
     "primaryCategory": "Marketplaces"
+  },
+  {
+    "id": "figurosity",
+    "title": "Figurosity",
+    "website": "https://figurosity.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Pose reference website with figure drawing resources.",
+    "longDescription": "Figurosity is a reference resource in The Creative Vault. Pose reference website with figure drawing resources. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Reference"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Reference",
+      "Pose",
+      "Anatomy",
+      "Drawing Practice"
+    ],
+    "bestFor": [
+      "Reference",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "line-of-action",
+      "quickposes",
+      "posemy-art",
+      "proko"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for reference.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "essential-fileinfo",
@@ -30752,6 +39852,70 @@ const generatedResources = [
     "primaryCategory": "Marketplaces"
   },
   {
+    "id": "firealpaca",
+    "title": "FireAlpaca",
+    "website": "https://firealpaca.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Free digital painting and comic creation software with a lightweight workflow.",
+    "longDescription": "FireAlpaca is a drawing & painting resource in The Creative Vault. Free digital painting and comic creation software with a lightweight workflow. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Drawing & Painting"
+    ],
+    "price": "Free",
+    "pricingDetails": "Free to use. Check individual licensing terms before commercial work.",
+    "rating": 4.6,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "tags": [
+      "Drawing",
+      "Painting",
+      "Illustration",
+      "Digital Art"
+    ],
+    "bestFor": [
+      "Drawing & Painting",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "best-free-creative-tools"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "clip-studio-paint",
+      "krita",
+      "procreate"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for drawing & painting.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Free",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "game-dev-firebase",
     "title": "Firebase",
     "shortName": "Firebase",
@@ -31063,6 +40227,67 @@ const generatedResources = [
     "primaryCategory": "Learning"
   },
   {
+    "id": "fish-audio",
+    "title": "Fish Audio",
+    "company": "Fish Audio",
+    "website": "https://fish.audio/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI voice cloning and text-to-speech platform.",
+    "longDescription": "Fish Audio is a ai voice resource in The Creative Vault. AI voice cloning and text-to-speech platform. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Voice"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI Voice",
+      "Voiceover",
+      "Narration",
+      "Audio"
+    ],
+    "bestFor": [
+      "AI Voice",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "elevenlabs",
+      "playht",
+      "murf"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai voice.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "game-dev-fishnet",
     "title": "FishNet",
     "shortName": "FishNet",
@@ -31149,6 +40374,104 @@ const generatedResources = [
       "freelancing"
     ],
     "primaryCategory": "Freelancing"
+  },
+  {
+    "id": "fl-studio",
+    "title": "FL Studio",
+    "shortName": "FL Studio",
+    "company": "Image-Line",
+    "companyWebsite": "",
+    "website": "https://www.image-line.com/fl-studio/",
+    "logo": "",
+    "favicon": "",
+    "heroImage": "",
+    "screenshots": [],
+    "category": "Music",
+    "categoryId": "music",
+    "subcategories": [
+      "DAW",
+      "Beat Making"
+    ],
+    "type": "Software",
+    "industries": [],
+    "useCases": [],
+    "tags": [
+      "DAW",
+      "Beats"
+    ],
+    "collections": [],
+    "shortDescription": "Music production software popular for beat making, electronic music, and production workflows.",
+    "longDescription": "FL Studio is part of the Image-Line ecosystem in The Creative Vault. Music production software popular for beat making, electronic music, and production workflows.",
+    "whyUseIt": "",
+    "bestFor": [
+      "DAW",
+      "Beat Making",
+      "Creative workflows"
+    ],
+    "pros": [],
+    "cons": [],
+    "notes": "Added as part of the V7 ecosystem architecture.",
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "operatingSystems": [
+      "Windows",
+      "Mac"
+    ],
+    "mobileSupport": false,
+    "browserSupport": false,
+    "offline": true,
+    "cloudSync": false,
+    "fileFormats": [],
+    "integrations": [],
+    "api": false,
+    "plugins": false,
+    "extensions": false,
+    "ai": false,
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "pricingDetails": "Check official website for current pricing and licensing.",
+    "freeTrial": true,
+    "studentDiscount": false,
+    "commercialUse": null,
+    "license": "Licensing varies. Check the official website before commercial use.",
+    "licenseType": "",
+    "rating": 4.5,
+    "popularity": 75,
+    "beginnerFriendly": false,
+    "professional": true,
+    "learningCurve": "Medium",
+    "industryStandard": false,
+    "openSource": false,
+    "verified": true,
+    "lastReviewed": "2026-07-07",
+    "alternatives": [],
+    "competitors": [],
+    "related": [
+      "ableton-live",
+      "logic-pro"
+    ],
+    "tutorials": [],
+    "youtubeChannels": [],
+    "documentation": "",
+    "community": "",
+    "discord": "",
+    "reddit": "",
+    "github": "",
+    "twitter": "",
+    "instagram": "",
+    "featured": true,
+    "editorPick": true,
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "Music"
+    ],
+    "categoryIds": [
+      "music"
+    ],
+    "primaryCategory": "Music"
   },
   {
     "id": "marketplace-flaticon",
@@ -31506,6 +40829,67 @@ const generatedResources = [
     "primaryCategory": "Marketplaces"
   },
   {
+    "id": "flowise",
+    "title": "Flowise",
+    "company": "Flowise",
+    "website": "https://flowiseai.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Open-source low-code platform for building LLM apps and AI workflows.",
+    "longDescription": "Flowise is a ai automation resource in The Creative Vault. Open-source low-code platform for building LLM apps and AI workflows. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Automation"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Intermediate to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": true,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Automation",
+      "Agents",
+      "Workflows",
+      "APIs"
+    ],
+    "bestFor": [
+      "AI Automation",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "n8n",
+      "zapier-ai",
+      "make"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai automation.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "game-dev-fluidninja",
     "title": "FluidNinja",
     "shortName": "FluidNinja",
@@ -31549,6 +40933,69 @@ const generatedResources = [
       "game-dev"
     ],
     "primaryCategory": "Game Dev"
+  },
+  {
+    "id": "flux",
+    "title": "Flux",
+    "company": "Black Forest Labs",
+    "website": "https://blackforestlabs.ai/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI image model family known for high-quality image generation and prompt following.",
+    "longDescription": "Flux is a ai image resource in The Creative Vault. AI image model family known for high-quality image generation and prompt following. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Image"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI",
+      "Image Generation",
+      "Concept Art",
+      "Visuals"
+    ],
+    "bestFor": [
+      "AI Image",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit",
+      "ai-image-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "midjourney",
+      "leonardo-ai",
+      "ideogram",
+      "adobe-firefly"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai image.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "learning-flux-academy",
@@ -31833,6 +41280,70 @@ const generatedResources = [
     "lastReviewed": "2026-07-08"
   },
   {
+    "id": "font-squirrel",
+    "title": "Font Squirrel",
+    "website": "https://www.fontsquirrel.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Free font library focused on commercial-use fonts.",
+    "longDescription": "Font Squirrel is a fonts resource in The Creative Vault. Free font library focused on commercial-use fonts. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Fonts"
+    ],
+    "price": "Free",
+    "pricingDetails": "Free to use. Check individual licensing terms before commercial work.",
+    "rating": 4.6,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Fonts",
+      "Typography",
+      "Type",
+      "Design Resources"
+    ],
+    "bestFor": [
+      "Fonts",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "best-free-creative-tools",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-illustrator",
+      "affinity-designer",
+      "canva",
+      "adobe-photoshop"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for fonts.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Free",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "game-dev-extra-font-squirrel",
     "title": "Font Squirrel",
     "shortName": "Font Squirrel",
@@ -31876,6 +41387,69 @@ const generatedResources = [
       "game-dev"
     ],
     "primaryCategory": "Game Dev"
+  },
+  {
+    "id": "fontfabric",
+    "title": "Fontfabric",
+    "website": "https://www.fontfabric.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Type foundry offering professional fonts and free font families.",
+    "longDescription": "Fontfabric is a fonts resource in The Creative Vault. Type foundry offering professional fonts and free font families. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Fonts"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Fonts",
+      "Typography",
+      "Type",
+      "Design Resources"
+    ],
+    "bestFor": [
+      "Fonts",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-illustrator",
+      "affinity-designer",
+      "canva",
+      "adobe-photoshop"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for fonts.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "game-dev-extra-fontforge",
@@ -32115,6 +41689,196 @@ const generatedResources = [
     "lastReviewed": "2026-07-08"
   },
   {
+    "id": "fontshare",
+    "title": "Fontshare",
+    "website": "https://www.fontshare.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Free fonts from Indian Type Foundry for personal and commercial use.",
+    "longDescription": "Fontshare is a fonts resource in The Creative Vault. Free fonts from Indian Type Foundry for personal and commercial use. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Fonts"
+    ],
+    "price": "Free",
+    "pricingDetails": "Free to use. Check individual licensing terms before commercial work.",
+    "rating": 4.6,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Fonts",
+      "Typography",
+      "Type",
+      "Design Resources"
+    ],
+    "bestFor": [
+      "Fonts",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "best-free-creative-tools",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-illustrator",
+      "affinity-designer",
+      "canva",
+      "adobe-photoshop"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for fonts.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Free",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
+    "id": "fontspace",
+    "title": "FontSpace",
+    "website": "https://www.fontspace.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Free font library with thousands of user-submitted typefaces.",
+    "longDescription": "FontSpace is a fonts resource in The Creative Vault. Free font library with thousands of user-submitted typefaces. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Fonts"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan or free assets available with paid upgrades or premium options.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Fonts",
+      "Typography",
+      "Type",
+      "Design Resources"
+    ],
+    "bestFor": [
+      "Fonts",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-illustrator",
+      "affinity-designer",
+      "canva",
+      "adobe-photoshop"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for fonts.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
+    "id": "fontspring",
+    "title": "Fontspring",
+    "website": "https://www.fontspring.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Font marketplace with straightforward licensing and professional typefaces.",
+    "longDescription": "Fontspring is a fonts resource in The Creative Vault. Font marketplace with straightforward licensing and professional typefaces. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Fonts"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Fonts",
+      "Typography",
+      "Type",
+      "Design Resources"
+    ],
+    "bestFor": [
+      "Fonts",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-illustrator",
+      "affinity-designer",
+      "canva",
+      "adobe-photoshop"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for fonts.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "marketplace-fontspring",
     "title": "Fontspring",
     "shortName": "Fontspring",
@@ -32199,6 +41963,72 @@ const generatedResources = [
     "editorPick": false,
     "verified": true,
     "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "fooocus",
+    "title": "Fooocus",
+    "company": "Open Source Community",
+    "website": "https://github.com/lllyasviel/Fooocus",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Simplified Stable Diffusion interface designed for easier prompting and generation.",
+    "longDescription": "Fooocus is a ai image resource in The Creative Vault. Simplified Stable Diffusion interface designed for easier prompting and generation. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Image"
+    ],
+    "price": "Free",
+    "pricingDetails": "Free to use. Check usage limits and licensing before commercial work.",
+    "rating": 4.5,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": true,
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "tags": [
+      "AI",
+      "Image Generation",
+      "Concept Art",
+      "Visuals"
+    ],
+    "bestFor": [
+      "AI Image",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit",
+      "ai-image-kit",
+      "best-free-creative-tools"
+    ],
+    "alternatives": [],
+    "related": [
+      "midjourney",
+      "leonardo-ai",
+      "ideogram",
+      "adobe-firefly"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai image.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Free",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "grant-ford-foundation-creativity-and-free-expression",
@@ -32299,6 +42129,99 @@ const generatedResources = [
     "primaryCategory": "Grants"
   },
   {
+    "id": "forger",
+    "title": "Forger",
+    "shortName": "Forger",
+    "company": "Maxon",
+    "companyWebsite": "",
+    "website": "https://www.maxon.net/en/forger",
+    "logo": "",
+    "favicon": "",
+    "heroImage": "",
+    "screenshots": [],
+    "category": "3D / CAD",
+    "categoryId": "3d-cad",
+    "subcategories": [
+      "Mobile Sculpting"
+    ],
+    "type": "Software",
+    "industries": [],
+    "useCases": [],
+    "tags": [
+      "Sculpting",
+      "Mobile"
+    ],
+    "collections": [],
+    "shortDescription": "Mobile sculpting app for iPad and tablet-based 3D creation.",
+    "longDescription": "Forger is part of the Maxon ecosystem in The Creative Vault. Mobile sculpting app for iPad and tablet-based 3D creation.",
+    "whyUseIt": "",
+    "bestFor": [
+      "Mobile Sculpting",
+      "Creative workflows"
+    ],
+    "pros": [],
+    "cons": [],
+    "notes": "Added as part of the V7 ecosystem architecture.",
+    "platforms": [
+      "iPad"
+    ],
+    "operatingSystems": [
+      "iPad"
+    ],
+    "mobileSupport": true,
+    "browserSupport": false,
+    "offline": false,
+    "cloudSync": false,
+    "fileFormats": [],
+    "integrations": [],
+    "api": false,
+    "plugins": false,
+    "extensions": false,
+    "ai": false,
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "pricingDetails": "Check official website for current pricing and licensing.",
+    "freeTrial": true,
+    "studentDiscount": false,
+    "commercialUse": null,
+    "license": "Licensing varies. Check the official website before commercial use.",
+    "licenseType": "",
+    "rating": 4.5,
+    "popularity": 75,
+    "beginnerFriendly": false,
+    "professional": true,
+    "learningCurve": "Medium",
+    "industryStandard": false,
+    "openSource": false,
+    "verified": true,
+    "lastReviewed": "2026-07-07",
+    "alternatives": [],
+    "competitors": [],
+    "related": [
+      "nomad-sculpt"
+    ],
+    "tutorials": [],
+    "youtubeChannels": [],
+    "documentation": "",
+    "community": "",
+    "discord": "",
+    "reddit": "",
+    "github": "",
+    "twitter": "",
+    "instagram": "",
+    "featured": false,
+    "editorPick": false,
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "3D / CAD"
+    ],
+    "categoryIds": [
+      "3d-cad"
+    ],
+    "primaryCategory": "3D / CAD"
+  },
+  {
     "id": "game-dev-extra-fork",
     "title": "Fork",
     "shortName": "Fork",
@@ -32390,6 +42313,69 @@ const generatedResources = [
       "photography"
     ],
     "primaryCategory": "Photography"
+  },
+  {
+    "id": "fotor",
+    "title": "Fotor",
+    "website": "https://www.fotor.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Online photo editor with design tools, templates, and AI features.",
+    "longDescription": "Fotor is a photo editing resource in The Creative Vault. Online photo editor with design tools, templates, and AI features. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Photo Editing"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan or free assets available with paid upgrades or premium options.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "tags": [
+      "Photo",
+      "Editing",
+      "Raster",
+      "Retouching"
+    ],
+    "bestFor": [
+      "Photo Editing",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "affinity-photo",
+      "photopea",
+      "gimp"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for photo editing.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "essential-fotor-free-editor",
@@ -32588,12 +42574,16 @@ const generatedResources = [
     "categories": [
       "Software",
       "Video Review",
-      "Collaboration"
+      "Collaboration",
+      "Video",
+      "Business"
     ],
     "categoryIds": [
       "software",
       "video-review",
-      "collaboration"
+      "collaboration",
+      "video",
+      "business"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -32679,6 +42669,102 @@ const generatedResources = [
       "film"
     ],
     "primaryCategory": "Film"
+  },
+  {
+    "id": "framer",
+    "title": "Framer",
+    "shortName": "Framer",
+    "company": "Framer",
+    "companyWebsite": "",
+    "website": "https://www.framer.com/",
+    "logo": "",
+    "favicon": "",
+    "heroImage": "",
+    "screenshots": [],
+    "category": "Web & Dev",
+    "categoryId": "web-dev",
+    "subcategories": [
+      "Website Builder",
+      "Design"
+    ],
+    "type": "Software",
+    "industries": [],
+    "useCases": [],
+    "tags": [
+      "Web",
+      "Design"
+    ],
+    "collections": [],
+    "shortDescription": "Website builder for interactive, design-forward sites.",
+    "longDescription": "Framer is part of the Framer ecosystem in The Creative Vault. Website builder for interactive, design-forward sites.",
+    "whyUseIt": "",
+    "bestFor": [
+      "Website Builder",
+      "Design",
+      "Creative workflows"
+    ],
+    "pros": [],
+    "cons": [],
+    "notes": "Added as part of the V7 ecosystem architecture.",
+    "platforms": [
+      "Browser"
+    ],
+    "operatingSystems": [
+      "Browser"
+    ],
+    "mobileSupport": false,
+    "browserSupport": true,
+    "offline": false,
+    "cloudSync": false,
+    "fileFormats": [],
+    "integrations": [],
+    "api": false,
+    "plugins": false,
+    "extensions": false,
+    "ai": false,
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "pricingDetails": "Check official website for current pricing and licensing.",
+    "freeTrial": true,
+    "studentDiscount": false,
+    "commercialUse": null,
+    "license": "Licensing varies. Check the official website before commercial use.",
+    "licenseType": "",
+    "rating": 4.5,
+    "popularity": 75,
+    "beginnerFriendly": false,
+    "professional": true,
+    "learningCurve": "Medium",
+    "industryStandard": false,
+    "openSource": false,
+    "verified": true,
+    "lastReviewed": "2026-07-07",
+    "alternatives": [],
+    "competitors": [],
+    "related": [
+      "webflow",
+      "squarespace"
+    ],
+    "tutorials": [],
+    "youtubeChannels": [],
+    "documentation": "",
+    "community": "",
+    "discord": "",
+    "reddit": "",
+    "github": "",
+    "twitter": "",
+    "instagram": "",
+    "featured": false,
+    "editorPick": true,
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "Web & Dev"
+    ],
+    "categoryIds": [
+      "web-dev"
+    ],
+    "primaryCategory": "Web & Dev"
   },
   {
     "id": "marketplace-framer-marketplace",
@@ -32947,6 +43033,132 @@ const generatedResources = [
     "primaryCategory": "Freelancing"
   },
   {
+    "id": "freepbr",
+    "title": "FreePBR",
+    "website": "https://freepbr.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Free PBR materials for 3D artists, games, and rendering.",
+    "longDescription": "FreePBR is a brushes & textures resource in The Creative Vault. Free PBR materials for 3D artists, games, and rendering. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Brushes & Textures"
+    ],
+    "price": "Free",
+    "pricingDetails": "Free to use. Check individual licensing terms before commercial work.",
+    "rating": 4.6,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Brushes",
+      "Textures",
+      "Assets",
+      "Design Resources"
+    ],
+    "bestFor": [
+      "Brushes & Textures",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "best-free-creative-tools",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "clip-studio-paint",
+      "krita",
+      "procreate"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for brushes & textures.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Free",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
+    "id": "freepik",
+    "title": "Freepik",
+    "website": "https://www.freepik.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Large marketplace for vectors, photos, PSDs, icons, and design assets.",
+    "longDescription": "Freepik is a stock images resource in The Creative Vault. Large marketplace for vectors, photos, PSDs, icons, and design assets. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Stock Images"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan or free assets available with paid upgrades or premium options.",
+    "rating": 4.4,
+    "popularity": 88,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Stock",
+      "Photography",
+      "Images",
+      "Creative Assets"
+    ],
+    "bestFor": [
+      "Stock Images",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "canva",
+      "unsplash"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for stock images.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "marketplace-freepik",
     "title": "Freepik",
     "shortName": "Freepik",
@@ -32988,6 +43200,130 @@ const generatedResources = [
       "marketplaces"
     ],
     "primaryCategory": "Marketplaces"
+  },
+  {
+    "id": "freepik-ai",
+    "title": "Freepik AI",
+    "company": "Freepik",
+    "website": "https://www.freepik.com/ai",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI design tools for images, mockups, icons, and creative assets.",
+    "longDescription": "Freepik AI is a ai design resource in The Creative Vault. AI design tools for images, mockups, icons, and creative assets. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Design"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Design",
+      "Branding",
+      "Marketing",
+      "AI"
+    ],
+    "bestFor": [
+      "AI Design",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "canva-ai",
+      "recraft",
+      "adobe-firefly"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai design.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
+    "id": "freepik-mockups",
+    "title": "Freepik Mockups",
+    "website": "https://www.freepik.com/mockups",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Mockup resources inside the Freepik asset marketplace.",
+    "longDescription": "Freepik Mockups is a mockups resource in The Creative Vault. Mockup resources inside the Freepik asset marketplace. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Mockups"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Mockups",
+      "Presentation",
+      "Branding",
+      "Design Assets"
+    ],
+    "bestFor": [
+      "Mockups",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "affinity-photo",
+      "canva",
+      "creative-market"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for mockups.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "game-dev-freesound",
@@ -33384,6 +43720,205 @@ const generatedResources = [
     "primaryCategory": "Learning"
   },
   {
+    "id": "autodesk-fusion-360",
+    "title": "Fusion 360",
+    "shortName": "Fusion 360",
+    "company": "Autodesk",
+    "companyWebsite": "",
+    "website": "https://www.autodesk.com/products/fusion-360/overview",
+    "logo": "",
+    "favicon": "",
+    "heroImage": "",
+    "screenshots": [],
+    "category": "3D / CAD",
+    "categoryId": "3d-cad",
+    "subcategories": [
+      "CAD",
+      "Product Design"
+    ],
+    "type": "Software",
+    "industries": [],
+    "useCases": [],
+    "tags": [
+      "CAD",
+      "Manufacturing",
+      "Product Design"
+    ],
+    "collections": [],
+    "shortDescription": "Cloud-connected CAD, CAM, CAE, and product design software.",
+    "longDescription": "Fusion 360 is part of the Autodesk ecosystem in The Creative Vault. Cloud-connected CAD, CAM, CAE, and product design software.",
+    "whyUseIt": "",
+    "bestFor": [
+      "CAD",
+      "Product Design",
+      "Creative workflows"
+    ],
+    "pros": [],
+    "cons": [],
+    "notes": "Added as part of the V7 ecosystem architecture.",
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "operatingSystems": [
+      "Windows",
+      "Mac"
+    ],
+    "mobileSupport": false,
+    "browserSupport": false,
+    "offline": true,
+    "cloudSync": false,
+    "fileFormats": [],
+    "integrations": [],
+    "api": false,
+    "plugins": false,
+    "extensions": false,
+    "ai": false,
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "pricingDetails": "Check official website for current pricing and licensing.",
+    "freeTrial": true,
+    "studentDiscount": false,
+    "commercialUse": null,
+    "license": "Licensing varies. Check the official website before commercial use.",
+    "licenseType": "",
+    "rating": 4.5,
+    "popularity": 75,
+    "beginnerFriendly": false,
+    "professional": true,
+    "learningCurve": "Medium",
+    "industryStandard": false,
+    "openSource": false,
+    "verified": true,
+    "lastReviewed": "2026-07-07",
+    "alternatives": [],
+    "competitors": [],
+    "related": [
+      "onshape",
+      "freecad"
+    ],
+    "tutorials": [],
+    "youtubeChannels": [],
+    "documentation": "",
+    "community": "",
+    "discord": "",
+    "reddit": "",
+    "github": "",
+    "twitter": "",
+    "instagram": "",
+    "featured": true,
+    "editorPick": true,
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "3D / CAD"
+    ],
+    "categoryIds": [
+      "3d-cad"
+    ],
+    "primaryCategory": "3D / CAD"
+  },
+  {
+    "id": "fusion-studio",
+    "title": "Fusion Studio",
+    "shortName": "Fusion Studio",
+    "company": "Blackmagic Design",
+    "companyWebsite": "",
+    "website": "https://www.blackmagicdesign.com/products/fusion",
+    "logo": "",
+    "favicon": "",
+    "heroImage": "",
+    "screenshots": [],
+    "category": "Video",
+    "categoryId": "video",
+    "subcategories": [
+      "VFX",
+      "Compositing"
+    ],
+    "type": "Software",
+    "industries": [],
+    "useCases": [],
+    "tags": [
+      "VFX",
+      "Compositing"
+    ],
+    "collections": [],
+    "shortDescription": "Node-based compositing and visual effects software.",
+    "longDescription": "Fusion Studio is part of the Blackmagic Design ecosystem in The Creative Vault. Node-based compositing and visual effects software.",
+    "whyUseIt": "",
+    "bestFor": [
+      "VFX",
+      "Compositing",
+      "Creative workflows"
+    ],
+    "pros": [],
+    "cons": [],
+    "notes": "Added as part of the V7 ecosystem architecture.",
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "operatingSystems": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "mobileSupport": false,
+    "browserSupport": false,
+    "offline": true,
+    "cloudSync": false,
+    "fileFormats": [],
+    "integrations": [],
+    "api": false,
+    "plugins": false,
+    "extensions": false,
+    "ai": false,
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "pricingDetails": "Check official website for current pricing and licensing.",
+    "freeTrial": true,
+    "studentDiscount": false,
+    "commercialUse": null,
+    "license": "Licensing varies. Check the official website before commercial use.",
+    "licenseType": "",
+    "rating": 4.5,
+    "popularity": 75,
+    "beginnerFriendly": false,
+    "professional": true,
+    "learningCurve": "Medium",
+    "industryStandard": false,
+    "openSource": false,
+    "verified": true,
+    "lastReviewed": "2026-07-07",
+    "alternatives": [],
+    "competitors": [],
+    "related": [
+      "after-effects",
+      "nuke"
+    ],
+    "tutorials": [],
+    "youtubeChannels": [],
+    "documentation": "",
+    "community": "",
+    "discord": "",
+    "reddit": "",
+    "github": "",
+    "twitter": "",
+    "instagram": "",
+    "featured": false,
+    "editorPick": true,
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "Video"
+    ],
+    "categoryIds": [
+      "video"
+    ],
+    "primaryCategory": "Video"
+  },
+  {
     "id": "software-fusion-studio",
     "title": "Fusion Studio",
     "shortName": "Fusion Studio",
@@ -33395,13 +43930,15 @@ const generatedResources = [
       "Software",
       "Compositing",
       "VFX",
-      "Motion Graphics"
+      "Motion Graphics",
+      "Video"
     ],
     "categoryIds": [
       "software",
       "compositing",
       "vfx",
-      "motion-graphics"
+      "motion-graphics",
+      "video"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -34521,6 +45058,67 @@ const generatedResources = [
     "primaryCategory": "Game Dev"
   },
   {
+    "id": "gamma",
+    "title": "Gamma",
+    "company": "Gamma",
+    "website": "https://gamma.app/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI presentation and document creation tool.",
+    "longDescription": "Gamma is a ai presentation resource in The Creative Vault. AI presentation and document creation tool. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Presentation"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Presentations",
+      "Slides",
+      "Pitch Decks",
+      "AI"
+    ],
+    "bestFor": [
+      "AI Presentation",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "tome",
+      "beautiful-ai",
+      "canva-ai"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai presentation.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "game-dev-gb-studio",
     "title": "GB Studio",
     "shortName": "GB Studio",
@@ -34884,6 +45482,69 @@ const generatedResources = [
     "lastReviewed": "2026-07-08"
   },
   {
+    "id": "genmo",
+    "title": "Genmo",
+    "company": "Genmo",
+    "website": "https://www.genmo.ai/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI video and animation generation platform for creative clips.",
+    "longDescription": "Genmo is a ai video resource in The Creative Vault. AI video and animation generation platform for creative clips. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Video"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI Video",
+      "Video Generation",
+      "Motion",
+      "Filmmaking"
+    ],
+    "bestFor": [
+      "AI Video",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit",
+      "ai-video-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "runway",
+      "kling-ai",
+      "pika",
+      "luma-dream-machine"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai video.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "grant-georgia-council-for-the-arts",
     "title": "Georgia Council for the Arts",
     "shortName": "Georgia Council for the Arts",
@@ -35156,6 +45817,69 @@ const generatedResources = [
     "primaryCategory": "Grants"
   },
   {
+    "id": "gimp",
+    "title": "GIMP",
+    "website": "https://www.gimp.org/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Free open-source image editor for photo manipulation, graphics, and raster editing.",
+    "longDescription": "GIMP is a photo editing resource in The Creative Vault. Free open-source image editor for photo manipulation, graphics, and raster editing. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Photo Editing"
+    ],
+    "price": "Free",
+    "pricingDetails": "Free to use. Check individual licensing terms before commercial work.",
+    "rating": 4.2,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": true,
+    "editorPick": true,
+    "openSource": true,
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "tags": [
+      "Photo",
+      "Editing",
+      "Raster",
+      "Retouching"
+    ],
+    "bestFor": [
+      "Photo Editing",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "best-free-creative-tools"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "affinity-photo",
+      "photopea"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for photo editing.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Free",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "marketplace-gimp-plugin-registry-archive",
     "title": "GIMP Plugin Registry Archive",
     "shortName": "GIMP Plugin Registry Archive",
@@ -35244,6 +45968,103 @@ const generatedResources = [
       "game-dev"
     ],
     "primaryCategory": "Game Dev"
+  },
+  {
+    "id": "github",
+    "title": "GitHub",
+    "shortName": "GitHub",
+    "company": "GitHub",
+    "companyWebsite": "",
+    "website": "https://github.com/",
+    "logo": "",
+    "favicon": "",
+    "heroImage": "",
+    "screenshots": [],
+    "category": "Web & Dev",
+    "categoryId": "web-dev",
+    "subcategories": [
+      "Code Hosting"
+    ],
+    "type": "Software",
+    "industries": [],
+    "useCases": [],
+    "tags": [
+      "Code",
+      "Git"
+    ],
+    "collections": [],
+    "shortDescription": "Code hosting and collaboration platform for repositories, issues, and projects.",
+    "longDescription": "GitHub is part of the GitHub ecosystem in The Creative Vault. Code hosting and collaboration platform for repositories, issues, and projects.",
+    "whyUseIt": "",
+    "bestFor": [
+      "Code Hosting",
+      "Creative workflows"
+    ],
+    "pros": [],
+    "cons": [],
+    "notes": "Added as part of the V7 ecosystem architecture.",
+    "platforms": [
+      "Browser",
+      "Windows",
+      "Mac"
+    ],
+    "operatingSystems": [
+      "Browser",
+      "Windows",
+      "Mac"
+    ],
+    "mobileSupport": false,
+    "browserSupport": true,
+    "offline": false,
+    "cloudSync": false,
+    "fileFormats": [],
+    "integrations": [],
+    "api": false,
+    "plugins": false,
+    "extensions": false,
+    "ai": false,
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "pricingDetails": "Check official website for current pricing and licensing.",
+    "freeTrial": true,
+    "studentDiscount": false,
+    "commercialUse": null,
+    "license": "Licensing varies. Check the official website before commercial use.",
+    "licenseType": "",
+    "rating": 4.5,
+    "popularity": 75,
+    "beginnerFriendly": false,
+    "professional": true,
+    "learningCurve": "Medium",
+    "industryStandard": false,
+    "openSource": false,
+    "verified": true,
+    "lastReviewed": "2026-07-07",
+    "alternatives": [],
+    "competitors": [],
+    "related": [
+      "gitlab"
+    ],
+    "tutorials": [],
+    "youtubeChannels": [],
+    "documentation": "",
+    "community": "",
+    "discord": "",
+    "reddit": "",
+    "github": "",
+    "twitter": "",
+    "instagram": "",
+    "featured": true,
+    "editorPick": true,
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "Web & Dev"
+    ],
+    "categoryIds": [
+      "web-dev"
+    ],
+    "primaryCategory": "Web & Dev"
   },
   {
     "id": "game-dev-extra-github",
@@ -35336,6 +46157,68 @@ const generatedResources = [
     "primaryCategory": "Marketplaces"
   },
   {
+    "id": "github-copilot",
+    "title": "GitHub Copilot",
+    "company": "GitHub / Microsoft",
+    "website": "https://github.com/features/copilot",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI coding assistant integrated with popular editors and GitHub workflows.",
+    "longDescription": "GitHub Copilot is a ai coding resource in The Creative Vault. AI coding assistant integrated with popular editors and GitHub workflows. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Coding"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product or commercial service.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI Coding",
+      "Developer",
+      "App Builder",
+      "Vibe Coding"
+    ],
+    "bestFor": [
+      "AI Coding",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit",
+      "ai-coding-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "cursor",
+      "windsurf",
+      "replit"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai coding.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "marketplace-github-marketplace",
     "title": "GitHub Marketplace",
     "shortName": "GitHub Marketplace",
@@ -35423,6 +46306,101 @@ const generatedResources = [
       "game-dev"
     ],
     "primaryCategory": "Game Dev"
+  },
+  {
+    "id": "gitlab",
+    "title": "GitLab",
+    "shortName": "GitLab",
+    "company": "GitLab",
+    "companyWebsite": "",
+    "website": "https://about.gitlab.com/",
+    "logo": "",
+    "favicon": "",
+    "heroImage": "",
+    "screenshots": [],
+    "category": "Web & Dev",
+    "categoryId": "web-dev",
+    "subcategories": [
+      "Code Hosting",
+      "DevOps"
+    ],
+    "type": "Software",
+    "industries": [],
+    "useCases": [],
+    "tags": [
+      "Code",
+      "DevOps"
+    ],
+    "collections": [],
+    "shortDescription": "DevOps and code hosting platform for repositories, CI/CD, and collaboration.",
+    "longDescription": "GitLab is part of the GitLab ecosystem in The Creative Vault. DevOps and code hosting platform for repositories, CI/CD, and collaboration.",
+    "whyUseIt": "",
+    "bestFor": [
+      "Code Hosting",
+      "DevOps",
+      "Creative workflows"
+    ],
+    "pros": [],
+    "cons": [],
+    "notes": "Added as part of the V7 ecosystem architecture.",
+    "platforms": [
+      "Browser"
+    ],
+    "operatingSystems": [
+      "Browser"
+    ],
+    "mobileSupport": false,
+    "browserSupport": true,
+    "offline": false,
+    "cloudSync": false,
+    "fileFormats": [],
+    "integrations": [],
+    "api": false,
+    "plugins": false,
+    "extensions": false,
+    "ai": false,
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "pricingDetails": "Check official website for current pricing and licensing.",
+    "freeTrial": true,
+    "studentDiscount": false,
+    "commercialUse": null,
+    "license": "Licensing varies. Check the official website before commercial use.",
+    "licenseType": "",
+    "rating": 4.5,
+    "popularity": 75,
+    "beginnerFriendly": false,
+    "professional": true,
+    "learningCurve": "Medium",
+    "industryStandard": false,
+    "openSource": false,
+    "verified": true,
+    "lastReviewed": "2026-07-07",
+    "alternatives": [],
+    "competitors": [],
+    "related": [
+      "github"
+    ],
+    "tutorials": [],
+    "youtubeChannels": [],
+    "documentation": "",
+    "community": "",
+    "discord": "",
+    "reddit": "",
+    "github": "",
+    "twitter": "",
+    "instagram": "",
+    "featured": false,
+    "editorPick": true,
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "Web & Dev"
+    ],
+    "categoryIds": [
+      "web-dev"
+    ],
+    "primaryCategory": "Web & Dev"
   },
   {
     "id": "game-dev-extra-gitlab",
@@ -35818,6 +46796,68 @@ const generatedResources = [
     "primaryCategory": "Learning"
   },
   {
+    "id": "godly",
+    "title": "Godly",
+    "website": "https://godly.website/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Curated collection of high-quality web design inspiration.",
+    "longDescription": "Godly is a inspiration resource in The Creative Vault. Curated collection of high-quality web design inspiration. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Inspiration"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan or free assets available with paid upgrades or premium options.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Inspiration",
+      "Portfolio",
+      "Design",
+      "Moodboard"
+    ],
+    "bestFor": [
+      "Inspiration",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "behance",
+      "dribbble",
+      "artstation",
+      "pinterest"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for inspiration.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "essential-godot",
     "title": "Godot",
     "shortName": "Godot",
@@ -36208,12 +47248,14 @@ const generatedResources = [
     "categories": [
       "Software",
       "Word Processing",
-      "Collaboration"
+      "Collaboration",
+      "Business"
     ],
     "categoryIds": [
       "software",
       "word-processing",
-      "collaboration"
+      "collaboration",
+      "business"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -36311,6 +47353,70 @@ const generatedResources = [
     "lastReviewed": "2026-07-08"
   },
   {
+    "id": "google-fonts",
+    "title": "Google Fonts",
+    "website": "https://fonts.google.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Free open-source font library for web and design projects.",
+    "longDescription": "Google Fonts is a fonts resource in The Creative Vault. Free open-source font library for web and design projects. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Fonts"
+    ],
+    "price": "Free",
+    "pricingDetails": "Free to use. Check individual licensing terms before commercial work.",
+    "rating": 4.8,
+    "popularity": 90,
+    "skillLevel": "Beginner to Professional",
+    "featured": true,
+    "editorPick": true,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Fonts",
+      "Typography",
+      "Type",
+      "Design Resources"
+    ],
+    "bestFor": [
+      "Fonts",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "best-free-creative-tools",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-illustrator",
+      "affinity-designer",
+      "canva",
+      "adobe-photoshop"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for fonts.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Free",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "game-dev-extra-google-fonts",
     "title": "Google Fonts",
     "shortName": "Google Fonts",
@@ -36403,6 +47509,69 @@ const generatedResources = [
     "editorPick": false,
     "verified": true,
     "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "google-gemini",
+    "title": "Google Gemini",
+    "company": "Google",
+    "website": "https://gemini.google.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Google AI assistant for writing, research, brainstorming, coding, and multimodal workflows.",
+    "longDescription": "Google Gemini is a ai assistant resource in The Creative Vault. Google AI assistant for writing, research, brainstorming, coding, and multimodal workflows. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Assistant"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser",
+      "iPhone",
+      "Android"
+    ],
+    "tags": [
+      "AI",
+      "Assistant",
+      "Writing",
+      "Research"
+    ],
+    "bestFor": [
+      "AI Assistant",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "chatgpt",
+      "claude",
+      "perplexity"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai assistant.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "learning-google-machine-learning-crash-course",
@@ -36647,12 +47816,14 @@ const generatedResources = [
     "categories": [
       "Software",
       "Spreadsheets",
-      "Collaboration"
+      "Collaboration",
+      "Business"
     ],
     "categoryIds": [
       "software",
       "spreadsheets",
-      "collaboration"
+      "collaboration",
+      "business"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -36756,12 +47927,14 @@ const generatedResources = [
     "categories": [
       "Software",
       "Presentations",
-      "Collaboration"
+      "Collaboration",
+      "Business"
     ],
     "categoryIds": [
       "software",
       "presentations",
-      "collaboration"
+      "collaboration",
+      "business"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -36945,6 +48118,129 @@ const generatedResources = [
     "lastReviewed": "2026-07-08"
   },
   {
+    "id": "grafit-studio",
+    "title": "Grafit Studio",
+    "website": "https://grafit.art/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Reference packs and visual resources for concept artists and illustrators.",
+    "longDescription": "Grafit Studio is a reference resource in The Creative Vault. Reference packs and visual resources for concept artists and illustrators. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Reference"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Reference",
+      "Pose",
+      "Anatomy",
+      "Drawing Practice"
+    ],
+    "bestFor": [
+      "Reference",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "line-of-action",
+      "quickposes",
+      "posemy-art",
+      "proko"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for reference.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
+    "id": "grammarly",
+    "title": "Grammarly",
+    "company": "Grammarly",
+    "website": "https://www.grammarly.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI writing assistant for grammar, clarity, tone, and editing.",
+    "longDescription": "Grammarly is a ai writing resource in The Creative Vault. AI writing assistant for grammar, clarity, tone, and editing. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Writing"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Writing",
+      "Copywriting",
+      "Content",
+      "AI"
+    ],
+    "bestFor": [
+      "AI Writing",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "chatgpt",
+      "claude",
+      "jasper"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai writing.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "essential-grammarly-free",
     "title": "Grammarly Free",
     "shortName": "Grammarly Free",
@@ -37039,6 +48335,69 @@ const generatedResources = [
     "primaryCategory": "Learning"
   },
   {
+    "id": "graphicburger",
+    "title": "GraphicBurger",
+    "website": "https://graphicburger.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Archive of free mockups, UI kits, icons, and design resources.",
+    "longDescription": "GraphicBurger is a mockups resource in The Creative Vault. Archive of free mockups, UI kits, icons, and design resources. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Mockups"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan or free assets available with paid upgrades or premium options.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Mockups",
+      "Presentation",
+      "Branding",
+      "Design Assets"
+    ],
+    "bestFor": [
+      "Mockups",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "affinity-photo",
+      "canva",
+      "creative-market"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for mockups.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "marketplace-graphicriver",
     "title": "GraphicRiver",
     "shortName": "GraphicRiver",
@@ -37123,6 +48482,69 @@ const generatedResources = [
     "editorPick": false,
     "verified": true,
     "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "gravit-designer",
+    "title": "Gravit Designer",
+    "website": "https://www.coreldraw.com/en/product/vector/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Browser-based vector design tool now connected to Corel Vector.",
+    "longDescription": "Gravit Designer is a vector design resource in The Creative Vault. Browser-based vector design tool now connected to Corel Vector. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Vector Design"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan or free assets available with paid upgrades or premium options.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "tags": [
+      "Vector",
+      "Logo",
+      "Design",
+      "SVG"
+    ],
+    "bestFor": [
+      "Vector Design",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-illustrator",
+      "affinity-designer",
+      "inkscape",
+      "figma"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for vector design.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "game-dev-extra-gravity-sketch",
@@ -37447,6 +48869,69 @@ const generatedResources = [
     "primaryCategory": "Grants"
   },
   {
+    "id": "gumroad",
+    "title": "Gumroad",
+    "website": "https://gumroad.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Creator marketplace where artists sell brushes, textures, tutorials, and tools.",
+    "longDescription": "Gumroad is a brushes & textures resource in The Creative Vault. Creator marketplace where artists sell brushes, textures, tutorials, and tools. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Brushes & Textures"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan or free assets available with paid upgrades or premium options.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Brushes",
+      "Textures",
+      "Assets",
+      "Design Resources"
+    ],
+    "bestFor": [
+      "Brushes & Textures",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "clip-studio-paint",
+      "krita",
+      "procreate"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for brushes & textures.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "marketplace-gumroad",
     "title": "Gumroad",
     "shortName": "Gumroad",
@@ -37575,6 +49060,132 @@ const generatedResources = [
       "game-dev"
     ],
     "primaryCategory": "Game Dev"
+  },
+  {
+    "id": "hailuo-ai",
+    "title": "Hailuo AI",
+    "company": "MiniMax",
+    "website": "https://hailuoai.video/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI video generation platform for short cinematic and stylized clips.",
+    "longDescription": "Hailuo AI is a ai video resource in The Creative Vault. AI video generation platform for short cinematic and stylized clips. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Video"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI Video",
+      "Video Generation",
+      "Motion",
+      "Filmmaking"
+    ],
+    "bestFor": [
+      "AI Video",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit",
+      "ai-video-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "runway",
+      "kling-ai",
+      "pika",
+      "luma-dream-machine"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai video.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
+    "id": "haiper",
+    "title": "Haiper",
+    "company": "Haiper",
+    "website": "https://haiper.ai/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI video generation and animation platform.",
+    "longDescription": "Haiper is a ai video resource in The Creative Vault. AI video generation and animation platform. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Video"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI Video",
+      "Video Generation",
+      "Motion",
+      "Filmmaking"
+    ],
+    "bestFor": [
+      "AI Video",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit",
+      "ai-video-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "runway",
+      "kling-ai",
+      "pika",
+      "luma-dream-machine"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai video.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "grant-hamilton-arts-awards-and-funding",
@@ -37763,6 +49374,70 @@ const generatedResources = [
     "primaryCategory": "Video"
   },
   {
+    "id": "handy-art-reference-tool",
+    "title": "Handy Art Reference Tool",
+    "website": "https://www.handyarttool.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Mobile 3D hand, head, and foot reference tool for artists.",
+    "longDescription": "Handy Art Reference Tool is a reference resource in The Creative Vault. Mobile 3D hand, head, and foot reference tool for artists. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Reference"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "iPad",
+      "iPhone",
+      "Android"
+    ],
+    "tags": [
+      "Reference",
+      "Pose",
+      "Anatomy",
+      "Drawing Practice"
+    ],
+    "bestFor": [
+      "Reference",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "line-of-action",
+      "quickposes",
+      "posemy-art",
+      "proko"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for reference.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "essential-happy-hues",
     "title": "Happy Hues",
     "shortName": "Happy Hues",
@@ -37810,6 +49485,69 @@ const generatedResources = [
     "editorPick": false,
     "verified": true,
     "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "happy-hues",
+    "title": "Happy Hues",
+    "website": "https://www.happyhues.co/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Color palette inspiration shown in real interface examples.",
+    "longDescription": "Happy Hues is a color resource in The Creative Vault. Color palette inspiration shown in real interface examples. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Color"
+    ],
+    "price": "Free",
+    "pricingDetails": "Free to use. Check individual licensing terms before commercial work.",
+    "rating": 4.6,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Color",
+      "Palette",
+      "Branding",
+      "Design"
+    ],
+    "bestFor": [
+      "Color",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "best-free-creative-tools"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "adobe-illustrator",
+      "affinity-designer",
+      "canva"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for color.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Free",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "grant-harpo-foundation",
@@ -38500,6 +50238,69 @@ const generatedResources = [
     "lastReviewed": "2026-07-08"
   },
   {
+    "id": "heygen",
+    "title": "HeyGen",
+    "company": "HeyGen",
+    "website": "https://www.heygen.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI avatar, dubbing, and video creation platform.",
+    "longDescription": "HeyGen is a ai video resource in The Creative Vault. AI avatar, dubbing, and video creation platform. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Video"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI Video",
+      "Video Generation",
+      "Motion",
+      "Filmmaking"
+    ],
+    "bestFor": [
+      "AI Video",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit",
+      "ai-video-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "runway",
+      "kling-ai",
+      "pika",
+      "luma-dream-machine"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai video.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "game-dev-extra-hiero",
     "title": "Hiero",
     "shortName": "Hiero",
@@ -38545,6 +50346,69 @@ const generatedResources = [
       "game-dev"
     ],
     "primaryCategory": "Game Dev"
+  },
+  {
+    "id": "higgsfield",
+    "title": "Higgsfield",
+    "company": "Higgsfield",
+    "website": "https://higgsfield.ai/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI video creation platform focused on cinematic motion and visual effects.",
+    "longDescription": "Higgsfield is a ai video resource in The Creative Vault. AI video creation platform focused on cinematic motion and visual effects. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Video"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI Video",
+      "Video Generation",
+      "Motion",
+      "Filmmaking"
+    ],
+    "bestFor": [
+      "AI Video",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit",
+      "ai-video-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "runway",
+      "kling-ai",
+      "pika",
+      "luma-dream-machine"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai video.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "hitfilm",
@@ -39527,6 +51391,68 @@ const generatedResources = [
     "primaryCategory": "Marketplaces"
   },
   {
+    "id": "human-anatomy-atlas",
+    "title": "Human Anatomy Atlas",
+    "website": "https://www.visiblebody.com/anatomy-and-physiology-apps/human-anatomy-atlas",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "3D anatomy reference app for studying the human body.",
+    "longDescription": "Human Anatomy Atlas is a reference resource in The Creative Vault. 3D anatomy reference app for studying the human body. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Reference"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Reference",
+      "Pose",
+      "Anatomy",
+      "Drawing Practice"
+    ],
+    "bestFor": [
+      "Reference",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "line-of-action",
+      "quickposes",
+      "posemy-art",
+      "proko"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for reference.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "ai-tools-humata",
     "title": "Humata",
     "shortName": "Humata",
@@ -39792,6 +51718,70 @@ const generatedResources = [
       "learning"
     ],
     "primaryCategory": "Learning"
+  },
+  {
+    "id": "ibispaint",
+    "title": "ibisPaint",
+    "website": "https://ibispaint.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Mobile-friendly drawing app popular for anime, manga, and social art workflows.",
+    "longDescription": "ibisPaint is a drawing & painting resource in The Creative Vault. Mobile-friendly drawing app popular for anime, manga, and social art workflows. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Drawing & Painting"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan or free assets available with paid upgrades or premium options.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "iPad",
+      "iPhone",
+      "Android"
+    ],
+    "tags": [
+      "Drawing",
+      "Painting",
+      "Illustration",
+      "Digital Art"
+    ],
+    "bestFor": [
+      "Drawing & Painting",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "clip-studio-paint",
+      "krita",
+      "procreate"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for drawing & painting.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "game-dev-iclone",
@@ -40157,6 +52147,68 @@ const generatedResources = [
       "grants"
     ],
     "primaryCategory": "Grants"
+  },
+  {
+    "id": "ideogram",
+    "title": "Ideogram",
+    "company": "Ideogram",
+    "website": "https://ideogram.ai/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI image generator known for stronger text rendering and graphic poster concepts.",
+    "longDescription": "Ideogram is a ai image resource in The Creative Vault. AI image generator known for stronger text rendering and graphic poster concepts. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Image"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 86,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": true,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI",
+      "Image Generation",
+      "Concept Art",
+      "Visuals"
+    ],
+    "bestFor": [
+      "AI Image",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit",
+      "ai-image-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "midjourney",
+      "leonardo-ai",
+      "adobe-firefly"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai image.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "grant-illinois-arts-council",
@@ -40822,6 +52874,70 @@ const generatedResources = [
     "primaryCategory": "Learning"
   },
   {
+    "id": "infinite-painter",
+    "title": "Infinite Painter",
+    "website": "https://www.infinitestudio.art/painter",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Mobile drawing and painting app with natural brushes and tablet-friendly tools.",
+    "longDescription": "Infinite Painter is a drawing & painting resource in The Creative Vault. Mobile drawing and painting app with natural brushes and tablet-friendly tools. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Drawing & Painting"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan or free assets available with paid upgrades or premium options.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "iPad",
+      "iPhone",
+      "Android"
+    ],
+    "tags": [
+      "Drawing",
+      "Painting",
+      "Illustration",
+      "Digital Art"
+    ],
+    "bestFor": [
+      "Drawing & Painting",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "clip-studio-paint",
+      "krita",
+      "procreate"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for drawing & painting.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "game-dev-extra-ink",
     "title": "Ink",
     "shortName": "Ink",
@@ -40867,6 +52983,69 @@ const generatedResources = [
       "game-dev"
     ],
     "primaryCategory": "Game Dev"
+  },
+  {
+    "id": "inkscape",
+    "title": "Inkscape",
+    "website": "https://inkscape.org/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Free open-source vector graphics editor for SVG, logos, icons, and illustration.",
+    "longDescription": "Inkscape is a vector design resource in The Creative Vault. Free open-source vector graphics editor for SVG, logos, icons, and illustration. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Vector Design"
+    ],
+    "price": "Free",
+    "pricingDetails": "Free to use. Check individual licensing terms before commercial work.",
+    "rating": 4.4,
+    "popularity": 78,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": true,
+    "openSource": true,
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "tags": [
+      "Vector",
+      "Logo",
+      "Design",
+      "SVG"
+    ],
+    "bestFor": [
+      "Vector Design",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "best-free-creative-tools"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-illustrator",
+      "affinity-designer",
+      "figma"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for vector design.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Free",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "game-dev-extra-inky",
@@ -41323,6 +53502,72 @@ const generatedResources = [
     "primaryCategory": "Freelancing"
   },
   {
+    "id": "invokeai",
+    "title": "InvokeAI",
+    "company": "InvokeAI",
+    "website": "https://www.invoke.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Creative AI image generation platform with local and professional workflow options.",
+    "longDescription": "InvokeAI is a ai image resource in The Creative Vault. Creative AI image generation platform with local and professional workflow options. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Image"
+    ],
+    "price": "Free",
+    "pricingDetails": "Free to use. Check usage limits and licensing before commercial work.",
+    "rating": 4.5,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": true,
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "tags": [
+      "AI",
+      "Image Generation",
+      "Concept Art",
+      "Visuals"
+    ],
+    "bestFor": [
+      "AI Image",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit",
+      "ai-image-kit",
+      "best-free-creative-tools"
+    ],
+    "alternatives": [],
+    "related": [
+      "midjourney",
+      "leonardo-ai",
+      "ideogram",
+      "adobe-firefly"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai image.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Free",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "game-dev-inworld-ai",
     "title": "Inworld AI",
     "shortName": "Inworld AI",
@@ -41591,6 +53836,70 @@ const generatedResources = [
     "primaryCategory": "Grants"
   },
   {
+    "id": "iso-republic",
+    "title": "ISO Republic",
+    "website": "https://isorepublic.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Free stock photo and video library.",
+    "longDescription": "ISO Republic is a stock images resource in The Creative Vault. Free stock photo and video library. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Stock Images"
+    ],
+    "price": "Free",
+    "pricingDetails": "Free to use. Check individual licensing terms before commercial work.",
+    "rating": 4.6,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Stock",
+      "Photography",
+      "Images",
+      "Creative Assets"
+    ],
+    "bestFor": [
+      "Stock Images",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "best-free-creative-tools",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "canva",
+      "freepik",
+      "unsplash"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for stock images.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Free",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "photography-iso-republic",
     "title": "ISO Republic",
     "shortName": "ISO Republic",
@@ -41632,6 +53941,69 @@ const generatedResources = [
     "editorPick": false,
     "verified": true,
     "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "istock",
+    "title": "iStock",
+    "website": "https://www.istockphoto.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Stock photo and video marketplace from Getty Images.",
+    "longDescription": "iStock is a stock images resource in The Creative Vault. Stock photo and video marketplace from Getty Images. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Stock Images"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Stock",
+      "Photography",
+      "Images",
+      "Creative Assets"
+    ],
+    "bestFor": [
+      "Stock Images",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "canva",
+      "freepik",
+      "unsplash"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for stock images.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "marketplace-istock",
@@ -42300,6 +54672,67 @@ const generatedResources = [
       "game-dev"
     ],
     "primaryCategory": "Game Dev"
+  },
+  {
+    "id": "jasper",
+    "title": "Jasper",
+    "company": "Jasper",
+    "website": "https://www.jasper.ai/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI marketing and copywriting platform for teams and brands.",
+    "longDescription": "Jasper is a ai writing resource in The Creative Vault. AI marketing and copywriting platform for teams and brands. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Writing"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Writing",
+      "Copywriting",
+      "Content",
+      "AI"
+    ],
+    "bestFor": [
+      "AI Writing",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "chatgpt",
+      "claude",
+      "grammarly"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai writing.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "learning-javascript-info",
@@ -43028,6 +55461,69 @@ const generatedResources = [
       "learning"
     ],
     "primaryCategory": "Learning"
+  },
+  {
+    "id": "kaboompics",
+    "title": "Kaboompics",
+    "website": "https://kaboompics.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Free stock photos with lifestyle, interior, and color-search features.",
+    "longDescription": "Kaboompics is a stock images resource in The Creative Vault. Free stock photos with lifestyle, interior, and color-search features. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Stock Images"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Stock",
+      "Photography",
+      "Images",
+      "Creative Assets"
+    ],
+    "bestFor": [
+      "Stock Images",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "canva",
+      "freepik",
+      "unsplash"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for stock images.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "photography-kaboompics",
@@ -43919,6 +56415,68 @@ const generatedResources = [
     "primaryCategory": "Learning"
   },
   {
+    "id": "khroma",
+    "title": "Khroma",
+    "website": "https://www.khroma.co/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI color tool that learns your preferences and generates palettes.",
+    "longDescription": "Khroma is a color resource in The Creative Vault. AI color tool that learns your preferences and generates palettes. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Color"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan or free assets available with paid upgrades or premium options.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Color",
+      "Palette",
+      "Branding",
+      "Design"
+    ],
+    "bestFor": [
+      "Color",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "adobe-illustrator",
+      "affinity-designer",
+      "canva"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for color.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "kicad",
     "title": "KiCad",
     "shortName": "KiCad",
@@ -44088,6 +56646,68 @@ const generatedResources = [
       "marketplaces"
     ],
     "primaryCategory": "Marketplaces"
+  },
+  {
+    "id": "kits-ai",
+    "title": "Kits AI",
+    "company": "Kits AI",
+    "website": "https://www.kits.ai/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI voice conversion and singing voice tools for music creators.",
+    "longDescription": "Kits AI is a ai voice resource in The Creative Vault. AI voice conversion and singing voice tools for music creators. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Voice"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI Voice",
+      "Voiceover",
+      "Narration",
+      "Audio"
+    ],
+    "bestFor": [
+      "AI Voice",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "elevenlabs",
+      "playht",
+      "murf",
+      "fish-audio"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai voice.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "game-dev-extra-kitsu",
@@ -44262,6 +56882,68 @@ const generatedResources = [
       "typography"
     ],
     "primaryCategory": "Typography"
+  },
+  {
+    "id": "kling-ai",
+    "title": "Kling AI",
+    "company": "Kuaishou",
+    "website": "https://klingai.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI video generation platform for text-to-video and image-to-video creation.",
+    "longDescription": "Kling AI is a ai video resource in The Creative Vault. AI video generation platform for text-to-video and image-to-video creation. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Video"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.5,
+    "popularity": 86,
+    "skillLevel": "Beginner to Professional",
+    "featured": true,
+    "editorPick": true,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI Video",
+      "Video Generation",
+      "Motion",
+      "Filmmaking"
+    ],
+    "bestFor": [
+      "AI Video",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit",
+      "ai-video-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "runway",
+      "pika",
+      "luma-dream-machine"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai video.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "grant-knight-foundation-arts",
@@ -44499,6 +57181,69 @@ const generatedResources = [
     "primaryCategory": "Grants"
   },
   {
+    "id": "krea",
+    "title": "Krea",
+    "company": "Krea",
+    "website": "https://www.krea.ai/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI image and video creative platform with real-time generation and enhancement tools.",
+    "longDescription": "Krea is a ai image resource in The Creative Vault. AI image and video creative platform with real-time generation and enhancement tools. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Image"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": true,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI",
+      "Image Generation",
+      "Concept Art",
+      "Visuals"
+    ],
+    "bestFor": [
+      "AI Image",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit",
+      "ai-image-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "midjourney",
+      "leonardo-ai",
+      "ideogram",
+      "adobe-firefly"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai image.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "game-dev-krea-ai",
     "title": "Krea AI",
     "shortName": "Krea AI",
@@ -44571,7 +57316,159 @@ const generatedResources = [
     "verified": true,
     "featured": false,
     "editorPick": false,
-    "lastReviewed": "2026-07-09"
+    "lastReviewed": "2026-08-10"
+  },
+  {
+    "id": "krisp",
+    "title": "Krisp",
+    "company": "Krisp",
+    "website": "https://krisp.ai/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI noise cancellation for calls, recording, and remote work.",
+    "longDescription": "Krisp is a ai audio resource in The Creative Vault. AI noise cancellation for calls, recording, and remote work. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Audio"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Audio",
+      "Cleanup",
+      "Podcasting",
+      "Sound"
+    ],
+    "bestFor": [
+      "AI Audio",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-podcast",
+      "elevenlabs",
+      "descript"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai audio.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
+    "id": "krita",
+    "title": "Krita",
+    "website": "https://krita.org/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Free open-source painting software for illustrators, concept artists, and comic creators.",
+    "longDescription": "Krita is a drawing & painting resource in The Creative Vault. Free open-source painting software for illustrators, concept artists, and comic creators. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Drawing & Painting"
+    ],
+    "price": "Free",
+    "pricingDetails": "Free to use. Check individual licensing terms before commercial work.",
+    "rating": 4.7,
+    "popularity": 88,
+    "skillLevel": "Beginner to Professional",
+    "featured": true,
+    "editorPick": true,
+    "openSource": true,
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "tags": [
+      "Drawing",
+      "Painting",
+      "Illustration",
+      "Digital Art"
+    ],
+    "bestFor": [
+      "Drawing & Painting",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "best-free-creative-tools"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "clip-studio-paint",
+      "procreate"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for drawing & painting.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "Krita Foundation",
+    "companyWebsite": "https://krita.org/",
+    "type": "Software",
+    "whyUseIt": "Use it when you want a powerful free and open-source digital painting tool without subscription costs.",
+    "pros": [
+      "Free and open source",
+      "Strong brush engine",
+      "Good for illustration and comics",
+      "Runs on Windows, Mac, and Linux"
+    ],
+    "cons": [
+      "Not as common in commercial studios as Photoshop",
+      "Interface can take time to learn"
+    ],
+    "fileFormats": [
+      "KRA",
+      "PSD",
+      "PNG",
+      "JPG",
+      "TIFF"
+    ],
+    "plugins": true,
+    "offline": true,
+    "commercialUse": true,
+    "beginnerFriendly": true,
+    "professional": true,
+    "learningCurve": "Medium",
+    "documentation": "https://docs.krita.org/",
+    "reddit": "https://www.reddit.com/r/krita/",
+    "github": "https://invent.kde.org/graphics/krita",
+    "lastReviewed": "2026-07-07",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Free",
+    "verified": true
   },
   {
     "id": "game-dev-krita",
@@ -44621,6 +57518,69 @@ const generatedResources = [
     "primaryCategory": "Game Dev"
   },
   {
+    "id": "kyle-t-webster-brushes",
+    "title": "Kyle T. Webster Brushes",
+    "website": "https://www.adobe.com/products/photoshop/brushes.html",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Adobe Photoshop brush collections created by Kyle T. Webster.",
+    "longDescription": "Kyle T. Webster Brushes is a brushes & textures resource in The Creative Vault. Adobe Photoshop brush collections created by Kyle T. Webster. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Brushes & Textures"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Brushes",
+      "Textures",
+      "Assets",
+      "Design Resources"
+    ],
+    "bestFor": [
+      "Brushes & Textures",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "clip-studio-paint",
+      "krita",
+      "procreate"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for brushes & textures.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "grant-laidlaw-foundation",
     "title": "Laidlaw Foundation",
     "shortName": "Laidlaw Foundation",
@@ -44668,6 +57628,68 @@ const generatedResources = [
       "grants"
     ],
     "primaryCategory": "Grants"
+  },
+  {
+    "id": "land-book",
+    "title": "Land-book",
+    "website": "https://land-book.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Website and landing page inspiration collection.",
+    "longDescription": "Land-book is a inspiration resource in The Creative Vault. Website and landing page inspiration collection. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Inspiration"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan or free assets available with paid upgrades or premium options.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Inspiration",
+      "Portfolio",
+      "Design",
+      "Moodboard"
+    ],
+    "bestFor": [
+      "Inspiration",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "behance",
+      "dribbble",
+      "artstation",
+      "pinterest"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for inspiration.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "design-landings",
@@ -44799,6 +57821,68 @@ const generatedResources = [
     "primaryCategory": "Audio"
   },
   {
+    "id": "langflow",
+    "title": "Langflow",
+    "company": "Langflow",
+    "website": "https://www.langflow.org/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Visual framework for building AI agents and LLM-powered workflows.",
+    "longDescription": "Langflow is a ai automation resource in The Creative Vault. Visual framework for building AI agents and LLM-powered workflows. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Automation"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Intermediate to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": true,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Automation",
+      "Agents",
+      "Workflows",
+      "APIs"
+    ],
+    "bestFor": [
+      "AI Automation",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "n8n",
+      "zapier-ai",
+      "make",
+      "flowise"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai automation.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "essential-languagetool",
     "title": "LanguageTool",
     "shortName": "LanguageTool",
@@ -44889,6 +57973,68 @@ const generatedResources = [
     "editorPick": false,
     "verified": true,
     "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "lapa-ninja",
+    "title": "Lapa Ninja",
+    "website": "https://www.lapa.ninja/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Landing page design inspiration gallery.",
+    "longDescription": "Lapa Ninja is a inspiration resource in The Creative Vault. Landing page design inspiration gallery. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Inspiration"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan or free assets available with paid upgrades or premium options.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Inspiration",
+      "Portfolio",
+      "Design",
+      "Moodboard"
+    ],
+    "bestFor": [
+      "Inspiration",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "behance",
+      "dribbble",
+      "artstation",
+      "pinterest"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for inspiration.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "learning-laracasts",
@@ -45158,6 +58304,68 @@ const generatedResources = [
       "game-dev"
     ],
     "primaryCategory": "Game Dev"
+  },
+  {
+    "id": "layers",
+    "title": "Layers",
+    "website": "https://layers.to/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Design inspiration community for product design and visual work.",
+    "longDescription": "Layers is a inspiration resource in The Creative Vault. Design inspiration community for product design and visual work. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Inspiration"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan or free assets available with paid upgrades or premium options.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Inspiration",
+      "Portfolio",
+      "Design",
+      "Moodboard"
+    ],
+    "bestFor": [
+      "Inspiration",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "behance",
+      "dribbble",
+      "artstation",
+      "pinterest"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for inspiration.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "game-dev-ldtk",
@@ -45651,6 +58859,68 @@ const generatedResources = [
     "lastReviewed": "2026-07-08"
   },
   {
+    "id": "leonardo-ai",
+    "title": "Leonardo AI",
+    "company": "Leonardo AI",
+    "website": "https://leonardo.ai/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI image platform for concept art, game assets, character ideas, and creative production.",
+    "longDescription": "Leonardo AI is a ai image resource in The Creative Vault. AI image platform for concept art, game assets, character ideas, and creative production. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Image"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 88,
+    "skillLevel": "Beginner to Professional",
+    "featured": true,
+    "editorPick": true,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI",
+      "Image Generation",
+      "Concept Art",
+      "Visuals"
+    ],
+    "bestFor": [
+      "AI Image",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit",
+      "ai-image-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "midjourney",
+      "ideogram",
+      "adobe-firefly"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai image.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "game-dev-leonardo-ai",
     "title": "Leonardo AI",
     "shortName": "Leonardo AI",
@@ -45737,6 +59007,69 @@ const generatedResources = [
       "digital-art"
     ],
     "primaryCategory": "Digital Art"
+  },
+  {
+    "id": "lexica",
+    "title": "Lexica",
+    "company": "Lexica",
+    "website": "https://lexica.art/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI image search and generation platform useful for prompt inspiration.",
+    "longDescription": "Lexica is a ai image resource in The Creative Vault. AI image search and generation platform useful for prompt inspiration. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Image"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI",
+      "Image Generation",
+      "Concept Art",
+      "Visuals"
+    ],
+    "bestFor": [
+      "AI Image",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit",
+      "ai-image-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "midjourney",
+      "leonardo-ai",
+      "ideogram",
+      "adobe-firefly"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai image.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "learning-library-of-congress-digital-collections",
@@ -45909,7 +59242,7 @@ const generatedResources = [
     "verified": true,
     "featured": false,
     "editorPick": false,
-    "lastReviewed": "2026-07-09"
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "software-libreoffice-base",
@@ -45922,12 +59255,16 @@ const generatedResources = [
     "categories": [
       "Software",
       "Databases",
-      "Office Suite"
+      "Office Suite",
+      "Web & Dev",
+      "Business"
     ],
     "categoryIds": [
       "software",
       "databases",
-      "office-suite"
+      "office-suite",
+      "web-and-dev",
+      "business"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -45986,12 +59323,14 @@ const generatedResources = [
     "categories": [
       "Software",
       "Spreadsheets",
-      "Office Suite"
+      "Office Suite",
+      "Business"
     ],
     "categoryIds": [
       "software",
       "spreadsheets",
-      "office-suite"
+      "office-suite",
+      "business"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -46040,6 +59379,70 @@ const generatedResources = [
     "lastReviewed": "2026-07-08"
   },
   {
+    "id": "libreoffice-draw",
+    "title": "LibreOffice Draw",
+    "website": "https://www.libreoffice.org/discover/draw/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Free drawing and diagramming tool included with LibreOffice.",
+    "longDescription": "LibreOffice Draw is a vector design resource in The Creative Vault. Free drawing and diagramming tool included with LibreOffice. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Vector Design"
+    ],
+    "price": "Free",
+    "pricingDetails": "Free to use. Check individual licensing terms before commercial work.",
+    "rating": 4.6,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": true,
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "tags": [
+      "Vector",
+      "Logo",
+      "Design",
+      "SVG"
+    ],
+    "bestFor": [
+      "Vector Design",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "best-free-creative-tools"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-illustrator",
+      "affinity-designer",
+      "inkscape",
+      "figma"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for vector design.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Free",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "software-libreoffice-draw",
     "title": "LibreOffice Draw",
     "shortName": "LibreOffice Draw",
@@ -46051,13 +59454,17 @@ const generatedResources = [
       "Software",
       "Vector Drawing",
       "Diagrams",
-      "PDF Editing"
+      "PDF Editing",
+      "Digital Art",
+      "Business"
     ],
     "categoryIds": [
       "software",
       "vector-drawing",
       "diagrams",
-      "pdf-editing"
+      "pdf-editing",
+      "digital-art",
+      "business"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -46118,12 +59525,14 @@ const generatedResources = [
     "categories": [
       "Software",
       "Presentations",
-      "Office Suite"
+      "Office Suite",
+      "Business"
     ],
     "categoryIds": [
       "software",
       "presentations",
-      "office-suite"
+      "office-suite",
+      "business"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -46182,12 +59591,14 @@ const generatedResources = [
     "categories": [
       "Software",
       "Formula Editing",
-      "Office Suite"
+      "Office Suite",
+      "Business"
     ],
     "categoryIds": [
       "software",
       "formula-editing",
-      "office-suite"
+      "office-suite",
+      "business"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -46245,12 +59656,14 @@ const generatedResources = [
     "categories": [
       "Software",
       "Word Processing",
-      "Office Suite"
+      "Office Suite",
+      "Business"
     ],
     "categoryIds": [
       "software",
       "word-processing",
-      "office-suite"
+      "office-suite",
+      "business"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -46387,6 +59800,70 @@ const generatedResources = [
       "books"
     ],
     "primaryCategory": "Books"
+  },
+  {
+    "id": "life-of-pix",
+    "title": "Life of Pix",
+    "website": "https://www.lifeofpix.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Free high-resolution photography library.",
+    "longDescription": "Life of Pix is a stock images resource in The Creative Vault. Free high-resolution photography library. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Stock Images"
+    ],
+    "price": "Free",
+    "pricingDetails": "Free to use. Check individual licensing terms before commercial work.",
+    "rating": 4.6,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Stock",
+      "Photography",
+      "Images",
+      "Creative Assets"
+    ],
+    "bestFor": [
+      "Stock Images",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "best-free-creative-tools",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "canva",
+      "freepik",
+      "unsplash"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for stock images.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Free",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "photography-life-of-pix",
@@ -46606,6 +60083,68 @@ const generatedResources = [
     "primaryCategory": "Video"
   },
   {
+    "id": "line-of-action",
+    "title": "Line of Action",
+    "website": "https://line-of-action.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Timed figure drawing practice with people, animals, hands, faces, and environments.",
+    "longDescription": "Line of Action is a reference resource in The Creative Vault. Timed figure drawing practice with people, animals, hands, faces, and environments. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Reference"
+    ],
+    "price": "Free",
+    "pricingDetails": "Free to use. Check individual licensing terms before commercial work.",
+    "rating": 4.8,
+    "popularity": 84,
+    "skillLevel": "Beginner to Professional",
+    "featured": true,
+    "editorPick": true,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Reference",
+      "Pose",
+      "Anatomy",
+      "Drawing Practice"
+    ],
+    "bestFor": [
+      "Reference",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "best-free-creative-tools"
+    ],
+    "alternatives": [],
+    "related": [
+      "quickposes",
+      "posemy-art",
+      "proko"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for reference.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Free",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "learning-line-of-action-practice",
     "title": "Line of Action Practice",
     "shortName": "Line of Action Practice",
@@ -46697,6 +60236,69 @@ const generatedResources = [
       "game-dev"
     ],
     "primaryCategory": "Game Dev"
+  },
+  {
+    "id": "linearity-curve",
+    "title": "Linearity Curve",
+    "website": "https://www.linearity.io/curve/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Vector design app for illustration, marketing graphics, and interface assets.",
+    "longDescription": "Linearity Curve is a vector design resource in The Creative Vault. Vector design app for illustration, marketing graphics, and interface assets. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Vector Design"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "tags": [
+      "Vector",
+      "Logo",
+      "Design",
+      "SVG"
+    ],
+    "bestFor": [
+      "Vector Design",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-illustrator",
+      "affinity-designer",
+      "inkscape",
+      "figma"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for vector design.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "learning-linkedin-learning",
@@ -46881,6 +60483,70 @@ const generatedResources = [
       "game-dev"
     ],
     "primaryCategory": "Game Dev"
+  },
+  {
+    "id": "lm-studio",
+    "title": "LM Studio",
+    "company": "LM Studio",
+    "website": "https://lmstudio.ai/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Desktop app for discovering, downloading, and running local LLMs.",
+    "longDescription": "LM Studio is a local ai resource in The Creative Vault. Desktop app for discovering, downloading, and running local LLMs. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "Local AI"
+    ],
+    "price": "Free",
+    "pricingDetails": "Free to use. Check usage limits and licensing before commercial work.",
+    "rating": 4.5,
+    "popularity": 80,
+    "skillLevel": "Intermediate to Professional",
+    "featured": false,
+    "editorPick": true,
+    "openSource": false,
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "tags": [
+      "Local AI",
+      "Open Source",
+      "LLM",
+      "Private AI"
+    ],
+    "bestFor": [
+      "Local AI",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit",
+      "best-free-creative-tools"
+    ],
+    "alternatives": [],
+    "related": [
+      "ollama",
+      "open-webui",
+      "comfyui"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for local ai.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Free",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "essential-lmms",
@@ -47106,6 +60772,105 @@ const generatedResources = [
       "game-dev"
     ],
     "primaryCategory": "Game Dev"
+  },
+  {
+    "id": "logic-pro",
+    "title": "Logic Pro",
+    "shortName": "Logic Pro",
+    "company": "Apple",
+    "companyWebsite": "",
+    "website": "https://www.apple.com/logic-pro/",
+    "logo": "",
+    "favicon": "",
+    "heroImage": "",
+    "screenshots": [],
+    "category": "Music",
+    "categoryId": "music",
+    "subcategories": [
+      "DAW",
+      "Music Production"
+    ],
+    "type": "Software",
+    "industries": [],
+    "useCases": [],
+    "tags": [
+      "DAW",
+      "Apple",
+      "Music"
+    ],
+    "collections": [],
+    "shortDescription": "Professional music production software for Mac users.",
+    "longDescription": "Logic Pro is part of the Apple ecosystem in The Creative Vault. Professional music production software for Mac users.",
+    "whyUseIt": "",
+    "bestFor": [
+      "DAW",
+      "Music Production",
+      "Creative workflows"
+    ],
+    "pros": [],
+    "cons": [],
+    "notes": "Added as part of the V7 ecosystem architecture.",
+    "platforms": [
+      "Mac",
+      "iPad"
+    ],
+    "operatingSystems": [
+      "Mac",
+      "iPad"
+    ],
+    "mobileSupport": true,
+    "browserSupport": false,
+    "offline": true,
+    "cloudSync": false,
+    "fileFormats": [],
+    "integrations": [],
+    "api": false,
+    "plugins": false,
+    "extensions": false,
+    "ai": false,
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "pricingDetails": "Check official website for current pricing and licensing.",
+    "freeTrial": true,
+    "studentDiscount": false,
+    "commercialUse": null,
+    "license": "Licensing varies. Check the official website before commercial use.",
+    "licenseType": "",
+    "rating": 4.5,
+    "popularity": 75,
+    "beginnerFriendly": false,
+    "professional": true,
+    "learningCurve": "Medium",
+    "industryStandard": false,
+    "openSource": false,
+    "verified": true,
+    "lastReviewed": "2026-07-07",
+    "alternatives": [],
+    "competitors": [],
+    "related": [
+      "ableton-live",
+      "studio-one"
+    ],
+    "tutorials": [],
+    "youtubeChannels": [],
+    "documentation": "",
+    "community": "",
+    "discord": "",
+    "reddit": "",
+    "github": "",
+    "twitter": "",
+    "instagram": "",
+    "featured": true,
+    "editorPick": true,
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "Music"
+    ],
+    "categoryIds": [
+      "music"
+    ],
+    "primaryCategory": "Music"
   },
   {
     "id": "freelancing-logotournament",
@@ -47551,6 +61316,69 @@ const generatedResources = [
     "primaryCategory": "Game Dev"
   },
   {
+    "id": "lost-type",
+    "title": "Lost Type",
+    "website": "https://www.losttype.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Independent type foundry with stylish display fonts.",
+    "longDescription": "Lost Type is a fonts resource in The Creative Vault. Independent type foundry with stylish display fonts. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Fonts"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Fonts",
+      "Typography",
+      "Type",
+      "Design Resources"
+    ],
+    "bestFor": [
+      "Fonts",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-illustrator",
+      "affinity-designer",
+      "canva",
+      "adobe-photoshop"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for fonts.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "game-dev-extra-lottiefiles",
     "title": "LottieFiles",
     "shortName": "LottieFiles",
@@ -47637,6 +61465,69 @@ const generatedResources = [
       "marketplaces"
     ],
     "primaryCategory": "Marketplaces"
+  },
+  {
+    "id": "lovable",
+    "title": "Lovable",
+    "company": "Lovable",
+    "website": "https://lovable.dev/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI app builder for generating full-stack apps from prompts.",
+    "longDescription": "Lovable is a ai coding resource in The Creative Vault. AI app builder for generating full-stack apps from prompts. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Coding"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI Coding",
+      "Developer",
+      "App Builder",
+      "Vibe Coding"
+    ],
+    "bestFor": [
+      "AI Coding",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit",
+      "ai-coding-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "cursor",
+      "windsurf",
+      "github-copilot",
+      "replit"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai coding.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "learning-love-life-drawing",
@@ -47772,6 +61663,69 @@ const generatedResources = [
     "editorPick": false,
     "verified": true,
     "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "ls-graphics",
+    "title": "LS Graphics",
+    "website": "https://www.ls.graphics/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Premium mockups, UI kits, and design resources.",
+    "longDescription": "LS Graphics is a mockups resource in The Creative Vault. Premium mockups, UI kits, and design resources. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Mockups"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Mockups",
+      "Presentation",
+      "Branding",
+      "Design Assets"
+    ],
+    "bestFor": [
+      "Mockups",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "affinity-photo",
+      "canva",
+      "creative-market"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for mockups.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "essential-lucide",
@@ -47959,6 +61913,68 @@ const generatedResources = [
     "primaryCategory": "Game Dev"
   },
   {
+    "id": "luma-dream-machine",
+    "title": "Luma Dream Machine",
+    "company": "Luma AI",
+    "website": "https://lumalabs.ai/dream-machine",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI video generation tool for realistic motion and cinematic creative tests.",
+    "longDescription": "Luma Dream Machine is a ai video resource in The Creative Vault. AI video generation tool for realistic motion and cinematic creative tests. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Video"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI Video",
+      "Video Generation",
+      "Motion",
+      "Filmmaking"
+    ],
+    "bestFor": [
+      "AI Video",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit",
+      "ai-video-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "runway",
+      "kling-ai",
+      "pika"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai video.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "photography-lume-cube",
     "title": "Lume Cube",
     "shortName": "Lume Cube",
@@ -48084,6 +62100,69 @@ const generatedResources = [
       "photo"
     ],
     "primaryCategory": "Photography"
+  },
+  {
+    "id": "lunacy",
+    "title": "Lunacy",
+    "website": "https://icons8.com/lunacy",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Free design software for UI, vector graphics, and design assets.",
+    "longDescription": "Lunacy is a vector design resource in The Creative Vault. Free design software for UI, vector graphics, and design assets. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Vector Design"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan or free assets available with paid upgrades or premium options.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "tags": [
+      "Vector",
+      "Logo",
+      "Design",
+      "SVG"
+    ],
+    "bestFor": [
+      "Vector Design",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-illustrator",
+      "affinity-designer",
+      "inkscape",
+      "figma"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for vector design.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "game-dev-extra-lunacy",
@@ -48360,6 +62439,133 @@ const generatedResources = [
     "primaryCategory": "Game Dev"
   },
   {
+    "id": "mage-space",
+    "title": "Mage.Space",
+    "company": "Mage.Space",
+    "website": "https://www.mage.space/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI image generation platform for Stable Diffusion-style workflows.",
+    "longDescription": "Mage.Space is a ai image resource in The Creative Vault. AI image generation platform for Stable Diffusion-style workflows. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Image"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI",
+      "Image Generation",
+      "Concept Art",
+      "Visuals"
+    ],
+    "bestFor": [
+      "AI Image",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit",
+      "ai-image-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "midjourney",
+      "leonardo-ai",
+      "ideogram",
+      "adobe-firefly"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai image.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
+    "id": "magic-poser",
+    "title": "Magic Poser",
+    "website": "https://magicposer.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "3D pose app for artists creating custom figure references.",
+    "longDescription": "Magic Poser is a reference resource in The Creative Vault. 3D pose app for artists creating custom figure references. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Reference"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "iPad",
+      "iPhone",
+      "Android"
+    ],
+    "tags": [
+      "Reference",
+      "Pose",
+      "Anatomy",
+      "Drawing Practice"
+    ],
+    "bestFor": [
+      "Reference",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "line-of-action",
+      "quickposes",
+      "posemy-art",
+      "proko"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for reference.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "game-dev-magicavoxel",
     "title": "MagicaVoxel",
     "shortName": "MagicaVoxel",
@@ -48449,6 +62655,69 @@ const generatedResources = [
     "primaryCategory": "Digital Art"
   },
   {
+    "id": "magnific",
+    "title": "Magnific",
+    "company": "Magnific AI",
+    "website": "https://magnific.ai/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI image upscaler and enhancer for detailed creative image refinement.",
+    "longDescription": "Magnific is a ai image resource in The Creative Vault. AI image upscaler and enhancer for detailed creative image refinement. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Image"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product or commercial service.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI",
+      "Image Generation",
+      "Concept Art",
+      "Visuals"
+    ],
+    "bestFor": [
+      "AI Image",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit",
+      "ai-image-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "midjourney",
+      "leonardo-ai",
+      "ideogram",
+      "adobe-firefly"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai image.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "marketing-mailchimp",
     "title": "Mailchimp",
     "shortName": "Mailchimp",
@@ -48490,6 +62759,67 @@ const generatedResources = [
       "marketing"
     ],
     "primaryCategory": "Marketing"
+  },
+  {
+    "id": "make",
+    "title": "Make",
+    "company": "Make",
+    "website": "https://www.make.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Visual automation platform for workflows, APIs, and AI-connected systems.",
+    "longDescription": "Make is a ai automation resource in The Creative Vault. Visual automation platform for workflows, APIs, and AI-connected systems. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Automation"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Intermediate to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Automation",
+      "Agents",
+      "Workflows",
+      "APIs"
+    ],
+    "bestFor": [
+      "AI Automation",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "n8n",
+      "zapier-ai",
+      "flowise"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai automation.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "marketplace-make-apps",
@@ -49391,6 +63721,69 @@ const generatedResources = [
     "primaryCategory": "Game Dev"
   },
   {
+    "id": "material-palette",
+    "title": "Material Palette",
+    "website": "https://www.materialpalette.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Material design color palette generator.",
+    "longDescription": "Material Palette is a color resource in The Creative Vault. Material design color palette generator. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Color"
+    ],
+    "price": "Free",
+    "pricingDetails": "Free to use. Check individual licensing terms before commercial work.",
+    "rating": 4.6,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Color",
+      "Palette",
+      "Branding",
+      "Design"
+    ],
+    "bestFor": [
+      "Color",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "best-free-creative-tools"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "adobe-illustrator",
+      "affinity-designer",
+      "canva"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for color.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Free",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "essential-material-symbols",
     "title": "Material Symbols",
     "shortName": "Material Symbols",
@@ -49472,7 +63865,7 @@ const generatedResources = [
     "verified": true,
     "featured": false,
     "editorPick": false,
-    "lastReviewed": "2026-07-09"
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "grant-mcconnell-foundation",
@@ -49659,6 +64052,70 @@ const generatedResources = [
       "freelancing"
     ],
     "primaryCategory": "Freelancing"
+  },
+  {
+    "id": "medibang-paint",
+    "title": "MediBang Paint",
+    "website": "https://medibangpaint.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Free comic and illustration software with cloud features and mobile support.",
+    "longDescription": "MediBang Paint is a drawing & painting resource in The Creative Vault. Free comic and illustration software with cloud features and mobile support. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Drawing & Painting"
+    ],
+    "price": "Free",
+    "pricingDetails": "Free to use. Check individual licensing terms before commercial work.",
+    "rating": 4.6,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "tags": [
+      "Drawing",
+      "Painting",
+      "Illustration",
+      "Digital Art"
+    ],
+    "bestFor": [
+      "Drawing & Painting",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "best-free-creative-tools"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "clip-studio-paint",
+      "krita",
+      "procreate"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for drawing & painting.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Free",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "marketplace-medium-partner-program",
@@ -50361,6 +64818,103 @@ const generatedResources = [
     "lastReviewed": "2026-07-08"
   },
   {
+    "id": "metahuman-creator",
+    "title": "MetaHuman Creator",
+    "shortName": "MetaHuman Creator",
+    "company": "Epic Games",
+    "companyWebsite": "",
+    "website": "https://www.unrealengine.com/en-US/metahuman",
+    "logo": "",
+    "favicon": "",
+    "heroImage": "",
+    "screenshots": [],
+    "category": "3D / CAD",
+    "categoryId": "3d-cad",
+    "subcategories": [
+      "Characters"
+    ],
+    "type": "Software",
+    "industries": [],
+    "useCases": [],
+    "tags": [
+      "Characters",
+      "Digital Human",
+      "Unreal"
+    ],
+    "collections": [
+      "best-free-creative-tools"
+    ],
+    "shortDescription": "High-fidelity digital human creation tool for Unreal Engine workflows.",
+    "longDescription": "MetaHuman Creator is part of the Epic Games ecosystem in The Creative Vault. High-fidelity digital human creation tool for Unreal Engine workflows.",
+    "whyUseIt": "",
+    "bestFor": [
+      "Characters",
+      "Creative workflows"
+    ],
+    "pros": [],
+    "cons": [],
+    "notes": "Added as part of the V7 ecosystem architecture.",
+    "platforms": [
+      "Browser"
+    ],
+    "operatingSystems": [
+      "Browser"
+    ],
+    "mobileSupport": false,
+    "browserSupport": true,
+    "offline": false,
+    "cloudSync": false,
+    "fileFormats": [],
+    "integrations": [],
+    "api": false,
+    "plugins": false,
+    "extensions": false,
+    "ai": true,
+    "price": "Free",
+    "pricingModel": "Free",
+    "pricingDetails": "Check official website for current pricing and licensing.",
+    "freeTrial": false,
+    "studentDiscount": false,
+    "commercialUse": null,
+    "license": "Licensing varies. Check the official website before commercial use.",
+    "licenseType": "",
+    "rating": 4.5,
+    "popularity": 75,
+    "beginnerFriendly": false,
+    "professional": true,
+    "learningCurve": "Medium",
+    "industryStandard": false,
+    "openSource": false,
+    "verified": true,
+    "lastReviewed": "2026-07-07",
+    "alternatives": [],
+    "competitors": [],
+    "related": [
+      "character-creator",
+      "daz-studio"
+    ],
+    "tutorials": [],
+    "youtubeChannels": [],
+    "documentation": "",
+    "community": "",
+    "discord": "",
+    "reddit": "",
+    "github": "",
+    "twitter": "",
+    "instagram": "",
+    "featured": false,
+    "editorPick": true,
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "3D / CAD"
+    ],
+    "categoryIds": [
+      "3d-cad"
+    ],
+    "primaryCategory": "3D / CAD"
+  },
+  {
     "id": "grant-metcalf-foundation",
     "title": "Metcalf Foundation",
     "shortName": "Metcalf Foundation",
@@ -50584,6 +65138,132 @@ const generatedResources = [
     "primaryCategory": "Game Dev"
   },
   {
+    "id": "microsoft-copilot",
+    "title": "Microsoft Copilot",
+    "company": "Microsoft",
+    "website": "https://copilot.microsoft.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI assistant integrated with Microsoft tools, web search, images, and productivity workflows.",
+    "longDescription": "Microsoft Copilot is a ai assistant resource in The Creative Vault. AI assistant integrated with Microsoft tools, web search, images, and productivity workflows. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Assistant"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser",
+      "iPhone",
+      "Android"
+    ],
+    "tags": [
+      "AI",
+      "Assistant",
+      "Writing",
+      "Research"
+    ],
+    "bestFor": [
+      "AI Assistant",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "chatgpt",
+      "claude",
+      "google-gemini",
+      "perplexity"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai assistant.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
+    "id": "microsoft-designer",
+    "title": "Microsoft Designer",
+    "company": "Microsoft",
+    "website": "https://designer.microsoft.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI design tool for graphics, social posts, and visual content.",
+    "longDescription": "Microsoft Designer is a ai design resource in The Creative Vault. AI design tool for graphics, social posts, and visual content. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Design"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Design",
+      "Branding",
+      "Marketing",
+      "AI"
+    ],
+    "bestFor": [
+      "AI Design",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "canva-ai",
+      "recraft",
+      "adobe-firefly",
+      "freepik-ai"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai design.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "software-microsoft-excel",
     "title": "Microsoft Excel",
     "shortName": "Excel",
@@ -50594,12 +65274,14 @@ const generatedResources = [
     "categories": [
       "Software",
       "Spreadsheets",
-      "Data Analysis"
+      "Data Analysis",
+      "Business"
     ],
     "categoryIds": [
       "software",
       "spreadsheets",
-      "data-analysis"
+      "data-analysis",
+      "business"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -50749,12 +65431,16 @@ const generatedResources = [
     "categories": [
       "Software",
       "Presentations",
-      "Slide Design"
+      "Slide Design",
+      "Digital Art",
+      "Business"
     ],
     "categoryIds": [
       "software",
       "presentations",
-      "slide-design"
+      "slide-design",
+      "digital-art",
+      "business"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -50815,12 +65501,14 @@ const generatedResources = [
     "categories": [
       "Software",
       "Word Processing",
-      "Office Suite"
+      "Office Suite",
+      "Business"
     ],
     "categoryIds": [
       "software",
       "word-processing",
-      "office-suite"
+      "office-suite",
+      "business"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -50965,6 +65653,94 @@ const generatedResources = [
     "primaryCategory": "Grants"
   },
   {
+    "id": "midjourney",
+    "title": "Midjourney",
+    "company": "Midjourney",
+    "website": "https://www.midjourney.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI image generation platform for stylized, cinematic, and polished visuals.",
+    "longDescription": "Midjourney is a ai image resource in The Creative Vault. AI image generation platform for stylized, cinematic, and polished visuals. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Image"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product or commercial service.",
+    "rating": 4.7,
+    "popularity": 94,
+    "skillLevel": "Beginner to Professional",
+    "featured": true,
+    "editorPick": true,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI",
+      "Image Generation",
+      "Concept Art",
+      "Visuals"
+    ],
+    "bestFor": [
+      "AI Image",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit",
+      "ai-image-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "leonardo-ai",
+      "ideogram",
+      "adobe-firefly"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai image.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "type": "AI Image Generator",
+    "industries": [
+      "Concept Art",
+      "Design",
+      "Illustration",
+      "Advertising",
+      "Film"
+    ],
+    "whyUseIt": "Use it when you want fast, visually polished image concepts, moodboards, character ideas, poster concepts, and art direction.",
+    "pros": [
+      "Excellent image quality",
+      "Strong stylization",
+      "Great for art direction",
+      "Fast visual ideation"
+    ],
+    "cons": [
+      "Subscription required",
+      "Precise control can be harder than local workflows"
+    ],
+    "ai": true,
+    "browserSupport": true,
+    "commercialUse": true,
+    "beginnerFriendly": true,
+    "professional": true,
+    "industryStandard": true,
+    "learningCurve": "Easy to Medium",
+    "documentation": "https://docs.midjourney.com/",
+    "lastReviewed": "2026-07-07",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Paid",
+    "verified": true
+  },
+  {
     "id": "marketplace-mighty-networks",
     "title": "Mighty Networks",
     "shortName": "Mighty Networks",
@@ -51103,6 +65879,68 @@ const generatedResources = [
     "editorPick": false,
     "verified": true,
     "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "minimal-gallery",
+    "title": "Minimal Gallery",
+    "website": "https://minimal.gallery/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Curated gallery of minimal website design inspiration.",
+    "longDescription": "Minimal Gallery is a inspiration resource in The Creative Vault. Curated gallery of minimal website design inspiration. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Inspiration"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan or free assets available with paid upgrades or premium options.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Inspiration",
+      "Portfolio",
+      "Design",
+      "Moodboard"
+    ],
+    "bestFor": [
+      "Inspiration",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "behance",
+      "dribbble",
+      "artstation",
+      "pinterest"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for inspiration.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "grant-minnesota-state-arts-board",
@@ -51326,6 +66164,69 @@ const generatedResources = [
       "game-dev"
     ],
     "primaryCategory": "Game Dev"
+  },
+  {
+    "id": "mischief",
+    "title": "Mischief",
+    "website": "https://www.madewithmischief.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Infinite canvas sketching app known for fast idea exploration.",
+    "longDescription": "Mischief is a drawing & painting resource in The Creative Vault. Infinite canvas sketching app known for fast idea exploration. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Drawing & Painting"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "tags": [
+      "Drawing",
+      "Painting",
+      "Illustration",
+      "Digital Art"
+    ],
+    "bestFor": [
+      "Drawing & Painting",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "clip-studio-paint",
+      "krita",
+      "procreate"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for drawing & painting.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "grant-mississauga-culture-grants",
@@ -51736,6 +66637,194 @@ const generatedResources = [
       "design"
     ],
     "primaryCategory": "Design"
+  },
+  {
+    "id": "mobbin",
+    "title": "Mobbin",
+    "website": "https://mobbin.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Mobile and web UI pattern reference library.",
+    "longDescription": "Mobbin is a inspiration resource in The Creative Vault. Mobile and web UI pattern reference library. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Inspiration"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan or free assets available with paid upgrades or premium options.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Inspiration",
+      "Portfolio",
+      "Design",
+      "Moodboard"
+    ],
+    "bestFor": [
+      "Inspiration",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "behance",
+      "dribbble",
+      "artstation",
+      "pinterest"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for inspiration.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
+    "id": "mockup-world",
+    "title": "Mockup World",
+    "website": "https://www.mockupworld.co/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Free mockup directory for branding, packaging, apparel, and product presentations.",
+    "longDescription": "Mockup World is a mockups resource in The Creative Vault. Free mockup directory for branding, packaging, apparel, and product presentations. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Mockups"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan or free assets available with paid upgrades or premium options.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Mockups",
+      "Presentation",
+      "Branding",
+      "Design Assets"
+    ],
+    "bestFor": [
+      "Mockups",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "affinity-photo",
+      "canva",
+      "creative-market"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for mockups.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
+    "id": "mockups-design",
+    "title": "Mockups Design",
+    "website": "https://mockups-design.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Free mockup resources for branding, packaging, and presentation design.",
+    "longDescription": "Mockups Design is a mockups resource in The Creative Vault. Free mockup resources for branding, packaging, and presentation design. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Mockups"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan or free assets available with paid upgrades or premium options.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Mockups",
+      "Presentation",
+      "Branding",
+      "Design Assets"
+    ],
+    "bestFor": [
+      "Mockups",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "affinity-photo",
+      "canva",
+      "creative-market"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for mockups.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "game-dev-extra-mod-io",
@@ -52536,6 +67625,69 @@ const generatedResources = [
     "lastReviewed": "2026-07-08"
   },
   {
+    "id": "mr-mockup",
+    "title": "Mr.Mockup",
+    "website": "https://mrmockup.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "High-quality free and premium mockups for designers.",
+    "longDescription": "Mr.Mockup is a mockups resource in The Creative Vault. High-quality free and premium mockups for designers. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Mockups"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Mockups",
+      "Presentation",
+      "Branding",
+      "Design Assets"
+    ],
+    "bestFor": [
+      "Mockups",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "affinity-photo",
+      "canva",
+      "creative-market"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for mockups.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "game-dev-extra-mrtk",
     "title": "MRTK",
     "shortName": "MRTK",
@@ -52579,6 +67731,227 @@ const generatedResources = [
       "game-dev"
     ],
     "primaryCategory": "Game Dev"
+  },
+  {
+    "id": "mubert",
+    "title": "Mubert",
+    "company": "Mubert",
+    "website": "https://mubert.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI-generated music platform for creators, apps, and businesses.",
+    "longDescription": "Mubert is a ai music resource in The Creative Vault. AI-generated music platform for creators, apps, and businesses. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Music"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI Music",
+      "Songs",
+      "Audio",
+      "Generation"
+    ],
+    "bestFor": [
+      "AI Music",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "suno",
+      "udio",
+      "stable-audio",
+      "aiva"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai music.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
+    "id": "autodesk-mudbox",
+    "title": "Mudbox",
+    "shortName": "Mudbox",
+    "company": "Autodesk",
+    "companyWebsite": "",
+    "website": "https://www.autodesk.com/products/mudbox/overview",
+    "logo": "",
+    "favicon": "",
+    "heroImage": "",
+    "screenshots": [],
+    "category": "3D / CAD",
+    "categoryId": "3d-cad",
+    "subcategories": [
+      "Sculpting"
+    ],
+    "type": "Software",
+    "industries": [],
+    "useCases": [],
+    "tags": [
+      "Sculpting",
+      "3D"
+    ],
+    "collections": [],
+    "shortDescription": "Digital sculpting and texture painting software.",
+    "longDescription": "Mudbox is part of the Autodesk ecosystem in The Creative Vault. Digital sculpting and texture painting software.",
+    "whyUseIt": "",
+    "bestFor": [
+      "Sculpting",
+      "Creative workflows"
+    ],
+    "pros": [],
+    "cons": [],
+    "notes": "Added as part of the V7 ecosystem architecture.",
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "operatingSystems": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "mobileSupport": false,
+    "browserSupport": false,
+    "offline": true,
+    "cloudSync": false,
+    "fileFormats": [],
+    "integrations": [],
+    "api": false,
+    "plugins": false,
+    "extensions": false,
+    "ai": false,
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "pricingDetails": "Check official website for current pricing and licensing.",
+    "freeTrial": true,
+    "studentDiscount": false,
+    "commercialUse": null,
+    "license": "Licensing varies. Check the official website before commercial use.",
+    "licenseType": "",
+    "rating": 4.5,
+    "popularity": 75,
+    "beginnerFriendly": false,
+    "professional": true,
+    "learningCurve": "Medium",
+    "industryStandard": false,
+    "openSource": false,
+    "verified": true,
+    "lastReviewed": "2026-07-07",
+    "alternatives": [],
+    "competitors": [],
+    "related": [
+      "zbrush",
+      "blender"
+    ],
+    "tutorials": [],
+    "youtubeChannels": [],
+    "documentation": "",
+    "community": "",
+    "discord": "",
+    "reddit": "",
+    "github": "",
+    "twitter": "",
+    "instagram": "",
+    "featured": false,
+    "editorPick": false,
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "3D / CAD"
+    ],
+    "categoryIds": [
+      "3d-cad"
+    ],
+    "primaryCategory": "3D / CAD"
+  },
+  {
+    "id": "murf",
+    "title": "Murf",
+    "company": "Murf",
+    "website": "https://murf.ai/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI voiceover platform for narration, presentations, and creator videos.",
+    "longDescription": "Murf is a ai voice resource in The Creative Vault. AI voiceover platform for narration, presentations, and creator videos. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Voice"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI Voice",
+      "Voiceover",
+      "Narration",
+      "Audio"
+    ],
+    "bestFor": [
+      "AI Voice",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "elevenlabs",
+      "playht",
+      "fish-audio"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai voice.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "essential-musescore",
@@ -52728,6 +68101,194 @@ const generatedResources = [
     "primaryCategory": "Grants"
   },
   {
+    "id": "muzli",
+    "title": "Muzli",
+    "website": "https://muz.li/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Design inspiration feed and discovery tool.",
+    "longDescription": "Muzli is a inspiration resource in The Creative Vault. Design inspiration feed and discovery tool. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Inspiration"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan or free assets available with paid upgrades or premium options.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Inspiration",
+      "Portfolio",
+      "Design",
+      "Moodboard"
+    ],
+    "bestFor": [
+      "Inspiration",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "behance",
+      "dribbble",
+      "artstation",
+      "pinterest"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for inspiration.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
+    "id": "mycolor-space",
+    "title": "MyColor.Space",
+    "website": "https://mycolor.space/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Color gradient and palette generator for design projects.",
+    "longDescription": "MyColor.Space is a color resource in The Creative Vault. Color gradient and palette generator for design projects. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Color"
+    ],
+    "price": "Free",
+    "pricingDetails": "Free to use. Check individual licensing terms before commercial work.",
+    "rating": 4.6,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Color",
+      "Palette",
+      "Branding",
+      "Design"
+    ],
+    "bestFor": [
+      "Color",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "best-free-creative-tools"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "adobe-illustrator",
+      "affinity-designer",
+      "canva"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for color.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Free",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
+    "id": "myfonts",
+    "title": "MyFonts",
+    "website": "https://www.myfonts.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Large professional font marketplace for type families and foundries.",
+    "longDescription": "MyFonts is a fonts resource in The Creative Vault. Large professional font marketplace for type families and foundries. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Fonts"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Fonts",
+      "Typography",
+      "Type",
+      "Design Resources"
+    ],
+    "bestFor": [
+      "Fonts",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-illustrator",
+      "affinity-designer",
+      "canva",
+      "adobe-photoshop"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for fonts.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "marketplace-myfonts",
     "title": "MyFonts",
     "shortName": "MyFonts",
@@ -52769,6 +68330,131 @@ const generatedResources = [
       "marketplaces"
     ],
     "primaryCategory": "Marketplaces"
+  },
+  {
+    "id": "mypaint",
+    "title": "MyPaint",
+    "website": "http://mypaint.org/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Free open-source painting app focused on distraction-free brush-based drawing.",
+    "longDescription": "MyPaint is a drawing & painting resource in The Creative Vault. Free open-source painting app focused on distraction-free brush-based drawing. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Drawing & Painting"
+    ],
+    "price": "Free",
+    "pricingDetails": "Free to use. Check individual licensing terms before commercial work.",
+    "rating": 4.6,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": true,
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "tags": [
+      "Drawing",
+      "Painting",
+      "Illustration",
+      "Digital Art"
+    ],
+    "bestFor": [
+      "Drawing & Painting",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "best-free-creative-tools"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "clip-studio-paint",
+      "krita",
+      "procreate"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for drawing & painting.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Free",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
+    "id": "n8n",
+    "title": "n8n",
+    "company": "n8n",
+    "website": "https://n8n.io/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Workflow automation platform for connecting apps, APIs, AI tools, and custom processes.",
+    "longDescription": "n8n is a ai automation resource in The Creative Vault. Workflow automation platform for connecting apps, APIs, AI tools, and custom processes. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Automation"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.7,
+    "popularity": 84,
+    "skillLevel": "Intermediate to Professional",
+    "featured": false,
+    "editorPick": true,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Automation",
+      "Agents",
+      "Workflows",
+      "APIs"
+    ],
+    "bestFor": [
+      "AI Automation",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "zapier-ai",
+      "make",
+      "flowise"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai automation.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "marketplace-n8n-integrations",
@@ -53912,6 +69598,68 @@ const generatedResources = [
     "primaryCategory": "Learning"
   },
   {
+    "id": "new-masters-academy-reference-library",
+    "title": "New Masters Academy Reference Library",
+    "website": "https://www.nma.art/images/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Large reference image library for artists and figure drawing practice.",
+    "longDescription": "New Masters Academy Reference Library is a reference resource in The Creative Vault. Large reference image library for artists and figure drawing practice. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Reference"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Reference",
+      "Pose",
+      "Anatomy",
+      "Drawing Practice"
+    ],
+    "bestFor": [
+      "Reference",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "line-of-action",
+      "quickposes",
+      "posemy-art",
+      "proko"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for reference.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "essential-new-ocr",
     "title": "New OCR",
     "shortName": "New OCR",
@@ -54374,6 +70122,69 @@ const generatedResources = [
     "primaryCategory": "Learning"
   },
   {
+    "id": "nightcafe",
+    "title": "NightCafe",
+    "company": "NightCafe",
+    "website": "https://creator.nightcafe.studio/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI art generator and community platform.",
+    "longDescription": "NightCafe is a ai image resource in The Creative Vault. AI art generator and community platform. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Image"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI",
+      "Image Generation",
+      "Concept Art",
+      "Visuals"
+    ],
+    "bestFor": [
+      "AI Image",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit",
+      "ai-image-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "midjourney",
+      "leonardo-ai",
+      "ideogram",
+      "adobe-firefly"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai image.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "photography-nikon",
     "title": "Nikon",
     "shortName": "Nikon",
@@ -54685,6 +70496,171 @@ const generatedResources = [
       "audio"
     ],
     "primaryCategory": "Audio"
+  },
+  {
+    "id": "notebooklm",
+    "title": "NotebookLM",
+    "company": "Google",
+    "website": "https://notebooklm.google.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI research notebook that summarizes and answers questions from uploaded sources.",
+    "longDescription": "NotebookLM is a ai research resource in The Creative Vault. AI research notebook that summarizes and answers questions from uploaded sources. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Research"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 84,
+    "skillLevel": "Beginner to Professional",
+    "featured": true,
+    "editorPick": true,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI Research",
+      "Search",
+      "Sources",
+      "Knowledge"
+    ],
+    "bestFor": [
+      "AI Research",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "perplexity",
+      "elicit",
+      "consensus"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai research.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
+    "id": "notion",
+    "title": "Notion",
+    "shortName": "Notion",
+    "company": "Notion Labs",
+    "companyWebsite": "",
+    "website": "https://www.notion.com/",
+    "logo": "",
+    "favicon": "",
+    "heroImage": "",
+    "screenshots": [],
+    "category": "Business",
+    "categoryId": "business",
+    "subcategories": [
+      "Notes",
+      "Project Management"
+    ],
+    "type": "Software",
+    "industries": [],
+    "useCases": [],
+    "tags": [
+      "Notes",
+      "Productivity"
+    ],
+    "collections": [],
+    "shortDescription": "Flexible workspace for notes, databases, docs, projects, and team systems.",
+    "longDescription": "Notion is part of the Notion Labs ecosystem in The Creative Vault. Flexible workspace for notes, databases, docs, projects, and team systems.",
+    "whyUseIt": "",
+    "bestFor": [
+      "Notes",
+      "Project Management",
+      "Creative workflows"
+    ],
+    "pros": [],
+    "cons": [],
+    "notes": "Added as part of the V7 ecosystem architecture.",
+    "platforms": [
+      "Browser",
+      "Windows",
+      "Mac",
+      "iPhone",
+      "Android"
+    ],
+    "operatingSystems": [
+      "Browser",
+      "Windows",
+      "Mac",
+      "iPhone",
+      "Android"
+    ],
+    "mobileSupport": true,
+    "browserSupport": true,
+    "offline": false,
+    "cloudSync": false,
+    "fileFormats": [],
+    "integrations": [],
+    "api": false,
+    "plugins": false,
+    "extensions": false,
+    "ai": true,
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "pricingDetails": "Check official website for current pricing and licensing.",
+    "freeTrial": true,
+    "studentDiscount": false,
+    "commercialUse": null,
+    "license": "Licensing varies. Check the official website before commercial use.",
+    "licenseType": "",
+    "rating": 4.5,
+    "popularity": 75,
+    "beginnerFriendly": false,
+    "professional": true,
+    "learningCurve": "Medium",
+    "industryStandard": false,
+    "openSource": false,
+    "verified": true,
+    "lastReviewed": "2026-07-07",
+    "alternatives": [],
+    "competitors": [],
+    "related": [
+      "airtable",
+      "clickup"
+    ],
+    "tutorials": [],
+    "youtubeChannels": [],
+    "documentation": "",
+    "community": "",
+    "discord": "",
+    "reddit": "",
+    "github": "",
+    "twitter": "",
+    "instagram": "",
+    "featured": true,
+    "editorPick": true,
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "Business"
+    ],
+    "categoryIds": [
+      "business"
+    ],
+    "primaryCategory": "Business"
   },
   {
     "id": "freelancing-notion",
@@ -55419,6 +71395,78 @@ const generatedResources = [
     "lastReviewed": "2026-07-08"
   },
   {
+    "id": "obs-studio",
+    "title": "OBS Studio",
+    "website": "https://obsproject.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Free and open-source screen recording and live streaming software.",
+    "longDescription": "OBS Studio is a free open-source tool for screen recording, streaming, scene switching, audio/video capture, and broadcast workflows.",
+    "category": "Content Creation",
+    "categoryId": "content-creation",
+    "subcategories": [
+      "Screen Recording",
+      "Streaming",
+      "Broadcast"
+    ],
+    "price": "Free",
+    "pricingDetails": "Free and open source.",
+    "rating": 4.8,
+    "popularity": 95,
+    "skillLevel": "Beginner to Professional",
+    "featured": true,
+    "editorPick": true,
+    "openSource": true,
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "tags": [
+      "Recording",
+      "Streaming",
+      "Video",
+      "Open Source",
+      "Broadcast"
+    ],
+    "bestFor": [
+      "Screen recording",
+      "Streaming",
+      "Tutorials",
+      "Live content"
+    ],
+    "collections": [
+      "best-free-creative-tools",
+      "creator-video-kit"
+    ],
+    "alternatives": [
+      "Streamlabs",
+      "ScreenPal",
+      "Loom",
+      "Vimeo Record"
+    ],
+    "related": [
+      "davinci-resolve",
+      "capcut"
+    ],
+    "license": "Open-source software.",
+    "notes": "Essential for creators recording tutorials, streams, and demos.",
+    "dateAdded": "2026-07-01",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Content Creation"
+    ],
+    "categoryIds": [
+      "content-creation"
+    ],
+    "primaryCategory": "Content Creation",
+    "pricingModel": "Free",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "video-obs-studio",
     "title": "OBS Studio",
     "shortName": "OBS Studio",
@@ -55723,7 +71771,7 @@ const generatedResources = [
     "verified": true,
     "featured": false,
     "editorPick": false,
-    "lastReviewed": "2026-07-09"
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "typography-oh-no-type-co",
@@ -55916,6 +71964,70 @@ const generatedResources = [
     "lastReviewed": "2026-07-08"
   },
   {
+    "id": "ollama",
+    "title": "Ollama",
+    "company": "Ollama",
+    "website": "https://ollama.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Tool for running local language models on your own machine.",
+    "longDescription": "Ollama is a local ai resource in The Creative Vault. Tool for running local language models on your own machine. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "Local AI"
+    ],
+    "price": "Free",
+    "pricingDetails": "Free to use. Check usage limits and licensing before commercial work.",
+    "rating": 4.6,
+    "popularity": 86,
+    "skillLevel": "Intermediate to Professional",
+    "featured": false,
+    "editorPick": true,
+    "openSource": true,
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "tags": [
+      "Local AI",
+      "Open Source",
+      "LLM",
+      "Private AI"
+    ],
+    "bestFor": [
+      "Local AI",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit",
+      "best-free-creative-tools"
+    ],
+    "alternatives": [],
+    "related": [
+      "lm-studio",
+      "open-webui",
+      "comfyui"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for local ai.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Free",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "photography-om-system",
     "title": "OM System",
     "shortName": "OM System",
@@ -55957,6 +72069,69 @@ const generatedResources = [
     "editorPick": false,
     "verified": true,
     "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "omnigraffle",
+    "title": "OmniGraffle",
+    "website": "https://www.omnigroup.com/omnigraffle/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Diagramming and visual communication software for Mac and iPad.",
+    "longDescription": "OmniGraffle is a vector design resource in The Creative Vault. Diagramming and visual communication software for Mac and iPad. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Vector Design"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "tags": [
+      "Vector",
+      "Logo",
+      "Design",
+      "SVG"
+    ],
+    "bestFor": [
+      "Vector Design",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-illustrator",
+      "affinity-designer",
+      "inkscape",
+      "figma"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for vector design.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "photography-on1-photo-raw",
@@ -56041,6 +72216,68 @@ const generatedResources = [
       "photo"
     ],
     "primaryCategory": "Photography"
+  },
+  {
+    "id": "one-page-love",
+    "title": "One Page Love",
+    "website": "https://onepagelove.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "One-page website and landing page inspiration gallery.",
+    "longDescription": "One Page Love is a inspiration resource in The Creative Vault. One-page website and landing page inspiration gallery. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Inspiration"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan or free assets available with paid upgrades or premium options.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Inspiration",
+      "Portfolio",
+      "Design",
+      "Moodboard"
+    ],
+    "bestFor": [
+      "Inspiration",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "behance",
+      "dribbble",
+      "artstation",
+      "pinterest"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for inspiration.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "essential-onelook-thesaurus",
@@ -56151,12 +72388,14 @@ const generatedResources = [
     "categories": [
       "Software",
       "Office Suite",
-      "Collaboration"
+      "Collaboration",
+      "Business"
     ],
     "categoryIds": [
       "software",
       "office-suite",
-      "collaboration"
+      "collaboration",
+      "business"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -56250,6 +72489,72 @@ const generatedResources = [
       "grants"
     ],
     "primaryCategory": "Grants"
+  },
+  {
+    "id": "ontario-arts-council",
+    "title": "Ontario Arts Council",
+    "website": "https://www.arts.on.ca/grants",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Ontario-based grants, funding programs, and support for artists and arts organizations.",
+    "longDescription": "Ontario Arts Council provides grants and programs for Ontario artists, collectives, groups, and arts organizations across disciplines.",
+    "category": "Grants",
+    "categoryId": "grants",
+    "subcategories": [
+      "Ontario",
+      "Artist Grants",
+      "Arts Funding"
+    ],
+    "price": "Free",
+    "pricingDetails": "Free to browse and apply where eligible.",
+    "rating": 4.7,
+    "popularity": 78,
+    "skillLevel": "Intermediate",
+    "featured": false,
+    "editorPick": true,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Funding",
+      "Ontario",
+      "Grants",
+      "Artists"
+    ],
+    "bestFor": [
+      "Ontario artists",
+      "Project funding",
+      "Arts organizations"
+    ],
+    "collections": [
+      "canadian-artist-funding"
+    ],
+    "alternatives": [
+      "Canada Council for the Arts",
+      "Toronto Arts Council",
+      "FACTOR",
+      "SOCAN Foundation"
+    ],
+    "related": [
+      "canada-council-for-the-arts"
+    ],
+    "license": "Arts funding resource.",
+    "notes": "Important funding source for Ontario creators.",
+    "dateAdded": "2026-07-01",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Grants"
+    ],
+    "categoryIds": [
+      "grants"
+    ],
+    "primaryCategory": "Grants",
+    "pricingModel": "Free",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "grant-ontario-arts-council-writers-reserve",
@@ -56904,6 +73209,68 @@ const generatedResources = [
     "primaryCategory": "Grants"
   },
   {
+    "id": "open-webui",
+    "title": "Open WebUI",
+    "company": "Open WebUI",
+    "website": "https://openwebui.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Self-hosted interface for local and private AI chat workflows.",
+    "longDescription": "Open WebUI is a local ai resource in The Creative Vault. Self-hosted interface for local and private AI chat workflows. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "Local AI"
+    ],
+    "price": "Free",
+    "pricingDetails": "Free to use. Check usage limits and licensing before commercial work.",
+    "rating": 4.5,
+    "popularity": 80,
+    "skillLevel": "Intermediate to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": true,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Local AI",
+      "Open Source",
+      "LLM",
+      "Private AI"
+    ],
+    "bestFor": [
+      "Local AI",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit",
+      "best-free-creative-tools"
+    ],
+    "alternatives": [],
+    "related": [
+      "ollama",
+      "lm-studio",
+      "comfyui"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for local ai.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Free",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "learning-open-yale-courses",
     "title": "Open Yale Courses",
     "shortName": "Open Yale Courses",
@@ -57133,6 +73500,69 @@ const generatedResources = [
     "lastReviewed": "2026-07-08"
   },
   {
+    "id": "openart",
+    "title": "OpenArt",
+    "company": "OpenArt",
+    "website": "https://openart.ai/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI image generation platform with models, workflows, and creative tools.",
+    "longDescription": "OpenArt is a ai image resource in The Creative Vault. AI image generation platform with models, workflows, and creative tools. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Image"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI",
+      "Image Generation",
+      "Concept Art",
+      "Visuals"
+    ],
+    "bestFor": [
+      "AI Image",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit",
+      "ai-image-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "midjourney",
+      "leonardo-ai",
+      "ideogram",
+      "adobe-firefly"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai image.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "marketplace-openart-models",
     "title": "OpenArt Models",
     "shortName": "OpenArt Models",
@@ -57174,6 +73604,68 @@ const generatedResources = [
       "marketplaces"
     ],
     "primaryCategory": "Marketplaces"
+  },
+  {
+    "id": "opencanvas",
+    "title": "OpenCanvas",
+    "website": "https://www.portalgraphics.net/en/oc/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Digital painting software with event recording and illustration tools.",
+    "longDescription": "OpenCanvas is a drawing & painting resource in The Creative Vault. Digital painting software with event recording and illustration tools. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Drawing & Painting"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Windows"
+    ],
+    "tags": [
+      "Drawing",
+      "Painting",
+      "Illustration",
+      "Digital Art"
+    ],
+    "bestFor": [
+      "Drawing & Painting",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "clip-studio-paint",
+      "krita",
+      "procreate"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for drawing & painting.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "game-dev-extra-openfl",
@@ -57816,6 +74308,70 @@ const generatedResources = [
     "lastReviewed": "2026-07-08"
   },
   {
+    "id": "openverse",
+    "title": "Openverse",
+    "website": "https://openverse.org/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Search engine for openly licensed images and media.",
+    "longDescription": "Openverse is a stock images resource in The Creative Vault. Search engine for openly licensed images and media. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Stock Images"
+    ],
+    "price": "Free",
+    "pricingDetails": "Free to use. Check individual licensing terms before commercial work.",
+    "rating": 4.6,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Stock",
+      "Photography",
+      "Images",
+      "Creative Assets"
+    ],
+    "bestFor": [
+      "Stock Images",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "best-free-creative-tools",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "canva",
+      "freepik",
+      "unsplash"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for stock images.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Free",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "game-dev-extra-openxr",
     "title": "OpenXR",
     "shortName": "OpenXR",
@@ -58272,6 +74828,194 @@ const generatedResources = [
     "lastReviewed": "2026-07-08"
   },
   {
+    "id": "paint-tool-sai",
+    "title": "Paint Tool SAI",
+    "website": "https://www.systemax.jp/en/sai/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Lightweight painting software known for smooth linework and anime-style illustration.",
+    "longDescription": "Paint Tool SAI is a drawing & painting resource in The Creative Vault. Lightweight painting software known for smooth linework and anime-style illustration. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Drawing & Painting"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Windows"
+    ],
+    "tags": [
+      "Drawing",
+      "Painting",
+      "Illustration",
+      "Digital Art"
+    ],
+    "bestFor": [
+      "Drawing & Painting",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "clip-studio-paint",
+      "krita",
+      "procreate"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for drawing & painting.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
+    "id": "paint-net",
+    "title": "Paint.NET",
+    "website": "https://www.getpaint.net/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Free Windows image editor for quick raster edits and plugin-supported workflows.",
+    "longDescription": "Paint.NET is a photo editing resource in The Creative Vault. Free Windows image editor for quick raster edits and plugin-supported workflows. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Photo Editing"
+    ],
+    "price": "Free",
+    "pricingDetails": "Free to use. Check individual licensing terms before commercial work.",
+    "rating": 4.6,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Windows"
+    ],
+    "tags": [
+      "Photo",
+      "Editing",
+      "Raster",
+      "Retouching"
+    ],
+    "bestFor": [
+      "Photo Editing",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "best-free-creative-tools"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "affinity-photo",
+      "photopea",
+      "gimp"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for photo editing.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Free",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
+    "id": "paintstorm-studio",
+    "title": "Paintstorm Studio",
+    "website": "https://www.paintstormstudio.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Digital painting software with deep brush customization for illustrators.",
+    "longDescription": "Paintstorm Studio is a drawing & painting resource in The Creative Vault. Digital painting software with deep brush customization for illustrators. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Drawing & Painting"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "tags": [
+      "Drawing",
+      "Painting",
+      "Illustration",
+      "Digital Art"
+    ],
+    "bestFor": [
+      "Drawing & Painting",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "clip-studio-paint",
+      "krita",
+      "procreate"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for drawing & painting.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "photography-palette-fm",
     "title": "Palette.fm",
     "shortName": "Palette.fm",
@@ -58497,6 +75241,69 @@ const generatedResources = [
       "business"
     ],
     "primaryCategory": "Business"
+  },
+  {
+    "id": "pangram-pangram",
+    "title": "Pangram Pangram",
+    "website": "https://pangrampangram.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Modern type foundry with high-quality contemporary fonts.",
+    "longDescription": "Pangram Pangram is a fonts resource in The Creative Vault. Modern type foundry with high-quality contemporary fonts. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Fonts"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Fonts",
+      "Typography",
+      "Type",
+      "Design Resources"
+    ],
+    "bestFor": [
+      "Fonts",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-illustrator",
+      "affinity-designer",
+      "canva",
+      "adobe-photoshop"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for fonts.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "marketplace-pangram-pangram",
@@ -59105,7 +75912,7 @@ const generatedResources = [
     "verified": true,
     "featured": false,
     "editorPick": false,
-    "lastReviewed": "2026-07-09"
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "essential-pdf24-tools",
@@ -59339,6 +76146,69 @@ const generatedResources = [
     "primaryCategory": "Animation"
   },
   {
+    "id": "penpot",
+    "title": "Penpot",
+    "website": "https://penpot.app/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Open-source design and prototyping platform for product and interface design.",
+    "longDescription": "Penpot is a vector design resource in The Creative Vault. Open-source design and prototyping platform for product and interface design. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Vector Design"
+    ],
+    "price": "Free",
+    "pricingDetails": "Free to use. Check individual licensing terms before commercial work.",
+    "rating": 4.6,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": true,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Vector",
+      "Logo",
+      "Design",
+      "SVG"
+    ],
+    "bestFor": [
+      "Vector Design",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "best-free-creative-tools"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-illustrator",
+      "affinity-designer",
+      "inkscape",
+      "figma"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for vector design.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Free",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "game-dev-extra-penpot",
     "title": "Penpot",
     "shortName": "Penpot",
@@ -59514,6 +76384,69 @@ const generatedResources = [
       "game-dev"
     ],
     "primaryCategory": "Game Dev"
+  },
+  {
+    "id": "perplexity",
+    "title": "Perplexity",
+    "company": "Perplexity AI",
+    "website": "https://www.perplexity.ai/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI research and answer engine with citations, web search, and topic discovery.",
+    "longDescription": "Perplexity is a ai research resource in The Creative Vault. AI research and answer engine with citations, web search, and topic discovery. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Research"
+    ],
+    "price": "Subscription",
+    "pricingDetails": "Subscription-based service or paid plan model.",
+    "rating": 4.7,
+    "popularity": 88,
+    "skillLevel": "Beginner to Professional",
+    "featured": true,
+    "editorPick": true,
+    "openSource": false,
+    "platforms": [
+      "Browser",
+      "iPhone",
+      "Android"
+    ],
+    "tags": [
+      "AI Research",
+      "Search",
+      "Sources",
+      "Knowledge"
+    ],
+    "bestFor": [
+      "AI Research",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "notebooklm",
+      "elicit",
+      "consensus"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai research.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Subscription",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "essential-perplexity-pages",
@@ -59696,6 +76629,70 @@ const generatedResources = [
     "editorPick": false,
     "verified": true,
     "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "pexels",
+    "title": "Pexels",
+    "website": "https://www.pexels.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Free stock photos and videos for creators.",
+    "longDescription": "Pexels is a stock images resource in The Creative Vault. Free stock photos and videos for creators. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Stock Images"
+    ],
+    "price": "Free",
+    "pricingDetails": "Free to use. Check individual licensing terms before commercial work.",
+    "rating": 4.7,
+    "popularity": 88,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Stock",
+      "Photography",
+      "Images",
+      "Creative Assets"
+    ],
+    "bestFor": [
+      "Stock Images",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "best-free-creative-tools",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "canva",
+      "freepik",
+      "unsplash"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for stock images.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Free",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "marketplace-pexels",
@@ -59921,6 +76918,68 @@ const generatedResources = [
       "game-dev"
     ],
     "primaryCategory": "Game Dev"
+  },
+  {
+    "id": "phind",
+    "title": "Phind",
+    "company": "Phind",
+    "website": "https://www.phind.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI search engine and assistant focused on developers and technical research.",
+    "longDescription": "Phind is a ai research resource in The Creative Vault. AI search engine and assistant focused on developers and technical research. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Research"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI Research",
+      "Search",
+      "Sources",
+      "Knowledge"
+    ],
+    "bestFor": [
+      "AI Research",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "perplexity",
+      "notebooklm",
+      "elicit",
+      "consensus"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai research.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "photography-phlearn",
@@ -60365,6 +77424,67 @@ const generatedResources = [
     "lastReviewed": "2026-07-08"
   },
   {
+    "id": "photopea",
+    "title": "Photopea",
+    "website": "https://www.photopea.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Browser-based image editor with PSD support and Photoshop-like tools.",
+    "longDescription": "Photopea is a photo editing resource in The Creative Vault. Browser-based image editor with PSD support and Photoshop-like tools. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Photo Editing"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan or free assets available with paid upgrades or premium options.",
+    "rating": 4.5,
+    "popularity": 84,
+    "skillLevel": "Beginner to Professional",
+    "featured": true,
+    "editorPick": true,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Photo",
+      "Editing",
+      "Raster",
+      "Retouching"
+    ],
+    "bestFor": [
+      "Photo Editing",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "affinity-photo",
+      "gimp"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for photo editing.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "photography-photopills",
     "title": "PhotoPills",
     "shortName": "PhotoPills",
@@ -60451,6 +77571,132 @@ const generatedResources = [
     "editorPick": false,
     "verified": true,
     "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "photoroom",
+    "title": "PhotoRoom",
+    "company": "PhotoRoom",
+    "website": "https://www.photoroom.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI product photo editing, background removal, and image creation tool.",
+    "longDescription": "PhotoRoom is a ai image resource in The Creative Vault. AI product photo editing, background removal, and image creation tool. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Image"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI",
+      "Image Generation",
+      "Concept Art",
+      "Visuals"
+    ],
+    "bestFor": [
+      "AI Image",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit",
+      "ai-image-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "midjourney",
+      "leonardo-ai",
+      "ideogram",
+      "adobe-firefly"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai image.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
+    "id": "photoscape-x",
+    "title": "PhotoScape X",
+    "website": "http://x.photoscape.org/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Photo editing software for batch editing, collage, GIFs, and filters.",
+    "longDescription": "PhotoScape X is a photo editing resource in The Creative Vault. Photo editing software for batch editing, collage, GIFs, and filters. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Photo Editing"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan or free assets available with paid upgrades or premium options.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "tags": [
+      "Photo",
+      "Editing",
+      "Raster",
+      "Retouching"
+    ],
+    "bestFor": [
+      "Photo Editing",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "affinity-photo",
+      "photopea",
+      "gimp"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for photo editing.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "photography-photoshelter-blog",
@@ -60631,6 +77877,69 @@ const generatedResources = [
     "lastReviewed": "2026-07-08"
   },
   {
+    "id": "picjumbo",
+    "title": "Picjumbo",
+    "website": "https://picjumbo.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Free stock photo library for blogs, design, and marketing.",
+    "longDescription": "Picjumbo is a stock images resource in The Creative Vault. Free stock photo library for blogs, design, and marketing. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Stock Images"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Stock",
+      "Photography",
+      "Images",
+      "Creative Assets"
+    ],
+    "bestFor": [
+      "Stock Images",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "canva",
+      "freepik",
+      "unsplash"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for stock images.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "photography-picjumbo",
     "title": "Picjumbo",
     "shortName": "Picjumbo",
@@ -60763,6 +78072,255 @@ const generatedResources = [
       "game-dev"
     ],
     "primaryCategory": "Game Dev"
+  },
+  {
+    "id": "picular",
+    "title": "Picular",
+    "website": "https://picular.co/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Search engine for colors based on words and visual associations.",
+    "longDescription": "Picular is a color resource in The Creative Vault. Search engine for colors based on words and visual associations. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Color"
+    ],
+    "price": "Free",
+    "pricingDetails": "Free to use. Check individual licensing terms before commercial work.",
+    "rating": 4.6,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Color",
+      "Palette",
+      "Branding",
+      "Design"
+    ],
+    "bestFor": [
+      "Color",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "best-free-creative-tools"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "adobe-illustrator",
+      "affinity-designer",
+      "canva"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for color.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Free",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
+    "id": "pigment-by-shapefactory",
+    "title": "Pigment by ShapeFactory",
+    "website": "https://pigment.shapefactory.co/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Color palette tool with pigment-style controls and gradients.",
+    "longDescription": "Pigment by ShapeFactory is a color resource in The Creative Vault. Color palette tool with pigment-style controls and gradients. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Color"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Color",
+      "Palette",
+      "Branding",
+      "Design"
+    ],
+    "bestFor": [
+      "Color",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "adobe-illustrator",
+      "affinity-designer",
+      "canva"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for color.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
+    "id": "pika",
+    "title": "Pika",
+    "company": "Pika",
+    "website": "https://pika.art/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI video generation and editing platform for short creative clips.",
+    "longDescription": "Pika is a ai video resource in The Creative Vault. AI video generation and editing platform for short creative clips. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Video"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI Video",
+      "Video Generation",
+      "Motion",
+      "Filmmaking"
+    ],
+    "bestFor": [
+      "AI Video",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit",
+      "ai-video-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "runway",
+      "kling-ai",
+      "luma-dream-machine"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai video.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
+    "id": "pinterest",
+    "title": "Pinterest",
+    "website": "https://www.pinterest.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Visual discovery platform for moodboards, references, and creative inspiration.",
+    "longDescription": "Pinterest is a inspiration resource in The Creative Vault. Visual discovery platform for moodboards, references, and creative inspiration. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Inspiration"
+    ],
+    "price": "Free",
+    "pricingDetails": "Free to use. Check individual licensing terms before commercial work.",
+    "rating": 4.4,
+    "popularity": 88,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Inspiration",
+      "Portfolio",
+      "Design",
+      "Moodboard"
+    ],
+    "bestFor": [
+      "Inspiration",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "best-free-creative-tools"
+    ],
+    "alternatives": [],
+    "related": [
+      "behance",
+      "dribbble",
+      "artstation"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for inspiration.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Free",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "grant-pioneer-works-residency",
@@ -60946,6 +78504,70 @@ const generatedResources = [
     "primaryCategory": "Marketplaces"
   },
   {
+    "id": "pixabay",
+    "title": "Pixabay",
+    "website": "https://pixabay.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Free stock photos, illustrations, vectors, videos, and music.",
+    "longDescription": "Pixabay is a stock images resource in The Creative Vault. Free stock photos, illustrations, vectors, videos, and music. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Stock Images"
+    ],
+    "price": "Free",
+    "pricingDetails": "Free to use. Check individual licensing terms before commercial work.",
+    "rating": 4.6,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Stock",
+      "Photography",
+      "Images",
+      "Creative Assets"
+    ],
+    "bestFor": [
+      "Stock Images",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "best-free-creative-tools",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "canva",
+      "freepik",
+      "unsplash"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for stock images.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Free",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "marketplace-pixabay",
     "title": "Pixabay",
     "shortName": "Pixabay",
@@ -61031,6 +78653,69 @@ const generatedResources = [
     "editorPick": false,
     "verified": true,
     "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "pixeden",
+    "title": "Pixeden",
+    "website": "https://www.pixeden.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Design resources including mockups, graphics, icons, and templates.",
+    "longDescription": "Pixeden is a mockups resource in The Creative Vault. Design resources including mockups, graphics, icons, and templates. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Mockups"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan or free assets available with paid upgrades or premium options.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Mockups",
+      "Presentation",
+      "Branding",
+      "Design Assets"
+    ],
+    "bestFor": [
+      "Mockups",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "affinity-photo",
+      "canva",
+      "creative-market"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for mockups.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "game-dev-extra-pixel-game-maker-mv",
@@ -61125,6 +78810,197 @@ const generatedResources = [
     "primaryCategory": "Game Dev"
   },
   {
+    "id": "pixelcut",
+    "title": "Pixelcut",
+    "company": "Pixelcut",
+    "website": "https://www.pixelcut.ai/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI photo editing and product image tool for ecommerce and creators.",
+    "longDescription": "Pixelcut is a ai image resource in The Creative Vault. AI photo editing and product image tool for ecommerce and creators. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Image"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI",
+      "Image Generation",
+      "Concept Art",
+      "Visuals"
+    ],
+    "bestFor": [
+      "AI Image",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit",
+      "ai-image-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "midjourney",
+      "leonardo-ai",
+      "ideogram",
+      "adobe-firefly"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai image.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
+    "id": "pixelmator",
+    "title": "Pixelmator",
+    "website": "https://www.pixelmator.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Image editing app for Apple devices with painting, retouching, and design tools.",
+    "longDescription": "Pixelmator is a photo editing resource in The Creative Vault. Image editing app for Apple devices with painting, retouching, and design tools. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Photo Editing"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Mac",
+      "iPad",
+      "iPhone"
+    ],
+    "tags": [
+      "Photo",
+      "Editing",
+      "Raster",
+      "Retouching"
+    ],
+    "bestFor": [
+      "Photo Editing",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "affinity-photo",
+      "photopea",
+      "gimp"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for photo editing.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
+    "id": "pixelmator-pro",
+    "title": "Pixelmator Pro",
+    "website": "https://www.pixelmator.com/pro/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Professional Mac image editor with ML tools, retouching, and design features.",
+    "longDescription": "Pixelmator Pro is a photo editing resource in The Creative Vault. Professional Mac image editor with ML tools, retouching, and design features. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Photo Editing"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Mac",
+      "iPad",
+      "iPhone"
+    ],
+    "tags": [
+      "Photo",
+      "Editing",
+      "Raster",
+      "Retouching"
+    ],
+    "bestFor": [
+      "Photo Editing",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "affinity-photo",
+      "photopea",
+      "gimp"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for photo editing.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "game-dev-pixelorama",
     "title": "Pixelorama",
     "shortName": "Pixelorama",
@@ -61170,6 +79046,68 @@ const generatedResources = [
       "game-dev"
     ],
     "primaryCategory": "Game Dev"
+  },
+  {
+    "id": "pixelovely-archive",
+    "title": "Pixelovely Archive",
+    "website": "https://line-of-action.com/practice-tools",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Drawing practice tools formerly associated with Pixelovely-style reference training.",
+    "longDescription": "Pixelovely Archive is a reference resource in The Creative Vault. Drawing practice tools formerly associated with Pixelovely-style reference training. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Reference"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Reference",
+      "Pose",
+      "Anatomy",
+      "Drawing Practice"
+    ],
+    "bestFor": [
+      "Reference",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "line-of-action",
+      "quickposes",
+      "posemy-art",
+      "proko"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for reference.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "photography-pixelpeeper",
@@ -61392,6 +79330,69 @@ const generatedResources = [
     "lastReviewed": "2026-07-08"
   },
   {
+    "id": "pixlr",
+    "title": "Pixlr",
+    "website": "https://pixlr.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Browser-based photo editor and design tool with AI features.",
+    "longDescription": "Pixlr is a photo editing resource in The Creative Vault. Browser-based photo editor and design tool with AI features. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Photo Editing"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan or free assets available with paid upgrades or premium options.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "tags": [
+      "Photo",
+      "Editing",
+      "Raster",
+      "Retouching"
+    ],
+    "bestFor": [
+      "Photo Editing",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "affinity-photo",
+      "photopea",
+      "gimp"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for photo editing.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "essential-pixlr-e",
     "title": "Pixlr E",
     "shortName": "Pixlr E",
@@ -61482,6 +79483,132 @@ const generatedResources = [
     "editorPick": false,
     "verified": true,
     "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "pixverse",
+    "title": "PixVerse",
+    "company": "PixVerse",
+    "website": "https://pixverse.ai/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI video generation tool for text-to-video and image-to-video workflows.",
+    "longDescription": "PixVerse is a ai video resource in The Creative Vault. AI video generation tool for text-to-video and image-to-video workflows. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Video"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI Video",
+      "Video Generation",
+      "Motion",
+      "Filmmaking"
+    ],
+    "bestFor": [
+      "AI Video",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit",
+      "ai-video-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "runway",
+      "kling-ai",
+      "pika",
+      "luma-dream-machine"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai video.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
+    "id": "placeit",
+    "title": "Placeit",
+    "website": "https://placeit.net/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Online mockup and design generator for apparel, products, and marketing visuals.",
+    "longDescription": "Placeit is a mockups resource in The Creative Vault. Online mockup and design generator for apparel, products, and marketing visuals. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Mockups"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan or free assets available with paid upgrades or premium options.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Mockups",
+      "Presentation",
+      "Branding",
+      "Design Assets"
+    ],
+    "bestFor": [
+      "Mockups",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "affinity-photo",
+      "canva",
+      "creative-market"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for mockups.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "essential-plantuml",
@@ -61758,6 +79885,130 @@ const generatedResources = [
       "game-dev"
     ],
     "primaryCategory": "Game Dev"
+  },
+  {
+    "id": "playground-ai",
+    "title": "Playground AI",
+    "company": "Playground",
+    "website": "https://playground.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI image generation and design platform for visual ideation and creative production.",
+    "longDescription": "Playground AI is a ai image resource in The Creative Vault. AI image generation and design platform for visual ideation and creative production. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Image"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI",
+      "Image Generation",
+      "Concept Art",
+      "Visuals"
+    ],
+    "bestFor": [
+      "AI Image",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit",
+      "ai-image-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "midjourney",
+      "leonardo-ai",
+      "ideogram",
+      "adobe-firefly"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai image.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
+    "id": "playht",
+    "title": "PlayHT",
+    "company": "PlayHT",
+    "website": "https://play.ht/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI text-to-speech and voice generation platform.",
+    "longDescription": "PlayHT is a ai voice resource in The Creative Vault. AI text-to-speech and voice generation platform. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Voice"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI Voice",
+      "Voiceover",
+      "Narration",
+      "Audio"
+    ],
+    "bestFor": [
+      "AI Voice",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "elevenlabs",
+      "murf",
+      "fish-audio"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai voice.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "game-dev-extra-playstation-accessibility-tags",
@@ -62302,6 +80553,132 @@ const generatedResources = [
     "primaryCategory": "Grants"
   },
   {
+    "id": "polarr",
+    "title": "Polarr",
+    "website": "https://www.polarr.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Photo editing app with filters, retouching, and creator-friendly tools.",
+    "longDescription": "Polarr is a photo editing resource in The Creative Vault. Photo editing app with filters, retouching, and creator-friendly tools. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Photo Editing"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan or free assets available with paid upgrades or premium options.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "tags": [
+      "Photo",
+      "Editing",
+      "Raster",
+      "Retouching"
+    ],
+    "bestFor": [
+      "Photo Editing",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "affinity-photo",
+      "photopea",
+      "gimp"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for photo editing.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
+    "id": "poliigon",
+    "title": "Poliigon",
+    "website": "https://www.poliigon.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Premium textures, models, HDRIs, and 3D assets.",
+    "longDescription": "Poliigon is a brushes & textures resource in The Creative Vault. Premium textures, models, HDRIs, and 3D assets. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Brushes & Textures"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Brushes",
+      "Textures",
+      "Assets",
+      "Design Resources"
+    ],
+    "bestFor": [
+      "Brushes & Textures",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "clip-studio-paint",
+      "krita",
+      "procreate"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for brushes & textures.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "grant-pollock-krasner-foundation",
     "title": "Pollock-Krasner Foundation",
     "shortName": "Pollock-Krasner Foundation",
@@ -62398,6 +80775,70 @@ const generatedResources = [
     "editorPick": false,
     "verified": true,
     "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "poly-haven",
+    "title": "Poly Haven",
+    "website": "https://polyhaven.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Free public-domain HDRIs, textures, and 3D models.",
+    "longDescription": "Poly Haven is a brushes & textures resource in The Creative Vault. Free public-domain HDRIs, textures, and 3D models. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Brushes & Textures"
+    ],
+    "price": "Free",
+    "pricingDetails": "Free to use. Check individual licensing terms before commercial work.",
+    "rating": 4.6,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Brushes",
+      "Textures",
+      "Assets",
+      "Design Resources"
+    ],
+    "bestFor": [
+      "Brushes & Textures",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "best-free-creative-tools",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "clip-studio-paint",
+      "krita",
+      "procreate"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for brushes & textures.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Free",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "game-dev-poly-haven",
@@ -62667,6 +81108,192 @@ const generatedResources = [
       "game-dev"
     ],
     "primaryCategory": "Game Dev"
+  },
+  {
+    "id": "pose-tool-3d",
+    "title": "Pose Tool 3D",
+    "website": "https://www.alienthink.com/posetool3d/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "3D pose reference app for artists.",
+    "longDescription": "Pose Tool 3D is a reference resource in The Creative Vault. 3D pose reference app for artists. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Reference"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Reference",
+      "Pose",
+      "Anatomy",
+      "Drawing Practice"
+    ],
+    "bestFor": [
+      "Reference",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "line-of-action",
+      "quickposes",
+      "posemy-art",
+      "proko"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for reference.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
+    "id": "posemy-art",
+    "title": "PoseMy.Art",
+    "website": "https://posemy.art/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Browser-based pose reference tool for creating custom figure references.",
+    "longDescription": "PoseMy.Art is a reference resource in The Creative Vault. Browser-based pose reference tool for creating custom figure references. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Reference"
+    ],
+    "price": "Free",
+    "pricingDetails": "Free to use. Check individual licensing terms before commercial work.",
+    "rating": 4.6,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Reference",
+      "Pose",
+      "Anatomy",
+      "Drawing Practice"
+    ],
+    "bestFor": [
+      "Reference",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "best-free-creative-tools"
+    ],
+    "alternatives": [],
+    "related": [
+      "line-of-action",
+      "quickposes",
+      "proko"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for reference.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Free",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
+    "id": "posespace",
+    "title": "PoseSpace",
+    "website": "https://www.posespace.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Professional pose reference photography for artists.",
+    "longDescription": "PoseSpace is a reference resource in The Creative Vault. Professional pose reference photography for artists. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Reference"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Reference",
+      "Pose",
+      "Anatomy",
+      "Drawing Practice"
+    ],
+    "bestFor": [
+      "Reference",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "line-of-action",
+      "quickposes",
+      "posemy-art",
+      "proko"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for reference.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "marketplace-postman-api-network",
@@ -63208,6 +81835,105 @@ const generatedResources = [
     "primaryCategory": "Grants"
   },
   {
+    "id": "pro-tools",
+    "title": "Pro Tools",
+    "shortName": "Pro Tools",
+    "company": "Avid",
+    "companyWebsite": "",
+    "website": "https://www.avid.com/pro-tools",
+    "logo": "",
+    "favicon": "",
+    "heroImage": "",
+    "screenshots": [],
+    "category": "Music",
+    "categoryId": "music",
+    "subcategories": [
+      "DAW",
+      "Recording"
+    ],
+    "type": "Software",
+    "industries": [],
+    "useCases": [],
+    "tags": [
+      "DAW",
+      "Recording",
+      "Mixing"
+    ],
+    "collections": [],
+    "shortDescription": "Industry-standard audio recording, editing, and mixing software.",
+    "longDescription": "Pro Tools is part of the Avid ecosystem in The Creative Vault. Industry-standard audio recording, editing, and mixing software.",
+    "whyUseIt": "",
+    "bestFor": [
+      "DAW",
+      "Recording",
+      "Creative workflows"
+    ],
+    "pros": [],
+    "cons": [],
+    "notes": "Added as part of the V7 ecosystem architecture.",
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "operatingSystems": [
+      "Windows",
+      "Mac"
+    ],
+    "mobileSupport": false,
+    "browserSupport": false,
+    "offline": true,
+    "cloudSync": false,
+    "fileFormats": [],
+    "integrations": [],
+    "api": false,
+    "plugins": false,
+    "extensions": false,
+    "ai": false,
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "pricingDetails": "Check official website for current pricing and licensing.",
+    "freeTrial": true,
+    "studentDiscount": false,
+    "commercialUse": null,
+    "license": "Licensing varies. Check the official website before commercial use.",
+    "licenseType": "",
+    "rating": 4.5,
+    "popularity": 75,
+    "beginnerFriendly": false,
+    "professional": true,
+    "learningCurve": "Medium",
+    "industryStandard": true,
+    "openSource": false,
+    "verified": true,
+    "lastReviewed": "2026-07-07",
+    "alternatives": [],
+    "competitors": [],
+    "related": [
+      "logic-pro",
+      "studio-one"
+    ],
+    "tutorials": [],
+    "youtubeChannels": [],
+    "documentation": "",
+    "community": "",
+    "discord": "",
+    "reddit": "",
+    "github": "",
+    "twitter": "",
+    "instagram": "",
+    "featured": true,
+    "editorPick": true,
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "Music"
+    ],
+    "categoryIds": [
+      "music"
+    ],
+    "primaryCategory": "Music"
+  },
+  {
     "id": "freelancing-problogger-jobs",
     "title": "ProBlogger Jobs",
     "shortName": "ProBlogger Jobs",
@@ -63295,6 +82021,67 @@ const generatedResources = [
       "game-dev"
     ],
     "primaryCategory": "Game Dev"
+  },
+  {
+    "id": "procreate",
+    "title": "Procreate",
+    "website": "https://procreate.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Powerful iPad drawing and painting app for illustrators and digital artists.",
+    "longDescription": "Procreate is a drawing & painting resource in The Creative Vault. Powerful iPad drawing and painting app for illustrators and digital artists. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Drawing & Painting"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.9,
+    "popularity": 94,
+    "skillLevel": "Beginner to Professional",
+    "featured": true,
+    "editorPick": true,
+    "openSource": false,
+    "platforms": [
+      "iPad"
+    ],
+    "tags": [
+      "Drawing",
+      "Painting",
+      "Illustration",
+      "Digital Art"
+    ],
+    "bestFor": [
+      "Drawing & Painting",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "clip-studio-paint",
+      "krita"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for drawing & painting.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "learning-produce-like-a-pro",
@@ -63694,6 +82481,75 @@ const generatedResources = [
     "primaryCategory": "Learning"
   },
   {
+    "id": "proko",
+    "title": "Proko",
+    "website": "https://www.proko.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Art education platform focused on drawing, anatomy, painting, and professional instruction.",
+    "longDescription": "Proko offers art lessons, courses, demonstrations, and learning paths focused on drawing fundamentals, anatomy, portraiture, painting, and professional art skills.",
+    "category": "Learning",
+    "categoryId": "learning",
+    "subcategories": [
+      "Drawing",
+      "Anatomy",
+      "Courses"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free lessons available with paid premium courses.",
+    "rating": 4.8,
+    "popularity": 86,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": true,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Drawing",
+      "Anatomy",
+      "Courses",
+      "Learning"
+    ],
+    "bestFor": [
+      "Drawing fundamentals",
+      "Anatomy",
+      "Art study",
+      "Self-directed learning"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [
+      "Schoolism",
+      "New Masters Academy",
+      "DrawABox",
+      "Domestika"
+    ],
+    "related": [
+      "line-of-action",
+      "krita",
+      "clip-studio-paint"
+    ],
+    "license": "Commercial education platform with free content.",
+    "notes": "High-quality art education resource.",
+    "dateAdded": "2026-07-01",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Learning"
+    ],
+    "categoryIds": [
+      "learning"
+    ],
+    "primaryCategory": "Learning",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "game-dev-promethean-ai",
     "title": "Promethean AI",
     "shortName": "Promethean AI",
@@ -63780,6 +82636,69 @@ const generatedResources = [
       "marketplaces"
     ],
     "primaryCategory": "Marketplaces"
+  },
+  {
+    "id": "prompthero",
+    "title": "PromptHero",
+    "company": "PromptHero",
+    "website": "https://prompthero.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Prompt discovery and AI image inspiration platform.",
+    "longDescription": "PromptHero is a ai image resource in The Creative Vault. Prompt discovery and AI image inspiration platform. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Image"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI",
+      "Image Generation",
+      "Concept Art",
+      "Visuals"
+    ],
+    "bestFor": [
+      "AI Image",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit",
+      "ai-image-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "midjourney",
+      "leonardo-ai",
+      "ideogram",
+      "adobe-firefly"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai image.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "marketplace-prompthero",
@@ -64449,6 +83368,68 @@ const generatedResources = [
     "primaryCategory": "Learning"
   },
   {
+    "id": "quickposes",
+    "title": "QuickPoses",
+    "website": "https://quickposes.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Timed pose reference practice for figure drawing and gesture training.",
+    "longDescription": "QuickPoses is a reference resource in The Creative Vault. Timed pose reference practice for figure drawing and gesture training. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Reference"
+    ],
+    "price": "Free",
+    "pricingDetails": "Free to use. Check individual licensing terms before commercial work.",
+    "rating": 4.6,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Reference",
+      "Pose",
+      "Anatomy",
+      "Drawing Practice"
+    ],
+    "bestFor": [
+      "Reference",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "best-free-creative-tools"
+    ],
+    "alternatives": [],
+    "related": [
+      "line-of-action",
+      "posemy-art",
+      "proko"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for reference.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Free",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "essential-quillbot-free",
     "title": "QuillBot Free",
     "shortName": "QuillBot Free",
@@ -64496,6 +83477,69 @@ const generatedResources = [
     "editorPick": false,
     "verified": true,
     "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "quixel-megascans",
+    "title": "Quixel Megascans",
+    "website": "https://quixel.com/megascans/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Large library of high-quality scanned 3D assets and materials.",
+    "longDescription": "Quixel Megascans is a brushes & textures resource in The Creative Vault. Large library of high-quality scanned 3D assets and materials. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Brushes & Textures"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Brushes",
+      "Textures",
+      "Assets",
+      "Design Resources"
+    ],
+    "bestFor": [
+      "Brushes & Textures",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "clip-studio-paint",
+      "krita",
+      "procreate"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for brushes & textures.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "game-dev-quixel-megascans",
@@ -64795,7 +83839,7 @@ const generatedResources = [
     "verified": true,
     "featured": false,
     "editorPick": false,
-    "lastReviewed": "2026-07-09"
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "grant-rauschenberg-medical-emergency-grants",
@@ -64932,6 +83976,69 @@ const generatedResources = [
     "editorPick": false,
     "verified": true,
     "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "rawpixel",
+    "title": "Rawpixel",
+    "website": "https://www.rawpixel.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Stock photos, public domain art, illustrations, and design resources.",
+    "longDescription": "Rawpixel is a stock images resource in The Creative Vault. Stock photos, public domain art, illustrations, and design resources. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Stock Images"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan or free assets available with paid upgrades or premium options.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Stock",
+      "Photography",
+      "Images",
+      "Creative Assets"
+    ],
+    "bestFor": [
+      "Stock Images",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "canva",
+      "freepik",
+      "unsplash"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for stock images.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "marketplace-rawpixel",
@@ -65345,6 +84452,164 @@ const generatedResources = [
     "lastReviewed": "2026-07-08"
   },
   {
+    "id": "realistic-paint-studio",
+    "title": "Realistic Paint Studio",
+    "website": "https://realisticpaint.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Digital painting software focused on realistic traditional media effects.",
+    "longDescription": "Realistic Paint Studio is a drawing & painting resource in The Creative Vault. Digital painting software focused on realistic traditional media effects. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Drawing & Painting"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Windows"
+    ],
+    "tags": [
+      "Drawing",
+      "Painting",
+      "Illustration",
+      "Digital Art"
+    ],
+    "bestFor": [
+      "Drawing & Painting",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "clip-studio-paint",
+      "krita",
+      "procreate"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for drawing & painting.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
+    "id": "realitycapture",
+    "title": "RealityCapture",
+    "shortName": "RealityCapture",
+    "company": "Epic Games",
+    "companyWebsite": "",
+    "website": "https://www.capturingreality.com/",
+    "logo": "",
+    "favicon": "",
+    "heroImage": "",
+    "screenshots": [],
+    "category": "3D / CAD",
+    "categoryId": "3d-cad",
+    "subcategories": [
+      "Photogrammetry",
+      "Scanning"
+    ],
+    "type": "Software",
+    "industries": [],
+    "useCases": [],
+    "tags": [
+      "Photogrammetry",
+      "Scanning"
+    ],
+    "collections": [],
+    "shortDescription": "Photogrammetry software for turning photos and scans into 3D models.",
+    "longDescription": "RealityCapture is part of the Epic Games ecosystem in The Creative Vault. Photogrammetry software for turning photos and scans into 3D models.",
+    "whyUseIt": "",
+    "bestFor": [
+      "Photogrammetry",
+      "Scanning",
+      "Creative workflows"
+    ],
+    "pros": [],
+    "cons": [],
+    "notes": "Added as part of the V7 ecosystem architecture.",
+    "platforms": [
+      "Windows"
+    ],
+    "operatingSystems": [
+      "Windows"
+    ],
+    "mobileSupport": false,
+    "browserSupport": false,
+    "offline": true,
+    "cloudSync": false,
+    "fileFormats": [],
+    "integrations": [],
+    "api": false,
+    "plugins": false,
+    "extensions": false,
+    "ai": false,
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "pricingDetails": "Check official website for current pricing and licensing.",
+    "freeTrial": true,
+    "studentDiscount": false,
+    "commercialUse": null,
+    "license": "Licensing varies. Check the official website before commercial use.",
+    "licenseType": "",
+    "rating": 4.5,
+    "popularity": 75,
+    "beginnerFriendly": false,
+    "professional": true,
+    "learningCurve": "Medium",
+    "industryStandard": false,
+    "openSource": false,
+    "verified": true,
+    "lastReviewed": "2026-07-07",
+    "alternatives": [],
+    "competitors": [],
+    "related": [
+      "metashape",
+      "polycam"
+    ],
+    "tutorials": [],
+    "youtubeChannels": [],
+    "documentation": "",
+    "community": "",
+    "discord": "",
+    "reddit": "",
+    "github": "",
+    "twitter": "",
+    "instagram": "",
+    "featured": false,
+    "editorPick": true,
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "3D / CAD"
+    ],
+    "categoryIds": [
+      "3d-cad"
+    ],
+    "primaryCategory": "3D / CAD"
+  },
+  {
     "id": "marketplace-reallusion-content-store",
     "title": "Reallusion Content Store",
     "shortName": "Reallusion Content Store",
@@ -65483,6 +84748,106 @@ const generatedResources = [
     "primaryCategory": "Game Dev"
   },
   {
+    "id": "reaper",
+    "title": "REAPER",
+    "shortName": "REAPER",
+    "company": "Cockos",
+    "companyWebsite": "",
+    "website": "https://www.reaper.fm/",
+    "logo": "",
+    "favicon": "",
+    "heroImage": "",
+    "screenshots": [],
+    "category": "Music",
+    "categoryId": "music",
+    "subcategories": [
+      "DAW",
+      "Recording"
+    ],
+    "type": "Software",
+    "industries": [],
+    "useCases": [],
+    "tags": [
+      "DAW",
+      "Audio"
+    ],
+    "collections": [],
+    "shortDescription": "Lightweight, customizable DAW for recording, editing, and mixing audio.",
+    "longDescription": "REAPER is part of the Cockos ecosystem in The Creative Vault. Lightweight, customizable DAW for recording, editing, and mixing audio.",
+    "whyUseIt": "",
+    "bestFor": [
+      "DAW",
+      "Recording",
+      "Creative workflows"
+    ],
+    "pros": [],
+    "cons": [],
+    "notes": "Added as part of the V7 ecosystem architecture.",
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "operatingSystems": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "mobileSupport": false,
+    "browserSupport": false,
+    "offline": true,
+    "cloudSync": false,
+    "fileFormats": [],
+    "integrations": [],
+    "api": false,
+    "plugins": false,
+    "extensions": false,
+    "ai": false,
+    "price": "Paid",
+    "pricingModel": "Paid",
+    "pricingDetails": "Check official website for current pricing and licensing.",
+    "freeTrial": true,
+    "studentDiscount": false,
+    "commercialUse": null,
+    "license": "Licensing varies. Check the official website before commercial use.",
+    "licenseType": "",
+    "rating": 4.5,
+    "popularity": 75,
+    "beginnerFriendly": false,
+    "professional": true,
+    "learningCurve": "Medium",
+    "industryStandard": false,
+    "openSource": false,
+    "verified": true,
+    "lastReviewed": "2026-07-07",
+    "alternatives": [],
+    "competitors": [],
+    "related": [
+      "pro-tools",
+      "ardour"
+    ],
+    "tutorials": [],
+    "youtubeChannels": [],
+    "documentation": "",
+    "community": "",
+    "discord": "",
+    "reddit": "",
+    "github": "",
+    "twitter": "",
+    "instagram": "",
+    "featured": false,
+    "editorPick": true,
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "Music"
+    ],
+    "categoryIds": [
+      "music"
+    ],
+    "primaryCategory": "Music"
+  },
+  {
     "id": "reason",
     "title": "Reason",
     "shortName": "Reason",
@@ -65522,6 +84887,69 @@ const generatedResources = [
       "music"
     ],
     "primaryCategory": "Music"
+  },
+  {
+    "id": "rebelle",
+    "title": "Rebelle",
+    "website": "https://www.escapemotions.com/products/rebelle/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Natural media painting software focused on realistic watercolor, oils, and pigments.",
+    "longDescription": "Rebelle is a drawing & painting resource in The Creative Vault. Natural media painting software focused on realistic watercolor, oils, and pigments. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Drawing & Painting"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "tags": [
+      "Drawing",
+      "Painting",
+      "Illustration",
+      "Digital Art"
+    ],
+    "bestFor": [
+      "Drawing & Painting",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "clip-studio-paint",
+      "krita",
+      "procreate"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for drawing & painting.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "learning-rebelway",
@@ -65613,6 +85041,166 @@ const generatedResources = [
     "primaryCategory": "Learning"
   },
   {
+    "id": "recraft",
+    "title": "Recraft",
+    "company": "Recraft",
+    "website": "https://www.recraft.ai/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI design tool for vector-style graphics, brand assets, icons, and illustrations.",
+    "longDescription": "Recraft is a ai image resource in The Creative Vault. AI design tool for vector-style graphics, brand assets, icons, and illustrations. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Image"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": true,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI",
+      "Image Generation",
+      "Concept Art",
+      "Visuals"
+    ],
+    "bestFor": [
+      "AI Image",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit",
+      "ai-image-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "midjourney",
+      "leonardo-ai",
+      "ideogram",
+      "adobe-firefly"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai image.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
+    "id": "red-giant",
+    "title": "Red Giant",
+    "shortName": "Red Giant",
+    "company": "Maxon",
+    "companyWebsite": "",
+    "website": "https://www.maxon.net/en/red-giant",
+    "logo": "",
+    "favicon": "",
+    "heroImage": "",
+    "screenshots": [],
+    "category": "Video",
+    "categoryId": "video",
+    "subcategories": [
+      "VFX",
+      "Motion Graphics"
+    ],
+    "type": "Software",
+    "industries": [],
+    "useCases": [],
+    "tags": [
+      "VFX",
+      "Plugins"
+    ],
+    "collections": [],
+    "shortDescription": "Suite of VFX, motion graphics, and post-production plugins.",
+    "longDescription": "Red Giant is part of the Maxon ecosystem in The Creative Vault. Suite of VFX, motion graphics, and post-production plugins.",
+    "whyUseIt": "",
+    "bestFor": [
+      "VFX",
+      "Motion Graphics",
+      "Creative workflows"
+    ],
+    "pros": [],
+    "cons": [],
+    "notes": "Added as part of the V7 ecosystem architecture.",
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "operatingSystems": [
+      "Windows",
+      "Mac"
+    ],
+    "mobileSupport": false,
+    "browserSupport": false,
+    "offline": true,
+    "cloudSync": false,
+    "fileFormats": [],
+    "integrations": [],
+    "api": false,
+    "plugins": false,
+    "extensions": false,
+    "ai": false,
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "pricingDetails": "Check official website for current pricing and licensing.",
+    "freeTrial": true,
+    "studentDiscount": false,
+    "commercialUse": null,
+    "license": "Licensing varies. Check the official website before commercial use.",
+    "licenseType": "",
+    "rating": 4.5,
+    "popularity": 75,
+    "beginnerFriendly": false,
+    "professional": true,
+    "learningCurve": "Medium",
+    "industryStandard": false,
+    "openSource": false,
+    "verified": true,
+    "lastReviewed": "2026-07-07",
+    "alternatives": [],
+    "competitors": [],
+    "related": [
+      "after-effects"
+    ],
+    "tutorials": [],
+    "youtubeChannels": [],
+    "documentation": "",
+    "community": "",
+    "discord": "",
+    "reddit": "",
+    "github": "",
+    "twitter": "",
+    "instagram": "",
+    "featured": false,
+    "editorPick": true,
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "Video"
+    ],
+    "categoryIds": [
+      "video"
+    ],
+    "primaryCategory": "Video"
+  },
+  {
     "id": "software-red-giant",
     "title": "Red Giant",
     "shortName": "Red Giant",
@@ -65623,12 +85211,16 @@ const generatedResources = [
     "categories": [
       "Software",
       "Motion Graphics",
-      "VFX Plugins"
+      "VFX Plugins",
+      "Video",
+      "Assets"
     ],
     "categoryIds": [
       "software",
       "motion-graphics",
-      "vfx-plugins"
+      "vfx-plugins",
+      "video",
+      "assets"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -65716,6 +85308,105 @@ const generatedResources = [
     "primaryCategory": "Marketplaces"
   },
   {
+    "id": "redshift",
+    "title": "Redshift",
+    "shortName": "Redshift",
+    "company": "Maxon",
+    "companyWebsite": "",
+    "website": "https://www.maxon.net/en/redshift",
+    "logo": "",
+    "favicon": "",
+    "heroImage": "",
+    "screenshots": [],
+    "category": "3D / CAD",
+    "categoryId": "3d-cad",
+    "subcategories": [
+      "Rendering"
+    ],
+    "type": "Software",
+    "industries": [],
+    "useCases": [],
+    "tags": [
+      "Rendering",
+      "GPU"
+    ],
+    "collections": [],
+    "shortDescription": "GPU-accelerated production renderer for 3D and motion graphics.",
+    "longDescription": "Redshift is part of the Maxon ecosystem in The Creative Vault. GPU-accelerated production renderer for 3D and motion graphics.",
+    "whyUseIt": "",
+    "bestFor": [
+      "Rendering",
+      "Creative workflows"
+    ],
+    "pros": [],
+    "cons": [],
+    "notes": "Added as part of the V7 ecosystem architecture.",
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "operatingSystems": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "mobileSupport": false,
+    "browserSupport": false,
+    "offline": true,
+    "cloudSync": false,
+    "fileFormats": [],
+    "integrations": [],
+    "api": false,
+    "plugins": false,
+    "extensions": false,
+    "ai": false,
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "pricingDetails": "Check official website for current pricing and licensing.",
+    "freeTrial": true,
+    "studentDiscount": false,
+    "commercialUse": null,
+    "license": "Licensing varies. Check the official website before commercial use.",
+    "licenseType": "",
+    "rating": 4.5,
+    "popularity": 75,
+    "beginnerFriendly": false,
+    "professional": true,
+    "learningCurve": "Medium",
+    "industryStandard": false,
+    "openSource": false,
+    "verified": true,
+    "lastReviewed": "2026-07-07",
+    "alternatives": [],
+    "competitors": [],
+    "related": [
+      "octane",
+      "arnold",
+      "vray"
+    ],
+    "tutorials": [],
+    "youtubeChannels": [],
+    "documentation": "",
+    "community": "",
+    "discord": "",
+    "reddit": "",
+    "github": "",
+    "twitter": "",
+    "instagram": "",
+    "featured": false,
+    "editorPick": true,
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "3D / CAD"
+    ],
+    "categoryIds": [
+      "3d-cad"
+    ],
+    "primaryCategory": "3D / CAD"
+  },
+  {
     "id": "software-redshift",
     "title": "Redshift",
     "shortName": "Redshift",
@@ -65726,12 +85417,14 @@ const generatedResources = [
     "categories": [
       "Software",
       "Rendering",
-      "GPU Renderer"
+      "GPU Renderer",
+      "3D / CAD"
     ],
     "categoryIds": [
       "software",
       "rendering",
-      "gpu-renderer"
+      "gpu-renderer",
+      "3d-cad"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -66279,6 +85972,69 @@ const generatedResources = [
     "lastReviewed": "2026-07-08"
   },
   {
+    "id": "remove-bg",
+    "title": "Remove.bg",
+    "company": "Kaleido",
+    "website": "https://www.remove.bg/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Automatic background removal tool for photos, products, and design assets.",
+    "longDescription": "Remove.bg is a ai image resource in The Creative Vault. Automatic background removal tool for photos, products, and design assets. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Image"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI",
+      "Image Generation",
+      "Concept Art",
+      "Visuals"
+    ],
+    "bestFor": [
+      "AI Image",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit",
+      "ai-image-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "midjourney",
+      "leonardo-ai",
+      "ideogram",
+      "adobe-firefly"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai image.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "essential-ren-py",
     "title": "Ren'Py",
     "shortName": "Ren'Py",
@@ -66416,6 +86172,69 @@ const generatedResources = [
     "primaryCategory": "Web & Dev"
   },
   {
+    "id": "renderhub",
+    "title": "RenderHub",
+    "website": "https://www.renderhub.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Marketplace for 3D models, textures, characters, and digital assets.",
+    "longDescription": "RenderHub is a brushes & textures resource in The Creative Vault. Marketplace for 3D models, textures, characters, and digital assets. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Brushes & Textures"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan or free assets available with paid upgrades or premium options.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Brushes",
+      "Textures",
+      "Assets",
+      "Design Resources"
+    ],
+    "bestFor": [
+      "Brushes & Textures",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "clip-studio-paint",
+      "krita",
+      "procreate"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for brushes & textures.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "game-dev-renderhub",
     "title": "RenderHub",
     "shortName": "RenderHub",
@@ -66547,6 +86366,68 @@ const generatedResources = [
     "primaryCategory": "AI Tools"
   },
   {
+    "id": "replit",
+    "title": "Replit",
+    "company": "Replit",
+    "website": "https://replit.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Browser-based coding platform with AI app-building and deployment tools.",
+    "longDescription": "Replit is a ai coding resource in The Creative Vault. Browser-based coding platform with AI app-building and deployment tools. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Coding"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI Coding",
+      "Developer",
+      "App Builder",
+      "Vibe Coding"
+    ],
+    "bestFor": [
+      "AI Coding",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit",
+      "ai-coding-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "cursor",
+      "windsurf",
+      "github-copilot"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai coding.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "coding-replit",
     "title": "Replit",
     "shortName": "Replit",
@@ -66676,6 +86557,68 @@ const generatedResources = [
     "primaryCategory": "Freelancing"
   },
   {
+    "id": "research-rabbit",
+    "title": "Research Rabbit",
+    "company": "Research Rabbit",
+    "website": "https://www.researchrabbit.ai/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Research discovery tool for exploring papers, authors, and citation networks.",
+    "longDescription": "Research Rabbit is a ai research resource in The Creative Vault. Research discovery tool for exploring papers, authors, and citation networks. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Research"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI Research",
+      "Search",
+      "Sources",
+      "Knowledge"
+    ],
+    "bestFor": [
+      "AI Research",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "perplexity",
+      "notebooklm",
+      "elicit",
+      "consensus"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai research.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "essential-research-rabbit",
     "title": "Research Rabbit",
     "shortName": "Research Rabbit",
@@ -66723,6 +86666,70 @@ const generatedResources = [
     "editorPick": false,
     "verified": true,
     "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "reshot",
+    "title": "Reshot",
+    "website": "https://www.reshot.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Free icons, illustrations, and photos for designers.",
+    "longDescription": "Reshot is a stock images resource in The Creative Vault. Free icons, illustrations, and photos for designers. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Stock Images"
+    ],
+    "price": "Free",
+    "pricingDetails": "Free to use. Check individual licensing terms before commercial work.",
+    "rating": 4.6,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Stock",
+      "Photography",
+      "Images",
+      "Creative Assets"
+    ],
+    "bestFor": [
+      "Stock Images",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "best-free-creative-tools",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "canva",
+      "freepik",
+      "unsplash"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for stock images.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Free",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "photography-reshot",
@@ -66859,6 +86866,69 @@ const generatedResources = [
     "editorPick": false,
     "verified": true,
     "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "retrosupply",
+    "title": "RetroSupply",
+    "website": "https://www.retrosupply.co/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Premium brushes, textures, and design assets for vintage-inspired digital work.",
+    "longDescription": "RetroSupply is a brushes & textures resource in The Creative Vault. Premium brushes, textures, and design assets for vintage-inspired digital work. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Brushes & Textures"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": true,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Brushes",
+      "Textures",
+      "Assets",
+      "Design Resources"
+    ],
+    "bestFor": [
+      "Brushes & Textures",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "clip-studio-paint",
+      "krita",
+      "procreate"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for brushes & textures.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "game-dev-extra-revenuecat",
@@ -67851,6 +87921,68 @@ const generatedResources = [
     "primaryCategory": "Marketplaces"
   },
   {
+    "id": "runway",
+    "title": "Runway",
+    "company": "Runway",
+    "website": "https://runwayml.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI-powered creative suite for video generation, editing, and effects.",
+    "longDescription": "Runway is a ai video resource in The Creative Vault. AI-powered creative suite for video generation, editing, and effects. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Video"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product or commercial service.",
+    "rating": 4.6,
+    "popularity": 90,
+    "skillLevel": "Beginner to Professional",
+    "featured": true,
+    "editorPick": true,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI Video",
+      "Video Generation",
+      "Motion",
+      "Filmmaking"
+    ],
+    "bestFor": [
+      "AI Video",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit",
+      "ai-video-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "kling-ai",
+      "pika",
+      "luma-dream-machine"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai video.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "game-dev-runway",
     "title": "Runway",
     "shortName": "Runway",
@@ -68696,6 +88828,68 @@ const generatedResources = [
     "primaryCategory": "AI Tools"
   },
   {
+    "id": "scite",
+    "title": "Scite",
+    "company": "Scite",
+    "website": "https://scite.ai/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Research platform that shows how scientific papers are cited and supported.",
+    "longDescription": "Scite is a ai research resource in The Creative Vault. Research platform that shows how scientific papers are cited and supported. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Research"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI Research",
+      "Search",
+      "Sources",
+      "Knowledge"
+    ],
+    "bestFor": [
+      "AI Research",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "perplexity",
+      "notebooklm",
+      "elicit",
+      "consensus"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai research.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "grant-scotiabank-photography-award",
     "title": "Scotiabank Photography Award",
     "shortName": "Scotiabank Photography Award",
@@ -69060,6 +89254,69 @@ const generatedResources = [
     "primaryCategory": "Design"
   },
   {
+    "id": "seaart",
+    "title": "SeaArt",
+    "company": "SeaArt",
+    "website": "https://www.seaart.ai/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI image generation platform with model browsing and creative tools.",
+    "longDescription": "SeaArt is a ai image resource in The Creative Vault. AI image generation platform with model browsing and creative tools. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Image"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI",
+      "Image Generation",
+      "Concept Art",
+      "Visuals"
+    ],
+    "bestFor": [
+      "AI Image",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit",
+      "ai-image-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "midjourney",
+      "leonardo-ai",
+      "ideogram",
+      "adobe-firefly"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai image.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "learning-sean-mccabe",
     "title": "Sean McCabe",
     "shortName": "Sean McCabe",
@@ -69283,6 +89540,68 @@ const generatedResources = [
       "marketplaces"
     ],
     "primaryCategory": "Marketplaces"
+  },
+  {
+    "id": "semantic-scholar",
+    "title": "Semantic Scholar",
+    "company": "Allen Institute for AI",
+    "website": "https://www.semanticscholar.org/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI-powered scientific literature search and research discovery platform.",
+    "longDescription": "Semantic Scholar is a ai research resource in The Creative Vault. AI-powered scientific literature search and research discovery platform. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Research"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI Research",
+      "Search",
+      "Sources",
+      "Knowledge"
+    ],
+    "bestFor": [
+      "AI Research",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "perplexity",
+      "notebooklm",
+      "elicit",
+      "consensus"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai research.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "essential-semantic-scholar",
@@ -69683,6 +90002,70 @@ const generatedResources = [
     "primaryCategory": "Game Dev"
   },
   {
+    "id": "sharetextures",
+    "title": "ShareTextures",
+    "website": "https://www.sharetextures.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Free textures and materials for architecture, 3D, and game art.",
+    "longDescription": "ShareTextures is a brushes & textures resource in The Creative Vault. Free textures and materials for architecture, 3D, and game art. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Brushes & Textures"
+    ],
+    "price": "Free",
+    "pricingDetails": "Free to use. Check individual licensing terms before commercial work.",
+    "rating": 4.6,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Brushes",
+      "Textures",
+      "Assets",
+      "Design Resources"
+    ],
+    "bestFor": [
+      "Brushes & Textures",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "best-free-creative-tools",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "clip-studio-paint",
+      "krita",
+      "procreate"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for brushes & textures.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Free",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "essential-sharethrough-headline-analyzer",
     "title": "Sharethrough Headline Analyzer",
     "shortName": "Sharethrough Headline Analyzer",
@@ -69962,6 +90345,99 @@ const generatedResources = [
     "editorPick": false,
     "verified": true,
     "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "shopify",
+    "title": "Shopify",
+    "shortName": "Shopify",
+    "company": "Shopify",
+    "companyWebsite": "",
+    "website": "https://www.shopify.com/",
+    "logo": "",
+    "favicon": "",
+    "heroImage": "",
+    "screenshots": [],
+    "category": "Web & Dev",
+    "categoryId": "web-dev",
+    "subcategories": [
+      "Ecommerce"
+    ],
+    "type": "Software",
+    "industries": [],
+    "useCases": [],
+    "tags": [
+      "Ecommerce",
+      "Store"
+    ],
+    "collections": [],
+    "shortDescription": "Ecommerce platform for online stores, products, and creative businesses.",
+    "longDescription": "Shopify is part of the Shopify ecosystem in The Creative Vault. Ecommerce platform for online stores, products, and creative businesses.",
+    "whyUseIt": "",
+    "bestFor": [
+      "Ecommerce",
+      "Creative workflows"
+    ],
+    "pros": [],
+    "cons": [],
+    "notes": "Added as part of the V7 ecosystem architecture.",
+    "platforms": [
+      "Browser"
+    ],
+    "operatingSystems": [
+      "Browser"
+    ],
+    "mobileSupport": false,
+    "browserSupport": true,
+    "offline": false,
+    "cloudSync": false,
+    "fileFormats": [],
+    "integrations": [],
+    "api": false,
+    "plugins": false,
+    "extensions": false,
+    "ai": false,
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "pricingDetails": "Check official website for current pricing and licensing.",
+    "freeTrial": true,
+    "studentDiscount": false,
+    "commercialUse": null,
+    "license": "Licensing varies. Check the official website before commercial use.",
+    "licenseType": "",
+    "rating": 4.5,
+    "popularity": 75,
+    "beginnerFriendly": false,
+    "professional": true,
+    "learningCurve": "Medium",
+    "industryStandard": false,
+    "openSource": false,
+    "verified": true,
+    "lastReviewed": "2026-07-07",
+    "alternatives": [],
+    "competitors": [],
+    "related": [
+      "squarespace"
+    ],
+    "tutorials": [],
+    "youtubeChannels": [],
+    "documentation": "",
+    "community": "",
+    "discord": "",
+    "reddit": "",
+    "github": "",
+    "twitter": "",
+    "instagram": "",
+    "featured": true,
+    "editorPick": true,
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "Web & Dev"
+    ],
+    "categoryIds": [
+      "web-dev"
+    ],
+    "primaryCategory": "Web & Dev"
   },
   {
     "id": "marketplace-shopify",
@@ -70406,6 +90882,69 @@ const generatedResources = [
     "primaryCategory": "Video"
   },
   {
+    "id": "shutterstock",
+    "title": "Shutterstock",
+    "website": "https://www.shutterstock.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Large commercial stock library for images, video, music, and creative assets.",
+    "longDescription": "Shutterstock is a stock images resource in The Creative Vault. Large commercial stock library for images, video, music, and creative assets. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Stock Images"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Stock",
+      "Photography",
+      "Images",
+      "Creative Assets"
+    ],
+    "bestFor": [
+      "Stock Images",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "canva",
+      "freepik",
+      "unsplash"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for stock images.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "marketplace-shutterstock",
     "title": "Shutterstock",
     "shortName": "Shutterstock",
@@ -70806,6 +91345,68 @@ const generatedResources = [
     "primaryCategory": "Learning"
   },
   {
+    "id": "site-inspire",
+    "title": "Site Inspire",
+    "website": "https://www.siteinspire.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Curated website design inspiration gallery.",
+    "longDescription": "Site Inspire is a inspiration resource in The Creative Vault. Curated website design inspiration gallery. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Inspiration"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan or free assets available with paid upgrades or premium options.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Inspiration",
+      "Portfolio",
+      "Design",
+      "Moodboard"
+    ],
+    "bestFor": [
+      "Inspiration",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "behance",
+      "dribbble",
+      "artstation",
+      "pinterest"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for inspiration.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "grant-sk-arts",
     "title": "SK Arts",
     "shortName": "SK Arts",
@@ -70853,6 +91454,292 @@ const generatedResources = [
       "grants"
     ],
     "primaryCategory": "Grants"
+  },
+  {
+    "id": "sketch",
+    "title": "Sketch",
+    "website": "https://www.sketch.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Mac-based UI and vector design platform for digital products.",
+    "longDescription": "Sketch is a vector design resource in The Creative Vault. Mac-based UI and vector design platform for digital products. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Vector Design"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Mac"
+    ],
+    "tags": [
+      "Vector",
+      "Logo",
+      "Design",
+      "SVG"
+    ],
+    "bestFor": [
+      "Vector Design",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-illustrator",
+      "affinity-designer",
+      "inkscape",
+      "figma"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for vector design.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
+    "id": "sketchbook",
+    "title": "Sketchbook",
+    "website": "https://www.sketchbook.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Clean sketching and drawing app with a simple interface and natural drawing feel.",
+    "longDescription": "Sketchbook is a drawing & painting resource in The Creative Vault. Clean sketching and drawing app with a simple interface and natural drawing feel. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Drawing & Painting"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "tags": [
+      "Drawing",
+      "Painting",
+      "Illustration",
+      "Digital Art"
+    ],
+    "bestFor": [
+      "Drawing & Painting",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "clip-studio-paint",
+      "krita",
+      "procreate"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for drawing & painting.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
+    "id": "sketchdaily",
+    "title": "SketchDaily",
+    "website": "http://reference.sketchdaily.net/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Randomized reference tool for figure, animal, and environment drawing practice.",
+    "longDescription": "SketchDaily is a reference resource in The Creative Vault. Randomized reference tool for figure, animal, and environment drawing practice. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Reference"
+    ],
+    "price": "Free",
+    "pricingDetails": "Free to use. Check individual licensing terms before commercial work.",
+    "rating": 4.6,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Reference",
+      "Pose",
+      "Anatomy",
+      "Drawing Practice"
+    ],
+    "bestFor": [
+      "Reference",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "best-free-creative-tools"
+    ],
+    "alternatives": [],
+    "related": [
+      "line-of-action",
+      "quickposes",
+      "posemy-art",
+      "proko"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for reference.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Free",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
+    "id": "sketchfab",
+    "title": "Sketchfab",
+    "shortName": "Sketchfab",
+    "company": "Epic Games",
+    "companyWebsite": "",
+    "website": "https://sketchfab.com/",
+    "logo": "",
+    "favicon": "",
+    "heroImage": "",
+    "screenshots": [],
+    "category": "Assets",
+    "categoryId": "assets",
+    "subcategories": [
+      "3D Models",
+      "Marketplace"
+    ],
+    "type": "Software",
+    "industries": [],
+    "useCases": [],
+    "tags": [
+      "3D Models",
+      "Marketplace"
+    ],
+    "collections": [
+      "asset-library"
+    ],
+    "shortDescription": "Online platform for publishing, exploring, buying, and selling 3D models.",
+    "longDescription": "Sketchfab is part of the Epic Games ecosystem in The Creative Vault. Online platform for publishing, exploring, buying, and selling 3D models.",
+    "whyUseIt": "",
+    "bestFor": [
+      "3D Models",
+      "Marketplace",
+      "Creative workflows"
+    ],
+    "pros": [],
+    "cons": [],
+    "notes": "Added as part of the V7 ecosystem architecture.",
+    "platforms": [
+      "Browser"
+    ],
+    "operatingSystems": [
+      "Browser"
+    ],
+    "mobileSupport": false,
+    "browserSupport": true,
+    "offline": false,
+    "cloudSync": false,
+    "fileFormats": [],
+    "integrations": [],
+    "api": false,
+    "plugins": false,
+    "extensions": false,
+    "ai": false,
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "pricingDetails": "Check official website for current pricing and licensing.",
+    "freeTrial": true,
+    "studentDiscount": false,
+    "commercialUse": null,
+    "license": "Licensing varies. Check the official website before commercial use.",
+    "licenseType": "",
+    "rating": 4.5,
+    "popularity": 75,
+    "beginnerFriendly": false,
+    "professional": true,
+    "learningCurve": "Medium",
+    "industryStandard": false,
+    "openSource": false,
+    "verified": true,
+    "lastReviewed": "2026-07-07",
+    "alternatives": [],
+    "competitors": [],
+    "related": [
+      "fab",
+      "cgtrader"
+    ],
+    "tutorials": [],
+    "youtubeChannels": [],
+    "documentation": "",
+    "community": "",
+    "discord": "",
+    "reddit": "",
+    "github": "",
+    "twitter": "",
+    "instagram": "",
+    "featured": true,
+    "editorPick": true,
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "Assets"
+    ],
+    "categoryIds": [
+      "assets"
+    ],
+    "primaryCategory": "Assets"
   },
   {
     "id": "game-dev-sketchfab-store",
@@ -70940,6 +91827,69 @@ const generatedResources = [
       "marketplaces"
     ],
     "primaryCategory": "Marketplaces"
+  },
+  {
+    "id": "sketchfab-textures",
+    "title": "Sketchfab Textures",
+    "website": "https://sketchfab.com/3d-models/textures-materials",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Texture and material resources connected to the Sketchfab ecosystem.",
+    "longDescription": "Sketchfab Textures is a brushes & textures resource in The Creative Vault. Texture and material resources connected to the Sketchfab ecosystem. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Brushes & Textures"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan or free assets available with paid upgrades or premium options.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Brushes",
+      "Textures",
+      "Assets",
+      "Design Resources"
+    ],
+    "bestFor": [
+      "Brushes & Textures",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "clip-studio-paint",
+      "krita",
+      "procreate"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for brushes & textures.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "learning-skillshare",
@@ -71080,6 +92030,107 @@ const generatedResources = [
     "primaryCategory": "Grants"
   },
   {
+    "id": "slack",
+    "title": "Slack",
+    "shortName": "Slack",
+    "company": "Salesforce",
+    "companyWebsite": "",
+    "website": "https://slack.com/",
+    "logo": "",
+    "favicon": "",
+    "heroImage": "",
+    "screenshots": [],
+    "category": "Business",
+    "categoryId": "business",
+    "subcategories": [
+      "Team Communication"
+    ],
+    "type": "Software",
+    "industries": [],
+    "useCases": [],
+    "tags": [
+      "Communication",
+      "Teams"
+    ],
+    "collections": [],
+    "shortDescription": "Team communication platform for channels, messages, files, and collaboration.",
+    "longDescription": "Slack is part of the Salesforce ecosystem in The Creative Vault. Team communication platform for channels, messages, files, and collaboration.",
+    "whyUseIt": "",
+    "bestFor": [
+      "Team Communication",
+      "Creative workflows"
+    ],
+    "pros": [],
+    "cons": [],
+    "notes": "Added as part of the V7 ecosystem architecture.",
+    "platforms": [
+      "Browser",
+      "Windows",
+      "Mac",
+      "iPhone",
+      "Android"
+    ],
+    "operatingSystems": [
+      "Browser",
+      "Windows",
+      "Mac",
+      "iPhone",
+      "Android"
+    ],
+    "mobileSupport": true,
+    "browserSupport": true,
+    "offline": false,
+    "cloudSync": false,
+    "fileFormats": [],
+    "integrations": [],
+    "api": false,
+    "plugins": false,
+    "extensions": false,
+    "ai": false,
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "pricingDetails": "Check official website for current pricing and licensing.",
+    "freeTrial": true,
+    "studentDiscount": false,
+    "commercialUse": null,
+    "license": "Licensing varies. Check the official website before commercial use.",
+    "licenseType": "",
+    "rating": 4.5,
+    "popularity": 75,
+    "beginnerFriendly": false,
+    "professional": true,
+    "learningCurve": "Medium",
+    "industryStandard": false,
+    "openSource": false,
+    "verified": true,
+    "lastReviewed": "2026-07-07",
+    "alternatives": [],
+    "competitors": [],
+    "related": [
+      "discord"
+    ],
+    "tutorials": [],
+    "youtubeChannels": [],
+    "documentation": "",
+    "community": "",
+    "discord": "",
+    "reddit": "",
+    "github": "",
+    "twitter": "",
+    "instagram": "",
+    "featured": false,
+    "editorPick": true,
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "Business"
+    ],
+    "categoryIds": [
+      "business"
+    ],
+    "primaryCategory": "Business"
+  },
+  {
     "id": "freelancing-slack",
     "title": "Slack",
     "shortName": "Slack",
@@ -71121,6 +92172,68 @@ const generatedResources = [
       "freelancing"
     ],
     "primaryCategory": "Freelancing"
+  },
+  {
+    "id": "slidesai",
+    "title": "SlidesAI",
+    "company": "SlidesAI",
+    "website": "https://www.slidesai.io/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI tool for generating presentation slides from text.",
+    "longDescription": "SlidesAI is a ai presentation resource in The Creative Vault. AI tool for generating presentation slides from text. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Presentation"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Presentations",
+      "Slides",
+      "Pitch Decks",
+      "AI"
+    ],
+    "bestFor": [
+      "AI Presentation",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "gamma",
+      "tome",
+      "beautiful-ai",
+      "canva-ai"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai presentation.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "game-dev-sloyd",
@@ -71346,6 +92459,69 @@ const generatedResources = [
       "game-dev"
     ],
     "primaryCategory": "Game Dev"
+  },
+  {
+    "id": "smartmockups",
+    "title": "Smartmockups",
+    "website": "https://smartmockups.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Browser-based mockup generator for products, apparel, screens, and print.",
+    "longDescription": "Smartmockups is a mockups resource in The Creative Vault. Browser-based mockup generator for products, apparel, screens, and print. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Mockups"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan or free assets available with paid upgrades or premium options.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Mockups",
+      "Presentation",
+      "Branding",
+      "Design Assets"
+    ],
+    "bestFor": [
+      "Mockups",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "affinity-photo",
+      "canva",
+      "creative-market"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for mockups.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "learning-smashing-magazine",
@@ -71671,6 +92847,70 @@ const generatedResources = [
       "grants"
     ],
     "primaryCategory": "Grants"
+  },
+  {
+    "id": "socan",
+    "title": "SOCAN",
+    "website": "https://www.socan.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Canadian rights organization for song registration and performance royalty collection.",
+    "longDescription": "SOCAN is a Canadian performing rights organization that helps songwriters, composers, and music publishers collect performance royalties.",
+    "category": "Music",
+    "categoryId": "music",
+    "subcategories": [
+      "Royalties",
+      "Publishing",
+      "Rights"
+    ],
+    "price": "Free",
+    "pricingDetails": "Membership details may vary; check SOCAN directly.",
+    "rating": 4.5,
+    "popularity": 78,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": true,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Royalties",
+      "Publishing",
+      "Canada",
+      "Songwriters"
+    ],
+    "bestFor": [
+      "Canadian musicians",
+      "Songwriters",
+      "Publishing administration"
+    ],
+    "collections": [],
+    "alternatives": [
+      "ASCAP",
+      "BMI",
+      "SESAC",
+      "SoundExchange"
+    ],
+    "related": [
+      "bandcamp"
+    ],
+    "license": "Rights organization.",
+    "notes": "Important for Canadian music creators.",
+    "dateAdded": "2026-07-01",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Music"
+    ],
+    "categoryIds": [
+      "music"
+    ],
+    "primaryCategory": "Music",
+    "pricingModel": "Free",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "grant-socan-foundation",
@@ -72209,6 +93449,68 @@ const generatedResources = [
     "primaryCategory": "Game Dev"
   },
   {
+    "id": "soundraw",
+    "title": "Soundraw",
+    "company": "Soundraw",
+    "website": "https://soundraw.io/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI music generator for royalty-free creator music.",
+    "longDescription": "Soundraw is a ai music resource in The Creative Vault. AI music generator for royalty-free creator music. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Music"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI Music",
+      "Songs",
+      "Audio",
+      "Generation"
+    ],
+    "bestFor": [
+      "AI Music",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "suno",
+      "udio",
+      "stable-audio",
+      "aiva"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai music.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "audio-soundtrap",
     "title": "Soundtrap",
     "shortName": "Soundtrap",
@@ -72523,6 +93825,68 @@ const generatedResources = [
     "primaryCategory": "Marketing"
   },
   {
+    "id": "speechify",
+    "title": "Speechify",
+    "company": "Speechify",
+    "website": "https://speechify.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Text-to-speech platform for reading, narration, and productivity.",
+    "longDescription": "Speechify is a ai voice resource in The Creative Vault. Text-to-speech platform for reading, narration, and productivity. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Voice"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI Voice",
+      "Voiceover",
+      "Narration",
+      "Audio"
+    ],
+    "bestFor": [
+      "AI Voice",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "elevenlabs",
+      "playht",
+      "murf",
+      "fish-audio"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai voice.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "spine",
     "title": "Spine",
     "shortName": "Spine",
@@ -72698,6 +94062,70 @@ const generatedResources = [
       "audio"
     ],
     "primaryCategory": "Audio"
+  },
+  {
+    "id": "splitshire",
+    "title": "Splitshire",
+    "website": "https://www.splitshire.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Free stock photos and videos by Daniel Nanescu.",
+    "longDescription": "Splitshire is a stock images resource in The Creative Vault. Free stock photos and videos by Daniel Nanescu. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Stock Images"
+    ],
+    "price": "Free",
+    "pricingDetails": "Free to use. Check individual licensing terms before commercial work.",
+    "rating": 4.6,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Stock",
+      "Photography",
+      "Images",
+      "Creative Assets"
+    ],
+    "bestFor": [
+      "Stock Images",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "best-free-creative-tools",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "canva",
+      "freepik",
+      "unsplash"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for stock images.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Free",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "marketplace-spod",
@@ -73185,6 +94613,72 @@ const generatedResources = [
     "primaryCategory": "Freelancing"
   },
   {
+    "id": "squarespace",
+    "title": "Squarespace",
+    "website": "https://www.squarespace.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Website builder for portfolios, stores, landing pages, and professional creative sites.",
+    "longDescription": "Squarespace is a website builder for portfolios, personal websites, stores, service businesses, blogs, and landing pages, with templates and built-in hosting.",
+    "category": "Web & Dev",
+    "categoryId": "web-dev",
+    "subcategories": [
+      "Website Builder",
+      "Portfolio",
+      "Ecommerce"
+    ],
+    "price": "Subscription",
+    "pricingDetails": "Paid subscription plans.",
+    "rating": 4.3,
+    "popularity": 84,
+    "skillLevel": "Beginner to Intermediate",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Website",
+      "Portfolio",
+      "Commerce",
+      "Templates"
+    ],
+    "bestFor": [
+      "Personal sites",
+      "Artist portfolios",
+      "Small business sites",
+      "Simple ecommerce"
+    ],
+    "collections": [],
+    "alternatives": [
+      "Webflow",
+      "Wix",
+      "Framer",
+      "WordPress"
+    ],
+    "related": [
+      "webflow",
+      "canva"
+    ],
+    "license": "Commercial subscription service.",
+    "notes": "Good for polished websites without heavy setup.",
+    "dateAdded": "2026-07-01",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Web & Dev"
+    ],
+    "categoryIds": [
+      "web-dev"
+    ],
+    "primaryCategory": "Web & Dev",
+    "pricingModel": "Subscription",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "marketplace-squarespace-commerce",
     "title": "Squarespace Commerce",
     "shortName": "Squarespace Commerce",
@@ -73410,6 +94904,131 @@ const generatedResources = [
       "grants"
     ],
     "primaryCategory": "Grants"
+  },
+  {
+    "id": "stable-audio",
+    "title": "Stable Audio",
+    "company": "Stability AI",
+    "website": "https://www.stableaudio.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI audio and music generation platform.",
+    "longDescription": "Stable Audio is a ai music resource in The Creative Vault. AI audio and music generation platform. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Music"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI Music",
+      "Songs",
+      "Audio",
+      "Generation"
+    ],
+    "bestFor": [
+      "AI Music",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "suno",
+      "udio",
+      "aiva"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai music.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
+    "id": "stable-diffusion",
+    "title": "Stable Diffusion",
+    "company": "Stability AI",
+    "website": "https://stability.ai/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Open AI image model ecosystem for local generation, customization, and creative control.",
+    "longDescription": "Stable Diffusion is a ai image resource in The Creative Vault. Open AI image model ecosystem for local generation, customization, and creative control. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Image"
+    ],
+    "price": "Free",
+    "pricingDetails": "Free to use. Check usage limits and licensing before commercial work.",
+    "rating": 4.6,
+    "popularity": 92,
+    "skillLevel": "Beginner to Professional",
+    "featured": true,
+    "editorPick": true,
+    "openSource": true,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI",
+      "Image Generation",
+      "Concept Art",
+      "Visuals"
+    ],
+    "bestFor": [
+      "AI Image",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit",
+      "ai-image-kit",
+      "best-free-creative-tools"
+    ],
+    "alternatives": [],
+    "related": [
+      "midjourney",
+      "leonardo-ai",
+      "ideogram",
+      "adobe-firefly"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai image.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Free",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "coding-stackblitz",
@@ -73811,6 +95430,69 @@ const generatedResources = [
     "lastReviewed": "2026-07-08"
   },
   {
+    "id": "starryai",
+    "title": "StarryAI",
+    "company": "StarryAI",
+    "website": "https://starryai.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI art generator for creating artwork from text prompts.",
+    "longDescription": "StarryAI is a ai image resource in The Creative Vault. AI art generator for creating artwork from text prompts. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Image"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI",
+      "Image Generation",
+      "Concept Art",
+      "Visuals"
+    ],
+    "bestFor": [
+      "AI Image",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit",
+      "ai-image-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "midjourney",
+      "leonardo-ai",
+      "ideogram",
+      "adobe-firefly"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai image.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "learning-starter-story",
     "title": "Starter Story",
     "shortName": "Starter Story",
@@ -74125,6 +95807,69 @@ const generatedResources = [
     "editorPick": false,
     "verified": true,
     "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "stocksy",
+    "title": "Stocksy",
+    "website": "https://www.stocksy.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Premium curated stock photography and video library.",
+    "longDescription": "Stocksy is a stock images resource in The Creative Vault. Premium curated stock photography and video library. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Stock Images"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Stock",
+      "Photography",
+      "Images",
+      "Creative Assets"
+    ],
+    "bestFor": [
+      "Stock Images",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "canva",
+      "freepik",
+      "unsplash"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for stock images.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "marketplace-storyblocks",
@@ -74651,6 +96396,270 @@ const generatedResources = [
     "lastReviewed": "2026-07-08"
   },
   {
+    "id": "substance-3d-assets",
+    "title": "Substance 3D Assets",
+    "website": "https://substance3d.adobe.com/assets",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Adobe library of Substance materials and 3D assets.",
+    "longDescription": "Substance 3D Assets is a brushes & textures resource in The Creative Vault. Adobe library of Substance materials and 3D assets. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Brushes & Textures"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Brushes",
+      "Textures",
+      "Assets",
+      "Design Resources"
+    ],
+    "bestFor": [
+      "Brushes & Textures",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "clip-studio-paint",
+      "krita",
+      "procreate"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for brushes & textures.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
+    "id": "adobe-substance-designer",
+    "title": "Substance 3D Designer",
+    "shortName": "Substance 3D Designer",
+    "company": "Adobe",
+    "companyWebsite": "",
+    "website": "https://www.adobe.com/products/substance3d-designer.html",
+    "logo": "",
+    "favicon": "",
+    "heroImage": "",
+    "screenshots": [],
+    "category": "3D / CAD",
+    "categoryId": "3d-cad",
+    "subcategories": [
+      "Materials",
+      "Procedural Textures"
+    ],
+    "type": "Software",
+    "industries": [],
+    "useCases": [],
+    "tags": [
+      "Substance",
+      "Materials",
+      "Procedural"
+    ],
+    "collections": [],
+    "shortDescription": "Node-based material creation software for procedural textures and 3D surfaces.",
+    "longDescription": "Substance 3D Designer is part of the Adobe ecosystem in The Creative Vault. Node-based material creation software for procedural textures and 3D surfaces.",
+    "whyUseIt": "",
+    "bestFor": [
+      "Materials",
+      "Procedural Textures",
+      "Creative workflows"
+    ],
+    "pros": [],
+    "cons": [],
+    "notes": "Added as part of the V7 ecosystem architecture.",
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "operatingSystems": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "mobileSupport": false,
+    "browserSupport": false,
+    "offline": true,
+    "cloudSync": false,
+    "fileFormats": [],
+    "integrations": [],
+    "api": false,
+    "plugins": false,
+    "extensions": false,
+    "ai": false,
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "pricingDetails": "Check official website for current pricing and licensing.",
+    "freeTrial": true,
+    "studentDiscount": false,
+    "commercialUse": null,
+    "license": "Licensing varies. Check the official website before commercial use.",
+    "licenseType": "",
+    "rating": 4.5,
+    "popularity": 75,
+    "beginnerFriendly": false,
+    "professional": true,
+    "learningCurve": "Medium",
+    "industryStandard": false,
+    "openSource": false,
+    "verified": true,
+    "lastReviewed": "2026-07-07",
+    "alternatives": [],
+    "competitors": [],
+    "related": [
+      "adobe-substance-painter"
+    ],
+    "tutorials": [],
+    "youtubeChannels": [],
+    "documentation": "",
+    "community": "",
+    "discord": "",
+    "reddit": "",
+    "github": "",
+    "twitter": "",
+    "instagram": "",
+    "featured": false,
+    "editorPick": true,
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "3D / CAD"
+    ],
+    "categoryIds": [
+      "3d-cad"
+    ],
+    "primaryCategory": "3D / CAD"
+  },
+  {
+    "id": "adobe-substance-painter",
+    "title": "Substance 3D Painter",
+    "shortName": "Substance 3D Painter",
+    "company": "Adobe",
+    "companyWebsite": "",
+    "website": "https://www.adobe.com/products/substance3d-painter.html",
+    "logo": "",
+    "favicon": "",
+    "heroImage": "",
+    "screenshots": [],
+    "category": "3D / CAD",
+    "categoryId": "3d-cad",
+    "subcategories": [
+      "Texturing",
+      "Materials"
+    ],
+    "type": "Software",
+    "industries": [],
+    "useCases": [],
+    "tags": [
+      "Substance",
+      "3D",
+      "Texturing"
+    ],
+    "collections": [],
+    "shortDescription": "Professional 3D painting and texturing software for games, film, and product design.",
+    "longDescription": "Substance 3D Painter is part of the Adobe ecosystem in The Creative Vault. Professional 3D painting and texturing software for games, film, and product design.",
+    "whyUseIt": "",
+    "bestFor": [
+      "Texturing",
+      "Materials",
+      "Creative workflows"
+    ],
+    "pros": [],
+    "cons": [],
+    "notes": "Added as part of the V7 ecosystem architecture.",
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "operatingSystems": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "mobileSupport": false,
+    "browserSupport": false,
+    "offline": true,
+    "cloudSync": false,
+    "fileFormats": [],
+    "integrations": [],
+    "api": false,
+    "plugins": false,
+    "extensions": false,
+    "ai": true,
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "pricingDetails": "Check official website for current pricing and licensing.",
+    "freeTrial": true,
+    "studentDiscount": false,
+    "commercialUse": null,
+    "license": "Licensing varies. Check the official website before commercial use.",
+    "licenseType": "",
+    "rating": 4.5,
+    "popularity": 75,
+    "beginnerFriendly": false,
+    "professional": true,
+    "learningCurve": "Medium",
+    "industryStandard": true,
+    "openSource": false,
+    "verified": true,
+    "lastReviewed": "2026-07-07",
+    "alternatives": [],
+    "competitors": [],
+    "related": [
+      "blender",
+      "adobe-substance-designer"
+    ],
+    "tutorials": [],
+    "youtubeChannels": [],
+    "documentation": "",
+    "community": "",
+    "discord": "",
+    "reddit": "",
+    "github": "",
+    "twitter": "",
+    "instagram": "",
+    "featured": false,
+    "editorPick": true,
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "3D / CAD"
+    ],
+    "categoryIds": [
+      "3d-cad"
+    ],
+    "primaryCategory": "3D / CAD"
+  },
+  {
     "id": "game-dev-substance-3d-painter",
     "title": "Substance 3D Painter",
     "shortName": "Substance 3D Painter",
@@ -74696,6 +96705,68 @@ const generatedResources = [
       "game-dev"
     ],
     "primaryCategory": "Game Dev"
+  },
+  {
+    "id": "sudowrite",
+    "title": "Sudowrite",
+    "company": "Sudowrite",
+    "website": "https://www.sudowrite.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI writing assistant for fiction, storytelling, and creative writing.",
+    "longDescription": "Sudowrite is a ai writing resource in The Creative Vault. AI writing assistant for fiction, storytelling, and creative writing. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Writing"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Writing",
+      "Copywriting",
+      "Content",
+      "AI"
+    ],
+    "bestFor": [
+      "AI Writing",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "chatgpt",
+      "claude",
+      "grammarly",
+      "jasper"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai writing.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "photography-suncalc",
@@ -74790,6 +96861,67 @@ const generatedResources = [
       "grants"
     ],
     "primaryCategory": "Grants"
+  },
+  {
+    "id": "suno",
+    "title": "Suno",
+    "company": "Suno",
+    "website": "https://suno.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI music generation tool for songs, demos, ideas, and creative experiments.",
+    "longDescription": "Suno is a ai music resource in The Creative Vault. AI music generation tool for songs, demos, ideas, and creative experiments. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Music"
+    ],
+    "price": "Subscription",
+    "pricingDetails": "Subscription-based service or paid plan model.",
+    "rating": 4.6,
+    "popularity": 90,
+    "skillLevel": "Beginner to Professional",
+    "featured": true,
+    "editorPick": true,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI Music",
+      "Songs",
+      "Audio",
+      "Generation"
+    ],
+    "bestFor": [
+      "AI Music",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "udio",
+      "stable-audio",
+      "aiva"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai music.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Subscription",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "game-dev-supabase",
@@ -75056,6 +97188,130 @@ const generatedResources = [
     "lastReviewed": "2026-07-08"
   },
   {
+    "id": "svg-io",
+    "title": "SVG.io",
+    "company": "SVG.io",
+    "website": "https://svg.io/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI-assisted SVG generation and vector graphic tools.",
+    "longDescription": "SVG.io is a ai design resource in The Creative Vault. AI-assisted SVG generation and vector graphic tools. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Design"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Design",
+      "Branding",
+      "Marketing",
+      "AI"
+    ],
+    "bestFor": [
+      "AI Design",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "canva-ai",
+      "recraft",
+      "adobe-firefly",
+      "freepik-ai"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai design.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
+    "id": "svgator",
+    "title": "SVGator",
+    "website": "https://www.svgator.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "SVG animation and vector motion tool for web graphics.",
+    "longDescription": "SVGator is a vector design resource in The Creative Vault. SVG animation and vector motion tool for web graphics. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Vector Design"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Vector",
+      "Logo",
+      "Design",
+      "SVG"
+    ],
+    "bestFor": [
+      "Vector Design",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-illustrator",
+      "affinity-designer",
+      "inkscape",
+      "figma"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for vector design.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "essential-svgomg",
     "title": "SVGOMG",
     "shortName": "SVGOMG",
@@ -75236,6 +97492,69 @@ const generatedResources = [
     "primaryCategory": "Animation"
   },
   {
+    "id": "synthesia",
+    "title": "Synthesia",
+    "company": "Synthesia",
+    "website": "https://www.synthesia.io/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI avatar video platform for presentations, training, and explainer videos.",
+    "longDescription": "Synthesia is a ai video resource in The Creative Vault. AI avatar video platform for presentations, training, and explainer videos. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Video"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI Video",
+      "Video Generation",
+      "Motion",
+      "Filmmaking"
+    ],
+    "bestFor": [
+      "AI Video",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit",
+      "ai-video-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "runway",
+      "kling-ai",
+      "pika",
+      "luma-dream-machine"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai video.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "game-dev-synty-studios",
     "title": "Synty Studios",
     "shortName": "Synty Studios",
@@ -75328,6 +97647,69 @@ const generatedResources = [
     "editorPick": false,
     "verified": true,
     "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "tabnine",
+    "title": "Tabnine",
+    "company": "Tabnine",
+    "website": "https://www.tabnine.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI code completion and developer productivity tool.",
+    "longDescription": "Tabnine is a ai coding resource in The Creative Vault. AI code completion and developer productivity tool. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Coding"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI Coding",
+      "Developer",
+      "App Builder",
+      "Vibe Coding"
+    ],
+    "bestFor": [
+      "AI Coding",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit",
+      "ai-coding-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "cursor",
+      "windsurf",
+      "github-copilot",
+      "replit"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai coding.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "marketplace-tailwind-ui",
@@ -75726,6 +98108,70 @@ const generatedResources = [
     "lastReviewed": "2026-07-08"
   },
   {
+    "id": "tayasui-sketches",
+    "title": "Tayasui Sketches",
+    "website": "https://tayasui.com/sketches/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Simple, elegant drawing app with natural tools for sketching and painting.",
+    "longDescription": "Tayasui Sketches is a drawing & painting resource in The Creative Vault. Simple, elegant drawing app with natural tools for sketching and painting. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Drawing & Painting"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "iPad",
+      "iPhone",
+      "Android"
+    ],
+    "tags": [
+      "Drawing",
+      "Painting",
+      "Illustration",
+      "Digital Art"
+    ],
+    "bestFor": [
+      "Drawing & Painting",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "clip-studio-paint",
+      "krita",
+      "procreate"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for drawing & painting.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "grant-td-ready-commitment-arts",
     "title": "TD Ready Commitment Arts",
     "shortName": "TD Ready Commitment Arts",
@@ -76038,6 +98484,69 @@ const generatedResources = [
       "marketplaces"
     ],
     "primaryCategory": "Marketplaces"
+  },
+  {
+    "id": "tensor-art",
+    "title": "Tensor.Art",
+    "company": "Tensor.Art",
+    "website": "https://tensor.art/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI image generation community and model platform for artists.",
+    "longDescription": "Tensor.Art is a ai image resource in The Creative Vault. AI image generation community and model platform for artists. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Image"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI",
+      "Image Generation",
+      "Concept Art",
+      "Visuals"
+    ],
+    "bestFor": [
+      "AI Image",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit",
+      "ai-image-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "midjourney",
+      "leonardo-ai",
+      "ideogram",
+      "adobe-firefly"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai image.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "marketplace-tensor-art-models",
@@ -76403,6 +98912,70 @@ const generatedResources = [
     "primaryCategory": "Freelancing"
   },
   {
+    "id": "texture-ninja",
+    "title": "Texture Ninja",
+    "website": "https://texture.ninja/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Free high-resolution texture photography library.",
+    "longDescription": "Texture Ninja is a brushes & textures resource in The Creative Vault. Free high-resolution texture photography library. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Brushes & Textures"
+    ],
+    "price": "Free",
+    "pricingDetails": "Free to use. Check individual licensing terms before commercial work.",
+    "rating": 4.6,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Brushes",
+      "Textures",
+      "Assets",
+      "Design Resources"
+    ],
+    "bestFor": [
+      "Brushes & Textures",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "best-free-creative-tools",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "clip-studio-paint",
+      "krita",
+      "procreate"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for brushes & textures.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Free",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "photography-texture-ninja",
     "title": "Texture Ninja",
     "shortName": "Texture Ninja",
@@ -76443,6 +99016,69 @@ const generatedResources = [
     "editorPick": false,
     "verified": true,
     "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "texturecan",
+    "title": "TextureCan",
+    "website": "https://www.texturecan.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Free PBR texture library for 3D materials and surfaces.",
+    "longDescription": "TextureCan is a brushes & textures resource in The Creative Vault. Free PBR texture library for 3D materials and surfaces. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Brushes & Textures"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Brushes",
+      "Textures",
+      "Assets",
+      "Design Resources"
+    ],
+    "bestFor": [
+      "Brushes & Textures",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "clip-studio-paint",
+      "krita",
+      "procreate"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for brushes & textures.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "game-dev-texturepacker",
@@ -76490,6 +99126,69 @@ const generatedResources = [
       "game-dev"
     ],
     "primaryCategory": "Game Dev"
+  },
+  {
+    "id": "textures-com",
+    "title": "Textures.com",
+    "website": "https://www.textures.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Texture library for 3D, games, illustration, matte painting, and design.",
+    "longDescription": "Textures.com is a brushes & textures resource in The Creative Vault. Texture library for 3D, games, illustration, matte painting, and design. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Brushes & Textures"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan or free assets available with paid upgrades or premium options.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Brushes",
+      "Textures",
+      "Assets",
+      "Design Resources"
+    ],
+    "bestFor": [
+      "Brushes & Textures",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "clip-studio-paint",
+      "krita",
+      "procreate"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for brushes & textures.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "photography-textures-com",
@@ -79094,6 +101793,67 @@ const generatedResources = [
     "lastReviewed": "2026-07-08"
   },
   {
+    "id": "tome",
+    "title": "Tome",
+    "company": "Tome",
+    "website": "https://tome.app/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI storytelling and presentation creation platform.",
+    "longDescription": "Tome is a ai presentation resource in The Creative Vault. AI storytelling and presentation creation platform. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Presentation"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Presentations",
+      "Slides",
+      "Pitch Decks",
+      "AI"
+    ],
+    "bestFor": [
+      "AI Presentation",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "gamma",
+      "beautiful-ai",
+      "canva-ai"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai presentation.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "learning-toniko-pantoja",
     "title": "Toniko Pantoja",
     "shortName": "Toniko Pantoja",
@@ -79354,6 +102114,71 @@ const generatedResources = [
     "lastReviewed": "2026-07-08"
   },
   {
+    "id": "topaz-gigapixel-ai",
+    "title": "Topaz Gigapixel AI",
+    "company": "Topaz Labs",
+    "website": "https://www.topazlabs.com/gigapixel",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI image upscaler for enlarging and enhancing photos and artwork.",
+    "longDescription": "Topaz Gigapixel AI is a ai image resource in The Creative Vault. AI image upscaler for enlarging and enhancing photos and artwork. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Image"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product or commercial service.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "tags": [
+      "AI",
+      "Image Generation",
+      "Concept Art",
+      "Visuals"
+    ],
+    "bestFor": [
+      "AI Image",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit",
+      "ai-image-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "midjourney",
+      "leonardo-ai",
+      "ideogram",
+      "adobe-firefly"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai image.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "photography-topaz-photo-ai",
     "title": "Topaz Photo AI",
     "shortName": "Topaz Photo AI",
@@ -79396,6 +102221,71 @@ const generatedResources = [
     "editorPick": false,
     "verified": true,
     "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "topaz-video-ai",
+    "title": "Topaz Video AI",
+    "company": "Topaz Labs",
+    "website": "https://www.topazlabs.com/topaz-video-ai",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI video enhancement, upscaling, stabilization, and frame interpolation software.",
+    "longDescription": "Topaz Video AI is a ai video resource in The Creative Vault. AI video enhancement, upscaling, stabilization, and frame interpolation software. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Video"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product or commercial service.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "tags": [
+      "AI Video",
+      "Video Generation",
+      "Motion",
+      "Filmmaking"
+    ],
+    "bestFor": [
+      "AI Video",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit",
+      "ai-video-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "runway",
+      "kling-ai",
+      "pika",
+      "luma-dream-machine"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai video.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "video-topaz-video-ai",
@@ -79904,6 +102794,104 @@ const generatedResources = [
       "learning"
     ],
     "primaryCategory": "Learning"
+  },
+  {
+    "id": "trello",
+    "title": "Trello",
+    "shortName": "Trello",
+    "company": "Atlassian",
+    "companyWebsite": "",
+    "website": "https://trello.com/",
+    "logo": "",
+    "favicon": "",
+    "heroImage": "",
+    "screenshots": [],
+    "category": "Business",
+    "categoryId": "business",
+    "subcategories": [
+      "Project Management"
+    ],
+    "type": "Software",
+    "industries": [],
+    "useCases": [],
+    "tags": [
+      "Projects",
+      "Kanban"
+    ],
+    "collections": [],
+    "shortDescription": "Kanban-style project management tool for teams and creators.",
+    "longDescription": "Trello is part of the Atlassian ecosystem in The Creative Vault. Kanban-style project management tool for teams and creators.",
+    "whyUseIt": "",
+    "bestFor": [
+      "Project Management",
+      "Creative workflows"
+    ],
+    "pros": [],
+    "cons": [],
+    "notes": "Added as part of the V7 ecosystem architecture.",
+    "platforms": [
+      "Browser",
+      "iPhone",
+      "Android"
+    ],
+    "operatingSystems": [
+      "Browser",
+      "iPhone",
+      "Android"
+    ],
+    "mobileSupport": true,
+    "browserSupport": true,
+    "offline": false,
+    "cloudSync": false,
+    "fileFormats": [],
+    "integrations": [],
+    "api": false,
+    "plugins": false,
+    "extensions": false,
+    "ai": false,
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "pricingDetails": "Check official website for current pricing and licensing.",
+    "freeTrial": true,
+    "studentDiscount": false,
+    "commercialUse": null,
+    "license": "Licensing varies. Check the official website before commercial use.",
+    "licenseType": "",
+    "rating": 4.5,
+    "popularity": 75,
+    "beginnerFriendly": false,
+    "professional": true,
+    "learningCurve": "Medium",
+    "industryStandard": false,
+    "openSource": false,
+    "verified": true,
+    "lastReviewed": "2026-07-07",
+    "alternatives": [],
+    "competitors": [],
+    "related": [
+      "asana",
+      "clickup"
+    ],
+    "tutorials": [],
+    "youtubeChannels": [],
+    "documentation": "",
+    "community": "",
+    "discord": "",
+    "reddit": "",
+    "github": "",
+    "twitter": "",
+    "instagram": "",
+    "featured": false,
+    "editorPick": false,
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "Business"
+    ],
+    "categoryIds": [
+      "business"
+    ],
+    "primaryCategory": "Business"
   },
   {
     "id": "freelancing-trello",
@@ -80449,6 +103437,69 @@ const generatedResources = [
     "primaryCategory": "Public Domain"
   },
   {
+    "id": "true-grit-texture-supply",
+    "title": "True Grit Texture Supply",
+    "website": "https://www.truegrittexturesupply.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "High-quality brushes, textures, and illustration tools for digital artists.",
+    "longDescription": "True Grit Texture Supply is a brushes & textures resource in The Creative Vault. High-quality brushes, textures, and illustration tools for digital artists. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Brushes & Textures"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": true,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Brushes",
+      "Textures",
+      "Assets",
+      "Design Resources"
+    ],
+    "bestFor": [
+      "Brushes & Textures",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "clip-studio-paint",
+      "krita",
+      "procreate"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for brushes & textures.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "photography-ttartisan",
     "title": "TTArtisan",
     "shortName": "TTArtisan",
@@ -80577,6 +103628,69 @@ const generatedResources = [
       "marketplaces"
     ],
     "primaryCategory": "Marketplaces"
+  },
+  {
+    "id": "tvpaint-animation",
+    "title": "TVPaint Animation",
+    "website": "https://www.tvpaint.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Professional 2D animation and digital drawing software for frame-by-frame workflows.",
+    "longDescription": "TVPaint Animation is a drawing & painting resource in The Creative Vault. Professional 2D animation and digital drawing software for frame-by-frame workflows. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Drawing & Painting"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "tags": [
+      "Drawing",
+      "Painting",
+      "Illustration",
+      "Digital Art"
+    ],
+    "bestFor": [
+      "Drawing & Painting",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "clip-studio-paint",
+      "krita",
+      "procreate"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for drawing & painting.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "essential-twine",
@@ -80767,6 +103881,105 @@ const generatedResources = [
     "primaryCategory": "Game Dev"
   },
   {
+    "id": "twinmotion",
+    "title": "Twinmotion",
+    "shortName": "Twinmotion",
+    "company": "Epic Games",
+    "companyWebsite": "",
+    "website": "https://www.twinmotion.com/",
+    "logo": "",
+    "favicon": "",
+    "heroImage": "",
+    "screenshots": [],
+    "category": "3D / CAD",
+    "categoryId": "3d-cad",
+    "subcategories": [
+      "Visualization",
+      "Rendering"
+    ],
+    "type": "Software",
+    "industries": [],
+    "useCases": [],
+    "tags": [
+      "Visualization",
+      "Rendering",
+      "Architecture"
+    ],
+    "collections": [],
+    "shortDescription": "Real-time visualization software for architecture, design, and environments.",
+    "longDescription": "Twinmotion is part of the Epic Games ecosystem in The Creative Vault. Real-time visualization software for architecture, design, and environments.",
+    "whyUseIt": "",
+    "bestFor": [
+      "Visualization",
+      "Rendering",
+      "Creative workflows"
+    ],
+    "pros": [],
+    "cons": [],
+    "notes": "Added as part of the V7 ecosystem architecture.",
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "operatingSystems": [
+      "Windows",
+      "Mac"
+    ],
+    "mobileSupport": false,
+    "browserSupport": false,
+    "offline": true,
+    "cloudSync": false,
+    "fileFormats": [],
+    "integrations": [],
+    "api": false,
+    "plugins": false,
+    "extensions": false,
+    "ai": false,
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "pricingDetails": "Check official website for current pricing and licensing.",
+    "freeTrial": true,
+    "studentDiscount": false,
+    "commercialUse": null,
+    "license": "Licensing varies. Check the official website before commercial use.",
+    "licenseType": "",
+    "rating": 4.5,
+    "popularity": 75,
+    "beginnerFriendly": false,
+    "professional": true,
+    "learningCurve": "Medium",
+    "industryStandard": false,
+    "openSource": false,
+    "verified": true,
+    "lastReviewed": "2026-07-07",
+    "alternatives": [],
+    "competitors": [],
+    "related": [
+      "lumion",
+      "d5-render"
+    ],
+    "tutorials": [],
+    "youtubeChannels": [],
+    "documentation": "",
+    "community": "",
+    "discord": "",
+    "reddit": "",
+    "github": "",
+    "twitter": "",
+    "instagram": "",
+    "featured": false,
+    "editorPick": true,
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "3D / CAD"
+    ],
+    "categoryIds": [
+      "3d-cad"
+    ],
+    "primaryCategory": "3D / CAD"
+  },
+  {
     "id": "digital-art-twistedbrush-pro-studio",
     "title": "TwistedBrush Pro Studio",
     "shortName": "TwistedBrush Pro Studio",
@@ -80808,6 +104021,69 @@ const generatedResources = [
       "digital-art"
     ],
     "primaryCategory": "Digital Art"
+  },
+  {
+    "id": "type-network",
+    "title": "Type Network",
+    "website": "https://typenetwork.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Professional font marketplace and type foundry network.",
+    "longDescription": "Type Network is a fonts resource in The Creative Vault. Professional font marketplace and type foundry network. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Fonts"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Fonts",
+      "Typography",
+      "Type",
+      "Design Resources"
+    ],
+    "bestFor": [
+      "Fonts",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-illustrator",
+      "affinity-designer",
+      "canva",
+      "adobe-photoshop"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for fonts.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "marketplace-type-network",
@@ -81162,6 +104438,67 @@ const generatedResources = [
     "primaryCategory": "Learning"
   },
   {
+    "id": "udio",
+    "title": "Udio",
+    "company": "Udio",
+    "website": "https://www.udio.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI music generation platform for songs, vocals, instrumentals, and musical ideas.",
+    "longDescription": "Udio is a ai music resource in The Creative Vault. AI music generation platform for songs, vocals, instrumentals, and musical ideas. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Music"
+    ],
+    "price": "Subscription",
+    "pricingDetails": "Subscription-based service or paid plan model.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI Music",
+      "Songs",
+      "Audio",
+      "Generation"
+    ],
+    "bestFor": [
+      "AI Music",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "suno",
+      "stable-audio",
+      "aiva"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai music.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Subscription",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "marketplace-ugallery",
     "title": "UGallery",
     "shortName": "UGallery",
@@ -81203,6 +104540,69 @@ const generatedResources = [
       "marketplaces"
     ],
     "primaryCategory": "Marketplaces"
+  },
+  {
+    "id": "ui8",
+    "title": "UI8",
+    "website": "https://ui8.net/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Premium UI kits, mockups, icons, and design systems.",
+    "longDescription": "UI8 is a mockups resource in The Creative Vault. Premium UI kits, mockups, icons, and design systems. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Mockups"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Mockups",
+      "Presentation",
+      "Branding",
+      "Design Assets"
+    ],
+    "bestFor": [
+      "Mockups",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "affinity-photo",
+      "canva",
+      "creative-market"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for mockups.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "marketplace-ui8",
@@ -81468,6 +104868,69 @@ const generatedResources = [
       "writing"
     ],
     "primaryCategory": "Writing"
+  },
+  {
+    "id": "unblast",
+    "title": "Unblast",
+    "website": "https://unblast.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Free and premium mockups, fonts, icons, and design assets.",
+    "longDescription": "Unblast is a mockups resource in The Creative Vault. Free and premium mockups, fonts, icons, and design assets. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Mockups"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan or free assets available with paid upgrades or premium options.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Mockups",
+      "Presentation",
+      "Branding",
+      "Design Assets"
+    ],
+    "bestFor": [
+      "Mockups",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "affinity-photo",
+      "canva",
+      "creative-market"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for mockups.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "grant-unesco-international-fund-for-cultural-diversity",
@@ -82434,6 +105897,69 @@ const generatedResources = [
     "primaryCategory": "Game Dev"
   },
   {
+    "id": "unsplash",
+    "title": "Unsplash",
+    "website": "https://unsplash.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Free high-resolution photography library for creative projects.",
+    "longDescription": "Unsplash is a stock images resource in The Creative Vault. Free high-resolution photography library for creative projects. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Stock Images"
+    ],
+    "price": "Free",
+    "pricingDetails": "Free to use. Check individual licensing terms before commercial work.",
+    "rating": 4.8,
+    "popularity": 92,
+    "skillLevel": "Beginner to Professional",
+    "featured": true,
+    "editorPick": true,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Stock",
+      "Photography",
+      "Images",
+      "Creative Assets"
+    ],
+    "bestFor": [
+      "Stock Images",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "best-free-creative-tools",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "canva",
+      "freepik"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for stock images.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Free",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "marketplace-unsplash",
     "title": "Unsplash",
     "shortName": "Unsplash",
@@ -82519,6 +106045,68 @@ const generatedResources = [
     "editorPick": true,
     "verified": true,
     "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "unsplash-reference-collections",
+    "title": "Unsplash Reference Collections",
+    "website": "https://unsplash.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Free photography library useful for visual references and moodboards.",
+    "longDescription": "Unsplash Reference Collections is a reference resource in The Creative Vault. Free photography library useful for visual references and moodboards. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Reference"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Reference",
+      "Pose",
+      "Anatomy",
+      "Drawing Practice"
+    ],
+    "bestFor": [
+      "Reference",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "line-of-action",
+      "quickposes",
+      "posemy-art",
+      "proko"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for reference.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "marketplace-untitled-ui",
@@ -82613,6 +106201,72 @@ const generatedResources = [
     "lastReviewed": "2026-07-08"
   },
   {
+    "id": "upscayl",
+    "title": "Upscayl",
+    "company": "Upscayl",
+    "website": "https://www.upscayl.org/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Free open-source AI image upscaler for desktop workflows.",
+    "longDescription": "Upscayl is a ai image resource in The Creative Vault. Free open-source AI image upscaler for desktop workflows. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Image"
+    ],
+    "price": "Free",
+    "pricingDetails": "Free to use. Check usage limits and licensing before commercial work.",
+    "rating": 4.5,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "tags": [
+      "AI",
+      "Image Generation",
+      "Concept Art",
+      "Visuals"
+    ],
+    "bestFor": [
+      "AI Image",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit",
+      "ai-image-kit",
+      "best-free-creative-tools"
+    ],
+    "alternatives": [],
+    "related": [
+      "midjourney",
+      "leonardo-ai",
+      "ideogram",
+      "adobe-firefly"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai image.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Free",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "freelancing-upwork",
     "title": "Upwork",
     "shortName": "Upwork",
@@ -82654,6 +106308,69 @@ const generatedResources = [
       "freelancing"
     ],
     "primaryCategory": "Freelancing"
+  },
+  {
+    "id": "urbanfonts",
+    "title": "UrbanFonts",
+    "website": "https://www.urbanfonts.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Free and premium font directory.",
+    "longDescription": "UrbanFonts is a fonts resource in The Creative Vault. Free and premium font directory. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Fonts"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan or free assets available with paid upgrades or premium options.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Fonts",
+      "Typography",
+      "Type",
+      "Design Resources"
+    ],
+    "bestFor": [
+      "Fonts",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-illustrator",
+      "affinity-designer",
+      "canva",
+      "adobe-photoshop"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for fonts.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "game-dev-extra-urho3d",
@@ -82841,6 +106558,69 @@ const generatedResources = [
     "primaryCategory": "Learning"
   },
   {
+    "id": "v0",
+    "title": "v0",
+    "company": "Vercel",
+    "website": "https://v0.dev/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI interface generator for React, Tailwind, and frontend prototypes.",
+    "longDescription": "v0 is a ai coding resource in The Creative Vault. AI interface generator for React, Tailwind, and frontend prototypes. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Coding"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI Coding",
+      "Developer",
+      "App Builder",
+      "Vibe Coding"
+    ],
+    "bestFor": [
+      "AI Coding",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit",
+      "ai-coding-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "cursor",
+      "windsurf",
+      "github-copilot",
+      "replit"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai coding.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "essential-vcv-rack-free",
     "title": "VCV Rack Free",
     "shortName": "VCV Rack Free",
@@ -82961,7 +106741,7 @@ const generatedResources = [
     "verified": true,
     "featured": false,
     "editorPick": false,
-    "lastReviewed": "2026-07-09"
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "vector-magic",
@@ -82991,7 +106771,7 @@ const generatedResources = [
     "verified": true,
     "featured": false,
     "editorPick": false,
-    "lastReviewed": "2026-07-09"
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "essential-vector-magic-online",
@@ -83041,6 +106821,68 @@ const generatedResources = [
     "editorPick": false,
     "verified": true,
     "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "vectorizer-ai",
+    "title": "Vectorizer AI",
+    "company": "Vectorizer AI",
+    "website": "https://vectorizer.ai/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI tool for converting raster images into vector graphics.",
+    "longDescription": "Vectorizer AI is a ai design resource in The Creative Vault. AI tool for converting raster images into vector graphics. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Design"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Design",
+      "Branding",
+      "Marketing",
+      "AI"
+    ],
+    "bestFor": [
+      "AI Design",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "canva-ai",
+      "recraft",
+      "adobe-firefly",
+      "freepik-ai"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai design.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "essential-vectorizer-ai-preview",
@@ -83134,6 +106976,132 @@ const generatedResources = [
       "digital-art"
     ],
     "primaryCategory": "Digital Art"
+  },
+  {
+    "id": "vectorstyler",
+    "title": "VectorStyler",
+    "website": "https://www.vectorstyler.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Advanced vector graphics software for illustration and professional design.",
+    "longDescription": "VectorStyler is a vector design resource in The Creative Vault. Advanced vector graphics software for illustration and professional design. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Vector Design"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "tags": [
+      "Vector",
+      "Logo",
+      "Design",
+      "SVG"
+    ],
+    "bestFor": [
+      "Vector Design",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-illustrator",
+      "affinity-designer",
+      "inkscape",
+      "figma"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for vector design.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
+    "id": "vectr",
+    "title": "Vectr",
+    "website": "https://vectr.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Simple free vector graphics editor for basic design and SVG work.",
+    "longDescription": "Vectr is a vector design resource in The Creative Vault. Simple free vector graphics editor for basic design and SVG work. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Vector Design"
+    ],
+    "price": "Free",
+    "pricingDetails": "Free to use. Check individual licensing terms before commercial work.",
+    "rating": 4.6,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Vector",
+      "Logo",
+      "Design",
+      "SVG"
+    ],
+    "bestFor": [
+      "Vector Design",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "best-free-creative-tools"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-illustrator",
+      "affinity-designer",
+      "inkscape",
+      "figma"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for vector design.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Free",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "video-veed",
@@ -83267,6 +107235,70 @@ const generatedResources = [
     "editorPick": false,
     "verified": true,
     "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "velvetyne",
+    "title": "Velvetyne",
+    "website": "https://velvetyne.fr/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Open-source type foundry with experimental and creative fonts.",
+    "longDescription": "Velvetyne is a fonts resource in The Creative Vault. Open-source type foundry with experimental and creative fonts. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Fonts"
+    ],
+    "price": "Free",
+    "pricingDetails": "Free to use. Check individual licensing terms before commercial work.",
+    "rating": 4.6,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Fonts",
+      "Typography",
+      "Type",
+      "Design Resources"
+    ],
+    "bestFor": [
+      "Fonts",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "best-free-creative-tools",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-illustrator",
+      "affinity-designer",
+      "canva",
+      "adobe-photoshop"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for fonts.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Free",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "vercel",
@@ -83562,7 +107594,7 @@ const generatedResources = [
     "verified": true,
     "featured": false,
     "editorPick": false,
-    "lastReviewed": "2026-07-09"
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "marketplace-videohive",
@@ -83606,6 +107638,69 @@ const generatedResources = [
       "marketplaces"
     ],
     "primaryCategory": "Marketplaces"
+  },
+  {
+    "id": "viggle",
+    "title": "Viggle",
+    "company": "Viggle",
+    "website": "https://viggle.ai/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI motion and character animation tool for remixing video movement.",
+    "longDescription": "Viggle is a ai video resource in The Creative Vault. AI motion and character animation tool for remixing video movement. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Video"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI Video",
+      "Video Generation",
+      "Motion",
+      "Filmmaking"
+    ],
+    "bestFor": [
+      "AI Video",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit",
+      "ai-video-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "runway",
+      "kling-ai",
+      "pika",
+      "luma-dream-machine"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai video.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "photography-viltrox",
@@ -83749,6 +107844,106 @@ const generatedResources = [
     "lastReviewed": "2026-07-08"
   },
   {
+    "id": "visual-studio-code",
+    "title": "Visual Studio Code",
+    "shortName": "Visual Studio Code",
+    "company": "Microsoft",
+    "companyWebsite": "",
+    "website": "https://code.visualstudio.com/",
+    "logo": "",
+    "favicon": "",
+    "heroImage": "",
+    "screenshots": [],
+    "category": "Web & Dev",
+    "categoryId": "web-dev",
+    "subcategories": [
+      "Code Editor"
+    ],
+    "type": "Software",
+    "industries": [],
+    "useCases": [],
+    "tags": [
+      "Code",
+      "Editor"
+    ],
+    "collections": [
+      "best-free-creative-tools"
+    ],
+    "shortDescription": "Free code editor with extensions, debugging, Git, and development tools.",
+    "longDescription": "Visual Studio Code is part of the Microsoft ecosystem in The Creative Vault. Free code editor with extensions, debugging, Git, and development tools.",
+    "whyUseIt": "",
+    "bestFor": [
+      "Code Editor",
+      "Creative workflows"
+    ],
+    "pros": [],
+    "cons": [],
+    "notes": "Added as part of the V7 ecosystem architecture.",
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "operatingSystems": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "mobileSupport": false,
+    "browserSupport": false,
+    "offline": true,
+    "cloudSync": false,
+    "fileFormats": [],
+    "integrations": [],
+    "api": false,
+    "plugins": false,
+    "extensions": false,
+    "ai": false,
+    "price": "Free",
+    "pricingModel": "Free",
+    "pricingDetails": "Check official website for current pricing and licensing.",
+    "freeTrial": false,
+    "studentDiscount": false,
+    "commercialUse": null,
+    "license": "Licensing varies. Check the official website before commercial use.",
+    "licenseType": "",
+    "rating": 4.5,
+    "popularity": 75,
+    "beginnerFriendly": false,
+    "professional": true,
+    "learningCurve": "Medium",
+    "industryStandard": false,
+    "openSource": true,
+    "verified": true,
+    "lastReviewed": "2026-07-07",
+    "alternatives": [],
+    "competitors": [],
+    "related": [
+      "cursor",
+      "windsurf"
+    ],
+    "tutorials": [],
+    "youtubeChannels": [],
+    "documentation": "",
+    "community": "",
+    "discord": "",
+    "reddit": "",
+    "github": "",
+    "twitter": "",
+    "instagram": "",
+    "featured": true,
+    "editorPick": true,
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "Web & Dev"
+    ],
+    "categoryIds": [
+      "web-dev"
+    ],
+    "primaryCategory": "Web & Dev"
+  },
+  {
     "id": "essential-vital-basic",
     "title": "Vital Basic",
     "shortName": "Vital Basic",
@@ -83882,6 +108077,68 @@ const generatedResources = [
       "freelancing"
     ],
     "primaryCategory": "Freelancing"
+  },
+  {
+    "id": "voicemod",
+    "title": "Voicemod",
+    "company": "Voicemod",
+    "website": "https://www.voicemod.net/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Voice changer and AI voice tools for streaming, gaming, and content creation.",
+    "longDescription": "Voicemod is a ai voice resource in The Creative Vault. Voice changer and AI voice tools for streaming, gaming, and content creation. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Voice"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI Voice",
+      "Voiceover",
+      "Narration",
+      "Audio"
+    ],
+    "bestFor": [
+      "AI Voice",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "elevenlabs",
+      "playht",
+      "murf",
+      "fish-audio"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai voice.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "freelancing-voices",
@@ -84566,6 +108823,72 @@ const generatedResources = [
     "editorPick": false,
     "verified": true,
     "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "webflow",
+    "title": "Webflow",
+    "website": "https://webflow.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Visual web design platform for custom responsive websites.",
+    "longDescription": "Webflow is a visual website design and development platform that allows designers to build responsive websites with strong layout control without traditional hand-coding.",
+    "category": "Web & Dev",
+    "categoryId": "web-dev",
+    "subcategories": [
+      "Website Builder",
+      "No-Code",
+      "Portfolio"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free starter options with paid site and workspace plans.",
+    "rating": 4.6,
+    "popularity": 86,
+    "skillLevel": "Intermediate to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Website",
+      "No Code",
+      "Design",
+      "Portfolio"
+    ],
+    "bestFor": [
+      "Custom websites",
+      "Portfolio sites",
+      "Landing pages",
+      "Designer-led builds"
+    ],
+    "collections": [],
+    "alternatives": [
+      "Squarespace",
+      "Framer",
+      "Wix",
+      "WordPress"
+    ],
+    "related": [
+      "squarespace",
+      "canva"
+    ],
+    "license": "Commercial freemium service.",
+    "notes": "Powerful but has a learning curve.",
+    "dateAdded": "2026-07-01",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Web & Dev"
+    ],
+    "categoryIds": [
+      "web-dev"
+    ],
+    "primaryCategory": "Web & Dev",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "marketplace-webflow-apps",
@@ -85493,6 +109816,70 @@ const generatedResources = [
     "primaryCategory": "Grants"
   },
   {
+    "id": "windsurf",
+    "title": "Windsurf",
+    "company": "Codeium",
+    "website": "https://windsurf.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI coding environment for building software with agentic development workflows.",
+    "longDescription": "Windsurf is a ai coding resource in The Creative Vault. AI coding environment for building software with agentic development workflows. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Coding"
+    ],
+    "price": "Subscription",
+    "pricingDetails": "Subscription-based service or paid plan model.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": true,
+    "openSource": false,
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "tags": [
+      "AI Coding",
+      "Developer",
+      "App Builder",
+      "Vibe Coding"
+    ],
+    "bestFor": [
+      "AI Coding",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit",
+      "ai-coding-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "cursor",
+      "github-copilot",
+      "replit"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai coding.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Subscription",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "photography-windy",
     "title": "Windy",
     "shortName": "Windy",
@@ -85759,6 +110146,100 @@ const generatedResources = [
     "primaryCategory": "Marketplaces"
   },
   {
+    "id": "wix-studio",
+    "title": "Wix Studio",
+    "shortName": "Wix Studio",
+    "company": "Wix",
+    "companyWebsite": "",
+    "website": "https://www.wix.com/studio",
+    "logo": "",
+    "favicon": "",
+    "heroImage": "",
+    "screenshots": [],
+    "category": "Web & Dev",
+    "categoryId": "web-dev",
+    "subcategories": [
+      "Website Builder"
+    ],
+    "type": "Software",
+    "industries": [],
+    "useCases": [],
+    "tags": [
+      "Website",
+      "No Code"
+    ],
+    "collections": [],
+    "shortDescription": "Advanced website builder for agencies, designers, and responsive sites.",
+    "longDescription": "Wix Studio is part of the Wix ecosystem in The Creative Vault. Advanced website builder for agencies, designers, and responsive sites.",
+    "whyUseIt": "",
+    "bestFor": [
+      "Website Builder",
+      "Creative workflows"
+    ],
+    "pros": [],
+    "cons": [],
+    "notes": "Added as part of the V7 ecosystem architecture.",
+    "platforms": [
+      "Browser"
+    ],
+    "operatingSystems": [
+      "Browser"
+    ],
+    "mobileSupport": false,
+    "browserSupport": true,
+    "offline": false,
+    "cloudSync": false,
+    "fileFormats": [],
+    "integrations": [],
+    "api": false,
+    "plugins": false,
+    "extensions": false,
+    "ai": false,
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "pricingDetails": "Check official website for current pricing and licensing.",
+    "freeTrial": true,
+    "studentDiscount": false,
+    "commercialUse": null,
+    "license": "Licensing varies. Check the official website before commercial use.",
+    "licenseType": "",
+    "rating": 4.5,
+    "popularity": 75,
+    "beginnerFriendly": false,
+    "professional": true,
+    "learningCurve": "Medium",
+    "industryStandard": false,
+    "openSource": false,
+    "verified": true,
+    "lastReviewed": "2026-07-07",
+    "alternatives": [],
+    "competitors": [],
+    "related": [
+      "webflow",
+      "framer"
+    ],
+    "tutorials": [],
+    "youtubeChannels": [],
+    "documentation": "",
+    "community": "",
+    "discord": "",
+    "reddit": "",
+    "github": "",
+    "twitter": "",
+    "instagram": "",
+    "featured": false,
+    "editorPick": false,
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "Web & Dev"
+    ],
+    "categoryIds": [
+      "web-dev"
+    ],
+    "primaryCategory": "Web & Dev"
+  },
+  {
     "id": "essential-wolframalpha",
     "title": "WolframAlpha",
     "shortName": "WolframAlpha",
@@ -85994,6 +110475,105 @@ const generatedResources = [
       "marketplaces"
     ],
     "primaryCategory": "Marketplaces"
+  },
+  {
+    "id": "wordpress",
+    "title": "WordPress",
+    "shortName": "WordPress",
+    "company": "WordPress Foundation",
+    "companyWebsite": "",
+    "website": "https://wordpress.org/",
+    "logo": "",
+    "favicon": "",
+    "heroImage": "",
+    "screenshots": [],
+    "category": "Web & Dev",
+    "categoryId": "web-dev",
+    "subcategories": [
+      "CMS",
+      "Website Builder"
+    ],
+    "type": "Software",
+    "industries": [],
+    "useCases": [],
+    "tags": [
+      "CMS",
+      "Website",
+      "Open Source"
+    ],
+    "collections": [
+      "best-free-creative-tools"
+    ],
+    "shortDescription": "Open-source content management system powering blogs, stores, and websites.",
+    "longDescription": "WordPress is part of the WordPress Foundation ecosystem in The Creative Vault. Open-source content management system powering blogs, stores, and websites.",
+    "whyUseIt": "",
+    "bestFor": [
+      "CMS",
+      "Website Builder",
+      "Creative workflows"
+    ],
+    "pros": [],
+    "cons": [],
+    "notes": "Added as part of the V7 ecosystem architecture.",
+    "platforms": [
+      "Browser"
+    ],
+    "operatingSystems": [
+      "Browser"
+    ],
+    "mobileSupport": false,
+    "browserSupport": true,
+    "offline": false,
+    "cloudSync": false,
+    "fileFormats": [],
+    "integrations": [],
+    "api": false,
+    "plugins": false,
+    "extensions": false,
+    "ai": false,
+    "price": "Free",
+    "pricingModel": "Free",
+    "pricingDetails": "Check official website for current pricing and licensing.",
+    "freeTrial": false,
+    "studentDiscount": false,
+    "commercialUse": null,
+    "license": "Licensing varies. Check the official website before commercial use.",
+    "licenseType": "",
+    "rating": 4.5,
+    "popularity": 75,
+    "beginnerFriendly": false,
+    "professional": true,
+    "learningCurve": "Medium",
+    "industryStandard": false,
+    "openSource": true,
+    "verified": true,
+    "lastReviewed": "2026-07-07",
+    "alternatives": [],
+    "competitors": [],
+    "related": [
+      "ghost",
+      "webflow"
+    ],
+    "tutorials": [],
+    "youtubeChannels": [],
+    "documentation": "",
+    "community": "",
+    "discord": "",
+    "reddit": "",
+    "github": "",
+    "twitter": "",
+    "instagram": "",
+    "featured": true,
+    "editorPick": true,
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "Web & Dev"
+    ],
+    "categoryIds": [
+      "web-dev"
+    ],
+    "primaryCategory": "Web & Dev"
   },
   {
     "id": "marketplace-wordpress-org-plugins",
@@ -86362,12 +110942,14 @@ const generatedResources = [
     "categories": [
       "Software",
       "Office Suite",
-      "Documents"
+      "Documents",
+      "Business"
     ],
     "categoryIds": [
       "software",
       "office-suite",
-      "documents"
+      "documents",
+      "business"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -86594,6 +111176,68 @@ const generatedResources = [
     "primaryCategory": "Grants"
   },
   {
+    "id": "writesonic",
+    "title": "Writesonic",
+    "company": "Writesonic",
+    "website": "https://writesonic.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI writing platform for articles, marketing, SEO, and content generation.",
+    "longDescription": "Writesonic is a ai writing resource in The Creative Vault. AI writing platform for articles, marketing, SEO, and content generation. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Writing"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Writing",
+      "Copywriting",
+      "Content",
+      "AI"
+    ],
+    "bestFor": [
+      "AI Writing",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "chatgpt",
+      "claude",
+      "grammarly",
+      "jasper"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai writing.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "game-dev-wwise",
     "title": "Wwise",
     "shortName": "Wwise",
@@ -86638,6 +111282,69 @@ const generatedResources = [
       "game-dev"
     ],
     "primaryCategory": "Game Dev"
+  },
+  {
+    "id": "xara-designer-pro",
+    "title": "Xara Designer Pro",
+    "website": "https://www.xara.com/designer-pro/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Design software for vector graphics, page layout, and web graphics.",
+    "longDescription": "Xara Designer Pro is a vector design resource in The Creative Vault. Design software for vector graphics, page layout, and web graphics. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Vector Design"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "tags": [
+      "Vector",
+      "Logo",
+      "Design",
+      "SVG"
+    ],
+    "bestFor": [
+      "Vector Design",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-illustrator",
+      "affinity-designer",
+      "inkscape",
+      "figma"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for vector design.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "game-dev-extra-xbox-accessibility-guidelines",
@@ -86955,6 +111662,131 @@ const generatedResources = [
     "primaryCategory": "Game Dev"
   },
   {
+    "id": "yellow-images",
+    "title": "Yellow Images",
+    "website": "https://yellowimages.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Premium object mockups, apparel mockups, and creative presentation assets.",
+    "longDescription": "Yellow Images is a mockups resource in The Creative Vault. Premium object mockups, apparel mockups, and creative presentation assets. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Mockups"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Mockups",
+      "Presentation",
+      "Branding",
+      "Design Assets"
+    ],
+    "bestFor": [
+      "Mockups",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-photoshop",
+      "affinity-photo",
+      "canva",
+      "creative-market"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for mockups.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
+    "id": "you-com",
+    "title": "You.com",
+    "company": "You.com",
+    "website": "https://you.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI search and assistant platform with research, writing, and productivity modes.",
+    "longDescription": "You.com is a ai research resource in The Creative Vault. AI search and assistant platform with research, writing, and productivity modes. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Research"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "AI Research",
+      "Search",
+      "Sources",
+      "Knowledge"
+    ],
+    "bestFor": [
+      "AI Research",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "perplexity",
+      "notebooklm",
+      "elicit",
+      "consensus"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai research.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "ai-tools-youlearn",
     "title": "YouLearn",
     "shortName": "YouLearn",
@@ -87091,6 +111923,69 @@ const generatedResources = [
     "editorPick": false,
     "verified": true,
     "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "youworkforthem",
+    "title": "YouWorkForThem",
+    "website": "https://www.youworkforthem.com/",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "Creative marketplace for fonts, stock art, photos, and design assets.",
+    "longDescription": "YouWorkForThem is a fonts resource in The Creative Vault. Creative marketplace for fonts, stock art, photos, and design assets. It is included for artists, designers, illustrators, and creative professionals who need dependable tools, assets, references, or inspiration.",
+    "category": "Digital Art",
+    "categoryId": "digital-art",
+    "subcategories": [
+      "Fonts"
+    ],
+    "price": "Paid",
+    "pricingDetails": "Paid product, marketplace, or commercial resource.",
+    "rating": 4.5,
+    "popularity": 75,
+    "skillLevel": "Beginner to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Fonts",
+      "Typography",
+      "Type",
+      "Design Resources"
+    ],
+    "bestFor": [
+      "Fonts",
+      "Creative projects",
+      "Professional workflows"
+    ],
+    "collections": [
+      "digital-art-starter-kit",
+      "asset-library"
+    ],
+    "alternatives": [],
+    "related": [
+      "adobe-illustrator",
+      "affinity-designer",
+      "canva",
+      "adobe-photoshop"
+    ],
+    "license": "Licensing varies by tool or asset. Check the official website before commercial use.",
+    "notes": "Curated as part of the Digital Art expansion pack for fonts.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "company": "",
+    "categories": [
+      "Digital Art"
+    ],
+    "categoryIds": [
+      "digital-art"
+    ],
+    "primaryCategory": "Digital Art",
+    "pricingModel": "Paid",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
   },
   {
     "id": "marketplace-youworkforthem",
@@ -87277,6 +112172,67 @@ const generatedResources = [
     "lastReviewed": "2026-07-08"
   },
   {
+    "id": "zapier-ai",
+    "title": "Zapier AI",
+    "company": "Zapier",
+    "website": "https://zapier.com/ai",
+    "logo": "",
+    "screenshot": "",
+    "shortDescription": "AI-powered automation tools for connecting apps and workflows.",
+    "longDescription": "Zapier AI is a ai automation resource in The Creative Vault. AI-powered automation tools for connecting apps and workflows. It is included for artists, designers, filmmakers, musicians, developers, and creative entrepreneurs exploring AI-powered workflows.",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "subcategories": [
+      "AI Automation"
+    ],
+    "price": "Freemium",
+    "pricingDetails": "Free plan available with paid upgrades or usage limits.",
+    "rating": 4.6,
+    "popularity": 80,
+    "skillLevel": "Intermediate to Professional",
+    "featured": false,
+    "editorPick": false,
+    "openSource": false,
+    "platforms": [
+      "Browser"
+    ],
+    "tags": [
+      "Automation",
+      "Agents",
+      "Workflows",
+      "APIs"
+    ],
+    "bestFor": [
+      "AI Automation",
+      "Creative workflows",
+      "Faster production"
+    ],
+    "collections": [
+      "ai-creator-kit"
+    ],
+    "alternatives": [],
+    "related": [
+      "n8n",
+      "make",
+      "flowise"
+    ],
+    "license": "AI tool terms vary. Review official usage rights, privacy policy, and commercial licensing before professional use.",
+    "notes": "Curated as part of the AI Tools expansion pack for ai automation.",
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "AI Tools"
+    ],
+    "categoryIds": [
+      "ai-tools"
+    ],
+    "primaryCategory": "AI Tools",
+    "pricingModel": "Freemium",
+    "type": "Resource",
+    "verified": true,
+    "lastReviewed": "2026-08-10"
+  },
+  {
     "id": "marketplace-zapier-app-directory",
     "title": "Zapier App Directory",
     "shortName": "Zapier App Directory",
@@ -87363,6 +112319,102 @@ const generatedResources = [
     "primaryCategory": "Marketplaces"
   },
   {
+    "id": "zbrush",
+    "title": "ZBrush",
+    "shortName": "ZBrush",
+    "company": "Maxon",
+    "companyWebsite": "",
+    "website": "https://www.maxon.net/en/zbrush",
+    "logo": "",
+    "favicon": "",
+    "heroImage": "",
+    "screenshots": [],
+    "category": "3D / CAD",
+    "categoryId": "3d-cad",
+    "subcategories": [
+      "Sculpting"
+    ],
+    "type": "Software",
+    "industries": [],
+    "useCases": [],
+    "tags": [
+      "Sculpting",
+      "Characters"
+    ],
+    "collections": [],
+    "shortDescription": "Industry-standard digital sculpting software for characters, creatures, and detailed 3D art.",
+    "longDescription": "ZBrush is part of the Maxon ecosystem in The Creative Vault. Industry-standard digital sculpting software for characters, creatures, and detailed 3D art.",
+    "whyUseIt": "",
+    "bestFor": [
+      "Sculpting",
+      "Creative workflows"
+    ],
+    "pros": [],
+    "cons": [],
+    "notes": "Added as part of the V7 ecosystem architecture.",
+    "platforms": [
+      "Windows",
+      "Mac"
+    ],
+    "operatingSystems": [
+      "Windows",
+      "Mac"
+    ],
+    "mobileSupport": false,
+    "browserSupport": false,
+    "offline": true,
+    "cloudSync": false,
+    "fileFormats": [],
+    "integrations": [],
+    "api": false,
+    "plugins": false,
+    "extensions": false,
+    "ai": false,
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "pricingDetails": "Check official website for current pricing and licensing.",
+    "freeTrial": true,
+    "studentDiscount": false,
+    "commercialUse": null,
+    "license": "Licensing varies. Check the official website before commercial use.",
+    "licenseType": "",
+    "rating": 4.5,
+    "popularity": 75,
+    "beginnerFriendly": false,
+    "professional": true,
+    "learningCurve": "Medium",
+    "industryStandard": true,
+    "openSource": false,
+    "verified": true,
+    "lastReviewed": "2026-07-07",
+    "alternatives": [],
+    "competitors": [],
+    "related": [
+      "blender",
+      "nomad-sculpt"
+    ],
+    "tutorials": [],
+    "youtubeChannels": [],
+    "documentation": "",
+    "community": "",
+    "discord": "",
+    "reddit": "",
+    "github": "",
+    "twitter": "",
+    "instagram": "",
+    "featured": true,
+    "editorPick": true,
+    "dateAdded": "2026-07-07",
+    "submittedBy": "Ellis Ricketts",
+    "categories": [
+      "3D / CAD"
+    ],
+    "categoryIds": [
+      "3d-cad"
+    ],
+    "primaryCategory": "3D / CAD"
+  },
+  {
     "id": "software-zbrush",
     "title": "ZBrush",
     "shortName": "ZBrush",
@@ -87373,12 +112425,14 @@ const generatedResources = [
     "categories": [
       "Software",
       "Digital Sculpting",
-      "Character Art"
+      "Character Art",
+      "3D / CAD"
     ],
     "categoryIds": [
       "software",
       "digital-sculpting",
-      "character-art"
+      "character-art",
+      "3d-cad"
     ],
     "primaryCategory": "Software",
     "subcategories": [

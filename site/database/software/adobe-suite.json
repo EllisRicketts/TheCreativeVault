@@ -11,13 +11,17 @@
       "Software",
       "Raster Graphics",
       "Photo Editing",
-      "Digital Painting"
+      "Digital Painting",
+      "Photography",
+      "Digital Art"
     ],
     "categoryIds": [
       "software",
       "raster-graphics",
       "photo-editing",
-      "digital-painting"
+      "digital-painting",
+      "photography",
+      "digital-art"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -84,13 +88,15 @@
       "Software",
       "Vector Graphics",
       "Illustration",
-      "Logo Design"
+      "Logo Design",
+      "Digital Art"
     ],
     "categoryIds": [
       "software",
       "vector-graphics",
       "illustration",
-      "logo-design"
+      "logo-design",
+      "digital-art"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -157,13 +163,15 @@
       "Software",
       "Page Layout",
       "Publishing",
-      "Print Design"
+      "Print Design",
+      "Digital Art"
     ],
     "categoryIds": [
       "software",
       "page-layout",
       "publishing",
-      "print-design"
+      "print-design",
+      "digital-art"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -226,12 +234,14 @@
     "categories": [
       "Software",
       "Video Editing",
-      "Post Production"
+      "Post Production",
+      "Video"
     ],
     "categoryIds": [
       "software",
       "video-editing",
-      "post-production"
+      "post-production",
+      "video"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -293,13 +303,15 @@
       "Software",
       "Motion Graphics",
       "VFX",
-      "Compositing"
+      "Compositing",
+      "Video"
     ],
     "categoryIds": [
       "software",
       "motion-graphics",
       "vfx",
-      "compositing"
+      "compositing",
+      "video"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -433,13 +445,15 @@
       "Software",
       "Photo Editing",
       "RAW Processing",
-      "Photo Management"
+      "Photo Management",
+      "Photography"
     ],
     "categoryIds": [
       "software",
       "photo-editing",
       "raw-processing",
-      "photo-management"
+      "photo-management",
+      "photography"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -501,12 +515,14 @@
     "categories": [
       "Software",
       "PDF Tools",
-      "Document Editing"
+      "Document Editing",
+      "Business"
     ],
     "categoryIds": [
       "software",
       "pdf-tools",
-      "document-editing"
+      "document-editing",
+      "business"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -566,12 +582,14 @@
     "categories": [
       "Software",
       "PDF Tools",
-      "Document Viewer"
+      "Document Viewer",
+      "Business"
     ],
     "categoryIds": [
       "software",
       "pdf-tools",
-      "document-viewer"
+      "document-viewer",
+      "business"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -699,12 +717,14 @@
     "categories": [
       "Software",
       "AI Image Generation",
-      "Generative AI"
+      "Generative AI",
+      "AI Tools"
     ],
     "categoryIds": [
       "software",
       "ai-image-generation",
-      "generative-ai"
+      "generative-ai",
+      "ai-tools"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -765,13 +785,15 @@
       "Software",
       "Digital Painting",
       "Drawing",
-      "Illustration"
+      "Illustration",
+      "Digital Art"
     ],
     "categoryIds": [
       "software",
       "digital-painting",
       "drawing",
-      "illustration"
+      "illustration",
+      "digital-art"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -832,12 +854,14 @@
     "categories": [
       "Software",
       "2D Animation",
-      "Interactive Animation"
+      "Interactive Animation",
+      "Animation"
     ],
     "categoryIds": [
       "software",
       "2d-animation",
-      "interactive-animation"
+      "interactive-animation",
+      "animation"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -897,13 +921,15 @@
       "Software",
       "Audio Editing",
       "Podcasting",
-      "Post Audio"
+      "Post Audio",
+      "Audio"
     ],
     "categoryIds": [
       "software",
       "audio-editing",
       "podcasting",
-      "post-audio"
+      "post-audio",
+      "audio"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -965,12 +991,14 @@
     "categories": [
       "Software",
       "Web Design",
-      "Code Editor"
+      "Code Editor",
+      "Web & Dev"
     ],
     "categoryIds": [
       "software",
       "web-design",
-      "code-editor"
+      "code-editor",
+      "web-and-dev"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -1030,12 +1058,14 @@
     "categories": [
       "Software",
       "Character Animation",
-      "Motion Capture"
+      "Motion Capture",
+      "Animation"
     ],
     "categoryIds": [
       "software",
       "character-animation",
-      "motion-capture"
+      "motion-capture",
+      "animation"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -1094,12 +1124,14 @@
     "categories": [
       "Software",
       "Video Encoding",
-      "Media Conversion"
+      "Media Conversion",
+      "Video"
     ],
     "categoryIds": [
       "software",
       "video-encoding",
-      "media-conversion"
+      "media-conversion",
+      "video"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -1158,12 +1190,14 @@
     "categories": [
       "Software",
       "Digital Asset Management",
-      "Photo Management"
+      "Photo Management",
+      "Photography"
     ],
     "categoryIds": [
       "software",
       "digital-asset-management",
-      "photo-management"
+      "photo-management",
+      "photography"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -1222,12 +1256,14 @@
     "categories": [
       "Software",
       "RAW Processing",
-      "Photo Editing"
+      "Photo Editing",
+      "Photography"
     ],
     "categoryIds": [
       "software",
       "raw-processing",
-      "photo-editing"
+      "photo-editing",
+      "photography"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -1286,12 +1322,14 @@
     "categories": [
       "Software",
       "Editorial Workflow",
-      "Copy Editing"
+      "Copy Editing",
+      "Business"
     ],
     "categoryIds": [
       "software",
       "editorial-workflow",
-      "copy-editing"
+      "copy-editing",
+      "business"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -1349,12 +1387,14 @@
     "categories": [
       "Software",
       "3D Texturing",
-      "Game Art"
+      "Game Art",
+      "3D / CAD"
     ],
     "categoryIds": [
       "software",
       "3d-texturing",
-      "game-art"
+      "game-art",
+      "3d-cad"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -1415,12 +1455,14 @@
     "categories": [
       "Software",
       "Procedural Materials",
-      "3D Texturing"
+      "3D Texturing",
+      "3D / CAD"
     ],
     "categoryIds": [
       "software",
       "procedural-materials",
-      "3d-texturing"
+      "3d-texturing",
+      "3d-cad"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -1480,12 +1522,14 @@
     "categories": [
       "Software",
       "Material Capture",
-      "3D Texturing"
+      "3D Texturing",
+      "3D / CAD"
     ],
     "categoryIds": [
       "software",
       "material-capture",
-      "3d-texturing"
+      "3d-texturing",
+      "3d-cad"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -1542,12 +1586,14 @@
     "categories": [
       "Software",
       "3D Staging",
-      "Product Visualization"
+      "Product Visualization",
+      "3D / CAD"
     ],
     "categoryIds": [
       "software",
       "3d-staging",
-      "product-visualization"
+      "product-visualization",
+      "3d-cad"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -1605,12 +1651,14 @@
     "categories": [
       "Software",
       "AR Design",
-      "Immersive Media"
+      "Immersive Media",
+      "Video"
     ],
     "categoryIds": [
       "software",
       "ar-design",
-      "immersive-media"
+      "immersive-media",
+      "video"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -1669,12 +1717,14 @@
     "categories": [
       "Software",
       "UI Design",
-      "Prototyping"
+      "Prototyping",
+      "Digital Art"
     ],
     "categoryIds": [
       "software",
       "ui-design",
-      "prototyping"
+      "prototyping",
+      "digital-art"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -1796,12 +1846,14 @@
     "categories": [
       "Software",
       "Typography",
-      "Font Library"
+      "Font Library",
+      "Assets"
     ],
     "categoryIds": [
       "software",
       "typography",
-      "font-library"
+      "font-library",
+      "assets"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -1859,12 +1911,16 @@
     "categories": [
       "Software",
       "Stock Assets",
-      "Marketplace"
+      "Marketplace",
+      "Assets",
+      "Marketplaces"
     ],
     "categoryIds": [
       "software",
       "stock-assets",
-      "marketplace"
+      "marketplace",
+      "assets",
+      "marketplaces"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -1919,12 +1975,14 @@
     "categories": [
       "Software",
       "Portfolio",
-      "Creative Community"
+      "Creative Community",
+      "Content Creation"
     ],
     "categoryIds": [
       "software",
       "portfolio",
-      "creative-community"
+      "creative-community",
+      "content-creation"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -1979,11 +2037,15 @@
     "categoryId": "software",
     "categories": [
       "Software",
-      "Portfolio Website"
+      "Portfolio Website",
+      "Web & Dev",
+      "Content Creation"
     ],
     "categoryIds": [
       "software",
-      "portfolio-website"
+      "portfolio-website",
+      "web-and-dev",
+      "content-creation"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -2038,12 +2100,16 @@
     "categories": [
       "Software",
       "Video Review",
-      "Collaboration"
+      "Collaboration",
+      "Video",
+      "Business"
     ],
     "categoryIds": [
       "software",
       "video-review",
-      "collaboration"
+      "collaboration",
+      "video",
+      "business"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -2098,12 +2164,16 @@
     "categories": [
       "Software",
       "AI Audio",
-      "Podcasting"
+      "Podcasting",
+      "Audio",
+      "AI Tools"
     ],
     "categoryIds": [
       "software",
       "ai-audio",
-      "podcasting"
+      "podcasting",
+      "audio",
+      "ai-tools"
     ],
     "primaryCategory": "Software",
     "subcategories": [
@@ -2159,12 +2229,14 @@
     "categories": [
       "Software",
       "Project Management",
-      "Enterprise Workflow"
+      "Enterprise Workflow",
+      "Business"
     ],
     "categoryIds": [
       "software",
       "project-management",
-      "enterprise-workflow"
+      "enterprise-workflow",
+      "business"
     ],
     "primaryCategory": "Software",
     "subcategories": [
