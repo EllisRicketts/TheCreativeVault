@@ -38,9 +38,32 @@ Visit buttons stay quiet and take the accent only on hover.
 
 ## Type
 
-**Archivo** (Google Fonts, weights 400/500/600/700) for everything. Chosen as a
-workhorse grotesque with enough character to carry display sizes, which suits
-an Operate surface. Do not add a second family without a reason.
+Two families, and only two.
+
+**Archivo** (400/500/600/700) is the interface: body, controls, meta, buttons.
+
+**Bricolage Grotesque** (600–800, optical sizing on) is the display voice —
+the hero headline and the wordmark, nothing else. Archivo alone was correct but
+anonymous, and the headline is the one place the site is allowed to raise its
+voice. The headline sets at `clamp(38px, 7.4vw, 78px)`, weight 700, tracking
+`-0.045em`, leading 0.98, as two stacked beats: the first in ink, the second in
+`--accent-ink`. Two tones, never a gradient.
+
+## Art banner
+
+A band of Ellis's own sketchbook work sits above the masthead at
+`clamp(124px, 16vw, 236px)`. Two details make it belong to the page rather than
+sit on top of it:
+
+- `mix-blend-mode: multiply` drops the poster's paper white into the page
+  ground, so only the graphite remains.
+- A `mask-image` gradient fades it out downward into the page instead of ending
+  on a hard edge.
+
+Source art lives in `artwork-source/`, deliberately **outside** `site/` — the
+original is a 49.79 MB, 7200×10800 print poster and must never be published.
+The shipped crop is `site/images/banner-2400.webp` (382 KB) with a 1280px
+variant for phones and a JPEG fallback.
 
 - Display: `clamp(34px, 6vw, 60px)`, weight 660, tracking `-0.038em`
 - Section heads: `clamp(22px, 2.6vw, 30px)`, weight 620
@@ -69,6 +92,14 @@ zero-offset coloured halo is decoration, not depth, and is not used.
 - **Toolbar** — sticky under the masthead at `var(--masthead-h)`, which app.js
   keeps in sync with the real header height via ResizeObserver. Active filters
   invert to solid ink.
+- **Masthead search** — search existed only in the hero, so it disappeared the
+  moment browsing began. A compact field fades into the masthead the instant
+  the hero's field scrolls out of view. Below 900px it takes the nav's row
+  rather than adding a third one, so header height does not grow on a phone.
+  Both fields are one query: `syncToolbarState` mirrors them, skipping the
+  field that currently has focus so the caret never jumps.
+- **Keycap** — a real `<kbd>` naming the `/` shortcut, which exists. It yields
+  to the clear button when a query is present.
 
 ## Views
 

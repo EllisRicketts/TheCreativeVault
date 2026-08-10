@@ -42,7 +42,9 @@
 
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&display=swap" />
+  <!-- Archivo carries the interface; Bricolage Grotesque carries the display
+       voice. One extra family, used only for the headline. -->
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=Bricolage+Grotesque:opsz,wght@12..96,600..800&display=swap" />
 
   <!-- Logos are fetched per card; warming these saves a round trip on first paint. -->
   <link rel="preconnect" href="https://icons.duckduckgo.com" crossorigin />
@@ -134,13 +136,36 @@
   </defs>
 </svg>
 
+<!-- A band of Ellis's own sketchbook work. Multiply blending drops the paper
+     white into the page ground so only the graphite shows, and the mask fades
+     it out downward into the page rather than ending on an edge. -->
+<div class="art-banner">
+  <picture>
+    <source media="(max-width: 720px)" srcset="images/banner-1280.webp" type="image/webp" />
+    <source srcset="images/banner-2400.webp" type="image/webp" />
+    <img src="images/banner-2400.jpg" width="2400" height="600" fetchpriority="high"
+         alt="Pencil sketches by Ellis Ricketts — creatures, characters and portraits from his sketchbook." />
+  </picture>
+</div>
+
 <header class="masthead" id="top">
   <div class="shell masthead-inner">
     <a class="brand" href="#top">
       <!-- 96px covers up to 3x. The 2048px original stays in the repo as the source. -->
-      <img src="images/avatars/ellis-ricketts-avatar-96.png" alt="" width="30" height="30" />
-      <span>The Creative Vault</span>
+      <span class="brand-mark">
+        <img src="images/avatars/ellis-ricketts-avatar-96.png" alt="" width="30" height="30" />
+      </span>
+      <span class="brand-name">The <em>Creative</em> Vault</span>
     </a>
+
+    <!-- Appears once the hero search scrolls away, so search is never out of
+         reach while browsing 2,262 results. -->
+    <div class="mini-search" id="miniSearch">
+      <svg class="icon" aria-hidden="true"><use href="#i-search"/></svg>
+      <label class="visually-hidden" for="miniSearchInput">Search resources</label>
+      <input id="miniSearchInput" type="search" autocomplete="off" spellcheck="false" placeholder="Search the vault" />
+      <kbd class="key">/</kbd>
+    </div>
 
     <nav aria-label="Sections">
       <a class="nav-link" href="#collections">Collections</a>
@@ -154,12 +179,12 @@
 <main>
 
   <section class="shell hero">
-    <h1>Find better tools. Create better work.</h1>
+    <h1><span>Find better tools.</span><span>Create better work.</span></h1>
 
     <p class="hero-sub">
-      A hand-picked library of <strong><span id="totalCount" class="tabular">0</span> creative resources</strong> —
-      software, assets, marketplaces, grants, learning and AI tools — across
-      <span id="totalCategories" class="tabular">0</span> categories. Curated by Ellis Ricketts.
+      <strong><span id="totalCount" class="tabular">0</span> creative resources</strong>,
+      hand-picked across <span id="totalCategories" class="tabular">0</span> categories.
+      Software, assets, marketplaces, grants, learning and AI tools — no listicles, no spam.
     </p>
 
     <div class="search">
@@ -167,6 +192,7 @@
       <label class="visually-hidden" for="searchInput">Search resources</label>
       <input id="searchInput" type="search" autocomplete="off" spellcheck="false"
              placeholder="Search Photoshop, Blender, grants, AI tools&hellip;" />
+      <kbd class="key search-key">/</kbd>
       <button class="search-clear" id="searchClear" type="button" hidden aria-label="Clear search">
         <svg class="icon" aria-hidden="true"><use href="#i-close"/></svg>
       </button>

@@ -167,6 +167,38 @@ p { margin: 0; }
 }
 
 /* ==========================================================================
+   Art banner — the artist's own hand, at the top of his own site
+   ========================================================================== */
+
+.art-banner {
+  position: relative;
+  height: clamp(124px, 16vw, 236px);
+  overflow: hidden;
+  background: var(--bg);
+  /* Sits under the sticky masthead once the page scrolls. */
+  z-index: 0;
+}
+
+.art-banner img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center 44%;
+
+  /* Multiply drops the poster's paper white into the page ground, so what
+     remains is the drawing rather than a pasted-on photograph. */
+  mix-blend-mode: multiply;
+
+  /* Fades out downward into the page instead of ending on a hard edge. */
+  -webkit-mask-image: linear-gradient(to bottom, #000 0%, #000 34%, rgba(0,0,0,0.35) 74%, transparent 100%);
+  mask-image: linear-gradient(to bottom, #000 0%, #000 34%, rgba(0,0,0,0.35) 74%, transparent 100%);
+}
+
+@media (max-width: 640px) {
+  .art-banner { height: 104px; }
+}
+
+/* ==========================================================================
    Header
    ========================================================================== */
 
@@ -195,7 +227,7 @@ p { margin: 0; }
 .brand {
   display: inline-flex;
   align-items: center;
-  gap: 10px;
+  gap: 11px;
   color: var(--ink);
   text-decoration: none;
   font-weight: 640;
@@ -204,12 +236,29 @@ p { margin: 0; }
   white-space: nowrap;
 }
 
-.brand img {
-  width: 30px; height: 30px;
-  border-radius: 8px;
-  object-fit: cover;
+/* The mark sits in a well of its own, like the resource logos it sits above.
+   Same corner language, same inset line — the brand obeys its own system. */
+.brand-mark {
+  display: grid;
+  place-items: center;
+  width: 34px;
+  height: 34px;
+  border-radius: 11px;
   background: var(--surface-sunk);
+  border: 1px solid var(--line);
+  overflow: hidden;
+  transition: border-color var(--fast) var(--ease), transform var(--fast) var(--ease);
 }
+
+.brand:hover .brand-mark { border-color: var(--line-strong); transform: rotate(-3deg); }
+
+.brand img {
+  width: 26px; height: 26px;
+  object-fit: cover;
+}
+
+.brand-name { font-family: "Bricolage Grotesque", Archivo, system-ui, sans-serif; }
+.brand-name em { font-style: normal; color: var(--accent-ink); }
 
 .masthead nav {
   display: flex;
@@ -217,6 +266,88 @@ p { margin: 0; }
   gap: 4px;
   margin-left: auto;
 }
+
+/* A real keycap, not a styled span: it names a shortcut that exists. */
+.key {
+  display: inline-grid;
+  place-items: center;
+  min-width: 21px;
+  height: 21px;
+  padding: 0 5px;
+  border: 1px solid var(--line-strong);
+  border-bottom-width: 2px;
+  border-radius: 6px;
+  background: var(--surface);
+  color: var(--ink-3);
+  font-family: inherit;
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 1;
+}
+
+/* --- Search in the masthead ---------------------------------------------
+   Only the hero carried a search field, so it vanished the moment browsing
+   began. This one takes over the instant the hero's scrolls out of view. */
+.mini-search {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  width: clamp(180px, 26vw, 320px);
+  height: 36px;
+  margin-left: 26px;
+  padding: 0 8px 0 11px;
+  border: 1px solid var(--line-strong);
+  border-radius: var(--radius-sm);
+  background: var(--surface);
+  opacity: 0;
+  transform: translateY(-6px);
+  pointer-events: none;
+  transition: opacity var(--mid) var(--ease), transform var(--mid) var(--ease),
+              border-color var(--fast) var(--ease), box-shadow var(--fast) var(--ease);
+}
+
+.masthead[data-compact="true"] .mini-search {
+  opacity: 1;
+  transform: none;
+  pointer-events: auto;
+}
+
+.mini-search .icon { width: 15px; height: 15px; color: var(--ink-3); flex: none; }
+
+.mini-search input {
+  flex: 1;
+  min-width: 0;
+  height: 100%;
+  border: 0;
+  background: none;
+  font: inherit;
+  font-size: 13.5px;
+  color: var(--ink);
+}
+
+.mini-search input:focus { outline: none; }
+.mini-search input::placeholder { color: var(--ink-3); }
+
+.mini-search:focus-within {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 3px var(--accent-wash);
+}
+
+.mini-search:focus-within .icon { color: var(--accent-ink); }
+.mini-search:focus-within .key { opacity: 0; }
+
+.search-key {
+  position: absolute;
+  right: 14px;
+  top: 50%;
+  translate: 0 -50%;
+  transition: opacity var(--fast) var(--ease);
+}
+
+.search:focus-within .search-key { opacity: 0; }
+
+/* The keycap and the clear button share the same corner; the hint yields. */
+.search:has(#searchClear:not([hidden])) .search-key { opacity: 0; }
 
 .nav-link {
   appearance: none;
@@ -298,25 +429,40 @@ p { margin: 0; }
    Hero
    ========================================================================== */
 
+/* The banner already supplies the air above; the hero does not repeat it. */
 .hero {
-  padding-block: clamp(44px, 7vw, 84px) clamp(8px, 1.5vw, 18px);
+  padding-block: clamp(26px, 4vw, 56px) clamp(8px, 1.5vw, 18px);
 }
 
+/* The headline is the one place the site raises its voice. Bricolage carries
+   more character than the UI face, set large and tight, with the two lines
+   stacked so the promise reads as two beats rather than one long sentence. */
 .hero h1 {
-  font-size: clamp(34px, 6vw, 60px);
-  font-weight: 660;
-  letter-spacing: -0.038em;
-  max-width: 22ch;
+  font-family: "Bricolage Grotesque", Archivo, system-ui, sans-serif;
+  font-size: clamp(38px, 7.4vw, 78px);
+  font-weight: 700;
+  font-optical-sizing: auto;
+  letter-spacing: -0.045em;
+  line-height: 0.98;
+  max-width: 15ch;
 }
+
+.hero h1 span { display: block; }
+
+/* The second beat is the payoff, so it gets the weight of the accent while
+   the first stays ink. Two tones, no gradient. */
+.hero h1 span + span { color: var(--accent-ink); }
 
 .hero-sub {
-  margin-top: 16px;
-  font-size: clamp(16px, 1.6vw, 18px);
+  margin-top: 22px;
+  font-size: clamp(16px, 1.7vw, 19px);
+  line-height: 1.5;
   color: var(--ink-2);
-  max-width: 62ch;
+  max-width: 52ch;
+  text-wrap: pretty;
 }
 
-.hero-sub strong { color: var(--ink); font-weight: 580; }
+.hero-sub strong { color: var(--ink); font-weight: 600; }
 
 /* Search */
 .search {
@@ -1169,6 +1315,19 @@ p { margin: 0; }
 
   .masthead nav::-webkit-scrollbar { display: none; }
   .nav-link { padding: 6px 9px; font-size: 13.5px; }
+
+  /* No room for a third row on a phone: once browsing starts, search takes
+     the nav's place rather than pushing the header taller. */
+  .mini-search {
+    display: none;
+    order: 3;
+    width: 100%;
+    height: 34px;
+    margin: 0 0 2px;
+  }
+
+  .masthead[data-compact="true"] .mini-search { display: flex; }
+  .masthead[data-compact="true"] nav { display: none; }
 }
 
 @media (max-width: 640px) {

@@ -30,6 +30,7 @@
     categoryGrid: document.getElementById("categoryGrid"),
     totalCount: document.getElementById("totalCount"),
     totalCategories: document.getElementById("totalCategories"),
+    mini: document.getElementById("miniSearchInput"),
     modal: document.getElementById("resourceModal"),
     modalContent: document.getElementById("modalContent"),
     modalClose: document.getElementById("modalClose"),
@@ -392,6 +393,13 @@
     el.reset.hidden = !dirty;
     el.searchClear.hidden = !f.q;
 
+    /* One query, two fields. Mirroring here rather than at each call site
+       means reset, clear, a URL load and typing all stay in step. The field
+       being typed into is never rewritten, so the caret does not jump. */
+    if (el.mini && el.mini !== document.activeElement && el.mini.value !== el.search.value) {
+      el.mini.value = el.search.value;
+    }
+
     el.quickLinks.querySelectorAll(".chip").forEach(function (chip) {
       chip.setAttribute("aria-pressed", String(chip.dataset.category === f.category));
     });
@@ -402,6 +410,9 @@
 
   function resetAll() {
     el.search.value = "";
+    /* Two fields, one query: clearing one must clear the other, or Reset
+       leaves the masthead still showing the query it just discarded. */
+    if (el.mini) el.mini.value = "";
     el.category.value = "all";
     el.price.value = "all";
     el.platform.value = "all";
@@ -630,6 +641,32 @@
     io.observe(el.loadMore);
   }
 
+  /* The hero search and the masthead search are two views of one query.
+     Each mirrors the other's value without re-dispatching, so there is no
+     event loop and no second source of truth. */
+  function setupMiniSearch() {
+    var mini = document.getElementById("miniSearchInput");
+    var heroField = document.querySelector(".hero .search");
+    if (!mini || !heroField) return;
+
+    mini.addEventListener("input", debounce(function () {
+      el.search.value = mini.value;
+      applyFilters();
+    }, 130));
+
+    /* The masthead takes over the moment the hero's field leaves the view. */
+    if (!("IntersectionObserver" in window)) return;
+    new IntersectionObserver(function (entries) {
+      el.masthead.dataset.compact = String(!entries[0].isIntersecting);
+    }, { rootMargin: "-8px 0px 0px 0px", threshold: 0 }).observe(heroField);
+  }
+
+  function activeSearchField() {
+    return el.masthead.dataset.compact === "true"
+      ? (document.getElementById("miniSearchInput") || el.search)
+      : el.search;
+  }
+
   function setupMasthead() {
     /* Publish the real masthead height so the sticky toolbar and anchor
        offsets track it instead of a hardcoded guess per breakpoint. */
@@ -726,13 +763,14 @@
       if (event.target === el.modal) el.modal.close();
     });
 
-    /* Keyboard-first: "/" jumps to search from anywhere. */
+    /* Keyboard-first: "/" jumps to whichever search field is on screen. */
     document.addEventListener("keydown", function (event) {
-      if (event.key === "/" && document.activeElement !== el.search &&
+      if (event.key === "/" &&
           !/^(INPUT|TEXTAREA|SELECT)$/.test(document.activeElement.tagName)) {
         event.preventDefault();
-        el.search.focus();
-        el.search.select();
+        var field = activeSearchField();
+        field.focus();
+        field.select();
       }
     });
   }
@@ -762,6 +800,7 @@
     setupReveal();
     setupInfiniteScroll();
     setupMasthead();
+    setupMiniSearch();
 
     readUrlState();
     applyFilters();
