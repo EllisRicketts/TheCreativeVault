@@ -129,6 +129,8 @@
     <symbol id="i-heart" viewBox="0 0 24 24"><path d="M12 20.3 4.6 13a4.6 4.6 0 0 1 6.5-6.5l.9.9.9-.9A4.6 4.6 0 1 1 19.4 13Z"/></symbol>
     <symbol id="i-out" viewBox="0 0 24 24"><path d="M8 16 16 8M9 8h7v7"/></symbol>
     <symbol id="i-chev" viewBox="0 0 24 24"><path d="m6 9 6 6 6-6"/></symbol>
+    <symbol id="i-grid" viewBox="0 0 24 24"><rect x="4" y="4" width="7" height="7" rx="1.6"/><rect x="13" y="4" width="7" height="7" rx="1.6"/><rect x="4" y="13" width="7" height="7" rx="1.6"/><rect x="13" y="13" width="7" height="7" rx="1.6"/></symbol>
+    <symbol id="i-list" viewBox="0 0 24 24"><rect x="3.5" y="5" width="4" height="4" rx="1.2"/><rect x="3.5" y="15" width="4" height="4" rx="1.2"/><path d="M11 7h9.5M11 17h9.5"/></symbol>
   </defs>
 </svg>
 
@@ -245,9 +247,22 @@
       <button class="btn btn-ghost" id="resetFilters" type="button" hidden>Reset</button>
 
       <p class="result-line" id="resultSummary" role="status" aria-live="polite"></p>
+
+      <div class="view-toggle" role="group" aria-label="Change how resources are displayed">
+        <button class="view-btn" type="button" data-view-set="grid"
+                aria-pressed="true" title="Thumbnail view">
+          <svg class="icon" aria-hidden="true"><use href="#i-grid"/></svg>
+          <span class="visually-hidden">Thumbnail view</span>
+        </button>
+        <button class="view-btn" type="button" data-view-set="list"
+                aria-pressed="false" title="List view">
+          <svg class="icon" aria-hidden="true"><use href="#i-list"/></svg>
+          <span class="visually-hidden">List view</span>
+        </button>
+      </div>
     </div>
 
-    <div class="resource-grid" id="resourceGrid"></div>
+    <div class="resource-grid" id="resourceGrid" data-view="grid"></div>
 
     <div class="empty" id="emptyState" hidden>
       <h3>Nothing matches those filters.</h3>

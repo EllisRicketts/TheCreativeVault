@@ -70,6 +70,23 @@ zero-offset coloured halo is decoration, not depth, and is not used.
   keeps in sync with the real header height via ResizeObserver. Active filters
   invert to solid ink.
 
+## Views
+
+Results render as thumbnails or as a list, switched by a two-button
+segmented control at the right of the toolbar — the same affordance a file
+window uses. Thumbnails are the default; the choice is remembered in
+`localStorage` under `vault:view`.
+
+Both views use **identical card markup** and differ only by
+`data-view="grid|list"` on `#resourceGrid`. Switching is therefore pure CSS:
+no re-render, no lost scroll position, no reflow of sixty cards.
+
+In list view every column is a fixed width or an `fr` — never `auto`. Each
+card is its own grid container, so a content-sized column makes the columns
+disagree from row to row and the list stops reading as a list. Rows shed
+columns at 1080px (description) and 780px (two-line layout) rather than
+crushing everything at once. A row responds to hover by tinting, not lifting.
+
 ## Icons
 
 Drawn SVG in one `<symbol>` sprite at the top of `index.html`, 1.6 stroke,

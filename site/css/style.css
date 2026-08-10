@@ -728,6 +728,172 @@ p { margin: 0; }
 .fav[aria-pressed="true"] .icon { fill: var(--accent); }
 .fav .icon { width: 17px; height: 17px; }
 
+/* Reveal-on-hover hides the control completely on a touch screen, where
+   there is no hover. Show it outright wherever hover does not exist. */
+@media (hover: none) {
+  .fav { opacity: 1; }
+}
+
+/* ==========================================================================
+   View toggle — thumbnails or list, the way a file window does it
+   ========================================================================== */
+
+.view-toggle {
+  display: inline-flex;
+  padding: 2px;
+  gap: 2px;
+  background: var(--surface-sunk);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-sm);
+}
+
+.view-btn {
+  display: grid;
+  place-items: center;
+  width: 32px;
+  height: 30px;
+  padding: 0;
+  border: 0;
+  border-radius: 6px;
+  background: transparent;
+  color: var(--ink-3);
+  cursor: pointer;
+  transition: background-color var(--fast) var(--ease), color var(--fast) var(--ease),
+              box-shadow var(--fast) var(--ease);
+}
+
+.view-btn .icon { width: 17px; height: 17px; }
+.view-btn:hover { color: var(--ink); }
+
+.view-btn[aria-pressed="true"] {
+  background: var(--surface);
+  color: var(--ink);
+  box-shadow: 0 1px 1px rgba(23, 23, 26, 0.05), 0 1px 3px rgba(23, 23, 26, 0.07);
+}
+
+/* --- List view -----------------------------------------------------------
+   The same card markup, re-laid as a row. Switching views is one attribute,
+   so sixty cards never re-render and scroll position survives. */
+
+.resource-grid[data-view="list"] {
+  display: block;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--surface);
+  overflow: hidden;
+}
+
+/* Every column is a fixed width or an fr, never `auto`: each row is its own
+   grid container, so a content-sized column makes the columns disagree from
+   row to row and the list stops reading as a list. */
+.resource-grid[data-view="list"] .card {
+  display: grid;
+  grid-template-columns: 44px minmax(150px, 1.1fr) minmax(0, 1.9fr) 208px 150px 32px;
+  grid-template-areas: "logo head desc meta actions fav";
+  align-items: center;
+  gap: 18px;
+  padding: 11px 16px;
+  border: 0;
+  border-bottom: 1px solid var(--line);
+  border-radius: 0;
+  background: var(--surface);
+  box-shadow: none;
+  transform: none;
+}
+
+.resource-grid[data-view="list"] .card:last-child { border-bottom: 0; }
+
+/* A row lifts by tinting, not by floating off the page. */
+.resource-grid[data-view="list"] .card:hover {
+  background: var(--surface-sunk);
+  border-color: transparent;
+  box-shadow: none;
+  transform: none;
+}
+
+.resource-grid[data-view="list"] .card:focus-within {
+  background: var(--surface-sunk);
+  box-shadow: none;
+}
+
+.resource-grid[data-view="list"] .logo {
+  grid-area: logo;
+  width: 44px;
+  height: 44px;
+  padding: 7px;
+  border-radius: 11px;
+}
+
+.resource-grid[data-view="list"] .card:hover .logo { transform: none; }
+.resource-grid[data-view="list"] .logo .monogram { font-size: 15px; }
+
+.resource-grid[data-view="list"] .card-head { grid-area: head; min-width: 0; }
+.resource-grid[data-view="list"] .card-title { font-size: 14.5px; }
+.resource-grid[data-view="list"] .card-company { margin-top: 1px; font-size: 12px; }
+
+.resource-grid[data-view="list"] .card-desc {
+  grid-area: desc;
+  margin: 0;
+  font-size: 13px;
+  text-align: left;
+  -webkit-line-clamp: 2;
+  line-clamp: 2;
+}
+
+.resource-grid[data-view="list"] .card-meta {
+  grid-area: meta;
+  margin: 0;
+  padding: 0;
+  gap: 2px 12px;
+  justify-content: flex-end;
+  text-align: right;
+}
+
+.resource-grid[data-view="list"] .card-actions {
+  grid-area: actions;
+  padding-top: 0;
+  border-top: 0;
+  gap: 6px;
+}
+
+.resource-grid[data-view="list"] .card-actions .btn {
+  flex: none;
+  min-height: 32px;
+  padding: 0 11px;
+  font-size: 13px;
+}
+
+.resource-grid[data-view="list"] .fav {
+  grid-area: fav;
+  position: static;
+  width: 32px;
+  height: 32px;
+}
+
+/* Narrow rows shed columns rather than crushing every column at once. */
+@media (max-width: 1080px) {
+  .resource-grid[data-view="list"] .card {
+    grid-template-columns: 44px minmax(0, 1fr) 208px 150px 32px;
+    grid-template-areas: "logo head meta actions fav";
+  }
+  .resource-grid[data-view="list"] .card-desc { display: none; }
+}
+
+@media (max-width: 780px) {
+  .resource-grid[data-view="list"] .card {
+    grid-template-columns: 40px minmax(0, 1fr) auto;
+    grid-template-areas:
+      "logo head fav"
+      "logo meta actions";
+    align-items: center;
+    gap: 4px 14px;
+    padding: 12px 14px;
+  }
+  .resource-grid[data-view="list"] .logo { align-self: start; }
+  .resource-grid[data-view="list"] .card-meta { justify-content: flex-start; text-align: left; }
+  .resource-grid[data-view="list"] .card-actions { justify-content: flex-end; }
+}
+
 /* ==========================================================================
    Load more / empty / footer
    ========================================================================== */

@@ -9,6 +9,7 @@
   var PAGE_SIZE = 60;
   var PAGE_STEP = 36;
   var FAV_KEY = "vault:favorites";
+  var VIEW_KEY = "vault:view";
 
   var el = {
     search: document.getElementById("searchInput"),
@@ -195,7 +196,7 @@
 
       logoMarkup(r) +
 
-      "<div>" +
+      '<div class="card-head">' +
         '<h3 class="card-title"><a href="' + esc(r.website) + '" target="_blank" rel="noopener">' +
           esc(r.title) + "</a></h3>" +
         (host ? '<p class="card-company">' + esc(r.company || host) + "</p>" : "") +
@@ -337,6 +338,28 @@
 
   function jumpToResults() {
     document.getElementById("resources").scrollIntoView({ behavior: "smooth", block: "start" });
+  }
+
+  /* --------------------------------------------------------- view switching */
+
+  /* Thumbnails or rows. Both views render from identical markup and differ
+     only by this attribute, so switching costs no re-render and keeps scroll
+     position. The choice is remembered, the way a file window remembers it. */
+  function setView(view, persist) {
+    var next = view === "list" ? "list" : "grid";
+    el.grid.dataset.view = next;
+
+    document.querySelectorAll("[data-view-set]").forEach(function (btn) {
+      btn.setAttribute("aria-pressed", String(btn.dataset.viewSet === next));
+    });
+
+    if (persist) {
+      try { localStorage.setItem(VIEW_KEY, next); } catch (e) { /* private mode */ }
+    }
+  }
+
+  function storedView() {
+    try { return localStorage.getItem(VIEW_KEY); } catch (e) { return null; }
   }
 
   /* ------------------------------------------------------------- sections */
@@ -519,6 +542,12 @@
     el.loadMoreButton.addEventListener("click", function () { renderNextPage(PAGE_STEP); });
 
     document.addEventListener("click", function (event) {
+      var viewBtn = event.target.closest("[data-view-set]");
+      if (viewBtn) {
+        setView(viewBtn.dataset.viewSet, true);
+        return;
+      }
+
       var chip = event.target.closest("[data-category]");
       if (chip) {
         var value = chip.dataset.category;
@@ -596,6 +625,7 @@
     buildCollections();
 
     wire();
+    setView(storedView() || "grid", false);
     setupReveal();
     setupInfiniteScroll();
     setupMasthead();
