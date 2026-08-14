@@ -1436,3 +1436,14 @@ p { margin: 0; }
   .spec div { grid-template-columns: 1fr; gap: 3px; }
   .submit-band { flex-direction: column; align-items: flex-start; }
 }
+
+
+/* SEO discovery links: visible, useful internal links to indexable landing pages. */
+.seo-link-grid{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:8px}.seo-link-grid a{display:flex;align-items:center;min-height:48px;padding:11px 13px;background:var(--surface);border:1px solid var(--line-strong);border-radius:var(--radius-sm);color:var(--ink-2);font-size:13px;font-weight:600;text-decoration:none;transition:border-color .16s ease,color .16s ease,transform .16s ease}.seo-link-grid a:hover{border-color:var(--accent);color:var(--accent-ink);transform:translateY(-1px)}@media(max-width:900px){.seo-link-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}@media(max-width:520px){.seo-link-grid{grid-template-columns:1fr}}
+
+.category{position:relative;padding:0!important}.category>button{appearance:none;border:0;background:transparent;color:inherit;font:inherit;text-align:left;width:100%;height:100%;padding:inherit;cursor:pointer}.category-learn{position:absolute;right:48px;top:50%;transform:translateY(-50%);font-size:11px;font-weight:700;color:var(--accent-ink);text-decoration:none;opacity:.72;z-index:2}.category-learn:hover{opacity:1;text-decoration:underline}
+/* Category tiles retain their one-click filter action while exposing a crawlable guide link. */
+.category{padding:0!important;cursor:default}
+.category>button{display:flex;align-items:center;justify-content:space-between;gap:10px;min-height:52px;padding:10px 86px 10px 14px!important;cursor:pointer}
+.category>button span:last-child{color:var(--ink-3);font-size:12.5px;font-variant-numeric:tabular-nums}
+.category-learn{right:14px}

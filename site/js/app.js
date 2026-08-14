@@ -523,9 +523,11 @@
 
   function buildCategoryGrid(counts) {
     el.categoryGrid.innerHTML = gridCategories(counts).map(function (entry) {
-      return '<button class="category reveal" type="button" data-category="' + esc(entry[0]) + '">' +
+      var curated = typeof vaultCategories === "undefined" ? null : vaultCategories.find(function (c) { return c.label === entry[0]; });
+      var learn = curated ? '<a class="category-learn" href="/categories/' + esc(curated.id) + '/" aria-label="Explore ' + esc(entry[0]) + ' guide">Guide</a>' : '';
+      return '<div class="category reveal"><button type="button" data-category="' + esc(entry[0]) + '">' +
              "<span>" + dotFor(entry[0]) + esc(entry[0]) + "</span>" +
-             '<span class="tabular">' + entry[1].toLocaleString() + "</span></button>";
+             '<span class="tabular">' + entry[1].toLocaleString() + "</span></button>" + learn + "</div>";
     }).join("");
   }
 
