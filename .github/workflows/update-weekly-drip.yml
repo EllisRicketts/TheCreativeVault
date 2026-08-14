@@ -11,6 +11,7 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
+
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
@@ -23,16 +24,18 @@ jobs:
       - name: Refresh Weekly Drip data
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
-        run: node scripts/update-weekly-drip.mjs
+        run: node site/scripts/update-weekly-drip.mjs
 
       - name: Commit refreshed data
         run: |
-          if git diff --quiet -- data/weekly-drip.json; then
+          if git diff --quiet -- site/data/weekly-drip.json; then
             echo "No Weekly Drip changes to commit."
             exit 0
           fi
+
           git config user.name "weekly-drip-bot"
           git config user.email "weekly-drip-bot@users.noreply.github.com"
-          git add data/weekly-drip.json
+
+          git add site/data/weekly-drip.json
           git commit -m "Refresh Weekly Drip"
           git push
