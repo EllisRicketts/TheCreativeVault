@@ -179,4 +179,15 @@
     <priority>0.80</priority>
   </url>
   <url><loc>https://www.thecreativevault.co/explore/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.thecreativevault.co/comparisons/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.thecreativevault.co/comparisons/photoshop-vs-affinity-photo/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.thecreativevault.co/comparisons/blender-vs-cinema-4d/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.thecreativevault.co/comparisons/premiere-pro-vs-davinci-resolve/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.thecreativevault.co/comparisons/chatgpt-vs-claude/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.thecreativevault.co/comparisons/midjourney-vs-leonardo-ai/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.thecreativevault.co/comparisons/canva-vs-adobe-express/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.thecreativevault.co/comparisons/figma-vs-penpot/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.thecreativevault.co/comparisons/unity-vs-unreal-engine/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.thecreativevault.co/comparisons/godot-vs-unity/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.thecreativevault.co/comparisons/reaper-vs-pro-tools/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
 </urlset>
