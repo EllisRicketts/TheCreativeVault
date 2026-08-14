@@ -32,3 +32,22 @@
 .seo-detail-visit{display:inline-flex;align-items:center;justify-content:center;min-height:44px;padding:0 17px;border-radius:10px;background:var(--orange);color:#fff;text-decoration:none;font-size:13.5px;font-weight:700}
 .seo-detail-visit:hover{background:var(--orange-dark)}
 @media(max-width:560px){.seo-dialog-body{padding:22px 19px 24px}.seo-detail-head img{width:58px;height:58px;flex-basis:58px}.seo-detail-head h2{font-size:24px}.seo-detail-spec>div{grid-template-columns:1fr;gap:4px}.seo-resource-dialog{width:calc(100vw - 18px)}.seo-card-actions>*{flex:1}}
+
+
+/* Ellis Ricketts footer link */
+.ellis-footer-button{
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  margin-top:14px;
+  padding:11px 18px;
+  border-radius:9px;
+  background:#df5514;
+  color:#fff !important;
+  font-weight:700;
+  font-size:13px;
+  line-height:1;
+  text-decoration:none !important;
+  transition:transform .15s ease,filter .15s ease;
+}
+.ellis-footer-button:hover{transform:translateY(-1px);filter:brightness(.94);}
