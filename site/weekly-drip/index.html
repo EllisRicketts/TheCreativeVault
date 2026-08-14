@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Weekly Drip — Trending Creative Tutorials & Tools | The Creative Vault</title>
+  <meta name="description" content="Weekly Drip surfaces fresh YouTube tutorials, tools and workflows trending across design, AI, 3D, music, coding, game development, filmmaking, photography and creator culture.">
+  <meta name="robots" content="index, follow, max-image-preview:large">
+  <link rel="canonical" href="https://www.thecreativevault.co/weekly-drip/">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="The Creative Vault">
+  <meta property="og:title" content="Weekly Drip — Fresh Creative Knowledge Every Week">
+  <meta property="og:description" content="Ten creative lanes. Fresh tutorials and tools ranked automatically every week.">
+  <meta property="og:url" content="https://www.thecreativevault.co/weekly-drip/">
+  <meta property="og:image" content="https://www.thecreativevault.co/images/weekly-drip/weekly-drip-logo.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Weekly Drip — The Creative Vault">
+  <meta name="twitter:description" content="Fresh creative tutorials, tools and workflows discovered every week.">
+  <meta name="twitter:image" content="https://www.thecreativevault.co/images/weekly-drip/weekly-drip-logo.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700;800&family=Bricolage+Grotesque:opsz,wght@12..96,600..800&display=swap">
+  <link rel="stylesheet" href="/css/weekly-drip.css">
+</head>
+<body id="drip-top">
+  <header class="drip-header">
+    <div class="drip-shell drip-nav">
+      <a class="drip-brand" href="/" aria-label="The Creative Vault home">
+        <img src="/images/logos/cv-secondary-logo.png" alt="">
+        <span>The Creative Vault</span>
+      </a>
+      <nav aria-label="Main navigation">
+        <a href="/explore/">Explore</a>
+        <a href="/weekly-drip/" class="active">Weekly Drip</a>
+        <a href="/comparisons/">Comparisons</a>
+        <a href="/#resources">Browse All</a>
+        <a href="/#submit">Submit</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="drip-shell drip-hero">
+      <img class="drip-title-logo" src="/images/weekly-drip/weekly-drip-title.png" alt="Weekly Drip">
+      <p class="drip-hero-copy">The creative internet moves fast. Weekly Drip scans fresh YouTube tutorials and tool coverage, then surfaces the strongest momentum across the creative lanes that matter.</p>
+      <div class="drip-meta">
+        <span>Refreshes every Sunday</span>
+        <span>10 videos per category</span>
+        <span>Freshness + momentum ranked</span>
+      </div>
+    </section>
+
+    <section class="drip-shell drip-intro">
+      <img src="/images/weekly-drip/weekly-drip-logo.png" alt="Weekly Drip icon">
+      <div>
+        <h1>Fresh creative knowledge. No digging required.</h1>
+        <p>Each week, the system searches a rolling window of new creator-focused videos and scores them by view velocity, engagement, freshness and topic relevance. Old mega-hits do not automatically win just because they have millions of lifetime views.</p>
+      </div>
+    </section>
+
+    <div class="drip-tabs-wrap">
+      <div class="drip-shell drip-tabs" id="dripCategoryTabs">
+        <button type="button" id="dripAllButton" data-drip-filter="all" class="active" aria-pressed="true">All Categories</button>
+      </div>
+    </div>
+
+    <div class="drip-shell">
+      <p class="drip-status" id="dripStatus">Loading this week's drip…</p>
+      <div id="dripCategorySections"></div>
+      <p class="drip-method"><strong>Last refresh:</strong> <span id="dripUpdated">Loading…</span>. Weekly Drip is an automated discovery feed, not a paid ranking. YouTube results are filtered and scored by The Creative Vault's own rules; rankings can change from week to week as new videos gain momentum.</p>
+    </div>
+  </main>
+
+  <footer class="drip-footer">
+    <div class="drip-shell">
+      <span>Weekly Drip × The Creative Vault</span>
+      <span><a href="/">Back to The Creative Vault</a></span>
+    </div>
+  </footer>
+
+  <script src="/js/weekly-drip.js"></script>
+</body>
+</html>

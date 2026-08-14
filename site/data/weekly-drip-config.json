@@ -1,0 +1,401 @@
+{
+  "windowDays": 21,
+  "videosPerCategory": 10,
+  "searchResultsPerTopic": 15,
+  "minimumDurationSeconds": 150,
+  "maximumDurationSeconds": 10800,
+  "minimumViews": 500,
+  "maxVideosPerChannel": 2,
+  "categories": [
+    {
+      "id": "ai-creative",
+      "name": "AI + Creative Tools",
+      "description": "Fresh AI workflows, image/video generators, creative agents and practical automation.",
+      "topics": [
+        {
+          "label": "AI creative tools",
+          "query": "AI creative tools tutorial creators"
+        },
+        {
+          "label": "Generative image",
+          "query": "generative AI image workflow tutorial"
+        },
+        {
+          "label": "AI video",
+          "query": "AI video generator workflow creators"
+        },
+        {
+          "label": "Creative agents",
+          "query": "AI agents creative workflow tutorial"
+        },
+        {
+          "label": "ComfyUI",
+          "query": "ComfyUI workflow tutorial"
+        },
+        {
+          "label": "Adobe Firefly",
+          "query": "Adobe Firefly new features tutorial"
+        },
+        {
+          "label": "Local AI",
+          "query": "local AI creative tools workflow"
+        },
+        {
+          "label": "AI design workflow",
+          "query": "AI graphic design workflow tutorial"
+        }
+      ]
+    },
+    {
+      "id": "graphic-design",
+      "name": "Graphic Design",
+      "description": "Design software, typography, branding, illustration and production techniques worth learning now.",
+      "topics": [
+        {
+          "label": "Photoshop",
+          "query": "Photoshop new tools tutorial graphic design"
+        },
+        {
+          "label": "Illustrator",
+          "query": "Illustrator new tools tutorial graphic design"
+        },
+        {
+          "label": "Affinity",
+          "query": "Affinity Designer Photo tutorial new features"
+        },
+        {
+          "label": "Typography",
+          "query": "typography design tutorial creators"
+        },
+        {
+          "label": "Brand identity",
+          "query": "brand identity design workflow tutorial"
+        },
+        {
+          "label": "Logo design",
+          "query": "logo design workflow tutorial"
+        },
+        {
+          "label": "Mockups",
+          "query": "graphic design mockup workflow tutorial"
+        },
+        {
+          "label": "Digital illustration",
+          "query": "digital illustration workflow tutorial"
+        }
+      ]
+    },
+    {
+      "id": "3d-animation",
+      "name": "3D + Animation",
+      "description": "Blender, Cinema 4D, Unreal, modeling, rendering, rigging and motion workflows.",
+      "topics": [
+        {
+          "label": "Blender",
+          "query": "Blender new tools tutorial 3D"
+        },
+        {
+          "label": "Geometry Nodes",
+          "query": "Blender Geometry Nodes tutorial"
+        },
+        {
+          "label": "Cinema 4D",
+          "query": "Cinema 4D new features tutorial"
+        },
+        {
+          "label": "Unreal for artists",
+          "query": "Unreal Engine artist workflow tutorial"
+        },
+        {
+          "label": "3D modeling",
+          "query": "3D modeling workflow tutorial artists"
+        },
+        {
+          "label": "Rendering",
+          "query": "3D rendering workflow tutorial"
+        },
+        {
+          "label": "Character animation",
+          "query": "3D character animation tutorial workflow"
+        },
+        {
+          "label": "Motion design",
+          "query": "3D motion design tutorial"
+        }
+      ]
+    },
+    {
+      "id": "video-film",
+      "name": "Video + Filmmaking",
+      "description": "Editing, color, VFX, cameras and creator-focused filmmaking workflows.",
+      "topics": [
+        {
+          "label": "DaVinci Resolve",
+          "query": "DaVinci Resolve new tools tutorial"
+        },
+        {
+          "label": "Premiere Pro",
+          "query": "Premiere Pro new tools tutorial"
+        },
+        {
+          "label": "After Effects",
+          "query": "After Effects new tools tutorial"
+        },
+        {
+          "label": "Color grading",
+          "query": "color grading workflow tutorial filmmakers"
+        },
+        {
+          "label": "VFX",
+          "query": "VFX workflow tutorial creators"
+        },
+        {
+          "label": "Filmmaking tools",
+          "query": "new filmmaking tools creators tutorial"
+        },
+        {
+          "label": "Video editing",
+          "query": "video editing workflow tutorial creators"
+        },
+        {
+          "label": "Motion graphics",
+          "query": "motion graphics workflow tutorial"
+        }
+      ]
+    },
+    {
+      "id": "music-audio",
+      "name": "Music + Audio",
+      "description": "Production, recording, mixing, plugins, sound design and new music-creation workflows.",
+      "topics": [
+        {
+          "label": "Ableton Live",
+          "query": "Ableton Live new tools tutorial music production"
+        },
+        {
+          "label": "FL Studio",
+          "query": "FL Studio new tools tutorial music production"
+        },
+        {
+          "label": "Logic Pro",
+          "query": "Logic Pro new tools tutorial music production"
+        },
+        {
+          "label": "Pro Tools",
+          "query": "Pro Tools new features tutorial music"
+        },
+        {
+          "label": "Free VSTs",
+          "query": "best new free VST plugins tutorial"
+        },
+        {
+          "label": "Mixing",
+          "query": "mixing workflow tutorial music producers"
+        },
+        {
+          "label": "Vocal production",
+          "query": "vocal production workflow tutorial"
+        },
+        {
+          "label": "AI music tools",
+          "query": "AI music tools workflow tutorial producers"
+        }
+      ]
+    },
+    {
+      "id": "coding-web",
+      "name": "Coding + Web",
+      "description": "Vibe coding, web development, AI coding agents, frameworks and practical automation.",
+      "topics": [
+        {
+          "label": "Claude Code",
+          "query": "Claude Code workflow tutorial coding"
+        },
+        {
+          "label": "Codex",
+          "query": "OpenAI Codex coding workflow tutorial"
+        },
+        {
+          "label": "Cursor",
+          "query": "Cursor AI coding workflow tutorial"
+        },
+        {
+          "label": "VS Code",
+          "query": "VS Code new extensions developer workflow"
+        },
+        {
+          "label": "JavaScript",
+          "query": "modern JavaScript web development tutorial"
+        },
+        {
+          "label": "React",
+          "query": "React new features tutorial web development"
+        },
+        {
+          "label": "Automation",
+          "query": "coding automation workflow creators tutorial"
+        },
+        {
+          "label": "Web design coding",
+          "query": "creative coding web design tutorial"
+        }
+      ]
+    },
+    {
+      "id": "game-dev",
+      "name": "Game Development",
+      "description": "Engines, level design, shaders, procedural systems, game art and indie workflows.",
+      "topics": [
+        {
+          "label": "Unreal Engine",
+          "query": "Unreal Engine new tools game dev tutorial"
+        },
+        {
+          "label": "Unity",
+          "query": "Unity new tools game dev tutorial"
+        },
+        {
+          "label": "Godot",
+          "query": "Godot new tools game dev tutorial"
+        },
+        {
+          "label": "Procedural worlds",
+          "query": "procedural generation game dev tutorial"
+        },
+        {
+          "label": "Shaders",
+          "query": "game shader tutorial Unreal Unity Godot"
+        },
+        {
+          "label": "Game AI",
+          "query": "game AI development tutorial"
+        },
+        {
+          "label": "Level design",
+          "query": "level design workflow game dev tutorial"
+        },
+        {
+          "label": "Indie dev",
+          "query": "indie game development workflow tutorial"
+        }
+      ]
+    },
+    {
+      "id": "photography",
+      "name": "Photography",
+      "description": "Editing, lighting, cameras, retouching and practical photography workflows.",
+      "topics": [
+        {
+          "label": "Lightroom",
+          "query": "Lightroom new tools tutorial photography"
+        },
+        {
+          "label": "Photo editing",
+          "query": "photo editing workflow tutorial photographers"
+        },
+        {
+          "label": "Retouching",
+          "query": "photo retouching workflow tutorial"
+        },
+        {
+          "label": "Lighting",
+          "query": "photography lighting tutorial creators"
+        },
+        {
+          "label": "Camera tools",
+          "query": "new camera gear workflow photographers"
+        },
+        {
+          "label": "Composition",
+          "query": "photography composition tutorial"
+        },
+        {
+          "label": "Color workflow",
+          "query": "photography color grading workflow tutorial"
+        },
+        {
+          "label": "AI photography",
+          "query": "AI photography tools workflow tutorial"
+        }
+      ]
+    },
+    {
+      "id": "content-creation",
+      "name": "Content Creation",
+      "description": "Creator workflows for YouTube, social, streaming, thumbnails, storytelling and audience growth.",
+      "topics": [
+        {
+          "label": "YouTube workflow",
+          "query": "YouTube creator workflow tools tutorial"
+        },
+        {
+          "label": "Thumbnails",
+          "query": "YouTube thumbnail design tutorial creators"
+        },
+        {
+          "label": "Short-form video",
+          "query": "short form video editing workflow creators"
+        },
+        {
+          "label": "Streaming",
+          "query": "streaming setup workflow creators tutorial"
+        },
+        {
+          "label": "Creator tools",
+          "query": "new creator tools content creation tutorial"
+        },
+        {
+          "label": "Storytelling",
+          "query": "video storytelling tutorial content creators"
+        },
+        {
+          "label": "Podcasting",
+          "query": "podcast creator workflow tools tutorial"
+        },
+        {
+          "label": "Social workflow",
+          "query": "social media content workflow tools creators"
+        }
+      ]
+    },
+    {
+      "id": "maker-printing",
+      "name": "Maker + 3D Printing",
+      "description": "3D printing, laser, CAD, fabrication and practical maker workflows.",
+      "topics": [
+        {
+          "label": "Bambu Lab",
+          "query": "Bambu Lab 3D printing tutorial new tools"
+        },
+        {
+          "label": "3D printing",
+          "query": "3D printing new tools workflow tutorial"
+        },
+        {
+          "label": "CAD",
+          "query": "CAD modeling tutorial makers 3D printing"
+        },
+        {
+          "label": "Fusion",
+          "query": "Fusion 360 new tools tutorial makers"
+        },
+        {
+          "label": "FreeCAD",
+          "query": "FreeCAD new tools tutorial"
+        },
+        {
+          "label": "Laser engraving",
+          "query": "laser engraving workflow tutorial makers"
+        },
+        {
+          "label": "Print finishing",
+          "query": "3D print finishing tutorial"
+        },
+        {
+          "label": "Functional prints",
+          "query": "functional 3D printing design tutorial"
+        }
+      ]
+    }
+  ]
+}
