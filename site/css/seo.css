@@ -51,3 +51,59 @@
   transition:transform .15s ease,filter .15s ease;
 }
 .ellis-footer-button:hover{transform:translateY(-1px);filter:brightness(.94);}
+
+
+
+/* 2026 Glass Plate visual upgrade for Explore / Guides / Categories */
+body{
+  background:
+    radial-gradient(circle at 10% 5%,rgba(255,255,255,.94),transparent 29%),
+    radial-gradient(circle at 91% 14%,rgba(236,142,91,.11),transparent 24%),
+    radial-gradient(circle at 55% 75%,rgba(202,216,232,.09),transparent 32%),
+    linear-gradient(135deg,#fbfaf8,#f7f4f0 55%,#faf8f5);
+  background-attachment:fixed;
+}
+.seo-header{
+  background:rgba(251,249,246,.66) !important;
+  backdrop-filter:blur(22px) saturate(1.22) !important;
+  -webkit-backdrop-filter:blur(22px) saturate(1.22) !important;
+  border-bottom-color:rgba(255,255,255,.62) !important;
+}
+.explore-card,.seo-card,.seo-info,.seo-resource-dialog,.link-cloud a,
+.secondary,.seo-nav .nav-explore.active{
+  position:relative;
+  overflow:hidden;
+  background:linear-gradient(145deg,rgba(255,255,255,.72),rgba(255,255,255,.34)) !important;
+  border-color:rgba(184,178,169,.44) !important;
+  box-shadow:0 12px 34px rgba(50,40,29,.07),inset 0 1px 0 rgba(255,255,255,.96),inset 0 -1px 0 rgba(255,255,255,.26);
+  backdrop-filter:blur(18px) saturate(1.18);
+  -webkit-backdrop-filter:blur(18px) saturate(1.18);
+}
+.explore-card::before,.seo-card::before,.seo-info::before{
+  content:"";position:absolute;pointer-events:none;inset:1px;border-radius:inherit;
+  border-top:1px solid rgba(255,255,255,.96);border-left:1px solid rgba(255,255,255,.55);
+}
+.explore-card::after,.seo-card::after{
+  content:"";position:absolute;pointer-events:none;width:42%;height:150%;left:-20%;top:-30%;
+  transform:rotate(19deg);background:linear-gradient(90deg,transparent,rgba(255,255,255,.30),transparent);opacity:.44;
+}
+.explore-card:hover,.seo-card:hover,.link-cloud a:hover{
+  border-color:rgba(216,84,22,.27) !important;
+  box-shadow:0 18px 42px rgba(50,40,29,.10),0 0 0 1px rgba(216,84,22,.06),inset 0 1px 0 #fff;
+}
+.cta{
+  position:relative;overflow:hidden;
+  background:linear-gradient(145deg,#ef641f,#d54c0d) !important;
+  border:1px solid rgba(255,255,255,.44);
+  box-shadow:0 9px 22px rgba(216,84,22,.20),inset 0 1px 0 rgba(255,255,255,.46),inset 0 -1px 0 rgba(120,39,4,.18);
+}
+.cta::before,.secondary::before{
+  content:"";position:absolute;top:0;left:8%;right:8%;height:42%;pointer-events:none;border-radius:999px;
+  background:linear-gradient(to bottom,rgba(255,255,255,.38),transparent);
+}
+.secondary{box-shadow:0 7px 20px rgba(48,39,30,.06),inset 0 1px 0 rgba(255,255,255,.96);}
+.seo-detail-visit{
+  background:linear-gradient(145deg,#ef641f,#d54c0d) !important;
+  border:1px solid rgba(255,255,255,.40);
+  box-shadow:0 8px 20px rgba(216,84,22,.18),inset 0 1px 0 rgba(255,255,255,.42);
+}
