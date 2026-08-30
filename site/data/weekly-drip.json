@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T12:41:13.985Z",
+  "updatedAt": "2026-08-30T16:13:00.793Z",
   "windowDays": 21,
   "methodology": "Fresh YouTube videos are ranked by view velocity, engagement, recency and topical relevance. Channel repetition is limited for variety.",
   "categories": [
@@ -9,248 +9,246 @@
       "description": "Fresh AI workflows, image/video generators, creative agents and practical automation.",
       "topics": [
         {
-          "label": "ComfyUI",
-          "score": 1324.69,
-          "videoCount": 15
-        },
-        {
-          "label": "Generative image",
-          "score": 1283.08,
-          "videoCount": 15
+          "label": "AI video",
+          "score": 1356.11,
+          "videoCount": 14
         },
         {
           "label": "AI design workflow",
-          "score": 1282.75,
+          "score": 1339.7,
+          "videoCount": 15
+        },
+        {
+          "label": "ComfyUI",
+          "score": 1314.11,
           "videoCount": 15
         },
         {
           "label": "Creative agents",
-          "score": 1199.06,
+          "score": 1198.47,
           "videoCount": 15
         },
         {
-          "label": "AI video",
-          "score": 1197.82,
+          "label": "Generative image",
+          "score": 1195.75,
           "videoCount": 15
         },
         {
           "label": "AI creative tools",
-          "score": 854.48,
-          "videoCount": 11
+          "score": 803.47,
+          "videoCount": 9
         },
         {
           "label": "Adobe Firefly",
-          "score": 306.25,
-          "videoCount": 5
+          "score": 398.28,
+          "videoCount": 4
         },
         {
           "label": "Local AI",
-          "score": 201.17,
-          "videoCount": 3
+          "score": 101.93,
+          "videoCount": 2
         }
       ],
       "videos": [
         {
-          "videoId": "ig3PUfSow5Y",
-          "title": "The FASTEST local AI video generator",
-          "channelId": "UCIgnGlGkVRhd4qNFcEwLL4A",
-          "channelTitle": "AI Search",
-          "publishedAt": "2026-08-18T03:30:45Z",
-          "thumbnail": "https://i.ytimg.com/vi/ig3PUfSow5Y/maxresdefault.jpg",
-          "durationSeconds": 1025,
-          "duration": "17:05",
-          "views": 114212,
-          "likes": 2792,
-          "comments": 474,
-          "viewsPerDay": 21220,
-          "score": 149.84,
-          "topics": [
-            "ComfyUI"
-          ],
-          "primaryTopic": "ComfyUI",
-          "url": "https://www.youtube.com/watch?v=ig3PUfSow5Y"
-        },
-        {
-          "videoId": "VwGrXe2ricE",
-          "title": "Claude Design Now Builds Beautiful $10,000 Websites (NO AI Slop)",
-          "channelId": "UCxVxcTULO9cFU6SB9qVaisQ",
-          "channelTitle": "Jack Roberts",
-          "publishedAt": "2026-08-17T21:48:52Z",
-          "thumbnail": "https://i.ytimg.com/vi/VwGrXe2ricE/maxresdefault.jpg",
-          "durationSeconds": 1338,
-          "duration": "22:18",
-          "views": 94412,
-          "likes": 2956,
-          "comments": 149,
-          "viewsPerDay": 16800,
-          "score": 145.99,
-          "topics": [
-            "AI design workflow"
-          ],
-          "primaryTopic": "AI design workflow",
-          "url": "https://www.youtube.com/watch?v=VwGrXe2ricE"
-        },
-        {
-          "videoId": "UuSp-Pu7UDo",
-          "title": "Create LONG AI VIDEOS 🚀 Seedance 2.5 1080p Quality ✅  #ai #aivideo",
-          "channelId": "UCqtMrF1ZSr5sPX1vgoPIefw",
-          "channelTitle": "Raj Photo Editing and Much More",
-          "publishedAt": "2026-08-17T14:14:26Z",
-          "thumbnail": "https://i.ytimg.com/vi/UuSp-Pu7UDo/maxresdefault.jpg",
-          "durationSeconds": 665,
-          "duration": "11:05",
-          "views": 67892,
-          "likes": 2414,
-          "comments": 149,
-          "viewsPerDay": 11439,
-          "score": 141.17,
-          "topics": [
-            "Generative image"
-          ],
-          "primaryTopic": "Generative image",
-          "url": "https://www.youtube.com/watch?v=UuSp-Pu7UDo"
-        },
-        {
-          "videoId": "cNaOJg47Z2A",
-          "title": "ComfyUI Just Passed Higgsfield - ComfyUI Official MCP",
-          "channelId": "UCSv7PmCe3HDEOZfCa7ByhnA",
-          "channelTitle": "Silent Snow",
-          "publishedAt": "2026-08-18T22:53:22Z",
-          "thumbnail": "https://i.ytimg.com/vi/cNaOJg47Z2A/maxresdefault.jpg",
-          "durationSeconds": 1101,
-          "duration": "18:21",
-          "views": 24849,
-          "likes": 813,
-          "comments": 90,
-          "viewsPerDay": 5432,
-          "score": 138.74,
-          "topics": [
-            "ComfyUI"
-          ],
-          "primaryTopic": "ComfyUI",
-          "url": "https://www.youtube.com/watch?v=cNaOJg47Z2A"
-        },
-        {
-          "videoId": "HJ8ymaTQeJA",
-          "title": "AI Website Builder 2026: Runable AI, App Builder, Slides & Videos?",
-          "channelId": "UCzxFax651goTyBEjmk-Ti-Q",
-          "channelTitle": "AI Media Lab",
-          "publishedAt": "2026-08-18T15:03:22Z",
-          "thumbnail": "https://i.ytimg.com/vi/HJ8ymaTQeJA/maxresdefault.jpg",
-          "durationSeconds": 231,
-          "duration": "3:51",
-          "views": 42722,
-          "likes": 249,
-          "comments": 26,
-          "viewsPerDay": 8716,
-          "score": 135.81,
-          "topics": [
-            "AI video",
-            "Creative agents"
-          ],
-          "primaryTopic": "AI video",
-          "url": "https://www.youtube.com/watch?v=HJ8ymaTQeJA"
-        },
-        {
-          "videoId": "0lNPSC50xLU",
-          "title": "【Adobe】2026年最新生成クレジット徹底解説【Firefly/Photoshop/Illustratorなど生成AI利用に必須】",
-          "channelId": "UCmCcoVD8ya5ie59lfrbWkWg",
-          "channelTitle": "Mappy Photo",
-          "publishedAt": "2026-08-22T11:00:21Z",
-          "thumbnail": "https://i.ytimg.com/vi/0lNPSC50xLU/maxresdefault.jpg",
-          "durationSeconds": 814,
-          "duration": "13:34",
-          "views": 1347,
-          "likes": 57,
-          "comments": 4,
-          "viewsPerDay": 1259,
-          "score": 135.05,
-          "topics": [
-            "Adobe Firefly"
-          ],
-          "primaryTopic": "Adobe Firefly",
-          "url": "https://www.youtube.com/watch?v=0lNPSC50xLU"
-        },
-        {
-          "videoId": "WSnyOQkENl4",
-          "title": "CapCut Seedance 2.5 1080p Tutorial: Turn ONE Image Into a 30-Second AI Product Ad in CapCut PC",
-          "channelId": "UCLjuoEeCf_lsKyNgq-JOGhQ",
-          "channelTitle": "BMF MEDIA",
-          "publishedAt": "2026-08-17T09:03:06Z",
-          "thumbnail": "https://i.ytimg.com/vi/WSnyOQkENl4/maxresdefault.jpg",
-          "durationSeconds": 604,
-          "duration": "10:04",
-          "views": 66215,
-          "likes": 1317,
-          "comments": 181,
-          "viewsPerDay": 10764,
-          "score": 133.73,
-          "topics": [
-            "Generative image"
-          ],
-          "primaryTopic": "Generative image",
-          "url": "https://www.youtube.com/watch?v=WSnyOQkENl4"
-        },
-        {
-          "videoId": "ZNQomkxyvoA",
-          "title": "Lovart AI Tutorial: Build a Complete Brand, Marketing Assets & Video From Scratch",
-          "channelId": "UCU-JM9kODdJWmpM94L57Xog",
-          "channelTitle": "Ryan Collins",
-          "publishedAt": "2026-08-19T03:24:38Z",
-          "thumbnail": "https://i.ytimg.com/vi/ZNQomkxyvoA/maxresdefault.jpg",
-          "durationSeconds": 522,
-          "duration": "8:42",
-          "views": 37573,
-          "likes": 171,
-          "comments": 37,
-          "viewsPerDay": 8565,
-          "score": 132.67,
+          "videoId": "VzrTowgjgGw",
+          "title": "Google Just Made BULK AI Videos FREE & UNLIMITED | Automation 2.0",
+          "channelId": "UCcZdLkiPWVi7aN1iLS5Fz3A",
+          "channelTitle": "Automation Xpert",
+          "publishedAt": "2026-08-29T09:56:22Z",
+          "thumbnail": "https://i.ytimg.com/vi/VzrTowgjgGw/maxresdefault.jpg",
+          "durationSeconds": 957,
+          "duration": "15:57",
+          "views": 13198,
+          "likes": 447,
+          "comments": 63,
+          "viewsPerDay": 10461,
+          "score": 165.58,
           "topics": [
             "Creative agents"
           ],
           "primaryTopic": "Creative agents",
-          "url": "https://www.youtube.com/watch?v=ZNQomkxyvoA"
+          "url": "https://www.youtube.com/watch?v=VzrTowgjgGw"
         },
         {
-          "videoId": "1VhMmgL_Gx8",
-          "title": "Become An Eden Expert in 1 Hour (The Second Brain For Creators)",
-          "channelId": "UCey5S8ga1ncri-XjDsb37Qw",
-          "channelTitle": "Eden",
-          "publishedAt": "2026-08-18T16:45:31Z",
-          "thumbnail": "https://i.ytimg.com/vi/1VhMmgL_Gx8/maxresdefault.jpg",
-          "durationSeconds": 3716,
-          "duration": "1:01:56",
-          "views": 13063,
-          "likes": 632,
-          "comments": 39,
-          "viewsPerDay": 2704,
-          "score": 132.43,
+          "videoId": "vPY1tG4XnCY",
+          "title": "ComfyUI MiniMax H3 Speed LoRA + VRAM Monitor Nodes (Ep32)",
+          "channelId": "UCmMbwA-s3GZDKVzGZ-kPwaQ",
+          "channelTitle": "pixaroma",
+          "publishedAt": "2026-08-26T15:00:39Z",
+          "thumbnail": "https://i.ytimg.com/vi/vPY1tG4XnCY/maxresdefault.jpg",
+          "durationSeconds": 1023,
+          "duration": "17:03",
+          "views": 22555,
+          "likes": 720,
+          "comments": 161,
+          "viewsPerDay": 5569,
+          "score": 144.31,
+          "topics": [
+            "ComfyUI"
+          ],
+          "primaryTopic": "ComfyUI",
+          "url": "https://www.youtube.com/watch?v=vPY1tG4XnCY"
+        },
+        {
+          "videoId": "o7VJnIN31Ds",
+          "title": "Best 3D AI Generator Now Runs Natively in ComfyUI! (Free&Local)",
+          "channelId": "UCRGb8yCnI5-upL3hT4oiOZw",
+          "channelTitle": "PixelArtistry",
+          "publishedAt": "2026-08-26T14:03:12Z",
+          "thumbnail": "https://i.ytimg.com/vi/o7VJnIN31Ds/maxresdefault.jpg",
+          "durationSeconds": 839,
+          "duration": "13:59",
+          "views": 32850,
+          "likes": 924,
+          "comments": 91,
+          "viewsPerDay": 8031,
+          "score": 144.17,
+          "topics": [
+            "ComfyUI"
+          ],
+          "primaryTopic": "ComfyUI",
+          "url": "https://www.youtube.com/watch?v=o7VJnIN31Ds"
+        },
+        {
+          "videoId": "Ysr7oNDajJI",
+          "title": "Insane Claude Design Skills You Need To Actually Build Beautiful Sites",
+          "channelId": "UCelfWQr9sXVMTvBzviPGlFw",
+          "channelTitle": "AI LABS",
+          "publishedAt": "2026-08-24T15:00:14Z",
+          "thumbnail": "https://i.ytimg.com/vi/Ysr7oNDajJI/maxresdefault.jpg",
+          "durationSeconds": 775,
+          "duration": "12:55",
+          "views": 95330,
+          "likes": 3069,
+          "comments": 57,
+          "viewsPerDay": 15755,
+          "score": 142.2,
+          "topics": [
+            "AI design workflow"
+          ],
+          "primaryTopic": "AI design workflow",
+          "url": "https://www.youtube.com/watch?v=Ysr7oNDajJI"
+        },
+        {
+          "videoId": "3_-IYHaiPY8",
+          "title": "Crun AI Infinite Canvas: Build Your Own AI Creative Workflow! 🔥",
+          "channelId": "UC3kqWPpoSzyqSDUY6atmCYw",
+          "channelTitle": "Tech Point",
+          "publishedAt": "2026-08-27T01:51:15Z",
+          "thumbnail": "https://i.ytimg.com/vi/3_-IYHaiPY8/maxresdefault.jpg",
+          "durationSeconds": 252,
+          "duration": "4:12",
+          "views": 15227,
+          "likes": 480,
+          "comments": 37,
+          "viewsPerDay": 4231,
+          "score": 138.65,
           "topics": [
             "AI creative tools"
           ],
           "primaryTopic": "AI creative tools",
-          "url": "https://www.youtube.com/watch?v=1VhMmgL_Gx8"
+          "url": "https://www.youtube.com/watch?v=3_-IYHaiPY8"
         },
         {
-          "videoId": "U9Oz1DgJlTg",
-          "title": "This DaVinci Resolve Plugin Just Replaced EVERY AI Platform (Cloud & Free GPU)",
-          "channelId": "UCb_VQGXmXhlldzV4fvTbRFw",
-          "channelTitle": "Kevin Vandermarliere",
-          "publishedAt": "2026-08-14T15:41:45Z",
-          "thumbnail": "https://i.ytimg.com/vi/U9Oz1DgJlTg/maxresdefault.jpg",
-          "durationSeconds": 1014,
-          "duration": "16:54",
-          "views": 57039,
-          "likes": 2336,
-          "comments": 273,
-          "viewsPerDay": 6427,
-          "score": 125.4,
+          "videoId": "5RR9NfTLZX4",
+          "title": "Create 30 Minute Long AI Videos for FREE Like @sarvatrahindutva | Full Workflow",
+          "channelId": "UC7SwCtUnwLSoTfb-JgMZSOQ",
+          "channelTitle": "Hindi AI Gyaan",
+          "publishedAt": "2026-08-24T02:00:06Z",
+          "thumbnail": "https://i.ytimg.com/vi/5RR9NfTLZX4/maxresdefault.jpg",
+          "durationSeconds": 742,
+          "duration": "12:22",
+          "views": 97325,
+          "likes": 2111,
+          "comments": 246,
+          "viewsPerDay": 14763,
+          "score": 135.75,
           "topics": [
-            "Generative image",
-            "ComfyUI"
+            "AI video"
+          ],
+          "primaryTopic": "AI video",
+          "url": "https://www.youtube.com/watch?v=5RR9NfTLZX4"
+        },
+        {
+          "videoId": "x2xT57-n5UI",
+          "title": "【1本で全てわかる】商用利用にオススメ！Adobe Fireflyの使い方・初心者入門講座。（AI画像生成・AI動画生成）",
+          "channelId": "UCgwv7JsLDvGTtRdFI4TVRQw",
+          "channelTitle": "ハム先生のAI教室【AI動画の実務活用】",
+          "publishedAt": "2026-08-30T00:07:09Z",
+          "thumbnail": "https://i.ytimg.com/vi/x2xT57-n5UI/maxresdefault.jpg",
+          "durationSeconds": 1973,
+          "duration": "32:53",
+          "views": 2084,
+          "likes": 13,
+          "comments": 2,
+          "viewsPerDay": 3107,
+          "score": 131.33,
+          "topics": [
+            "Adobe Firefly"
+          ],
+          "primaryTopic": "Adobe Firefly",
+          "url": "https://www.youtube.com/watch?v=x2xT57-n5UI"
+        },
+        {
+          "videoId": "ip--ep6P8rA",
+          "title": "Tripo 3D Review: Generate AI 3D Models from Text & Images | Full Workflow Guide",
+          "channelId": "UC-L21TsMrrz68SM7zNmpejQ",
+          "channelTitle": "Tech Explorer AI",
+          "publishedAt": "2026-08-26T05:51:17Z",
+          "thumbnail": "https://i.ytimg.com/vi/ip--ep6P8rA/maxresdefault.jpg",
+          "durationSeconds": 335,
+          "duration": "5:35",
+          "views": 24132,
+          "likes": 322,
+          "comments": 38,
+          "viewsPerDay": 5445,
+          "score": 130.16,
+          "topics": [
+            "Generative image"
           ],
           "primaryTopic": "Generative image",
-          "url": "https://www.youtube.com/watch?v=U9Oz1DgJlTg"
+          "url": "https://www.youtube.com/watch?v=ip--ep6P8rA"
+        },
+        {
+          "videoId": "2b_N538bR7k",
+          "title": "OiiOii AI Skill Maker Review: Turn Any Workflow Into a Reusable AI Skill",
+          "channelId": "UCU7mV4u1ZErUyN9Urn--R5Q",
+          "channelTitle": "TheTech",
+          "publishedAt": "2026-08-25T09:33:54Z",
+          "thumbnail": "https://i.ytimg.com/vi/2b_N538bR7k/maxresdefault.jpg",
+          "durationSeconds": 413,
+          "duration": "6:53",
+          "views": 10106,
+          "likes": 875,
+          "comments": 17,
+          "viewsPerDay": 1915,
+          "score": 125.57,
+          "topics": [
+            "AI creative tools"
+          ],
+          "primaryTopic": "AI creative tools",
+          "url": "https://www.youtube.com/watch?v=2b_N538bR7k"
+        },
+        {
+          "videoId": "7RUxFPImVkQ",
+          "title": "Create Ghibli Style AI Videos For FREE ! 🔥 ( Full Tutorial  )",
+          "channelId": "UCRhZl0o23Nq5z9HdK9KmMKw",
+          "channelTitle": "TubeXp",
+          "publishedAt": "2026-08-23T02:30:02Z",
+          "thumbnail": "https://i.ytimg.com/vi/7RUxFPImVkQ/maxresdefault.jpg",
+          "durationSeconds": 697,
+          "duration": "11:37",
+          "views": 51310,
+          "likes": 1326,
+          "comments": 344,
+          "viewsPerDay": 6777,
+          "score": 124.96,
+          "topics": [
+            "AI design workflow"
+          ],
+          "primaryTopic": "AI design workflow",
+          "url": "https://www.youtube.com/watch?v=7RUxFPImVkQ"
         }
       ]
     },
@@ -260,47 +258,167 @@
       "description": "Design software, typography, branding, illustration and production techniques worth learning now.",
       "topics": [
         {
-          "label": "Brand identity",
-          "score": 830.92,
-          "videoCount": 9
-        },
-        {
           "label": "Mockups",
-          "score": 691.66,
+          "score": 721.04,
           "videoCount": 10
         },
         {
-          "label": "Photoshop",
-          "score": 429.82,
-          "videoCount": 5
+          "label": "Brand identity",
+          "score": 582.54,
+          "videoCount": 7
         },
         {
           "label": "Digital illustration",
-          "score": 380.6,
-          "videoCount": 3
+          "score": 517.96,
+          "videoCount": 5
+        },
+        {
+          "label": "Photoshop",
+          "score": 496.47,
+          "videoCount": 7
         },
         {
           "label": "Logo design",
-          "score": 198.2,
-          "videoCount": 2
+          "score": 388.25,
+          "videoCount": 5
         },
         {
           "label": "Typography",
-          "score": 70.72,
+          "score": 190.59,
+          "videoCount": 2
+        },
+        {
+          "label": "Illustrator",
+          "score": 128.07,
           "videoCount": 1
         },
         {
           "label": "Affinity",
-          "score": 59.22,
-          "videoCount": 1
-        },
-        {
-          "label": "Illustrator",
-          "score": 56.12,
+          "score": 40.01,
           "videoCount": 1
         }
       ],
       "videos": [
+        {
+          "videoId": "9umdlTXLnwY",
+          "title": "Digital Arabic Calligraphy | Adobe Illustrator | Crash Course Day 2",
+          "channelId": "UCB-RrcoCjPoRvVukFID_a6g",
+          "channelTitle": "Ammar Designz Creative Studio ",
+          "publishedAt": "2026-08-25T09:40:08Z",
+          "thumbnail": "https://i.ytimg.com/vi/9umdlTXLnwY/sddefault.jpg",
+          "durationSeconds": 1413,
+          "duration": "23:33",
+          "views": 40497,
+          "likes": 386,
+          "comments": 4,
+          "viewsPerDay": 7680,
+          "score": 128.07,
+          "topics": [
+            "Illustrator"
+          ],
+          "primaryTopic": "Illustrator",
+          "url": "https://www.youtube.com/watch?v=9umdlTXLnwY"
+        },
+        {
+          "videoId": "aUGWfZq0m5c",
+          "title": "HOW I RENDER in 4 STEPS! | My full process sketch to render in CSP",
+          "channelId": "UC1epN3_GlrL3I3AMBY_ucXw",
+          "channelTitle": "toriumu",
+          "publishedAt": "2026-08-23T10:22:08Z",
+          "thumbnail": "https://i.ytimg.com/vi/aUGWfZq0m5c/maxresdefault.jpg",
+          "durationSeconds": 924,
+          "duration": "15:24",
+          "views": 32623,
+          "likes": 2572,
+          "comments": 89,
+          "viewsPerDay": 4504,
+          "score": 126.12,
+          "topics": [
+            "Digital illustration"
+          ],
+          "primaryTopic": "Digital illustration",
+          "url": "https://www.youtube.com/watch?v=aUGWfZq0m5c"
+        },
+        {
+          "videoId": "5g-nNJ9WZaQ",
+          "title": "Packify AI Tutorial: Design Professional Packaging Design in Minutes",
+          "channelId": "UCjnzUpn_3T7h9OC_YyV00Yg",
+          "channelTitle": "Design Academy",
+          "publishedAt": "2026-08-27T14:53:28Z",
+          "thumbnail": "https://i.ytimg.com/vi/5g-nNJ9WZaQ/maxresdefault.jpg",
+          "durationSeconds": 539,
+          "duration": "8:59",
+          "views": 5827,
+          "likes": 98,
+          "comments": 16,
+          "viewsPerDay": 1907,
+          "score": 123.61,
+          "topics": [
+            "Mockups"
+          ],
+          "primaryTopic": "Mockups",
+          "url": "https://www.youtube.com/watch?v=5g-nNJ9WZaQ"
+        },
+        {
+          "videoId": "wbfX5jbXC7o",
+          "title": "Photoshop painting process - Emerald2-3",
+          "channelId": "UCPa7bvOg_r54NaQb7GJA9Eg",
+          "channelTitle": "WLOP",
+          "publishedAt": "2026-08-22T03:46:19Z",
+          "thumbnail": "https://i.ytimg.com/vi/wbfX5jbXC7o/maxresdefault.jpg",
+          "durationSeconds": 471,
+          "duration": "7:51",
+          "views": 24924,
+          "likes": 2618,
+          "comments": 81,
+          "viewsPerDay": 2926,
+          "score": 113.96,
+          "topics": [
+            "Digital illustration"
+          ],
+          "primaryTopic": "Digital illustration",
+          "url": "https://www.youtube.com/watch?v=wbfX5jbXC7o"
+        },
+        {
+          "videoId": "YO6Dnoq--bQ",
+          "title": "How REFLECTED LIGHT makes your Coloring POP✨[Digital Drawing Tutorial]",
+          "channelId": "UC4SwwK7ooyuDrmBROndfRXw",
+          "channelTitle": "kuroshiro",
+          "publishedAt": "2026-08-21T13:00:11Z",
+          "thumbnail": "https://i.ytimg.com/vi/YO6Dnoq--bQ/maxresdefault.jpg",
+          "durationSeconds": 601,
+          "duration": "10:01",
+          "views": 21904,
+          "likes": 2882,
+          "comments": 131,
+          "viewsPerDay": 2398,
+          "score": 108.38,
+          "topics": [
+            "Digital illustration"
+          ],
+          "primaryTopic": "Digital illustration",
+          "url": "https://www.youtube.com/watch?v=YO6Dnoq--bQ"
+        },
+        {
+          "videoId": "OSbunLYHRKQ",
+          "title": "I Improved and Redesigned Your Worst Thumbnails To Save Them.",
+          "channelId": "UCkK8gZ4GtSa3JjbNabJci3Q",
+          "channelTitle": "Creative Mind new journey",
+          "publishedAt": "2026-08-20T06:45:38Z",
+          "thumbnail": "https://i.ytimg.com/vi/OSbunLYHRKQ/maxresdefault.jpg",
+          "durationSeconds": 872,
+          "duration": "14:32",
+          "views": 45610,
+          "likes": 1597,
+          "comments": 155,
+          "viewsPerDay": 4388,
+          "score": 104.95,
+          "topics": [
+            "Typography"
+          ],
+          "primaryTopic": "Typography",
+          "url": "https://www.youtube.com/watch?v=OSbunLYHRKQ"
+        },
         {
           "videoId": "QDz6q8eB_uw",
           "title": "How to Create Moodboard | Brand Design Process",
@@ -310,197 +428,77 @@
           "thumbnail": "https://i.ytimg.com/vi/QDz6q8eB_uw/maxresdefault.jpg",
           "durationSeconds": 1023,
           "duration": "17:03",
-          "views": 4110,
-          "likes": 338,
-          "comments": 42,
-          "viewsPerDay": 2201,
-          "score": 142.84,
-          "topics": [
-            "Brand identity"
-          ],
-          "primaryTopic": "Brand identity",
-          "url": "https://www.youtube.com/watch?v=QDz6q8eB_uw"
-        },
-        {
-          "videoId": "ZNQomkxyvoA",
-          "title": "Lovart AI Tutorial: Build a Complete Brand, Marketing Assets & Video From Scratch",
-          "channelId": "UCU-JM9kODdJWmpM94L57Xog",
-          "channelTitle": "Ryan Collins",
-          "publishedAt": "2026-08-19T03:24:38Z",
-          "thumbnail": "https://i.ytimg.com/vi/ZNQomkxyvoA/maxresdefault.jpg",
-          "durationSeconds": 522,
-          "duration": "8:42",
-          "views": 37573,
-          "likes": 171,
-          "comments": 37,
-          "viewsPerDay": 8565,
-          "score": 137.98,
+          "views": 9992,
+          "likes": 527,
+          "comments": 109,
+          "viewsPerDay": 1108,
+          "score": 104.44,
           "topics": [
             "Brand identity",
             "Logo design"
           ],
           "primaryTopic": "Brand identity",
-          "url": "https://www.youtube.com/watch?v=ZNQomkxyvoA"
+          "url": "https://www.youtube.com/watch?v=QDz6q8eB_uw"
         },
         {
-          "videoId": "GQVG8OeBv4o",
-          "title": "Easy Digital Coloring Process for Beginners | Anime Art Rendering Workflow #howtodraw #shorts #art",
-          "channelId": "UCHrgtKR4Rl1MGpilyRNRGKQ",
-          "channelTitle": "Fiora | Chinese Art Tutorials (Eng Sub)",
-          "publishedAt": "2026-08-17T16:00:12Z",
-          "thumbnail": "https://i.ytimg.com/vi/GQVG8OeBv4o/maxresdefault.jpg",
-          "durationSeconds": 180,
-          "duration": "3:00",
-          "views": 18566,
-          "likes": 4347,
-          "comments": 16,
-          "viewsPerDay": 3167,
-          "score": 129.21,
-          "topics": [
-            "Digital illustration"
-          ],
-          "primaryTopic": "Digital illustration",
-          "url": "https://www.youtube.com/watch?v=GQVG8OeBv4o"
-        },
-        {
-          "videoId": "glVreeytrYM",
-          "title": "BILLY DEADLOCK SPEEDPAINT Timelapse Painting Process",
-          "channelId": "UCLpd7CJ_LbuBP5J8ZO4c7QQ",
-          "channelTitle": "BlancWS",
-          "publishedAt": "2026-08-17T02:00:09Z",
-          "thumbnail": "https://i.ytimg.com/vi/glVreeytrYM/maxresdefault.jpg",
-          "durationSeconds": 1262,
-          "duration": "21:02",
-          "views": 22565,
-          "likes": 2326,
-          "comments": 74,
-          "viewsPerDay": 3501,
-          "score": 127.38,
-          "topics": [
-            "Digital illustration"
-          ],
-          "primaryTopic": "Digital illustration",
-          "url": "https://www.youtube.com/watch?v=glVreeytrYM"
-        },
-        {
-          "videoId": "14AqdiCojVo",
-          "title": "Witch Hat Atelier digital painting process: tough lessons learned",
-          "channelId": "UCjVX8mbptBpoxbGgBQnEZEQ",
-          "channelTitle": "qrbits",
-          "publishedAt": "2026-08-17T13:00:22Z",
-          "thumbnail": "https://i.ytimg.com/vi/14AqdiCojVo/maxresdefault.jpg",
-          "durationSeconds": 1516,
-          "duration": "25:16",
-          "views": 13336,
-          "likes": 1385,
-          "comments": 26,
-          "viewsPerDay": 2228,
-          "score": 124.01,
-          "topics": [
-            "Digital illustration"
-          ],
-          "primaryTopic": "Digital illustration",
-          "url": "https://www.youtube.com/watch?v=14AqdiCojVo"
-        },
-        {
-          "videoId": "9mX_aRONEm8",
-          "title": "The NEW Way To Create T-Shirt Designs in Seconds (AI Workflows Tutorial)",
-          "channelId": "UC8RGTLQoDLuKOyFI6eJyG5A",
-          "channelTitle": "Adrian Vonarx",
-          "publishedAt": "2026-08-19T13:15:02Z",
-          "thumbnail": "https://i.ytimg.com/vi/9mX_aRONEm8/maxresdefault.jpg",
-          "durationSeconds": 800,
-          "duration": "13:20",
-          "views": 3918,
-          "likes": 257,
-          "comments": 33,
-          "viewsPerDay": 985,
-          "score": 122.47,
-          "topics": [
-            "Mockups"
-          ],
-          "primaryTopic": "Mockups",
-          "url": "https://www.youtube.com/watch?v=9mX_aRONEm8"
-        },
-        {
-          "videoId": "diyIQ1yAyFQ",
-          "title": "How I Design $10k+ Brand Identities From Start to Finish with Shutterstock",
-          "channelId": "UC8ME0E1icwddCikdomxrIVw",
-          "channelTitle": "Dena Nguyen",
-          "publishedAt": "2026-08-18T17:00:05Z",
-          "thumbnail": "https://i.ytimg.com/vi/diyIQ1yAyFQ/maxresdefault.jpg",
-          "durationSeconds": 746,
-          "duration": "12:26",
-          "views": 4889,
-          "likes": 349,
-          "comments": 22,
-          "viewsPerDay": 1014,
-          "score": 119.18,
+          "videoId": "aj6x7KLSywc",
+          "title": "How to Design a Brand Identity from Start to Finish in 2026 (Using AI)",
+          "channelId": "UCtVuYrnKz3lO7D5po6gshNg",
+          "channelTitle": "Jack Watson",
+          "publishedAt": "2026-08-20T16:00:06Z",
+          "thumbnail": "https://i.ytimg.com/vi/aj6x7KLSywc/maxresdefault.jpg",
+          "durationSeconds": 2315,
+          "duration": "38:35",
+          "views": 24320,
+          "likes": 1031,
+          "comments": 61,
+          "viewsPerDay": 2430,
+          "score": 102.56,
           "topics": [
             "Brand identity"
           ],
           "primaryTopic": "Brand identity",
-          "url": "https://www.youtube.com/watch?v=diyIQ1yAyFQ"
+          "url": "https://www.youtube.com/watch?v=aj6x7KLSywc"
         },
         {
-          "videoId": "KOrLbwPzc7I",
-          "title": "The Secret to Making Successful Etsy Listings Fast Revealed",
-          "channelId": "UCzbg4hZwiRUWH0hsFZvNpzw",
-          "channelTitle": "Hustle Ninjas",
-          "publishedAt": "2026-08-19T15:47:44Z",
-          "thumbnail": "https://i.ytimg.com/vi/KOrLbwPzc7I/maxresdefault.jpg",
-          "durationSeconds": 897,
-          "duration": "14:57",
-          "views": 1614,
-          "likes": 90,
-          "comments": 5,
-          "viewsPerDay": 417,
-          "score": 110.89,
+          "videoId": "YLTfUkDiUjA",
+          "title": "How I Design on An iPad Using Procreate EP 10 ( No Gatekeeping",
+          "channelId": "UCft31T99nsDzTHKPBzTN8Zw",
+          "channelTitle": "Trev.invested",
+          "publishedAt": "2026-08-27T02:24:23Z",
+          "thumbnail": "https://i.ytimg.com/vi/YLTfUkDiUjA/maxresdefault.jpg",
+          "durationSeconds": 955,
+          "duration": "15:55",
+          "views": 649,
+          "likes": 23,
+          "comments": 6,
+          "viewsPerDay": 182,
+          "score": 100.42,
           "topics": [
             "Mockups"
           ],
           "primaryTopic": "Mockups",
-          "url": "https://www.youtube.com/watch?v=KOrLbwPzc7I"
+          "url": "https://www.youtube.com/watch?v=YLTfUkDiUjA"
         },
         {
-          "videoId": "ITHq31TFExc",
-          "title": "Photoshop Basics Explained in Tamil | Tools, Layers, Shortcuts & Real Project",
-          "channelId": "UCcYj9AN_BPWeANs-_U8vd7w",
-          "channelTitle": "Nuke Designz",
-          "publishedAt": "2026-08-16T04:35:08Z",
-          "thumbnail": "https://i.ytimg.com/vi/ITHq31TFExc/maxresdefault.jpg",
-          "durationSeconds": 2089,
-          "duration": "34:49",
-          "views": 8325,
-          "likes": 576,
-          "comments": 82,
-          "viewsPerDay": 1135,
-          "score": 108.88,
+          "videoId": "ZtChTgEtA5A",
+          "title": "ChatGPT से Fully Editable Banner, Poster & Card Design बनाएं | Canva + Photoshop Editable Design",
+          "channelId": "UC0iCgoYvFGcLQuP7phPWPIQ",
+          "channelTitle": "Sk Photos",
+          "publishedAt": "2026-08-25T09:00:18Z",
+          "thumbnail": "https://i.ytimg.com/vi/ZtChTgEtA5A/maxresdefault.jpg",
+          "durationSeconds": 313,
+          "duration": "5:13",
+          "views": 3733,
+          "likes": 59,
+          "comments": 5,
+          "viewsPerDay": 704,
+          "score": 99.54,
           "topics": [
             "Photoshop"
           ],
           "primaryTopic": "Photoshop",
-          "url": "https://www.youtube.com/watch?v=ITHq31TFExc"
-        },
-        {
-          "videoId": "Wb1rLHASB48",
-          "title": "Full AI Print on Demand Workflow 2026: Design, Mockup, Publish in One Platform",
-          "channelId": "UC1XblJD6-l64jZgIAR7t0_A",
-          "channelTitle": "Sketchaa Merch Design",
-          "publishedAt": "2026-08-21T14:00:27Z",
-          "thumbnail": "https://i.ytimg.com/vi/Wb1rLHASB48/maxresdefault.jpg",
-          "durationSeconds": 1051,
-          "duration": "17:31",
-          "views": 1034,
-          "likes": 0,
-          "comments": 3,
-          "viewsPerDay": 532,
-          "score": 100.95,
-          "topics": [
-            "Mockups"
-          ],
-          "primaryTopic": "Mockups",
-          "url": "https://www.youtube.com/watch?v=Wb1rLHASB48"
+          "url": "https://www.youtube.com/watch?v=ZtChTgEtA5A"
         }
       ]
     },
@@ -511,60 +509,219 @@
       "topics": [
         {
           "label": "Character animation",
-          "score": 1464.86,
+          "score": 1220.43,
           "videoCount": 15
         },
         {
-          "label": "Unreal for artists",
-          "score": 1160.77,
-          "videoCount": 14
-        },
-        {
-          "label": "3D modeling",
-          "score": 936.85,
-          "videoCount": 10
-        },
-        {
-          "label": "Motion design",
-          "score": 906.83,
-          "videoCount": 11
+          "label": "Rendering",
+          "score": 1105.12,
+          "videoCount": 13
         },
         {
           "label": "Blender",
-          "score": 865.04,
+          "score": 908.15,
+          "videoCount": 11
+        },
+        {
+          "label": "3D modeling",
+          "score": 898.52,
+          "videoCount": 11
+        },
+        {
+          "label": "Motion design",
+          "score": 894.45,
+          "videoCount": 11
+        },
+        {
+          "label": "Unreal for artists",
+          "score": 661.62,
           "videoCount": 10
         },
         {
-          "label": "Rendering",
-          "score": 838.38,
-          "videoCount": 9
-        },
-        {
           "label": "Geometry Nodes",
-          "score": 361.7,
-          "videoCount": 5
-        },
-        {
-          "label": "Cinema 4D",
-          "score": 79.86,
-          "videoCount": 2
+          "score": 372.65,
+          "videoCount": 4
         }
       ],
       "videos": [
         {
+          "videoId": "MRGgqR1N_b8",
+          "title": "Boiling Water - Blender Fluid Simulation + Geometry Nodes Tutorial",
+          "channelId": "UCy1f4m64dwCwk8CBZ_vHfPg",
+          "channelTitle": "CGMatter",
+          "publishedAt": "2026-08-25T14:30:21Z",
+          "thumbnail": "https://i.ytimg.com/vi/MRGgqR1N_b8/maxresdefault.jpg",
+          "durationSeconds": 1334,
+          "duration": "22:14",
+          "views": 35060,
+          "likes": 1366,
+          "comments": 51,
+          "viewsPerDay": 6913,
+          "score": 140.13,
+          "topics": [
+            "Geometry Nodes"
+          ],
+          "primaryTopic": "Geometry Nodes",
+          "url": "https://www.youtube.com/watch?v=MRGgqR1N_b8"
+        },
+        {
+          "videoId": "Ff_tdMsndzQ",
+          "title": "This Open-Source 3D AI Workflow is Insane! (6GB VRAM)",
+          "channelId": "UCRGb8yCnI5-upL3hT4oiOZw",
+          "channelTitle": "PixelArtistry",
+          "publishedAt": "2026-08-24T13:40:28Z",
+          "thumbnail": "https://i.ytimg.com/vi/Ff_tdMsndzQ/maxresdefault.jpg",
+          "durationSeconds": 1650,
+          "duration": "27:30",
+          "views": 24055,
+          "likes": 1023,
+          "comments": 92,
+          "viewsPerDay": 3939,
+          "score": 130.26,
+          "topics": [
+            "Character animation"
+          ],
+          "primaryTopic": "Character animation",
+          "url": "https://www.youtube.com/watch?v=Ff_tdMsndzQ"
+        },
+        {
+          "videoId": "QkLKpUDDdgo",
+          "title": "I Tested The New Higgsfield Blender Plugin",
+          "channelId": "UCbBtX_vqN5C0xjzXZuB7BIQ",
+          "channelTitle": "Aidan Stanik",
+          "publishedAt": "2026-08-22T05:43:15Z",
+          "thumbnail": "https://i.ytimg.com/vi/QkLKpUDDdgo/maxresdefault.jpg",
+          "durationSeconds": 1032,
+          "duration": "17:12",
+          "views": 19933,
+          "likes": 598,
+          "comments": 64,
+          "viewsPerDay": 2362,
+          "score": 115.52,
+          "topics": [
+            "Blender",
+            "Rendering",
+            "Character animation"
+          ],
+          "primaryTopic": "Blender",
+          "url": "https://www.youtube.com/watch?v=QkLKpUDDdgo"
+        },
+        {
+          "videoId": "jzLnoVBuU6I",
+          "title": "Master MiniMax H3 2-Stage Latent Upscaling in ComfyUI",
+          "channelId": "UCW_HxXm6tMnVGSx_A6cE-rg",
+          "channelTitle": "Veteran AI",
+          "publishedAt": "2026-08-24T07:17:55Z",
+          "thumbnail": "https://i.ytimg.com/vi/jzLnoVBuU6I/maxresdefault.jpg",
+          "durationSeconds": 664,
+          "duration": "11:04",
+          "views": 12443,
+          "likes": 396,
+          "comments": 37,
+          "viewsPerDay": 1953,
+          "score": 115.37,
+          "topics": [
+            "Rendering"
+          ],
+          "primaryTopic": "Rendering",
+          "url": "https://www.youtube.com/watch?v=jzLnoVBuU6I"
+        },
+        {
+          "videoId": "6MSSVwN45cg",
+          "title": "Make Your First 3D Printed Figure With AI - Complete Guide",
+          "channelId": "UCRW08KcTVjXEmBzBsVl7XjA",
+          "channelTitle": "Stefan 3D AI",
+          "publishedAt": "2026-08-22T12:32:14Z",
+          "thumbnail": "https://i.ytimg.com/vi/6MSSVwN45cg/maxresdefault.jpg",
+          "durationSeconds": 1847,
+          "duration": "30:47",
+          "views": 34925,
+          "likes": 1141,
+          "comments": 45,
+          "viewsPerDay": 4283,
+          "score": 114.94,
+          "topics": [
+            "Blender"
+          ],
+          "primaryTopic": "Blender",
+          "url": "https://www.youtube.com/watch?v=6MSSVwN45cg"
+        },
+        {
+          "videoId": "bWVJ8wpGMn4",
+          "title": "Handpainting with A Mouse - [BLENDER BEGINNER TUTORIAL] - Tips from a Riot Character Artist",
+          "channelId": "UCaT6VquUaPTXXayfw1-NE1A",
+          "channelTitle": "Cherylynn Lima",
+          "publishedAt": "2026-08-23T23:18:19Z",
+          "thumbnail": "https://i.ytimg.com/vi/bWVJ8wpGMn4/maxresdefault.jpg",
+          "durationSeconds": 528,
+          "duration": "8:48",
+          "views": 7632,
+          "likes": 911,
+          "comments": 54,
+          "viewsPerDay": 1138,
+          "score": 111.96,
+          "topics": [
+            "3D modeling"
+          ],
+          "primaryTopic": "3D modeling",
+          "url": "https://www.youtube.com/watch?v=bWVJ8wpGMn4"
+        },
+        {
+          "videoId": "PTIAnr1c0ag",
+          "title": "12 New Blender Addons Have Been Released",
+          "channelId": "UCDdv3C21EFv7MxBMu70OExw",
+          "channelTitle": "InspirationTuts",
+          "publishedAt": "2026-08-20T18:06:06Z",
+          "thumbnail": "https://i.ytimg.com/vi/PTIAnr1c0ag/maxresdefault.jpg",
+          "durationSeconds": 732,
+          "duration": "12:12",
+          "views": 45731,
+          "likes": 1637,
+          "comments": 38,
+          "viewsPerDay": 4609,
+          "score": 111.06,
+          "topics": [
+            "Blender",
+            "Geometry Nodes"
+          ],
+          "primaryTopic": "Blender",
+          "url": "https://www.youtube.com/watch?v=PTIAnr1c0ag"
+        },
+        {
+          "videoId": "6arKHnBNJMI",
+          "title": "This Seedance 2.5 Technique is Incredible! Free Prompts Guide",
+          "channelId": "UCit1DYz8CX_yLaTTdU7lubA",
+          "channelTitle": "Atomic Gains",
+          "publishedAt": "2026-08-20T15:00:08Z",
+          "thumbnail": "https://i.ytimg.com/vi/6arKHnBNJMI/maxresdefault.jpg",
+          "durationSeconds": 956,
+          "duration": "15:56",
+          "views": 34122,
+          "likes": 1376,
+          "comments": 101,
+          "viewsPerDay": 3395,
+          "score": 109.74,
+          "topics": [
+            "Rendering",
+            "Motion design"
+          ],
+          "primaryTopic": "Rendering",
+          "url": "https://www.youtube.com/watch?v=6arKHnBNJMI"
+        },
+        {
           "videoId": "Jn9Zl5SO4EU",
-          "title": "Ultimate Guide to Trim Sheets | Naughty Dog, Riot, & Ubisoft Workflow Breakdowns",
+          "title": "How AAA Studios Texture Huge Worlds | The Last of Us & Valorant Trim Sheet Workflows",
           "channelId": "UCMY3Hz9bW0m6ERa6G4FNosg",
           "channelTitle": "Class Creatives",
           "publishedAt": "2026-08-20T17:00:06Z",
           "thumbnail": "https://i.ytimg.com/vi/Jn9Zl5SO4EU/maxresdefault.jpg",
           "durationSeconds": 1149,
           "duration": "19:09",
-          "views": 12548,
-          "likes": 936,
-          "comments": 27,
-          "viewsPerDay": 4449,
-          "score": 149.38,
+          "views": 27304,
+          "likes": 1524,
+          "comments": 50,
+          "viewsPerDay": 2739,
+          "score": 105.29,
           "topics": [
             "Unreal for artists"
           ],
@@ -572,187 +729,25 @@
           "url": "https://www.youtube.com/watch?v=Jn9Zl5SO4EU"
         },
         {
-          "videoId": "uoSElUnPNoc",
-          "title": "Edit Premium Motion Graphics Using AI For Free",
-          "channelId": "UCf3dc-Y3k5vBTCVpPCAfG6g",
-          "channelTitle": "Tube Sensei",
-          "publishedAt": "2026-08-17T12:30:09Z",
-          "thumbnail": "https://i.ytimg.com/vi/uoSElUnPNoc/maxresdefault.jpg",
-          "durationSeconds": 591,
-          "duration": "9:51",
-          "views": 71805,
-          "likes": 3865,
-          "comments": 334,
-          "viewsPerDay": 11952,
-          "score": 145.6,
+          "videoId": "rrzEsewrDrg",
+          "title": "How I Model Anime-Styled Heads in Blender!",
+          "channelId": "UCYwQURmEt3bKxrZck2my9Hg",
+          "channelTitle": "doctorlegacy",
+          "publishedAt": "2026-08-21T17:00:21Z",
+          "thumbnail": "https://i.ytimg.com/vi/rrzEsewrDrg/maxresdefault.jpg",
+          "durationSeconds": 3441,
+          "duration": "57:21",
+          "views": 10449,
+          "likes": 753,
+          "comments": 48,
+          "viewsPerDay": 1165,
+          "score": 105.26,
           "topics": [
-            "Motion design"
-          ],
-          "primaryTopic": "Motion design",
-          "url": "https://www.youtube.com/watch?v=uoSElUnPNoc"
-        },
-        {
-          "videoId": "zp13W8z6WQM",
-          "title": "New Best Low Poly 3D AI Generator is Here - Tripo P2.0",
-          "channelId": "UCRW08KcTVjXEmBzBsVl7XjA",
-          "channelTitle": "Stefan 3D AI",
-          "publishedAt": "2026-08-18T13:46:07Z",
-          "thumbnail": "https://i.ytimg.com/vi/zp13W8z6WQM/maxresdefault.jpg",
-          "durationSeconds": 1773,
-          "duration": "29:33",
-          "views": 29547,
-          "likes": 1431,
-          "comments": 165,
-          "viewsPerDay": 5963,
-          "score": 142.49,
-          "topics": [
-            "Blender"
-          ],
-          "primaryTopic": "Blender",
-          "url": "https://www.youtube.com/watch?v=zp13W8z6WQM"
-        },
-        {
-          "videoId": "9kejfKCb0S8",
-          "title": "I Built a Souls-Like Game in 3 Days - Every Asset Made by AI",
-          "channelId": "UCRW08KcTVjXEmBzBsVl7XjA",
-          "channelTitle": "Stefan 3D AI",
-          "publishedAt": "2026-08-16T11:59:04Z",
-          "thumbnail": "https://i.ytimg.com/vi/9kejfKCb0S8/maxresdefault.jpg",
-          "durationSeconds": 1526,
-          "duration": "25:26",
-          "views": 57986,
-          "likes": 2161,
-          "comments": 154,
-          "viewsPerDay": 8249,
-          "score": 142.17,
-          "topics": [
-            "Unreal for artists",
-            "3D modeling",
+            "Rendering",
             "Character animation"
-          ],
-          "primaryTopic": "Unreal for artists",
-          "url": "https://www.youtube.com/watch?v=9kejfKCb0S8"
-        },
-        {
-          "videoId": "aheTC8N2xQg",
-          "title": "Why We Switched From PCs to Macs for 3D | Behind the Render Ep. 4",
-          "channelId": "UC64Z_7asrekIkc5h2v5tnHw",
-          "channelTitle": "Greyscalegorilla",
-          "publishedAt": "2026-08-18T16:21:24Z",
-          "thumbnail": "https://i.ytimg.com/vi/aheTC8N2xQg/maxresdefault.jpg",
-          "durationSeconds": 4842,
-          "duration": "1:20:42",
-          "views": 15140,
-          "likes": 405,
-          "comments": 176,
-          "viewsPerDay": 3123,
-          "score": 133.74,
-          "topics": [
-            "Rendering"
           ],
           "primaryTopic": "Rendering",
-          "url": "https://www.youtube.com/watch?v=aheTC8N2xQg"
-        },
-        {
-          "videoId": "O5fyjIBWcZQ",
-          "title": "How To Make Animation Video Like Not Your Type | Part 02 | Op Animation",
-          "channelId": "UCY-7UvYuJ7SetXC5qXdP3VA",
-          "channelTitle": "Op Animation",
-          "publishedAt": "2026-08-16T15:30:37Z",
-          "thumbnail": "https://i.ytimg.com/vi/O5fyjIBWcZQ/maxresdefault.jpg",
-          "durationSeconds": 730,
-          "duration": "12:10",
-          "views": 26552,
-          "likes": 981,
-          "comments": 143,
-          "viewsPerDay": 3858,
-          "score": 124.89,
-          "topics": [
-            "Character animation"
-          ],
-          "primaryTopic": "Character animation",
-          "url": "https://www.youtube.com/watch?v=O5fyjIBWcZQ"
-        },
-        {
-          "videoId": "Jw9X4HjlFpI",
-          "title": "Why AAA Games Use Trim Sheets (And How They Actually Work)",
-          "channelId": "UCZYfkOHp8e_lHbRtR1cGYxQ",
-          "channelTitle": "Zeref3DForge",
-          "publishedAt": "2026-08-17T07:00:06Z",
-          "thumbnail": "https://i.ytimg.com/vi/Jw9X4HjlFpI/maxresdefault.jpg",
-          "durationSeconds": 319,
-          "duration": "5:19",
-          "views": 10031,
-          "likes": 726,
-          "comments": 94,
-          "viewsPerDay": 1608,
-          "score": 123.32,
-          "topics": [
-            "Unreal for artists",
-            "3D modeling"
-          ],
-          "primaryTopic": "Unreal for artists",
-          "url": "https://www.youtube.com/watch?v=Jw9X4HjlFpI"
-        },
-        {
-          "videoId": "RDytbVDzMF4",
-          "title": "Claude Design FINALLY Solved Motion Graphics",
-          "channelId": "UCxVxcTULO9cFU6SB9qVaisQ",
-          "channelTitle": "Jack Roberts",
-          "publishedAt": "2026-08-14T18:18:04Z",
-          "thumbnail": "https://i.ytimg.com/vi/RDytbVDzMF4/maxresdefault.jpg",
-          "durationSeconds": 992,
-          "duration": "16:32",
-          "views": 83781,
-          "likes": 2479,
-          "comments": 88,
-          "viewsPerDay": 9557,
-          "score": 119.56,
-          "topics": [
-            "Motion design"
-          ],
-          "primaryTopic": "Motion design",
-          "url": "https://www.youtube.com/watch?v=RDytbVDzMF4"
-        },
-        {
-          "videoId": "otWcyfTqyYA",
-          "title": "Model in Blender but without stress",
-          "channelId": "UCKVxu4inwYR1Z_18NJ6Xk9Q",
-          "channelTitle": "rileyb3d",
-          "publishedAt": "2026-08-13T14:00:07Z",
-          "thumbnail": "https://i.ytimg.com/vi/otWcyfTqyYA/maxresdefault.jpg",
-          "durationSeconds": 1862,
-          "duration": "31:02",
-          "views": 66077,
-          "likes": 4234,
-          "comments": 161,
-          "viewsPerDay": 6644,
-          "score": 114.83,
-          "topics": [
-            "Rendering"
-          ],
-          "primaryTopic": "Rendering",
-          "url": "https://www.youtube.com/watch?v=otWcyfTqyYA"
-        },
-        {
-          "videoId": "76jvmveHpTQ",
-          "title": "🔥 Long AI Video Kaise Banaye | Full Course | AI Video Kaise Banaye | 3D Cartoon Video Kaise Banaye🔥",
-          "channelId": "UCwx559XWBWvb3a3ZoJhkIGg",
-          "channelTitle": "Yt Seva",
-          "publishedAt": "2026-08-16T13:47:31Z",
-          "thumbnail": "https://i.ytimg.com/vi/76jvmveHpTQ/maxresdefault.jpg",
-          "durationSeconds": 751,
-          "duration": "12:31",
-          "views": 10528,
-          "likes": 371,
-          "comments": 33,
-          "viewsPerDay": 1514,
-          "score": 110.74,
-          "topics": [
-            "Character animation"
-          ],
-          "primaryTopic": "Character animation",
-          "url": "https://www.youtube.com/watch?v=76jvmveHpTQ"
+          "url": "https://www.youtube.com/watch?v=rrzEsewrDrg"
         }
       ]
     },
@@ -763,46 +758,167 @@
       "topics": [
         {
           "label": "Motion graphics",
-          "score": 1357.34,
+          "score": 1297.86,
           "videoCount": 15
         },
         {
           "label": "Video editing",
-          "score": 1261.52,
-          "videoCount": 15
-        },
-        {
-          "label": "DaVinci Resolve",
-          "score": 1173.96,
+          "score": 1241.49,
           "videoCount": 14
         },
         {
           "label": "After Effects",
-          "score": 992.94,
+          "score": 951.86,
+          "videoCount": 11
+        },
+        {
+          "label": "DaVinci Resolve",
+          "score": 925.75,
           "videoCount": 13
         },
         {
           "label": "Premiere Pro",
-          "score": 762.73,
-          "videoCount": 10
+          "score": 891.64,
+          "videoCount": 11
         },
         {
           "label": "Color grading",
-          "score": 704.2,
-          "videoCount": 9
-        },
-        {
-          "label": "VFX",
-          "score": 400.36,
-          "videoCount": 6
+          "score": 592.72,
+          "videoCount": 8
         },
         {
           "label": "Filmmaking tools",
-          "score": 141.17,
-          "videoCount": 1
+          "score": 239.96,
+          "videoCount": 3
+        },
+        {
+          "label": "VFX",
+          "score": 238.68,
+          "videoCount": 3
         }
       ],
       "videos": [
+        {
+          "videoId": "SAyuHLrRmlU",
+          "title": "I Tried Best Tool For Creator | Wondershare Uniconvertor",
+          "channelId": "UCENwrqkMi6nZOQYO_-ZcGXw",
+          "channelTitle": "Techmerchant007",
+          "publishedAt": "2026-08-27T16:23:15Z",
+          "thumbnail": "https://i.ytimg.com/vi/SAyuHLrRmlU/maxresdefault.jpg",
+          "durationSeconds": 350,
+          "duration": "5:50",
+          "views": 505606,
+          "likes": 6072,
+          "comments": 210,
+          "viewsPerDay": 168923,
+          "score": 185.62,
+          "topics": [
+            "Video editing"
+          ],
+          "primaryTopic": "Video editing",
+          "url": "https://www.youtube.com/watch?v=SAyuHLrRmlU"
+        },
+        {
+          "videoId": "-dTvW4zWUQE",
+          "title": "I Let ChatGPT Edit My Entire Video… This Changes Everything",
+          "channelId": "UCLbNoQil01nlIO8mRKfGtEA",
+          "channelTitle": "Beyond Tahir",
+          "publishedAt": "2026-08-27T16:05:50Z",
+          "thumbnail": "https://i.ytimg.com/vi/-dTvW4zWUQE/maxresdefault.jpg",
+          "durationSeconds": 826,
+          "duration": "13:46",
+          "views": 77276,
+          "likes": 1335,
+          "comments": 127,
+          "viewsPerDay": 25714,
+          "score": 161.18,
+          "topics": [
+            "Motion graphics"
+          ],
+          "primaryTopic": "Motion graphics",
+          "url": "https://www.youtube.com/watch?v=-dTvW4zWUQE"
+        },
+        {
+          "videoId": "uPFBTRlfY34",
+          "title": "How to Edit Viral Clean SaaS Animations in After Effects! (NEW Style For 2026)",
+          "channelId": "UC9_-11a8O8pexkSPXOGkM2A",
+          "channelTitle": "King Sam",
+          "publishedAt": "2026-08-29T12:07:59Z",
+          "thumbnail": "https://i.ytimg.com/vi/uPFBTRlfY34/maxresdefault.jpg",
+          "durationSeconds": 2029,
+          "duration": "33:49",
+          "views": 4306,
+          "likes": 126,
+          "comments": 8,
+          "viewsPerDay": 3679,
+          "score": 144.73,
+          "topics": [
+            "After Effects"
+          ],
+          "primaryTopic": "After Effects",
+          "url": "https://www.youtube.com/watch?v=uPFBTRlfY34"
+        },
+        {
+          "videoId": "_nG9LoPGP-I",
+          "title": "How I Color graded Thirumali's Namaskaram Music Video| VFX Grading Workflow DaVinci Resolve",
+          "channelId": "UC20nCW2C_xNCaVzdNbmBQcA",
+          "channelTitle": "Ebin Philip",
+          "publishedAt": "2026-08-28T13:25:53Z",
+          "thumbnail": "https://i.ytimg.com/vi/_nG9LoPGP-I/maxresdefault.jpg",
+          "durationSeconds": 229,
+          "duration": "3:49",
+          "views": 4485,
+          "likes": 55,
+          "comments": 7,
+          "viewsPerDay": 2119,
+          "score": 125.57,
+          "topics": [
+            "Color grading"
+          ],
+          "primaryTopic": "Color grading",
+          "url": "https://www.youtube.com/watch?v=_nG9LoPGP-I"
+        },
+        {
+          "videoId": "nJFMxjp8s18",
+          "title": "Advanced Car Edit - After Effects & Seedance 2.5 Tutorial",
+          "channelId": "UCNHY_bgEFYj3bNc5r6t1qNw",
+          "channelTitle": "Ignace Aleya",
+          "publishedAt": "2026-08-26T15:50:12Z",
+          "thumbnail": "https://i.ytimg.com/vi/nJFMxjp8s18/maxresdefault.jpg",
+          "durationSeconds": 1579,
+          "duration": "26:19",
+          "views": 9660,
+          "likes": 147,
+          "comments": 9,
+          "viewsPerDay": 2405,
+          "score": 120.88,
+          "topics": [
+            "After Effects"
+          ],
+          "primaryTopic": "After Effects",
+          "url": "https://www.youtube.com/watch?v=nJFMxjp8s18"
+        },
+        {
+          "videoId": "aWPUyUM-2Ig",
+          "title": "Forget After Effects : Claude + Premiere Pro is the ONLY Motion Design Stack You Need",
+          "channelId": "UCPFtxlWW4dtXK9_r2TZqJ_Q",
+          "channelTitle": "Somrat Dutta",
+          "publishedAt": "2026-08-25T11:30:21Z",
+          "thumbnail": "https://i.ytimg.com/vi/aWPUyUM-2Ig/maxresdefault.jpg",
+          "durationSeconds": 270,
+          "duration": "4:30",
+          "views": 7550,
+          "likes": 206,
+          "comments": 23,
+          "viewsPerDay": 1453,
+          "score": 119.93,
+          "topics": [
+            "Premiere Pro",
+            "After Effects"
+          ],
+          "primaryTopic": "Premiere Pro",
+          "url": "https://www.youtube.com/watch?v=aWPUyUM-2Ig"
+        },
         {
           "videoId": "_Z8aSQBxIr0",
           "title": "Make AI Video FREE🔥Long(15min)+ Ultra Relastic +Cinematic🔥AI Video Kaise Banaye 🎬 AI Video Generator",
@@ -812,16 +928,36 @@
           "thumbnail": "https://i.ytimg.com/vi/_Z8aSQBxIr0/maxresdefault.jpg",
           "durationSeconds": 702,
           "duration": "11:42",
-          "views": 26621,
-          "likes": 880,
-          "comments": 962,
-          "viewsPerDay": 13416,
-          "score": 169.95,
+          "views": 54648,
+          "likes": 1396,
+          "comments": 2305,
+          "viewsPerDay": 5985,
+          "score": 118.55,
           "topics": [
             "Video editing"
           ],
           "primaryTopic": "Video editing",
           "url": "https://www.youtube.com/watch?v=_Z8aSQBxIr0"
+        },
+        {
+          "videoId": "Fy6-4oAWrtI",
+          "title": "Learn DaVinci Resolve 21 in 10 Minutes! (Beginner Tutorial)",
+          "channelId": "UC0J9sWnKT_Ixcty1laZ-LwQ",
+          "channelTitle": "Resolve Basics",
+          "publishedAt": "2026-08-25T14:02:02Z",
+          "thumbnail": "https://i.ytimg.com/vi/Fy6-4oAWrtI/maxresdefault.jpg",
+          "durationSeconds": 673,
+          "duration": "11:13",
+          "views": 6676,
+          "likes": 192,
+          "comments": 30,
+          "viewsPerDay": 1311,
+          "score": 116.1,
+          "topics": [
+            "DaVinci Resolve"
+          ],
+          "primaryTopic": "DaVinci Resolve",
+          "url": "https://www.youtube.com/watch?v=Fy6-4oAWrtI"
         },
         {
           "videoId": "j4FzO2fF1kg",
@@ -832,178 +968,37 @@
           "thumbnail": "https://i.ytimg.com/vi/j4FzO2fF1kg/maxresdefault.jpg",
           "durationSeconds": 1359,
           "duration": "22:39",
-          "views": 36671,
-          "likes": 1412,
-          "comments": 37,
-          "viewsPerDay": 9103,
-          "score": 149.04,
+          "views": 212409,
+          "likes": 4931,
+          "comments": 57,
+          "viewsPerDay": 19006,
+          "score": 114.33,
           "topics": [
+            "After Effects",
             "Motion graphics"
           ],
-          "primaryTopic": "Motion graphics",
+          "primaryTopic": "After Effects",
           "url": "https://www.youtube.com/watch?v=j4FzO2fF1kg"
         },
         {
-          "videoId": "uoSElUnPNoc",
-          "title": "Edit Premium Motion Graphics Using AI For Free",
-          "channelId": "UCf3dc-Y3k5vBTCVpPCAfG6g",
-          "channelTitle": "Tube Sensei",
-          "publishedAt": "2026-08-17T12:30:09Z",
-          "thumbnail": "https://i.ytimg.com/vi/uoSElUnPNoc/maxresdefault.jpg",
-          "durationSeconds": 591,
-          "duration": "9:51",
-          "views": 71805,
-          "likes": 3865,
-          "comments": 334,
-          "viewsPerDay": 11952,
-          "score": 145.59,
-          "topics": [
-            "Motion graphics"
-          ],
-          "primaryTopic": "Motion graphics",
-          "url": "https://www.youtube.com/watch?v=uoSElUnPNoc"
-        },
-        {
-          "videoId": "UuSp-Pu7UDo",
-          "title": "Create LONG AI VIDEOS 🚀 Seedance 2.5 1080p Quality ✅  #ai #aivideo",
-          "channelId": "UCqtMrF1ZSr5sPX1vgoPIefw",
-          "channelTitle": "Raj Photo Editing and Much More",
-          "publishedAt": "2026-08-17T14:14:26Z",
-          "thumbnail": "https://i.ytimg.com/vi/UuSp-Pu7UDo/maxresdefault.jpg",
-          "durationSeconds": 665,
-          "duration": "11:05",
-          "views": 67892,
-          "likes": 2414,
-          "comments": 149,
-          "viewsPerDay": 11438,
-          "score": 141.17,
-          "topics": [
-            "Filmmaking tools"
-          ],
-          "primaryTopic": "Filmmaking tools",
-          "url": "https://www.youtube.com/watch?v=UuSp-Pu7UDo"
-        },
-        {
-          "videoId": "vKj5XLQFjHQ",
-          "title": "The Auto Flip Trick in DaVinci Resolve (Front to Back Rotation)",
-          "channelId": "UCg10gehL_sgY91OmEejQyRw",
-          "channelTitle": "Brandon's Secret Editing Channel",
-          "publishedAt": "2026-08-20T18:59:39Z",
-          "thumbnail": "https://i.ytimg.com/vi/vKj5XLQFjHQ/maxresdefault.jpg",
-          "durationSeconds": 817,
-          "duration": "13:37",
-          "views": 6093,
-          "likes": 628,
-          "comments": 33,
-          "viewsPerDay": 2226,
-          "score": 139.53,
-          "topics": [
-            "DaVinci Resolve"
-          ],
-          "primaryTopic": "DaVinci Resolve",
-          "url": "https://www.youtube.com/watch?v=vKj5XLQFjHQ"
-        },
-        {
-          "videoId": "Z3fkzsxh-dk",
-          "title": "Curves Are the King of Color Grading (Every Feature Explained)",
-          "channelId": "UCHZD22Eei2KX8wpJUzk0Bxg",
-          "channelTitle": "Cullen Kelly",
-          "publishedAt": "2026-08-19T13:30:01Z",
-          "thumbnail": "https://i.ytimg.com/vi/Z3fkzsxh-dk/maxresdefault.jpg",
-          "durationSeconds": 1643,
-          "duration": "27:23",
-          "views": 12925,
-          "likes": 852,
-          "comments": 57,
-          "viewsPerDay": 3259,
-          "score": 139.32,
-          "topics": [
-            "DaVinci Resolve"
-          ],
-          "primaryTopic": "DaVinci Resolve",
-          "url": "https://www.youtube.com/watch?v=Z3fkzsxh-dk"
-        },
-        {
-          "videoId": "qLheVIFB4Jk",
-          "title": "Make Hollywood-Style Cinematic Motion Graphics in After Effects",
-          "channelId": "UC5DmsBrVi62DWBASLK5gMEw",
-          "channelTitle": "SonduckFilm",
-          "publishedAt": "2026-08-17T14:05:02Z",
-          "thumbnail": "https://i.ytimg.com/vi/qLheVIFB4Jk/maxresdefault.jpg",
-          "durationSeconds": 571,
-          "duration": "9:31",
-          "views": 12056,
-          "likes": 633,
-          "comments": 24,
-          "viewsPerDay": 2029,
-          "score": 127.95,
-          "topics": [
-            "Premiere Pro",
-            "After Effects"
-          ],
-          "primaryTopic": "Premiere Pro",
-          "url": "https://www.youtube.com/watch?v=qLheVIFB4Jk"
-        },
-        {
-          "videoId": "U9Oz1DgJlTg",
-          "title": "This DaVinci Resolve Plugin Just Replaced EVERY AI Platform (Cloud & Free GPU)",
-          "channelId": "UCb_VQGXmXhlldzV4fvTbRFw",
-          "channelTitle": "Kevin Vandermarliere",
-          "publishedAt": "2026-08-14T15:41:45Z",
-          "thumbnail": "https://i.ytimg.com/vi/U9Oz1DgJlTg/maxresdefault.jpg",
-          "durationSeconds": 1014,
-          "duration": "16:54",
-          "views": 57039,
-          "likes": 2336,
-          "comments": 273,
-          "viewsPerDay": 6427,
-          "score": 125.4,
-          "topics": [
-            "DaVinci Resolve",
-            "Motion graphics"
-          ],
-          "primaryTopic": "DaVinci Resolve",
-          "url": "https://www.youtube.com/watch?v=U9Oz1DgJlTg"
-        },
-        {
-          "videoId": "RDytbVDzMF4",
-          "title": "Claude Design FINALLY Solved Motion Graphics",
-          "channelId": "UCxVxcTULO9cFU6SB9qVaisQ",
-          "channelTitle": "Jack Roberts",
-          "publishedAt": "2026-08-14T18:18:04Z",
-          "thumbnail": "https://i.ytimg.com/vi/RDytbVDzMF4/maxresdefault.jpg",
-          "durationSeconds": 992,
-          "duration": "16:32",
-          "views": 83781,
-          "likes": 2479,
-          "comments": 88,
-          "viewsPerDay": 9557,
-          "score": 119.56,
-          "topics": [
-            "Motion graphics"
-          ],
-          "primaryTopic": "Motion graphics",
-          "url": "https://www.youtube.com/watch?v=RDytbVDzMF4"
-        },
-        {
-          "videoId": "BpKciUqqwIw",
-          "title": "I Monetized a YouTube Channel in 7 Days with AI 🤖🚀| Automation Full Course",
-          "channelId": "UCG6sJyYpCKlLJ2CE0ao3zFw",
-          "channelTitle": "Digital Raj",
-          "publishedAt": "2026-08-14T07:00:28Z",
-          "thumbnail": "https://i.ytimg.com/vi/BpKciUqqwIw/maxresdefault.jpg",
-          "durationSeconds": 813,
-          "duration": "13:33",
-          "views": 113177,
-          "likes": 2301,
-          "comments": 207,
-          "viewsPerDay": 12253,
-          "score": 117.11,
+          "videoId": "vouffLpBuGI",
+          "title": "How to Create Long AI Video Free Telugu 🚀 2 Min Full Workflow  | Free Long AI Video Generator",
+          "channelId": "UCMxaF4VRY-o2P3211nztA2A",
+          "channelTitle": "Balu Creator (తెలుగు)",
+          "publishedAt": "2026-08-21T13:00:29Z",
+          "thumbnail": "https://i.ytimg.com/vi/vouffLpBuGI/maxresdefault.jpg",
+          "durationSeconds": 729,
+          "duration": "12:09",
+          "views": 73729,
+          "likes": 1765,
+          "comments": 94,
+          "viewsPerDay": 8072,
+          "score": 113.87,
           "topics": [
             "Video editing"
           ],
           "primaryTopic": "Video editing",
-          "url": "https://www.youtube.com/watch?v=BpKciUqqwIw"
+          "url": "https://www.youtube.com/watch?v=vouffLpBuGI"
         }
       ]
     },
@@ -1014,46 +1009,187 @@
       "topics": [
         {
           "label": "Free VSTs",
-          "score": 1103.58,
-          "videoCount": 15
+          "score": 1014.89,
+          "videoCount": 13
         },
         {
           "label": "Mixing",
-          "score": 773.71,
-          "videoCount": 12
-        },
-        {
-          "label": "Vocal production",
-          "score": 635.91,
-          "videoCount": 9
-        },
-        {
-          "label": "AI music tools",
-          "score": 329.73,
-          "videoCount": 4
-        },
-        {
-          "label": "FL Studio",
-          "score": 314.23,
-          "videoCount": 3
+          "score": 787.08,
+          "videoCount": 10
         },
         {
           "label": "Logic Pro",
-          "score": 219.25,
-          "videoCount": 4
+          "score": 716.02,
+          "videoCount": 7
+        },
+        {
+          "label": "FL Studio",
+          "score": 519.47,
+          "videoCount": 7
         },
         {
           "label": "Pro Tools",
-          "score": 176.48,
-          "videoCount": 2
+          "score": 480.74,
+          "videoCount": 6
+        },
+        {
+          "label": "AI music tools",
+          "score": 453.4,
+          "videoCount": 6
+        },
+        {
+          "label": "Vocal production",
+          "score": 388.13,
+          "videoCount": 5
         },
         {
           "label": "Ableton Live",
-          "score": 101.24,
-          "videoCount": 2
+          "score": 189.91,
+          "videoCount": 3
         }
       ],
       "videos": [
+        {
+          "videoId": "HTRVb3nW_Y4",
+          "title": "Dr Dre Said AI Isn't a Threat.  So I Tried His Method",
+          "channelId": "UCS7hMEepjdm4cNPIy-53HBA",
+          "channelTitle": "Kris KeyZ",
+          "publishedAt": "2026-08-25T21:00:09Z",
+          "thumbnail": "https://i.ytimg.com/vi/HTRVb3nW_Y4/maxresdefault.jpg",
+          "durationSeconds": 1140,
+          "duration": "19:00",
+          "views": 30692,
+          "likes": 415,
+          "comments": 389,
+          "viewsPerDay": 6393,
+          "score": 144.93,
+          "topics": [
+            "Logic Pro",
+            "AI music tools"
+          ],
+          "primaryTopic": "Logic Pro",
+          "url": "https://www.youtube.com/watch?v=HTRVb3nW_Y4"
+        },
+        {
+          "videoId": "sTVvl7nkZyE",
+          "title": "Exposing the GATEKEPT VST's of 2026",
+          "channelId": "UC-hkUjSjm6EZgEwkbZK7cXg",
+          "channelTitle": "KXVI",
+          "publishedAt": "2026-08-22T15:37:06Z",
+          "thumbnail": "https://i.ytimg.com/vi/sTVvl7nkZyE/maxresdefault.jpg",
+          "durationSeconds": 2559,
+          "duration": "42:39",
+          "views": 50504,
+          "likes": 1946,
+          "comments": 90,
+          "viewsPerDay": 6293,
+          "score": 122.48,
+          "topics": [
+            "Free VSTs"
+          ],
+          "primaryTopic": "Free VSTs",
+          "url": "https://www.youtube.com/watch?v=sTVvl7nkZyE"
+        },
+        {
+          "videoId": "xeQVfW70abg",
+          "title": "These plugins are too good to be FREE",
+          "channelId": "UCMjLWD58XIR20wH4Vkyns3Q",
+          "channelTitle": "Alex Reid",
+          "publishedAt": "2026-08-23T18:33:42Z",
+          "thumbnail": "https://i.ytimg.com/vi/xeQVfW70abg/maxresdefault.jpg",
+          "durationSeconds": 834,
+          "duration": "13:54",
+          "views": 18509,
+          "likes": 870,
+          "comments": 98,
+          "viewsPerDay": 2681,
+          "score": 121.6,
+          "topics": [
+            "Free VSTs"
+          ],
+          "primaryTopic": "Free VSTs",
+          "url": "https://www.youtube.com/watch?v=xeQVfW70abg"
+        },
+        {
+          "videoId": "hMkfZD_VWlE",
+          "title": "2 New FREE VSTs & 3 Deals - United Plugins, SSL, DbDone, Msd (Continuum, X-Echo, Feuer, FC-2 Turbo)",
+          "channelId": "UCQADDqMDQJqSEpzUaLiluMQ",
+          "channelTitle": "Amner Hunter",
+          "publishedAt": "2026-08-26T13:13:20Z",
+          "thumbnail": "https://i.ytimg.com/vi/hMkfZD_VWlE/maxresdefault.jpg",
+          "durationSeconds": 1414,
+          "duration": "23:34",
+          "views": 2865,
+          "likes": 115,
+          "comments": 11,
+          "viewsPerDay": 695,
+          "score": 115.52,
+          "topics": [
+            "Logic Pro"
+          ],
+          "primaryTopic": "Logic Pro",
+          "url": "https://www.youtube.com/watch?v=hMkfZD_VWlE"
+        },
+        {
+          "videoId": "gvmAy3mcjsk",
+          "title": "¿Por Qué Tus Mezclas No Suenan Bien? La Respuesta Está En La Organización",
+          "channelId": "UC5pq-SOq7Jv9dDsva2C74Og",
+          "channelTitle": "ES Mixing",
+          "publishedAt": "2026-08-25T18:30:25Z",
+          "thumbnail": "https://i.ytimg.com/vi/gvmAy3mcjsk/maxresdefault.jpg",
+          "durationSeconds": 2211,
+          "duration": "36:51",
+          "views": 3831,
+          "likes": 171,
+          "comments": 31,
+          "viewsPerDay": 781,
+          "score": 115.29,
+          "topics": [
+            "Mixing"
+          ],
+          "primaryTopic": "Mixing",
+          "url": "https://www.youtube.com/watch?v=gvmAy3mcjsk"
+        },
+        {
+          "videoId": "yHsfbtgvTgE",
+          "title": "VOCAL RECORDING CLASS IN MALAYALAM BY ARUN KP",
+          "channelId": "UCm_XMi-9y4sWazV9c2uF4aQ",
+          "channelTitle": "Music is my Life by Arun KP",
+          "publishedAt": "2026-08-27T10:34:26Z",
+          "thumbnail": "https://i.ytimg.com/vi/yHsfbtgvTgE/maxresdefault.jpg",
+          "durationSeconds": 1769,
+          "duration": "29:29",
+          "views": 2223,
+          "likes": 47,
+          "comments": 20,
+          "viewsPerDay": 687,
+          "score": 115.22,
+          "topics": [
+            "Vocal production"
+          ],
+          "primaryTopic": "Vocal production",
+          "url": "https://www.youtube.com/watch?v=yHsfbtgvTgE"
+        },
+        {
+          "videoId": "mRcNk9Cc7m4",
+          "title": "Enhance AI Audio to MIDI - FREE Tool",
+          "channelId": "UCOy9Qle_8R7KSYtbhu_vafg",
+          "channelTitle": "Music Pro Hacks",
+          "publishedAt": "2026-08-25T01:38:23Z",
+          "thumbnail": "https://i.ytimg.com/vi/mRcNk9Cc7m4/maxresdefault.jpg",
+          "durationSeconds": 1390,
+          "duration": "23:10",
+          "views": 10419,
+          "likes": 207,
+          "comments": 37,
+          "viewsPerDay": 1858,
+          "score": 114.27,
+          "topics": [
+            "Logic Pro"
+          ],
+          "primaryTopic": "Logic Pro",
+          "url": "https://www.youtube.com/watch?v=mRcNk9Cc7m4"
+        },
         {
           "videoId": "83iIoLOy8SI",
           "title": "I Made The BEST FREE PLUGIN!",
@@ -1063,11 +1199,11 @@
           "thumbnail": "https://i.ytimg.com/vi/83iIoLOy8SI/maxresdefault.jpg",
           "durationSeconds": 873,
           "duration": "14:33",
-          "views": 11324,
-          "likes": 1106,
-          "comments": 85,
-          "viewsPerDay": 7610,
-          "score": 163.38,
+          "views": 24123,
+          "likes": 1600,
+          "comments": 173,
+          "viewsPerDay": 2794,
+          "score": 112.79,
           "topics": [
             "Free VSTs"
           ],
@@ -1075,184 +1211,44 @@
           "url": "https://www.youtube.com/watch?v=83iIoLOy8SI"
         },
         {
-          "videoId": "CDjMwsPCZsQ",
-          "title": "    Are LUNA’s New Features Finally Enough to Leave Pro Tools?",
-          "channelId": "UCJGdgjfc9COyzH-fgunwpCA",
-          "channelTitle": "Eli Mixed it",
-          "publishedAt": "2026-08-22T16:27:21Z",
-          "thumbnail": "https://i.ytimg.com/vi/CDjMwsPCZsQ/maxresdefault.jpg",
-          "durationSeconds": 1059,
-          "duration": "17:39",
-          "views": 1082,
-          "likes": 31,
-          "comments": 13,
-          "viewsPerDay": 1283,
-          "score": 137.12,
+          "videoId": "63MxoU0r8zA",
+          "title": "Import Session Data – How and Why? | Fender Studio",
+          "channelId": "UC7WUeriUrgp0QI9R61RWz0w",
+          "channelTitle": "Fender Studio",
+          "publishedAt": "2026-08-24T16:32:09Z",
+          "thumbnail": "https://i.ytimg.com/vi/63MxoU0r8zA/maxresdefault.jpg",
+          "durationSeconds": 756,
+          "duration": "12:36",
+          "views": 5452,
+          "likes": 212,
+          "comments": 26,
+          "viewsPerDay": 911,
+          "score": 111.37,
           "topics": [
-            "Pro Tools"
+            "Mixing"
           ],
-          "primaryTopic": "Pro Tools",
-          "url": "https://www.youtube.com/watch?v=CDjMwsPCZsQ"
+          "primaryTopic": "Mixing",
+          "url": "https://www.youtube.com/watch?v=63MxoU0r8zA"
         },
         {
-          "videoId": "U1bAWg7pIpQ",
-          "title": "I Proved You Don't Need Expensive Plugins To Make Good Beats",
-          "channelId": "UC6YxJp13bClSRPlSf2EvtaA",
-          "channelTitle": "Dirkey",
-          "publishedAt": "2026-08-15T23:33:42Z",
-          "thumbnail": "https://i.ytimg.com/vi/U1bAWg7pIpQ/maxresdefault.jpg",
-          "durationSeconds": 730,
-          "duration": "12:10",
-          "views": 25344,
-          "likes": 1663,
-          "comments": 185,
-          "viewsPerDay": 3358,
-          "score": 120.88,
+          "videoId": "Q4I-x07aJ7A",
+          "title": "37 Best New FREE Effect Plugins, Vst Instruments, Sample Packs & Plugin Deals - AUGUST 2026 Week 2",
+          "channelId": "UCQADDqMDQJqSEpzUaLiluMQ",
+          "channelTitle": "Amner Hunter",
+          "publishedAt": "2026-08-25T00:54:52Z",
+          "thumbnail": "https://i.ytimg.com/vi/Q4I-x07aJ7A/maxresdefault.jpg",
+          "durationSeconds": 998,
+          "duration": "16:38",
+          "views": 3042,
+          "likes": 132,
+          "comments": 12,
+          "viewsPerDay": 540,
+          "score": 107.22,
           "topics": [
             "Free VSTs"
           ],
           "primaryTopic": "Free VSTs",
-          "url": "https://www.youtube.com/watch?v=U1bAWg7pIpQ"
-        },
-        {
-          "videoId": "Qfd_2AHm-NU",
-          "title": "Kolhapuri DJ Voice Tag Kaise Banaye FREE | DJ Voice Tag Kaise Banaye | AI Voice Tag Kaise Banaye",
-          "channelId": "UCA88QnLZy_O6GxD4MiHCRLg",
-          "channelTitle": "Aɴιʟ ғʟм ʀᴇvιᴇw",
-          "publishedAt": "2026-08-17T01:45:30Z",
-          "thumbnail": "https://i.ytimg.com/vi/Qfd_2AHm-NU/maxresdefault.jpg",
-          "durationSeconds": 471,
-          "duration": "7:51",
-          "views": 12565,
-          "likes": 661,
-          "comments": 163,
-          "viewsPerDay": 1946,
-          "score": 119.91,
-          "topics": [
-            "FL Studio"
-          ],
-          "primaryTopic": "FL Studio",
-          "url": "https://www.youtube.com/watch?v=Qfd_2AHm-NU"
-        },
-        {
-          "videoId": "PH65IE_pvME",
-          "title": "The MPC Secret Unlock: This HIDDEN Chop Feature They Don't Want You To Know!",
-          "channelId": "UCRNU6E3OnmVNW1cR6Up9hdQ",
-          "channelTitle": "Ave Mcree",
-          "publishedAt": "2026-08-16T23:01:11Z",
-          "thumbnail": "https://i.ytimg.com/vi/PH65IE_pvME/maxresdefault.jpg",
-          "durationSeconds": 505,
-          "duration": "8:25",
-          "views": 8591,
-          "likes": 430,
-          "comments": 47,
-          "viewsPerDay": 1308,
-          "score": 114.34,
-          "topics": [
-            "Mixing"
-          ],
-          "primaryTopic": "Mixing",
-          "url": "https://www.youtube.com/watch?v=PH65IE_pvME"
-        },
-        {
-          "videoId": "CS37YOQCl18",
-          "title": "A I.A. DO REAPER ASSUSTA! Adeus Trabalho Braçal na Mixagem (ReaAssist)",
-          "channelId": "UC-4RuxHPQUIIji8Uad5WHxg",
-          "channelTitle": "Jorge SomBinário",
-          "publishedAt": "2026-08-15T03:06:55Z",
-          "thumbnail": "https://i.ytimg.com/vi/CS37YOQCl18/maxresdefault.jpg",
-          "durationSeconds": 1116,
-          "duration": "18:36",
-          "views": 19705,
-          "likes": 1108,
-          "comments": 100,
-          "viewsPerDay": 2346,
-          "score": 112.06,
-          "topics": [
-            "Mixing"
-          ],
-          "primaryTopic": "Mixing",
-          "url": "https://www.youtube.com/watch?v=CS37YOQCl18"
-        },
-        {
-          "videoId": "sIlYWCRxGlI",
-          "title": "Can Claude Produce Music in FL STUDIO?",
-          "channelId": "UCuNWIzu1kid8vH9Y-6Rm3TA",
-          "channelTitle": "W4ddles - Music",
-          "publishedAt": "2026-08-16T18:00:06Z",
-          "thumbnail": "https://i.ytimg.com/vi/sIlYWCRxGlI/maxresdefault.jpg",
-          "durationSeconds": 1478,
-          "duration": "24:38",
-          "views": 6717,
-          "likes": 290,
-          "comments": 44,
-          "viewsPerDay": 991,
-          "score": 109.88,
-          "topics": [
-            "FL Studio"
-          ],
-          "primaryTopic": "FL Studio",
-          "url": "https://www.youtube.com/watch?v=sIlYWCRxGlI"
-        },
-        {
-          "videoId": "cVjEm6mUy2Q",
-          "title": "How to Use the MPC Punch-In/Punch-Out Feature for Improved Recording Workflow",
-          "channelId": "UCD7cPQpXlPh0hYhbdG08KMw",
-          "channelTitle": "Manoukian",
-          "publishedAt": "2026-08-21T00:50:29Z",
-          "thumbnail": "https://i.ytimg.com/vi/cVjEm6mUy2Q/maxresdefault.jpg",
-          "durationSeconds": 706,
-          "duration": "11:46",
-          "views": 687,
-          "likes": 42,
-          "comments": 6,
-          "viewsPerDay": 275,
-          "score": 109.68,
-          "topics": [
-            "Vocal production"
-          ],
-          "primaryTopic": "Vocal production",
-          "url": "https://www.youtube.com/watch?v=cVjEm6mUy2Q"
-        },
-        {
-          "videoId": "jrcJ1o84v38",
-          "title": "The Mix Starts BEFORE You Finish Your Production: Oak Felder",
-          "channelId": "UCPSRc34Vs-Nf_t1l3pS7peg",
-          "channelTitle": "Waves Audio",
-          "publishedAt": "2026-08-13T15:22:26Z",
-          "thumbnail": "https://i.ytimg.com/vi/jrcJ1o84v38/maxresdefault.jpg",
-          "durationSeconds": 1420,
-          "duration": "23:40",
-          "views": 27349,
-          "likes": 1344,
-          "comments": 75,
-          "viewsPerDay": 2766,
-          "score": 105.83,
-          "topics": [
-            "Vocal production"
-          ],
-          "primaryTopic": "Vocal production",
-          "url": "https://www.youtube.com/watch?v=jrcJ1o84v38"
-        },
-        {
-          "videoId": "zwgLymAYt8w",
-          "title": "I Tried Treblo Ai... Heres What Happen!",
-          "channelId": "UCS7hMEepjdm4cNPIy-53HBA",
-          "channelTitle": "Kris KeyZ",
-          "publishedAt": "2026-08-17T19:54:01Z",
-          "thumbnail": "https://i.ytimg.com/vi/zwgLymAYt8w/maxresdefault.jpg",
-          "durationSeconds": 1631,
-          "duration": "27:11",
-          "views": 2783,
-          "likes": 71,
-          "comments": 29,
-          "viewsPerDay": 488,
-          "score": 103.81,
-          "topics": [
-            "AI music tools"
-          ],
-          "primaryTopic": "AI music tools",
-          "url": "https://www.youtube.com/watch?v=zwgLymAYt8w"
+          "url": "https://www.youtube.com/watch?v=Q4I-x07aJ7A"
         }
       ]
     },
@@ -1262,47 +1258,209 @@
       "description": "Vibe coding, web development, AI coding agents, frameworks and practical automation.",
       "topics": [
         {
-          "label": "Cursor",
-          "score": 1076.41,
-          "videoCount": 12
-        },
-        {
           "label": "Claude Code",
-          "score": 1073.81,
-          "videoCount": 12
+          "score": 1374.29,
+          "videoCount": 15
         },
         {
           "label": "Codex",
-          "score": 893.85,
+          "score": 1110.35,
+          "videoCount": 13
+        },
+        {
+          "label": "Cursor",
+          "score": 1070.2,
           "videoCount": 12
         },
         {
-          "label": "Automation",
-          "score": 645.22,
-          "videoCount": 9
+          "label": "Web design coding",
+          "score": 397.66,
+          "videoCount": 6
         },
         {
-          "label": "Web design coding",
-          "score": 372.11,
+          "label": "Automation",
+          "score": 361.14,
           "videoCount": 5
         },
         {
-          "label": "JavaScript",
-          "score": 199.69,
+          "label": "React",
+          "score": 180.02,
           "videoCount": 3
         },
         {
-          "label": "React",
-          "score": 151.3,
+          "label": "VS Code",
+          "score": 132.9,
           "videoCount": 2
         },
         {
-          "label": "VS Code",
-          "score": 59.85,
+          "label": "JavaScript",
+          "score": 70.41,
           "videoCount": 1
         }
       ],
       "videos": [
+        {
+          "videoId": "Fqlc0N1qyMo",
+          "title": "Claude Code Just Dropped /Design. (Master it in 8 Minutes).",
+          "channelId": "UCruPFdKtGG8Oz5dvha6WWgA",
+          "channelTitle": "Tristen O'Brien",
+          "publishedAt": "2026-08-25T13:00:10Z",
+          "thumbnail": "https://i.ytimg.com/vi/Fqlc0N1qyMo/maxresdefault.jpg",
+          "durationSeconds": 483,
+          "duration": "8:03",
+          "views": 109272,
+          "likes": 2178,
+          "comments": 66,
+          "viewsPerDay": 21283,
+          "score": 146.87,
+          "topics": [
+            "Claude Code"
+          ],
+          "primaryTopic": "Claude Code",
+          "url": "https://www.youtube.com/watch?v=Fqlc0N1qyMo"
+        },
+        {
+          "videoId": "lSjzGHPpzic",
+          "title": "Lets talk about Codex (why i switched)",
+          "channelId": "UC4x3CR25WSlvMJUtSPPzwwg",
+          "channelTitle": "Chris Raroque",
+          "publishedAt": "2026-08-24T15:15:27Z",
+          "thumbnail": "https://i.ytimg.com/vi/lSjzGHPpzic/maxresdefault.jpg",
+          "durationSeconds": 1342,
+          "duration": "22:22",
+          "views": 46013,
+          "likes": 1610,
+          "comments": 403,
+          "viewsPerDay": 7618,
+          "score": 139.58,
+          "topics": [
+            "Codex"
+          ],
+          "primaryTopic": "Codex",
+          "url": "https://www.youtube.com/watch?v=lSjzGHPpzic"
+        },
+        {
+          "videoId": "UsfCe5fJK6A",
+          "title": "100 Hours Testing Deepseek Harness vs. Claude Code. What You Need to Know.",
+          "channelId": "UC2ojq-nuP8ceeHqiroeKhBA",
+          "channelTitle": "Nate Herk | AI Automation",
+          "publishedAt": "2026-08-23T22:52:31Z",
+          "thumbnail": "https://i.ytimg.com/vi/UsfCe5fJK6A/maxresdefault.jpg",
+          "durationSeconds": 1082,
+          "duration": "18:02",
+          "views": 94641,
+          "likes": 1668,
+          "comments": 127,
+          "viewsPerDay": 14077,
+          "score": 132.07,
+          "topics": [
+            "Claude Code"
+          ],
+          "primaryTopic": "Claude Code",
+          "url": "https://www.youtube.com/watch?v=UsfCe5fJK6A"
+        },
+        {
+          "videoId": "BFZ7lyKYcg8",
+          "title": "Grok Bot Just Got 70% Cheaper... (I Switched)",
+          "channelId": "UCjc1vfduI7BhVMXBLJLDjmA",
+          "channelTitle": "Brock Mesarich | AI for Non Techies",
+          "publishedAt": "2026-08-23T17:13:30Z",
+          "thumbnail": "https://i.ytimg.com/vi/BFZ7lyKYcg8/maxresdefault.jpg",
+          "durationSeconds": 1430,
+          "duration": "23:50",
+          "views": 49349,
+          "likes": 989,
+          "comments": 115,
+          "viewsPerDay": 7092,
+          "score": 123.8,
+          "topics": [
+            "Cursor"
+          ],
+          "primaryTopic": "Cursor",
+          "url": "https://www.youtube.com/watch?v=BFZ7lyKYcg8"
+        },
+        {
+          "videoId": "r3xakavfeaM",
+          "title": "Claude Code FREE & UNLIMITED with Opus 4.8 + Opus 5 (Agent Router)",
+          "channelId": "UCxSDfT4achjpnZ_YKfwtjlQ",
+          "channelTitle": "Uday Dot Ai",
+          "publishedAt": "2026-08-20T09:30:37Z",
+          "thumbnail": "https://i.ytimg.com/vi/r3xakavfeaM/maxresdefault.jpg",
+          "durationSeconds": 626,
+          "duration": "10:26",
+          "views": 69050,
+          "likes": 2288,
+          "comments": 1142,
+          "viewsPerDay": 6717,
+          "score": 117.45,
+          "topics": [
+            "Claude Code",
+            "Cursor"
+          ],
+          "primaryTopic": "Claude Code",
+          "url": "https://www.youtube.com/watch?v=r3xakavfeaM"
+        },
+        {
+          "videoId": "oBuWXUy7stw",
+          "title": "Claude Code + Codex = AI GOD MODE! (Open source + Free)",
+          "channelId": "UC2WmuBuFq6gL08QYG-JjXKw",
+          "channelTitle": "WorldofAI",
+          "publishedAt": "2026-08-23T06:15:03Z",
+          "thumbnail": "https://i.ytimg.com/vi/oBuWXUy7stw/maxresdefault.jpg",
+          "durationSeconds": 1094,
+          "duration": "18:14",
+          "views": 23690,
+          "likes": 543,
+          "comments": 60,
+          "viewsPerDay": 3195,
+          "score": 117.33,
+          "topics": [
+            "Codex",
+            "Cursor"
+          ],
+          "primaryTopic": "Codex",
+          "url": "https://www.youtube.com/watch?v=oBuWXUy7stw"
+        },
+        {
+          "videoId": "RkNafW_Mv9w",
+          "title": "DeepSeek Harness = Claude Code for $0",
+          "channelId": "UCxVxcTULO9cFU6SB9qVaisQ",
+          "channelTitle": "Jack Roberts",
+          "publishedAt": "2026-08-21T21:48:48Z",
+          "thumbnail": "https://i.ytimg.com/vi/RkNafW_Mv9w/maxresdefault.jpg",
+          "durationSeconds": 699,
+          "duration": "11:39",
+          "views": 78219,
+          "likes": 1466,
+          "comments": 143,
+          "viewsPerDay": 8922,
+          "score": 115.74,
+          "topics": [
+            "Claude Code"
+          ],
+          "primaryTopic": "Claude Code",
+          "url": "https://www.youtube.com/watch?v=RkNafW_Mv9w"
+        },
+        {
+          "videoId": "5CSXUsljJ_E",
+          "title": "11 Grok Bot Use Cases That Feel Like Cheating",
+          "channelId": "UCawZsQWqfGSbCI5yjkdVkTA",
+          "channelTitle": "Matthew Berman",
+          "publishedAt": "2026-08-20T18:28:50Z",
+          "thumbnail": "https://i.ytimg.com/vi/5CSXUsljJ_E/maxresdefault.jpg",
+          "durationSeconds": 1319,
+          "duration": "21:59",
+          "views": 75662,
+          "likes": 1450,
+          "comments": 191,
+          "viewsPerDay": 7638,
+          "score": 108.19,
+          "topics": [
+            "Cursor"
+          ],
+          "primaryTopic": "Cursor",
+          "url": "https://www.youtube.com/watch?v=5CSXUsljJ_E"
+        },
         {
           "videoId": "YAsxyoTWFDA",
           "title": "I Have Spent 1000+ Hours With Claude Code. This Is What I Learned",
@@ -1312,11 +1470,11 @@
           "thumbnail": "https://i.ytimg.com/vi/YAsxyoTWFDA/maxresdefault.jpg",
           "durationSeconds": 1351,
           "duration": "22:31",
-          "views": 151142,
-          "likes": 6696,
-          "comments": 230,
-          "viewsPerDay": 27618,
-          "score": 158.35,
+          "views": 248035,
+          "likes": 8958,
+          "comments": 294,
+          "viewsPerDay": 19655,
+          "score": 105.09,
           "topics": [
             "Claude Code"
           ],
@@ -1324,185 +1482,24 @@
           "url": "https://www.youtube.com/watch?v=YAsxyoTWFDA"
         },
         {
-          "videoId": "oI8iuCs8BHA",
-          "title": "Cursor AI Tutorial 2026 | How to Code Faster with AI",
-          "channelId": "UCHpeFceeaPvCnJdmPeqQs6Q",
-          "channelTitle": "Loco AI",
-          "publishedAt": "2026-08-18T20:24:41Z",
-          "thumbnail": "https://i.ytimg.com/vi/oI8iuCs8BHA/maxresdefault.jpg",
-          "durationSeconds": 279,
-          "duration": "4:39",
-          "views": 74177,
-          "likes": 0,
-          "comments": 19,
-          "viewsPerDay": 15855,
-          "score": 137.31,
+          "videoId": "StYBxI2TBzo",
+          "title": "Antigravity Just Got 4 Big Updates | Remote Control, Custom Agents, IDE Extensions & Enterprise",
+          "channelId": "UCz80JEs56coMRDd5OzYe_lw",
+          "channelTitle": "AI with Surya",
+          "publishedAt": "2026-08-22T23:56:23Z",
+          "thumbnail": "https://i.ytimg.com/vi/StYBxI2TBzo/maxresdefault.jpg",
+          "durationSeconds": 526,
+          "duration": "8:46",
+          "views": 9355,
+          "likes": 248,
+          "comments": 42,
+          "viewsPerDay": 1218,
+          "score": 102.58,
           "topics": [
-            "Cursor"
+            "VS Code"
           ],
-          "primaryTopic": "Cursor",
-          "url": "https://www.youtube.com/watch?v=oI8iuCs8BHA"
-        },
-        {
-          "videoId": "MYxamzOcVbs",
-          "title": "Learn 95% of Codex in 25 mins | Complete Masterclass",
-          "channelId": "UCBwmMxybNva6P_5VmxjzwqA",
-          "channelTitle": "Apna College",
-          "publishedAt": "2026-08-15T15:29:41Z",
-          "thumbnail": "https://i.ytimg.com/vi/MYxamzOcVbs/maxresdefault.jpg",
-          "durationSeconds": 1496,
-          "duration": "24:56",
-          "views": 179171,
-          "likes": 5774,
-          "comments": 326,
-          "viewsPerDay": 22728,
-          "score": 136.37,
-          "topics": [
-            "Codex"
-          ],
-          "primaryTopic": "Codex",
-          "url": "https://www.youtube.com/watch?v=MYxamzOcVbs"
-        },
-        {
-          "videoId": "WCrnS09vpfo",
-          "title": "I Made Codex and Claude Code Build the Same App. One Clearly Won.",
-          "channelId": "UC2ojq-nuP8ceeHqiroeKhBA",
-          "channelTitle": "Nate Herk | AI Automation",
-          "publishedAt": "2026-08-14T15:22:34Z",
-          "thumbnail": "https://i.ytimg.com/vi/WCrnS09vpfo/maxresdefault.jpg",
-          "durationSeconds": 1274,
-          "duration": "21:14",
-          "views": 115112,
-          "likes": 2350,
-          "comments": 284,
-          "viewsPerDay": 12951,
-          "score": 120.22,
-          "topics": [
-            "Claude Code"
-          ],
-          "primaryTopic": "Claude Code",
-          "url": "https://www.youtube.com/watch?v=WCrnS09vpfo"
-        },
-        {
-          "videoId": "A4ykehVQK9c",
-          "title": "Use Claude Code 100% FREE & UNLIMITED with Fast Responses (Omniroute)",
-          "channelId": "UCntGhimQ0cQCMIYQizseVFg",
-          "channelTitle": "Damian Malliaros",
-          "publishedAt": "2026-08-16T14:43:43Z",
-          "thumbnail": "https://i.ytimg.com/vi/A4ykehVQK9c/maxresdefault.jpg",
-          "durationSeconds": 1519,
-          "duration": "25:19",
-          "views": 30682,
-          "likes": 594,
-          "comments": 44,
-          "viewsPerDay": 4437,
-          "score": 117.34,
-          "topics": [
-            "Cursor"
-          ],
-          "primaryTopic": "Cursor",
-          "url": "https://www.youtube.com/watch?v=A4ykehVQK9c"
-        },
-        {
-          "videoId": "QNDvCLt2mpc",
-          "title": "Master Anime.js | Complete Web Animation Series | Part 01 - Basics",
-          "channelId": "UCw782572Z5PGJJzwYgU1COg",
-          "channelTitle": "Sheryians Creative School",
-          "publishedAt": "2026-08-19T14:52:02Z",
-          "thumbnail": "https://i.ytimg.com/vi/QNDvCLt2mpc/maxresdefault.jpg",
-          "durationSeconds": 2340,
-          "duration": "39:00",
-          "views": 2243,
-          "likes": 120,
-          "comments": 20,
-          "viewsPerDay": 574,
-          "score": 115.19,
-          "topics": [
-            "Web design coding"
-          ],
-          "primaryTopic": "Web design coding",
-          "url": "https://www.youtube.com/watch?v=QNDvCLt2mpc"
-        },
-        {
-          "videoId": "XNQBCRcwXV4",
-          "title": "I Deleted All My Claude Skills... And Claude Got Smarter",
-          "channelId": "UC2ojq-nuP8ceeHqiroeKhBA",
-          "channelTitle": "Nate Herk | AI Automation",
-          "publishedAt": "2026-08-12T15:39:14Z",
-          "thumbnail": "https://i.ytimg.com/vi/XNQBCRcwXV4/maxresdefault.jpg",
-          "durationSeconds": 716,
-          "duration": "11:56",
-          "views": 86174,
-          "likes": 2347,
-          "comments": 171,
-          "viewsPerDay": 7923,
-          "score": 109.31,
-          "topics": [
-            "Claude Code",
-            "Automation"
-          ],
-          "primaryTopic": "Claude Code",
-          "url": "https://www.youtube.com/watch?v=XNQBCRcwXV4"
-        },
-        {
-          "videoId": "dUE4T4EDaBk",
-          "title": "First look at Origin, who this is actually for",
-          "channelId": "UCq_MHfMX5FBBB3bqnJPAEzA",
-          "channelTitle": "Ray Fernando",
-          "publishedAt": "2026-08-17T22:54:53Z",
-          "thumbnail": "https://i.ytimg.com/vi/dUE4T4EDaBk/maxresdefault.jpg",
-          "durationSeconds": 9363,
-          "duration": "2:36:03",
-          "views": 7658,
-          "likes": 149,
-          "comments": 17,
-          "viewsPerDay": 1374,
-          "score": 109.3,
-          "topics": [
-            "Cursor"
-          ],
-          "primaryTopic": "Cursor",
-          "url": "https://www.youtube.com/watch?v=dUE4T4EDaBk"
-        },
-        {
-          "videoId": "_9MZfjxhHWQ",
-          "title": "I'm done with Claude Code",
-          "channelId": "UCBX__dPYqDFqAN4QcWbnUbw",
-          "channelTitle": "Ras Mic",
-          "publishedAt": "2026-08-14T01:01:48Z",
-          "thumbnail": "https://i.ytimg.com/vi/_9MZfjxhHWQ/maxresdefault.jpg",
-          "durationSeconds": 1241,
-          "duration": "20:41",
-          "views": 22449,
-          "likes": 1018,
-          "comments": 158,
-          "viewsPerDay": 2367,
-          "score": 106.34,
-          "topics": [
-            "Codex"
-          ],
-          "primaryTopic": "Codex",
-          "url": "https://www.youtube.com/watch?v=_9MZfjxhHWQ"
-        },
-        {
-          "videoId": "9oJySubZRSA",
-          "title": "The Ultimate Beginner’s Guide to Claude AI",
-          "channelId": "UCuwpzP90g1LuGk6JUNms_AQ",
-          "channelTitle": "Metics Media",
-          "publishedAt": "2026-08-10T11:00:20Z",
-          "thumbnail": "https://i.ytimg.com/vi/9oJySubZRSA/maxresdefault.jpg",
-          "durationSeconds": 3649,
-          "duration": "1:00:49",
-          "views": 240136,
-          "likes": 7581,
-          "comments": 158,
-          "viewsPerDay": 18373,
-          "score": 100.13,
-          "topics": [
-            "Claude Code"
-          ],
-          "primaryTopic": "Claude Code",
-          "url": "https://www.youtube.com/watch?v=9oJySubZRSA"
+          "primaryTopic": "VS Code",
+          "url": "https://www.youtube.com/watch?v=StYBxI2TBzo"
         }
       ]
     },
@@ -1513,46 +1510,224 @@
       "topics": [
         {
           "label": "Game AI",
-          "score": 1242.15,
-          "videoCount": 14
+          "score": 976.86,
+          "videoCount": 13
         },
         {
           "label": "Godot",
-          "score": 864.86,
-          "videoCount": 14
+          "score": 886.48,
+          "videoCount": 12
         },
         {
           "label": "Unreal Engine",
-          "score": 860.31,
-          "videoCount": 10
+          "score": 847.6,
+          "videoCount": 11
         },
         {
           "label": "Procedural worlds",
-          "score": 737.27,
-          "videoCount": 8
-        },
-        {
-          "label": "Indie dev",
-          "score": 504.53,
-          "videoCount": 7
+          "score": 812.43,
+          "videoCount": 11
         },
         {
           "label": "Unity",
-          "score": 480.91,
-          "videoCount": 5
+          "score": 778.94,
+          "videoCount": 9
+        },
+        {
+          "label": "Indie dev",
+          "score": 735.76,
+          "videoCount": 9
         },
         {
           "label": "Level design",
-          "score": 208.25,
-          "videoCount": 3
-        },
-        {
-          "label": "Shaders",
-          "score": 73.04,
-          "videoCount": 1
+          "score": 321.37,
+          "videoCount": 4
         }
       ],
       "videos": [
+        {
+          "videoId": "kg74GTQ9LHE",
+          "title": "Oyunumun Steam Sayfasını Açtım! | UpperCart Devlog #7",
+          "channelId": "UCIL38g9LedlSsMWmFDN3Mxw",
+          "channelTitle": "SkinnyDev",
+          "publishedAt": "2026-08-29T12:00:05Z",
+          "thumbnail": "https://i.ytimg.com/vi/kg74GTQ9LHE/maxresdefault.jpg",
+          "durationSeconds": 1169,
+          "duration": "19:29",
+          "views": 8428,
+          "likes": 198,
+          "comments": 88,
+          "viewsPerDay": 7166,
+          "score": 160.35,
+          "topics": [
+            "Indie dev"
+          ],
+          "primaryTopic": "Indie dev",
+          "url": "https://www.youtube.com/watch?v=kg74GTQ9LHE"
+        },
+        {
+          "videoId": "NHBFy2HMlHM",
+          "title": "The tools I use for game dev",
+          "channelId": "UCmlpbiwNnNss6Pan-6XhC9g",
+          "channelTitle": "LandonDevelops",
+          "publishedAt": "2026-08-28T13:52:02Z",
+          "thumbnail": "https://i.ytimg.com/vi/NHBFy2HMlHM/maxresdefault.jpg",
+          "durationSeconds": 511,
+          "duration": "8:31",
+          "views": 10343,
+          "likes": 170,
+          "comments": 21,
+          "viewsPerDay": 4929,
+          "score": 140.67,
+          "topics": [
+            "Godot"
+          ],
+          "primaryTopic": "Godot",
+          "url": "https://www.youtube.com/watch?v=NHBFy2HMlHM"
+        },
+        {
+          "videoId": "iXVo3VKNIys",
+          "title": "Awesome FREE GameDev Asset Giveaways! [August 25 - Sept 8th]",
+          "channelId": "UCr-5TdGkKszdbboXXsFZJTQ",
+          "channelTitle": "Gamefromscratch",
+          "publishedAt": "2026-08-25T14:04:09Z",
+          "thumbnail": "https://i.ytimg.com/vi/iXVo3VKNIys/maxresdefault.jpg",
+          "durationSeconds": 554,
+          "duration": "9:14",
+          "views": 11940,
+          "likes": 483,
+          "comments": 14,
+          "viewsPerDay": 2346,
+          "score": 135.93,
+          "topics": [
+            "Unreal Engine",
+            "Unity",
+            "Godot"
+          ],
+          "primaryTopic": "Unreal Engine",
+          "url": "https://www.youtube.com/watch?v=iXVo3VKNIys"
+        },
+        {
+          "videoId": "7W7PP7LvLiw",
+          "title": "Opus 5 + Makko Is The BEST Combo For Making Mobile Godot Games",
+          "channelId": "UCK7nhJBW05-tCmbmvbHThmw",
+          "channelTitle": "Letta Corporation",
+          "publishedAt": "2026-08-25T13:15:25Z",
+          "thumbnail": "https://i.ytimg.com/vi/7W7PP7LvLiw/maxresdefault.jpg",
+          "durationSeconds": 816,
+          "duration": "13:36",
+          "views": 8337,
+          "likes": 227,
+          "comments": 14,
+          "viewsPerDay": 1627,
+          "score": 116.07,
+          "topics": [
+            "Godot"
+          ],
+          "primaryTopic": "Godot",
+          "url": "https://www.youtube.com/watch?v=7W7PP7LvLiw"
+        },
+        {
+          "videoId": "HdeKto9t28k",
+          "title": "Recreating OD: KNOCK in Unreal Engine 5 | Horror Environment Design Tutorial",
+          "channelId": "UCIXYn8CgVS8GnS2RJI2zkWQ",
+          "channelTitle": "HALbot Studios",
+          "publishedAt": "2026-08-23T16:00:20Z",
+          "thumbnail": "https://i.ytimg.com/vi/HdeKto9t28k/maxresdefault.jpg",
+          "durationSeconds": 4820,
+          "duration": "1:20:20",
+          "views": 11367,
+          "likes": 657,
+          "comments": 57,
+          "viewsPerDay": 1622,
+          "score": 114.85,
+          "topics": [
+            "Level design"
+          ],
+          "primaryTopic": "Level design",
+          "url": "https://www.youtube.com/watch?v=HdeKto9t28k"
+        },
+        {
+          "videoId": "mzIIu9GrbXI",
+          "title": "I Tried Making a Viral Roblox FPS Game With AI",
+          "channelId": "UC2sX3BnKPflcYbS2_xJugJA",
+          "channelTitle": "LanceyPoo",
+          "publishedAt": "2026-08-21T09:16:08Z",
+          "thumbnail": "https://i.ytimg.com/vi/mzIIu9GrbXI/maxresdefault.jpg",
+          "durationSeconds": 1862,
+          "duration": "31:02",
+          "views": 61078,
+          "likes": 1788,
+          "comments": 210,
+          "viewsPerDay": 6575,
+          "score": 113.79,
+          "topics": [
+            "Game AI"
+          ],
+          "primaryTopic": "Game AI",
+          "url": "https://www.youtube.com/watch?v=mzIIu9GrbXI"
+        },
+        {
+          "videoId": "oivJ1Pwcv1g",
+          "title": "Tiruvannamalai Temple 3D workflow in Unreal engine 5  | Tamil Tutorial | Nigesh",
+          "channelId": "UCC6hfQNszCRV9oka-p8Lq4w",
+          "channelTitle": "TD Creation",
+          "publishedAt": "2026-08-24T09:02:19Z",
+          "thumbnail": "https://i.ytimg.com/vi/oivJ1Pwcv1g/maxresdefault.jpg",
+          "durationSeconds": 344,
+          "duration": "5:44",
+          "views": 4130,
+          "likes": 140,
+          "comments": 15,
+          "viewsPerDay": 656,
+          "score": 107.26,
+          "topics": [
+            "Unreal Engine",
+            "Level design"
+          ],
+          "primaryTopic": "Unreal Engine",
+          "url": "https://www.youtube.com/watch?v=oivJ1Pwcv1g"
+        },
+        {
+          "videoId": "4FbE0G8kcxk",
+          "title": "DevOps for Game Devs: New Unity CLI + GitHub Actions",
+          "channelId": "UCMAU6mx40NWsQuYmxAzPcHA",
+          "channelTitle": "git-amend",
+          "publishedAt": "2026-08-23T13:00:19Z",
+          "thumbnail": "https://i.ytimg.com/vi/4FbE0G8kcxk/maxresdefault.jpg",
+          "durationSeconds": 857,
+          "duration": "14:17",
+          "views": 6157,
+          "likes": 271,
+          "comments": 22,
+          "viewsPerDay": 863,
+          "score": 106.43,
+          "topics": [
+            "Unity"
+          ],
+          "primaryTopic": "Unity",
+          "url": "https://www.youtube.com/watch?v=4FbE0G8kcxk"
+        },
+        {
+          "videoId": "tAZSJvmiD9k",
+          "title": "My Geometric Game is Getting Weird",
+          "channelId": "UCjpg_fQIgwVJQ18I8jFb8lg",
+          "channelTitle": "Code Gains",
+          "publishedAt": "2026-08-24T14:00:25Z",
+          "thumbnail": "https://i.ytimg.com/vi/tAZSJvmiD9k/maxresdefault.jpg",
+          "durationSeconds": 599,
+          "duration": "9:59",
+          "views": 2836,
+          "likes": 122,
+          "comments": 29,
+          "viewsPerDay": 465,
+          "score": 103.47,
+          "topics": [
+            "Procedural worlds"
+          ],
+          "primaryTopic": "Procedural worlds",
+          "url": "https://www.youtube.com/watch?v=tAZSJvmiD9k"
+        },
         {
           "videoId": "v7e9tjrgKLg",
           "title": "TOP 10 NEW Systems and Tools AUGUST 2026! | Unity Asset Store",
@@ -1562,204 +1737,16 @@
           "thumbnail": "https://i.ytimg.com/vi/v7e9tjrgKLg/maxresdefault.jpg",
           "durationSeconds": 568,
           "duration": "9:28",
-          "views": 4316,
-          "likes": 193,
-          "comments": 13,
-          "viewsPerDay": 5541,
-          "score": 160.11,
+          "views": 9186,
+          "likes": 316,
+          "comments": 17,
+          "viewsPerDay": 1159,
+          "score": 101.74,
           "topics": [
             "Unity"
           ],
           "primaryTopic": "Unity",
           "url": "https://www.youtube.com/watch?v=v7e9tjrgKLg"
-        },
-        {
-          "videoId": "DODPZavZHCU",
-          "title": "I Made a Medieval Open World Game Alone for 2 years - Here's What Happened",
-          "channelId": "UCnCV4u74JTzEU79znRmxhEg",
-          "channelTitle": "nubbswag",
-          "publishedAt": "2026-08-20T17:09:26Z",
-          "thumbnail": "https://i.ytimg.com/vi/DODPZavZHCU/maxresdefault.jpg",
-          "durationSeconds": 181,
-          "duration": "3:01",
-          "views": 8877,
-          "likes": 361,
-          "comments": 69,
-          "viewsPerDay": 3154,
-          "score": 144.34,
-          "topics": [
-            "Procedural worlds"
-          ],
-          "primaryTopic": "Procedural worlds",
-          "url": "https://www.youtube.com/watch?v=DODPZavZHCU"
-        },
-        {
-          "videoId": "9kejfKCb0S8",
-          "title": "I Built a Souls-Like Game in 3 Days - Every Asset Made by AI",
-          "channelId": "UCRW08KcTVjXEmBzBsVl7XjA",
-          "channelTitle": "Stefan 3D AI",
-          "publishedAt": "2026-08-16T11:59:04Z",
-          "thumbnail": "https://i.ytimg.com/vi/9kejfKCb0S8/maxresdefault.jpg",
-          "durationSeconds": 1526,
-          "duration": "25:26",
-          "views": 57986,
-          "likes": 2161,
-          "comments": 154,
-          "viewsPerDay": 8249,
-          "score": 136.9,
-          "topics": [
-            "Unreal Engine",
-            "Game AI"
-          ],
-          "primaryTopic": "Unreal Engine",
-          "url": "https://www.youtube.com/watch?v=9kejfKCb0S8"
-        },
-        {
-          "videoId": "6kjXzTVmT58",
-          "title": "Qwen3.8 27B Is INSANE – This Is the BEST Local AI Model Yet!",
-          "channelId": "UCOCahKBCEUuzDJawM7yN1dg",
-          "channelTitle": "Bijan Bowen",
-          "publishedAt": "2026-08-14T22:21:09Z",
-          "thumbnail": "https://i.ytimg.com/vi/6kjXzTVmT58/maxresdefault.jpg",
-          "durationSeconds": 2295,
-          "duration": "38:15",
-          "views": 70960,
-          "likes": 2567,
-          "comments": 500,
-          "viewsPerDay": 8253,
-          "score": 129.98,
-          "topics": [
-            "Procedural worlds",
-            "Game AI"
-          ],
-          "primaryTopic": "Procedural worlds",
-          "url": "https://www.youtube.com/watch?v=6kjXzTVmT58"
-        },
-        {
-          "videoId": "vksuxAECgI8",
-          "title": "Unreal Engine’s NEW AI Animation System Is Crazy (UE5)",
-          "channelId": "UCp1e34nrTQqVXkNU5ekH9CQ",
-          "channelTitle": "Smart Poly",
-          "publishedAt": "2026-08-14T15:30:09Z",
-          "thumbnail": "https://i.ytimg.com/vi/vksuxAECgI8/maxresdefault.jpg",
-          "durationSeconds": 608,
-          "duration": "10:08",
-          "views": 72837,
-          "likes": 2521,
-          "comments": 240,
-          "viewsPerDay": 8200,
-          "score": 120.24,
-          "topics": [
-            "Unreal Engine"
-          ],
-          "primaryTopic": "Unreal Engine",
-          "url": "https://www.youtube.com/watch?v=vksuxAECgI8"
-        },
-        {
-          "videoId": "mmpLXA-xzrQ",
-          "title": "The Complete AI 3D Workflow for Indie Game Devs (2026)",
-          "channelId": "UCRW08KcTVjXEmBzBsVl7XjA",
-          "channelTitle": "Stefan 3D AI",
-          "publishedAt": "2026-08-12T12:30:19Z",
-          "thumbnail": "https://i.ytimg.com/vi/mmpLXA-xzrQ/maxresdefault.jpg",
-          "durationSeconds": 1332,
-          "duration": "22:12",
-          "views": 29546,
-          "likes": 1174,
-          "comments": 76,
-          "viewsPerDay": 2684,
-          "score": 113.04,
-          "topics": [
-            "Unreal Engine",
-            "Unity",
-            "Godot",
-            "Game AI",
-            "Indie dev"
-          ],
-          "primaryTopic": "Unreal Engine",
-          "url": "https://www.youtube.com/watch?v=mmpLXA-xzrQ"
-        },
-        {
-          "videoId": "qK4nV_LnXxQ",
-          "title": "Anyone Can Make Amazing Games Now (Easy)",
-          "channelId": "UChpleBmo18P08aKCIgti38g",
-          "channelTitle": "Matt Wolfe",
-          "publishedAt": "2026-08-13T01:53:16Z",
-          "thumbnail": "https://i.ytimg.com/vi/qK4nV_LnXxQ/maxresdefault.jpg",
-          "durationSeconds": 1731,
-          "duration": "28:51",
-          "views": 48136,
-          "likes": 1405,
-          "comments": 196,
-          "viewsPerDay": 4606,
-          "score": 107.95,
-          "topics": [
-            "Procedural worlds",
-            "Game AI"
-          ],
-          "primaryTopic": "Procedural worlds",
-          "url": "https://www.youtube.com/watch?v=qK4nV_LnXxQ"
-        },
-        {
-          "videoId": "eSaXc-NOAQI",
-          "title": "Unity CLI + Claude: Building a 2D Procedural Dungeon (FREE project)",
-          "channelId": "UC0UD2KSZESc5PCPzTBZC_dw",
-          "channelTitle": "Sunny Valley Studio",
-          "publishedAt": "2026-08-16T13:03:52Z",
-          "thumbnail": "https://i.ytimg.com/vi/eSaXc-NOAQI/maxresdefault.jpg",
-          "durationSeconds": 858,
-          "duration": "14:18",
-          "views": 4096,
-          "likes": 198,
-          "comments": 24,
-          "viewsPerDay": 586,
-          "score": 102.5,
-          "topics": [
-            "Procedural worlds"
-          ],
-          "primaryTopic": "Procedural worlds",
-          "url": "https://www.youtube.com/watch?v=eSaXc-NOAQI"
-        },
-        {
-          "videoId": "xxeNaxrfRVs",
-          "title": "I Tried Making a Viral Roblox Game With AI",
-          "channelId": "UC2sX3BnKPflcYbS2_xJugJA",
-          "channelTitle": "LanceyPoo",
-          "publishedAt": "2026-08-11T12:13:19Z",
-          "thumbnail": "https://i.ytimg.com/vi/xxeNaxrfRVs/maxresdefault.jpg",
-          "durationSeconds": 1314,
-          "duration": "21:54",
-          "views": 105736,
-          "likes": 3623,
-          "comments": 320,
-          "viewsPerDay": 8797,
-          "score": 101.9,
-          "topics": [
-            "Game AI"
-          ],
-          "primaryTopic": "Game AI",
-          "url": "https://www.youtube.com/watch?v=xxeNaxrfRVs"
-        },
-        {
-          "videoId": "mjg_JUMar04",
-          "title": "Stop Asking AI To Build The Whole Game At Once",
-          "channelId": "UC1nYVdCZZr7XgeKlXEXAIww",
-          "channelTitle": "Can It Code?",
-          "publishedAt": "2026-08-10T15:00:25Z",
-          "thumbnail": "https://i.ytimg.com/vi/mjg_JUMar04/maxresdefault.jpg",
-          "durationSeconds": 410,
-          "duration": "6:50",
-          "views": 71907,
-          "likes": 4488,
-          "comments": 446,
-          "viewsPerDay": 5573,
-          "score": 99.12,
-          "topics": [
-            "Game AI",
-            "Indie dev"
-          ],
-          "primaryTopic": "Game AI",
-          "url": "https://www.youtube.com/watch?v=mjg_JUMar04"
         }
       ]
     },
@@ -1769,250 +1756,249 @@
       "description": "Editing, lighting, cameras, retouching and practical photography workflows.",
       "topics": [
         {
-          "label": "Color workflow",
-          "score": 1222.27,
+          "label": "Photo editing",
+          "score": 1324.14,
           "videoCount": 15
         },
         {
           "label": "AI photography",
-          "score": 1199.47,
+          "score": 1095.27,
           "videoCount": 15
         },
         {
           "label": "Lightroom",
-          "score": 1197.9,
-          "videoCount": 15
-        },
-        {
-          "label": "Photo editing",
-          "score": 1068.8,
-          "videoCount": 15
-        },
-        {
-          "label": "Composition",
-          "score": 951.98,
-          "videoCount": 9
+          "score": 1094.9,
+          "videoCount": 14
         },
         {
           "label": "Retouching",
-          "score": 718.59,
-          "videoCount": 10
+          "score": 1030.03,
+          "videoCount": 12
         },
         {
-          "label": "Lighting",
-          "score": 236,
-          "videoCount": 3
+          "label": "Color workflow",
+          "score": 874.16,
+          "videoCount": 12
+        },
+        {
+          "label": "Composition",
+          "score": 706.54,
+          "videoCount": 9
         },
         {
           "label": "Camera tools",
-          "score": 43.82,
+          "score": 62.46,
+          "videoCount": 1
+        },
+        {
+          "label": "Lighting",
+          "score": 61.75,
           "videoCount": 1
         }
       ],
       "videos": [
         {
-          "videoId": "ndZc-OJvQUI",
-          "title": "Free Lightroom Clone... Try This NEW Alternative...",
-          "channelId": "UCrCUJp3_I9JTdXzPdhlq7Rw",
-          "channelTitle": "Tony Photo Pilot",
-          "publishedAt": "2026-08-16T20:15:23Z",
-          "thumbnail": "https://i.ytimg.com/vi/ndZc-OJvQUI/maxresdefault.jpg",
-          "durationSeconds": 1157,
-          "duration": "19:17",
-          "views": 74014,
-          "likes": 0,
-          "comments": 509,
-          "viewsPerDay": 11072,
-          "score": 147.21,
+          "videoId": "5ZYNYyagMkc",
+          "title": "3 New Camera Raw v18.6 Updates You Need to Try Right Now",
+          "channelId": "UCJVXr-0S4BtiNqe1kPxELaA",
+          "channelTitle": "Easy Photoshop",
+          "publishedAt": "2026-08-27T17:42:33Z",
+          "thumbnail": "https://i.ytimg.com/vi/5ZYNYyagMkc/maxresdefault.jpg",
+          "durationSeconds": 275,
+          "duration": "4:35",
+          "views": 21646,
+          "likes": 241,
+          "comments": 12,
+          "viewsPerDay": 7367,
+          "score": 145.22,
           "topics": [
-            "Lightroom",
             "Photo editing",
-            "Retouching",
-            "Composition",
-            "Color workflow"
+            "Retouching"
           ],
-          "primaryTopic": "Lightroom",
-          "url": "https://www.youtube.com/watch?v=ndZc-OJvQUI"
+          "primaryTopic": "Photo editing",
+          "url": "https://www.youtube.com/watch?v=5ZYNYyagMkc"
         },
         {
-          "videoId": "RcQdXBmHZsU",
-          "title": "Create Long AI Videos for FREE | Step-by-Step AI Video Tutorial 🚀",
-          "channelId": "UC8InP-esc63o3eBUPiMXNGQ",
-          "channelTitle": "Hello Tejaa",
-          "publishedAt": "2026-08-16T12:40:24Z",
-          "thumbnail": "https://i.ytimg.com/vi/RcQdXBmHZsU/maxresdefault.jpg",
-          "durationSeconds": 847,
-          "duration": "14:07",
-          "views": 61981,
-          "likes": 2375,
-          "comments": 160,
-          "viewsPerDay": 8853,
-          "score": 132.99,
-          "topics": [
-            "AI photography"
-          ],
-          "primaryTopic": "AI photography",
-          "url": "https://www.youtube.com/watch?v=RcQdXBmHZsU"
-        },
-        {
-          "videoId": "HIqPgm7zrsk",
-          "title": "Make your Backgrounds SOFTER with THIS TRICK! (Lightroom Tutorial)",
+          "videoId": "NS6s0Qys9V0",
+          "title": "Use THIS TOOL to Fix SKEWED LINES in Lightroom!",
           "channelId": "UCeos-Ju_sSs7Wb7FR-2VcQA",
           "channelTitle": "Christian Möhrle - The Phlog Photography",
-          "publishedAt": "2026-08-18T15:15:11Z",
-          "thumbnail": "https://i.ytimg.com/vi/HIqPgm7zrsk/maxresdefault.jpg",
-          "durationSeconds": 784,
-          "duration": "13:04",
-          "views": 13923,
-          "likes": 1039,
-          "comments": 27,
-          "viewsPerDay": 2845,
-          "score": 132.8,
-          "topics": [
-            "Composition"
-          ],
-          "primaryTopic": "Composition",
-          "url": "https://www.youtube.com/watch?v=HIqPgm7zrsk"
-        },
-        {
-          "videoId": "VgvLRpkgSds",
-          "title": "Art Nude Posing Workshop | Nude Model Posing Tutorial | BTS #artnude #nudeshoot",
-          "channelId": "UCuwQLptg71woeqevoCoqAfg",
-          "channelTitle": "Holy Idea",
-          "publishedAt": "2026-08-14T09:45:07Z",
-          "thumbnail": "https://i.ytimg.com/vi/VgvLRpkgSds/maxresdefault.jpg",
-          "durationSeconds": 455,
-          "duration": "7:35",
-          "views": 506959,
-          "likes": 4894,
-          "comments": 84,
-          "viewsPerDay": 55571,
-          "score": 130.12,
-          "topics": [
-            "Composition"
-          ],
-          "primaryTopic": "Composition",
-          "url": "https://www.youtube.com/watch?v=VgvLRpkgSds"
-        },
-        {
-          "videoId": "stZloGSVsAU",
-          "title": "How I'd Make Money With AI Ads in 2026 | Beginners Guide",
-          "channelId": "UC50i0desIu8UvQCtZSVgoEA",
-          "channelTitle": "Aftab Khan",
-          "publishedAt": "2026-08-17T07:26:23Z",
-          "thumbnail": "https://i.ytimg.com/vi/stZloGSVsAU/maxresdefault.jpg",
-          "durationSeconds": 1113,
-          "duration": "18:33",
-          "views": 58399,
-          "likes": 0,
-          "comments": 38,
-          "viewsPerDay": 9390,
-          "score": 122.74,
-          "topics": [
-            "AI photography"
-          ],
-          "primaryTopic": "AI photography",
-          "url": "https://www.youtube.com/watch?v=stZloGSVsAU"
-        },
-        {
-          "videoId": "U9Oz1DgJlTg",
-          "title": "This DaVinci Resolve Plugin Just Replaced EVERY AI Platform (Cloud & Free GPU)",
-          "channelId": "UCb_VQGXmXhlldzV4fvTbRFw",
-          "channelTitle": "Kevin Vandermarliere",
-          "publishedAt": "2026-08-14T15:41:45Z",
-          "thumbnail": "https://i.ytimg.com/vi/U9Oz1DgJlTg/maxresdefault.jpg",
-          "durationSeconds": 1014,
-          "duration": "16:54",
-          "views": 57039,
-          "likes": 2336,
-          "comments": 273,
-          "viewsPerDay": 6427,
-          "score": 120.57,
-          "topics": [
-            "AI photography"
-          ],
-          "primaryTopic": "AI photography",
-          "url": "https://www.youtube.com/watch?v=U9Oz1DgJlTg"
-        },
-        {
-          "videoId": "8x9IFZHxJ2o",
-          "title": "Photoshop's New Blemish Removal is GENIUS: Explained",
-          "channelId": "UCMrvLMUITAImCHMOhX88PYQ",
-          "channelTitle": "PiXimperfect",
-          "publishedAt": "2026-08-14T16:00:01Z",
-          "thumbnail": "https://i.ytimg.com/vi/8x9IFZHxJ2o/maxresdefault.jpg",
-          "durationSeconds": 679,
-          "duration": "11:19",
-          "views": 43523,
-          "likes": 2181,
-          "comments": 73,
-          "viewsPerDay": 4911,
-          "score": 117.91,
+          "publishedAt": "2026-08-25T15:15:00Z",
+          "thumbnail": "https://i.ytimg.com/vi/NS6s0Qys9V0/maxresdefault.jpg",
+          "durationSeconds": 687,
+          "duration": "11:27",
+          "views": 9279,
+          "likes": 500,
+          "comments": 16,
+          "viewsPerDay": 1841,
+          "score": 126.19,
           "topics": [
             "Lightroom"
           ],
           "primaryTopic": "Lightroom",
-          "url": "https://www.youtube.com/watch?v=8x9IFZHxJ2o"
+          "url": "https://www.youtube.com/watch?v=NS6s0Qys9V0"
         },
         {
-          "videoId": "IdSzWTb_h34",
-          "title": "4 Adjustment Layer Tricks That Will Save You Hours of Editing in Photoshop",
-          "channelId": "UCJVXr-0S4BtiNqe1kPxELaA",
-          "channelTitle": "Easy Photoshop",
-          "publishedAt": "2026-08-18T20:39:15Z",
-          "thumbnail": "https://i.ytimg.com/vi/IdSzWTb_h34/maxresdefault.jpg",
-          "durationSeconds": 320,
-          "duration": "5:20",
-          "views": 3300,
-          "likes": 122,
-          "comments": 8,
-          "viewsPerDay": 707,
-          "score": 111.16,
+          "videoId": "kaUcImNuAFw",
+          "title": "The NEW Luminar Does Something Lightroom Can't",
+          "channelId": "UCyaDDjiNgWX-uRXOx6LPsYQ",
+          "channelTitle": "Serge Ramelli Photography",
+          "publishedAt": "2026-08-26T15:00:19Z",
+          "thumbnail": "https://i.ytimg.com/vi/kaUcImNuAFw/maxresdefault.jpg",
+          "durationSeconds": 645,
+          "duration": "10:45",
+          "views": 10246,
+          "likes": 240,
+          "comments": 21,
+          "viewsPerDay": 2529,
+          "score": 125.66,
           "topics": [
-            "Color workflow"
+            "Lightroom"
           ],
-          "primaryTopic": "Color workflow",
-          "url": "https://www.youtube.com/watch?v=IdSzWTb_h34"
+          "primaryTopic": "Lightroom",
+          "url": "https://www.youtube.com/watch?v=kaUcImNuAFw"
         },
         {
-          "videoId": "vymdgv_D0pY",
-          "title": "How to Use RapidGrade in DaVinci Resolve 21 (10 Minutes Tutorial)",
-          "channelId": "UCsr8kA-6bXftKI4D1lAvCRQ",
-          "channelTitle": "Color Grading Only",
-          "publishedAt": "2026-08-17T16:46:02Z",
-          "thumbnail": "https://i.ytimg.com/vi/vymdgv_D0pY/maxresdefault.jpg",
-          "durationSeconds": 796,
-          "duration": "13:16",
-          "views": 5027,
-          "likes": 198,
-          "comments": 15,
-          "viewsPerDay": 862,
-          "score": 110.22,
+          "videoId": "ZptbGPrcr_I",
+          "title": "HOW I SHOT THIS | Window Light Portraits + Lightroom Editing Tutorial",
+          "channelId": "UCnCrCxn9TvB2ZLJwIeeKKbQ",
+          "channelTitle": "Neil Redfern",
+          "publishedAt": "2026-08-24T13:54:29Z",
+          "thumbnail": "https://i.ytimg.com/vi/ZptbGPrcr_I/maxresdefault.jpg",
+          "durationSeconds": 1583,
+          "duration": "26:23",
+          "views": 5076,
+          "likes": 211,
+          "comments": 16,
+          "viewsPerDay": 833,
+          "score": 113.91,
           "topics": [
-            "Color workflow"
-          ],
-          "primaryTopic": "Color workflow",
-          "url": "https://www.youtube.com/watch?v=vymdgv_D0pY"
-        },
-        {
-          "videoId": "wxdqBAIXZvI",
-          "title": "Build A Faster Editing Workflow | Luminar",
-          "channelId": "UCNKxUOzkrM7qUd38DzssEfw",
-          "channelTitle": "Luminar",
-          "publishedAt": "2026-08-20T05:32:21Z",
-          "thumbnail": "https://i.ytimg.com/vi/wxdqBAIXZvI/maxresdefault.jpg",
-          "durationSeconds": 1737,
-          "duration": "28:57",
-          "views": 1188,
-          "likes": 59,
-          "comments": 0,
-          "viewsPerDay": 360,
-          "score": 110.18,
-          "topics": [
+            "Photo editing",
             "Retouching"
           ],
-          "primaryTopic": "Retouching",
-          "url": "https://www.youtube.com/watch?v=wxdqBAIXZvI"
+          "primaryTopic": "Photo editing",
+          "url": "https://www.youtube.com/watch?v=ZptbGPrcr_I"
+        },
+        {
+          "videoId": "0Rvk-O3Eq9o",
+          "title": "I Sucked At Editing, Until I Learned This",
+          "channelId": "UC2qcxHank3IU5Z1xoNGV8Mw",
+          "channelTitle": "John Weatherby",
+          "publishedAt": "2026-08-24T15:05:21Z",
+          "thumbnail": "https://i.ytimg.com/vi/0Rvk-O3Eq9o/maxresdefault.jpg",
+          "durationSeconds": 1962,
+          "duration": "32:42",
+          "views": 9322,
+          "likes": 223,
+          "comments": 37,
+          "viewsPerDay": 1541,
+          "score": 111.69,
+          "topics": [
+            "Photo editing"
+          ],
+          "primaryTopic": "Photo editing",
+          "url": "https://www.youtube.com/watch?v=0Rvk-O3Eq9o"
+        },
+        {
+          "videoId": "sfs6-Fv6c9Y",
+          "title": "10 Hidden Luminar Features (You Should Try)",
+          "channelId": "UCyvCVjCXbncxxmTidtrVtbA",
+          "channelTitle": "Clever Photographer",
+          "publishedAt": "2026-08-23T14:00:06Z",
+          "thumbnail": "https://i.ytimg.com/vi/sfs6-Fv6c9Y/maxresdefault.jpg",
+          "durationSeconds": 1261,
+          "duration": "21:01",
+          "views": 7205,
+          "likes": 345,
+          "comments": 24,
+          "viewsPerDay": 1016,
+          "score": 108.71,
+          "topics": [
+            "Photo editing"
+          ],
+          "primaryTopic": "Photo editing",
+          "url": "https://www.youtube.com/watch?v=sfs6-Fv6c9Y"
+        },
+        {
+          "videoId": "VpN_g-j8tmg",
+          "title": "My Lightroom editing workflow",
+          "channelId": "UCqHOLeGVTDcgX-IVo6aY_bg",
+          "channelTitle": "Eren Sarigul",
+          "publishedAt": "2026-08-21T18:42:16Z",
+          "thumbnail": "https://i.ytimg.com/vi/VpN_g-j8tmg/maxresdefault.jpg",
+          "durationSeconds": 221,
+          "duration": "3:41",
+          "views": 50321,
+          "likes": 137,
+          "comments": 8,
+          "viewsPerDay": 5656,
+          "score": 107.75,
+          "topics": [
+            "Photo editing",
+            "Retouching"
+          ],
+          "primaryTopic": "Photo editing",
+          "url": "https://www.youtube.com/watch?v=VpN_g-j8tmg"
+        },
+        {
+          "videoId": "JqIK0fXWQSY",
+          "title": "How to Photograph A Lunar Eclipse",
+          "channelId": "UCm2jYWcOdfBd2XgA53yBtYQ",
+          "channelTitle": "High Point Scientific",
+          "publishedAt": "2026-08-21T15:00:07Z",
+          "thumbnail": "https://i.ytimg.com/vi/JqIK0fXWQSY/maxresdefault.jpg",
+          "durationSeconds": 790,
+          "duration": "13:10",
+          "views": 39522,
+          "likes": 670,
+          "comments": 25,
+          "viewsPerDay": 4367,
+          "score": 104.82,
+          "topics": [
+            "Composition"
+          ],
+          "primaryTopic": "Composition",
+          "url": "https://www.youtube.com/watch?v=JqIK0fXWQSY"
+        },
+        {
+          "videoId": "JmPJhdKEZVE",
+          "title": "The Forgotten Steps Your Photo Workflow is Missing",
+          "channelId": "UCHZi12wLV2bWiGTWHGtFJNw",
+          "channelTitle": "Andy Hutchinson",
+          "publishedAt": "2026-08-23T16:00:28Z",
+          "thumbnail": "https://i.ytimg.com/vi/JmPJhdKEZVE/sddefault.jpg",
+          "durationSeconds": 790,
+          "duration": "13:10",
+          "views": 3585,
+          "likes": 531,
+          "comments": 74,
+          "viewsPerDay": 511,
+          "score": 100.72,
+          "topics": [
+            "Photo editing"
+          ],
+          "primaryTopic": "Photo editing",
+          "url": "https://www.youtube.com/watch?v=JmPJhdKEZVE"
+        },
+        {
+          "videoId": "aGst--psUkk",
+          "title": "I Replaced 4 AI Tools With ONE — This Workflow Is Insane",
+          "channelId": "UC9R3u_5IkVsl_yRlV-RGOXQ",
+          "channelTitle": "Digital Prime Profit",
+          "publishedAt": "2026-08-23T18:20:51Z",
+          "thumbnail": "https://i.ytimg.com/vi/aGst--psUkk/maxresdefault.jpg",
+          "durationSeconds": 582,
+          "duration": "9:42",
+          "views": 7357,
+          "likes": 108,
+          "comments": 31,
+          "viewsPerDay": 1064,
+          "score": 100.02,
+          "topics": [
+            "AI photography"
+          ],
+          "primaryTopic": "AI photography",
+          "url": "https://www.youtube.com/watch?v=aGst--psUkk"
         }
       ]
     },
@@ -2022,246 +2008,245 @@
       "description": "Creator workflows for YouTube, social, streaming, thumbnails, storytelling and audience growth.",
       "topics": [
         {
-          "label": "Storytelling",
-          "score": 1473.88,
-          "videoCount": 15
-        },
-        {
           "label": "YouTube workflow",
-          "score": 1256.43,
+          "score": 1330.93,
           "videoCount": 15
         },
         {
-          "label": "Creator tools",
-          "score": 1205.35,
-          "videoCount": 14
-        },
-        {
-          "label": "Social workflow",
-          "score": 1163.83,
+          "label": "Storytelling",
+          "score": 1227.46,
           "videoCount": 13
         },
         {
+          "label": "Creator tools",
+          "score": 1205.29,
+          "videoCount": 14
+        },
+        {
           "label": "Short-form video",
-          "score": 1012.96,
-          "videoCount": 12
+          "score": 839.37,
+          "videoCount": 9
+        },
+        {
+          "label": "Social workflow",
+          "score": 762.59,
+          "videoCount": 11
         },
         {
           "label": "Thumbnails",
-          "score": 436.05,
-          "videoCount": 8
+          "score": 494.73,
+          "videoCount": 6
         },
         {
           "label": "Podcasting",
-          "score": 391.04,
+          "score": 301.32,
           "videoCount": 4
         }
       ],
       "videos": [
         {
-          "videoId": "xChXduqa_H0",
-          "title": "ai se video kaise banaye | ai video kaise banaye | long ai video kaise banaye | Ai video generator",
-          "channelId": "UCupP-eshlH7rLssXLqk_Fcw",
-          "channelTitle": "Creator Search 2.0",
-          "publishedAt": "2026-08-19T06:39:30Z",
-          "thumbnail": "https://i.ytimg.com/vi/xChXduqa_H0/maxresdefault.jpg",
-          "durationSeconds": 818,
-          "duration": "13:38",
-          "views": 78085,
-          "likes": 1787,
-          "comments": 332,
-          "viewsPerDay": 18366,
-          "score": 153.95,
+          "videoId": "A-nkSKQKLV8",
+          "title": "How I Create Better Content With Claude AI in 2026 | Full Workflow",
+          "channelId": "UC8lYUyMDFZkyD9Qt-uT1Vkg",
+          "channelTitle": "ETHAN VISION",
+          "publishedAt": "2026-08-29T19:48:23Z",
+          "thumbnail": "https://i.ytimg.com/vi/A-nkSKQKLV8/maxresdefault.jpg",
+          "durationSeconds": 294,
+          "duration": "4:54",
+          "views": 3072,
+          "likes": 155,
+          "comments": 17,
+          "viewsPerDay": 3610,
+          "score": 153.5,
           "topics": [
-            "Storytelling"
+            "Social workflow"
           ],
-          "primaryTopic": "Storytelling",
-          "url": "https://www.youtube.com/watch?v=xChXduqa_H0"
+          "primaryTopic": "Social workflow",
+          "url": "https://www.youtube.com/watch?v=A-nkSKQKLV8"
         },
         {
-          "videoId": "UuSp-Pu7UDo",
-          "title": "Create LONG AI VIDEOS 🚀 Seedance 2.5 1080p Quality ✅  #ai #aivideo",
-          "channelId": "UCqtMrF1ZSr5sPX1vgoPIefw",
-          "channelTitle": "Raj Photo Editing and Much More",
-          "publishedAt": "2026-08-17T14:14:26Z",
-          "thumbnail": "https://i.ytimg.com/vi/UuSp-Pu7UDo/maxresdefault.jpg",
-          "durationSeconds": 665,
-          "duration": "11:05",
-          "views": 67892,
-          "likes": 2414,
-          "comments": 149,
-          "viewsPerDay": 11438,
-          "score": 152.47,
+          "videoId": "uJO7Nlh1_Dk",
+          "title": "AI Generated Videos Monetization Rules 2026 | YouTube’s New AI Content Policy & Monetization",
+          "channelId": "UCA7RxVq2pMGYp_-Qo4S2dEw",
+          "channelTitle": "Technical Yogi",
+          "publishedAt": "2026-08-24T12:20:56Z",
+          "thumbnail": "https://i.ytimg.com/vi/uJO7Nlh1_Dk/maxresdefault.jpg",
+          "durationSeconds": 294,
+          "duration": "4:54",
+          "views": 53788,
+          "likes": 1286,
+          "comments": 214,
+          "viewsPerDay": 8729,
+          "score": 138.73,
           "topics": [
-            "Short-form video",
             "Creator tools",
             "Storytelling"
           ],
-          "primaryTopic": "Short-form video",
-          "url": "https://www.youtube.com/watch?v=UuSp-Pu7UDo"
+          "primaryTopic": "Creator tools",
+          "url": "https://www.youtube.com/watch?v=uJO7Nlh1_Dk"
         },
         {
-          "videoId": "0JzZGbi7n94",
-          "title": "How to Automate Your Content & Grow on Social Media in 2026 🤓",
-          "channelId": "UCj9tModtaC3lIP8NSGH5LNA",
-          "channelTitle": "Monesh Show",
-          "publishedAt": "2026-08-20T17:39:04Z",
-          "thumbnail": "https://i.ytimg.com/vi/0JzZGbi7n94/maxresdefault.jpg",
-          "durationSeconds": 372,
-          "duration": "6:12",
-          "views": 14169,
-          "likes": 1358,
-          "comments": 126,
-          "viewsPerDay": 5072,
-          "score": 151.44,
-          "topics": [
-            "Social workflow"
-          ],
-          "primaryTopic": "Social workflow",
-          "url": "https://www.youtube.com/watch?v=0JzZGbi7n94"
-        },
-        {
-          "videoId": "RcQdXBmHZsU",
-          "title": "Create Long AI Videos for FREE | Step-by-Step AI Video Tutorial 🚀",
-          "channelId": "UC8InP-esc63o3eBUPiMXNGQ",
-          "channelTitle": "Hello Tejaa",
-          "publishedAt": "2026-08-16T12:40:24Z",
-          "thumbnail": "https://i.ytimg.com/vi/RcQdXBmHZsU/maxresdefault.jpg",
-          "durationSeconds": 847,
-          "duration": "14:07",
-          "views": 61981,
-          "likes": 2375,
-          "comments": 160,
-          "viewsPerDay": 8853,
-          "score": 138.31,
-          "topics": [
-            "YouTube workflow",
-            "Storytelling"
-          ],
-          "primaryTopic": "YouTube workflow",
-          "url": "https://www.youtube.com/watch?v=RcQdXBmHZsU"
-        },
-        {
-          "videoId": "pwGeWRlrU10",
-          "title": "The Ultimate Guide to Editing VIRAL Reels using AI! (Easy Guide)",
-          "channelId": "UCAUD9SPehZ6E1NXpLtizVuw",
-          "channelTitle": "Joseph | Video Editing",
-          "publishedAt": "2026-08-19T16:36:55Z",
-          "thumbnail": "https://i.ytimg.com/vi/pwGeWRlrU10/maxresdefault.jpg",
-          "durationSeconds": 783,
-          "duration": "13:03",
-          "views": 10445,
-          "likes": 515,
-          "comments": 26,
+          "videoId": "FZAjMAsnvlg",
+          "title": "How to Create Ghibli-Style AI Short Videos 🔥 (Ghibli Cooking Style Videos)",
+          "channelId": "UCWwejDLMjmHKxR7NHo7v_sw",
+          "channelTitle": "Fine Tricks",
+          "publishedAt": "2026-08-29T06:52:21Z",
+          "thumbnail": "https://i.ytimg.com/vi/FZAjMAsnvlg/maxresdefault.jpg",
+          "durationSeconds": 566,
+          "duration": "9:26",
+          "views": 3783,
+          "likes": 91,
+          "comments": 9,
           "viewsPerDay": 2722,
-          "score": 137.41,
-          "topics": [
-            "Podcasting"
-          ],
-          "primaryTopic": "Podcasting",
-          "url": "https://www.youtube.com/watch?v=pwGeWRlrU10"
-        },
-        {
-          "videoId": "1VhMmgL_Gx8",
-          "title": "Become An Eden Expert in 1 Hour (The Second Brain For Creators)",
-          "channelId": "UCey5S8ga1ncri-XjDsb37Qw",
-          "channelTitle": "Eden",
-          "publishedAt": "2026-08-18T16:45:31Z",
-          "thumbnail": "https://i.ytimg.com/vi/1VhMmgL_Gx8/maxresdefault.jpg",
-          "durationSeconds": 3716,
-          "duration": "1:01:56",
-          "views": 13063,
-          "likes": 632,
-          "comments": 39,
-          "viewsPerDay": 2704,
-          "score": 132.42,
-          "topics": [
-            "Social workflow"
-          ],
-          "primaryTopic": "Social workflow",
-          "url": "https://www.youtube.com/watch?v=1VhMmgL_Gx8"
-        },
-        {
-          "videoId": "KSKzycjltVU",
-          "title": "I Made an AI Short Film With Seedance 2.5 | AI Video Generator Review",
-          "channelId": "UCypXkiAYzkq5uPEpQwkjpMQ",
-          "channelTitle": "Lex AI",
-          "publishedAt": "2026-08-18T19:17:33Z",
-          "thumbnail": "https://i.ytimg.com/vi/KSKzycjltVU/maxresdefault.jpg",
-          "durationSeconds": 492,
-          "duration": "8:12",
-          "views": 27151,
-          "likes": 356,
-          "comments": 10,
-          "viewsPerDay": 5746,
-          "score": 128.44,
+          "score": 137.57,
           "topics": [
             "Short-form video"
           ],
           "primaryTopic": "Short-form video",
-          "url": "https://www.youtube.com/watch?v=KSKzycjltVU"
+          "url": "https://www.youtube.com/watch?v=FZAjMAsnvlg"
         },
         {
-          "videoId": "82ypjLtqk7o",
-          "title": "Claude AI for Content Creation_ Complete Tutorial (2026)",
-          "channelId": "UCA_qqC-poc4f32dZ9DmA-Iw",
-          "channelTitle": "Ai Rising Star ",
-          "publishedAt": "2026-08-21T07:39:59Z",
-          "thumbnail": "https://i.ytimg.com/vi/82ypjLtqk7o/maxresdefault.jpg",
-          "durationSeconds": 294,
-          "duration": "4:54",
-          "views": 1823,
-          "likes": 183,
-          "comments": 27,
-          "viewsPerDay": 825,
-          "score": 126.79,
-          "topics": [
-            "Social workflow"
-          ],
-          "primaryTopic": "Social workflow",
-          "url": "https://www.youtube.com/watch?v=82ypjLtqk7o"
-        },
-        {
-          "videoId": "BpKciUqqwIw",
-          "title": "I Monetized a YouTube Channel in 7 Days with AI 🤖🚀| Automation Full Course",
-          "channelId": "UCG6sJyYpCKlLJ2CE0ao3zFw",
-          "channelTitle": "Digital Raj",
-          "publishedAt": "2026-08-14T07:00:28Z",
-          "thumbnail": "https://i.ytimg.com/vi/BpKciUqqwIw/maxresdefault.jpg",
-          "durationSeconds": 813,
-          "duration": "13:33",
-          "views": 113177,
-          "likes": 2301,
-          "comments": 207,
-          "viewsPerDay": 12252,
-          "score": 126.47,
-          "topics": [
-            "YouTube workflow",
-            "Creator tools",
-            "Storytelling"
-          ],
-          "primaryTopic": "YouTube workflow",
-          "url": "https://www.youtube.com/watch?v=BpKciUqqwIw"
-        },
-        {
-          "videoId": "Bjq-kRkC2JI",
-          "title": "Long Ai Video Kaise Banaye | Full Course | 3D Cartoon Video Kaise Banaye | Ai Video Kaise Banaye",
-          "channelId": "UCJ-bQ6CW4CtLWix1-k1IPtw",
-          "channelTitle": "Editing with piyush",
-          "publishedAt": "2026-08-17T12:30:32Z",
-          "thumbnail": "https://i.ytimg.com/vi/Bjq-kRkC2JI/maxresdefault.jpg",
-          "durationSeconds": 401,
-          "duration": "6:41",
-          "views": 43811,
-          "likes": 0,
-          "comments": 124,
-          "viewsPerDay": 7292,
-          "score": 122.17,
+          "videoId": "5RR9NfTLZX4",
+          "title": "Create 30 Minute Long AI Videos for FREE Like @sarvatrahindutva | Full Workflow",
+          "channelId": "UC7SwCtUnwLSoTfb-JgMZSOQ",
+          "channelTitle": "Hindi AI Gyaan",
+          "publishedAt": "2026-08-24T02:00:06Z",
+          "thumbnail": "https://i.ytimg.com/vi/5RR9NfTLZX4/maxresdefault.jpg",
+          "durationSeconds": 742,
+          "duration": "12:22",
+          "views": 97325,
+          "likes": 2112,
+          "comments": 246,
+          "viewsPerDay": 14762,
+          "score": 135.75,
           "topics": [
             "Storytelling"
           ],
           "primaryTopic": "Storytelling",
-          "url": "https://www.youtube.com/watch?v=Bjq-kRkC2JI"
+          "url": "https://www.youtube.com/watch?v=5RR9NfTLZX4"
+        },
+        {
+          "videoId": "3yV29NVxJvI",
+          "title": "(Ai Full Course) Ai video kaise banaye | ai se video kaise banaye | ai video kaise banaen | ai long",
+          "channelId": "UCR5jz3F-DbT07SY7dO1tagQ",
+          "channelTitle": "Arvind zone Extra",
+          "publishedAt": "2026-08-23T06:28:28Z",
+          "thumbnail": "https://i.ytimg.com/vi/3yV29NVxJvI/maxresdefault.jpg",
+          "durationSeconds": 851,
+          "duration": "14:11",
+          "views": 124890,
+          "likes": 2993,
+          "comments": 500,
+          "viewsPerDay": 16862,
+          "score": 134.41,
+          "topics": [
+            "Storytelling"
+          ],
+          "primaryTopic": "Storytelling",
+          "url": "https://www.youtube.com/watch?v=3yV29NVxJvI"
+        },
+        {
+          "videoId": "_Z8aSQBxIr0",
+          "title": "Make AI Video FREE🔥Long(15min)+ Ultra Relastic +Cinematic🔥AI Video Kaise Banaye 🎬 AI Video Generator",
+          "channelId": "UC4zyMdFPl2uOPQLfY2p3xrQ",
+          "channelTitle": "Learn AI with Ritika",
+          "publishedAt": "2026-08-21T13:04:07Z",
+          "thumbnail": "https://i.ytimg.com/vi/_Z8aSQBxIr0/maxresdefault.jpg",
+          "durationSeconds": 702,
+          "duration": "11:42",
+          "views": 54648,
+          "likes": 1396,
+          "comments": 2305,
+          "viewsPerDay": 5984,
+          "score": 123.29,
+          "topics": [
+            "YouTube workflow",
+            "Short-form video"
+          ],
+          "primaryTopic": "YouTube workflow",
+          "url": "https://www.youtube.com/watch?v=_Z8aSQBxIr0"
+        },
+        {
+          "videoId": "qUptuYtWz50",
+          "title": "Bulk Video Generator Tools | YouTube Automation Kaise Kare | YouTube Automation India",
+          "channelId": "UCcDRD1clI-tRUVWbfS2U55g",
+          "channelTitle": "YouTube Automation India",
+          "publishedAt": "2026-08-21T12:39:15Z",
+          "thumbnail": "https://i.ytimg.com/vi/qUptuYtWz50/maxresdefault.jpg",
+          "durationSeconds": 1803,
+          "duration": "30:03",
+          "views": 51609,
+          "likes": 1535,
+          "comments": 340,
+          "viewsPerDay": 5641,
+          "score": 119.67,
+          "topics": [
+            "YouTube workflow",
+            "Creator tools"
+          ],
+          "primaryTopic": "YouTube workflow",
+          "url": "https://www.youtube.com/watch?v=qUptuYtWz50"
+        },
+        {
+          "videoId": "vouffLpBuGI",
+          "title": "How to Create Long AI Video Free Telugu 🚀 2 Min Full Workflow  | Free Long AI Video Generator",
+          "channelId": "UCMxaF4VRY-o2P3211nztA2A",
+          "channelTitle": "Balu Creator (తెలుగు)",
+          "publishedAt": "2026-08-21T13:00:29Z",
+          "thumbnail": "https://i.ytimg.com/vi/vouffLpBuGI/maxresdefault.jpg",
+          "durationSeconds": 729,
+          "duration": "12:09",
+          "views": 73729,
+          "likes": 1765,
+          "comments": 94,
+          "viewsPerDay": 8072,
+          "score": 118.42,
+          "topics": [
+            "YouTube workflow",
+            "Short-form video"
+          ],
+          "primaryTopic": "YouTube workflow",
+          "url": "https://www.youtube.com/watch?v=vouffLpBuGI"
+        },
+        {
+          "videoId": "UNZ9tCbRUdI",
+          "title": "How To Create Short Ghibli Style AI Videos FREE🔥 | Gemini AI Full Tutorial (2026)",
+          "channelId": "UCJ-bQ6CW4CtLWix1-k1IPtw",
+          "channelTitle": "Editing with piyush",
+          "publishedAt": "2026-08-24T12:30:35Z",
+          "thumbnail": "https://i.ytimg.com/vi/UNZ9tCbRUdI/maxresdefault.jpg",
+          "durationSeconds": 384,
+          "duration": "6:24",
+          "views": 23557,
+          "likes": 0,
+          "comments": 65,
+          "viewsPerDay": 3827,
+          "score": 113.1,
+          "topics": [
+            "YouTube workflow"
+          ],
+          "primaryTopic": "YouTube workflow",
+          "url": "https://www.youtube.com/watch?v=UNZ9tCbRUdI"
+        },
+        {
+          "videoId": "9t-uHzD1vfY",
+          "title": "🔥 Long Ai Video Kaise Banaye 💥 | Full Course | 3D Cartoon Video Kaise Banaye | Ai Video Kaise Banaye",
+          "channelId": "UCwx559XWBWvb3a3ZoJhkIGg",
+          "channelTitle": "Yt Seva",
+          "publishedAt": "2026-08-21T13:47:27Z",
+          "thumbnail": "https://i.ytimg.com/vi/9t-uHzD1vfY/maxresdefault.jpg",
+          "durationSeconds": 1191,
+          "duration": "19:51",
+          "views": 50549,
+          "likes": 1503,
+          "comments": 151,
+          "viewsPerDay": 5554,
+          "score": 112.85,
+          "topics": [
+            "Creator tools"
+          ],
+          "primaryTopic": "Creator tools",
+          "url": "https://www.youtube.com/watch?v=9t-uHzD1vfY"
         }
       ]
     },
@@ -2272,36 +2257,116 @@
       "topics": [
         {
           "label": "FreeCAD",
-          "score": 1007.96,
-          "videoCount": 14
+          "score": 892.46,
+          "videoCount": 12
         },
         {
           "label": "Print finishing",
-          "score": 674.12,
-          "videoCount": 8
+          "score": 490.85,
+          "videoCount": 6
         },
         {
           "label": "Bambu Lab",
-          "score": 556.28,
+          "score": 371.04,
           "videoCount": 5
         },
         {
           "label": "Functional prints",
-          "score": 224.11,
-          "videoCount": 3
-        },
-        {
-          "label": "CAD",
-          "score": 191.99,
+          "score": 312.03,
           "videoCount": 3
         },
         {
           "label": "3D printing",
-          "score": 163.06,
-          "videoCount": 3
+          "score": 305.64,
+          "videoCount": 4
+        },
+        {
+          "label": "CAD",
+          "score": 166.8,
+          "videoCount": 2
         }
       ],
       "videos": [
+        {
+          "videoId": "6lEbIDc46Vg",
+          "title": "Using Draft Workbench in FreeCAD : Upgrade and Downgrade | Working with external files",
+          "channelId": "UCUWhaOxsRk_5oPPq00_Y7Dw",
+          "channelTitle": "MangoJelly Solutions for FreeCAD",
+          "publishedAt": "2026-08-29T08:04:52Z",
+          "thumbnail": "https://i.ytimg.com/vi/6lEbIDc46Vg/maxresdefault.jpg",
+          "durationSeconds": 1094,
+          "duration": "18:14",
+          "views": 11612,
+          "likes": 302,
+          "comments": 9,
+          "viewsPerDay": 8669,
+          "score": 155.22,
+          "topics": [
+            "FreeCAD"
+          ],
+          "primaryTopic": "FreeCAD",
+          "url": "https://www.youtube.com/watch?v=6lEbIDc46Vg"
+        },
+        {
+          "videoId": "-Kh8HD6JSbw",
+          "title": "Il tuo piatto Bambu Lab A1 è STORTO? 😳 | Bed Tramming",
+          "channelId": "UCGK8yAhSmf77oLNzQnEgtNg",
+          "channelTitle": "PrintinBad",
+          "publishedAt": "2026-08-27T16:31:18Z",
+          "thumbnail": "https://i.ytimg.com/vi/-Kh8HD6JSbw/maxresdefault.jpg",
+          "durationSeconds": 151,
+          "duration": "2:31",
+          "views": 5445,
+          "likes": 98,
+          "comments": 13,
+          "viewsPerDay": 1822,
+          "score": 123.4,
+          "topics": [
+            "Bambu Lab"
+          ],
+          "primaryTopic": "Bambu Lab",
+          "url": "https://www.youtube.com/watch?v=-Kh8HD6JSbw"
+        },
+        {
+          "videoId": "oc6pnAQtaVA",
+          "title": "Easy Mirror Chrome Finish on your 3D Prints (Step-by-Step)",
+          "channelId": "UC1E33EEFgZ0i6GNbj7SFSkg",
+          "channelTitle": "BuildDanielBuild",
+          "publishedAt": "2026-08-23T15:49:09Z",
+          "thumbnail": "https://i.ytimg.com/vi/oc6pnAQtaVA/maxresdefault.jpg",
+          "durationSeconds": 442,
+          "duration": "7:22",
+          "views": 22725,
+          "likes": 894,
+          "comments": 67,
+          "viewsPerDay": 3239,
+          "score": 121.12,
+          "topics": [
+            "Print finishing"
+          ],
+          "primaryTopic": "Print finishing",
+          "url": "https://www.youtube.com/watch?v=oc6pnAQtaVA"
+        },
+        {
+          "videoId": "eeKP-PJAygs",
+          "title": "This FreeCAD Tool Combines Bodies Like Magic!",
+          "channelId": "UCyHxRB19Pp2_MiGuD5HSwwQ",
+          "channelTitle": "FreeCAD Hub",
+          "publishedAt": "2026-08-26T16:00:00Z",
+          "thumbnail": "https://i.ytimg.com/vi/eeKP-PJAygs/maxresdefault.jpg",
+          "durationSeconds": 1003,
+          "duration": "16:43",
+          "views": 7386,
+          "likes": 104,
+          "comments": 8,
+          "viewsPerDay": 1842,
+          "score": 116.82,
+          "topics": [
+            "FreeCAD"
+          ],
+          "primaryTopic": "FreeCAD",
+          "url": "https://www.youtube.com/watch?v=eeKP-PJAygs"
+        },
         {
           "videoId": "6MSSVwN45cg",
           "title": "Make Your First 3D Printed Figure With AI - Complete Guide",
@@ -2311,196 +2376,116 @@
           "thumbnail": "https://i.ytimg.com/vi/6MSSVwN45cg/maxresdefault.jpg",
           "durationSeconds": 1847,
           "duration": "30:47",
-          "views": 5011,
-          "likes": 294,
-          "comments": 25,
-          "viewsPerDay": 4977,
-          "score": 158.28,
+          "views": 34925,
+          "likes": 1141,
+          "comments": 45,
+          "viewsPerDay": 4283,
+          "score": 114.94,
           "topics": [
-            "Bambu Lab"
+            "3D printing"
           ],
-          "primaryTopic": "Bambu Lab",
+          "primaryTopic": "3D printing",
           "url": "https://www.youtube.com/watch?v=6MSSVwN45cg"
         },
         {
-          "videoId": "HYjo5yDE9no",
-          "title": "3D Printing Pro TIPS & TRICKS (ACTUALLY WORKS GREAT)",
-          "channelId": "UCaaSGD6wIhpYZhavYyPwR4g",
-          "channelTitle": "PRINTING PERSPECTIVE",
-          "publishedAt": "2026-08-13T15:32:01Z",
-          "thumbnail": "https://i.ytimg.com/vi/HYjo5yDE9no/maxresdefault.jpg",
-          "durationSeconds": 487,
-          "duration": "8:07",
-          "views": 291645,
-          "likes": 6623,
-          "comments": 194,
-          "viewsPerDay": 29513,
-          "score": 122.72,
+          "videoId": "utIYIcUG0tM",
+          "title": "Diseño de Cajas en Fusion 360: Consejos y Trucos para Principiantes",
+          "channelId": "UCWKLBuYTfVEDwsCFc5GyEOQ",
+          "channelTitle": "CapaCero3D",
+          "publishedAt": "2026-08-25T17:45:06Z",
+          "thumbnail": "https://i.ytimg.com/vi/utIYIcUG0tM/maxresdefault.jpg",
+          "durationSeconds": 1147,
+          "duration": "19:07",
+          "views": 6657,
+          "likes": 168,
+          "comments": 6,
+          "viewsPerDay": 1348,
+          "score": 112.98,
+          "topics": [
+            "CAD"
+          ],
+          "primaryTopic": "CAD",
+          "url": "https://www.youtube.com/watch?v=utIYIcUG0tM"
+        },
+        {
+          "videoId": "d_FqwsWl3bI",
+          "title": "10 Functional 3D Prints I Use Every Single Day",
+          "channelId": "UCla3r8QMYO9uT9lN55ZOQNQ",
+          "channelTitle": "Rad Dad's Print Lab",
+          "publishedAt": "2026-08-23T19:11:50Z",
+          "thumbnail": "https://i.ytimg.com/vi/d_FqwsWl3bI/maxresdefault.jpg",
+          "durationSeconds": 557,
+          "duration": "9:17",
+          "views": 22042,
+          "likes": 433,
+          "comments": 10,
+          "viewsPerDay": 3205,
+          "score": 112.9,
+          "topics": [
+            "Functional prints"
+          ],
+          "primaryTopic": "Functional prints",
+          "url": "https://www.youtube.com/watch?v=d_FqwsWl3bI"
+        },
+        {
+          "videoId": "ato2KtwcfQk",
+          "title": "Unique Functional 3D Prints I Use Every Day (Part 3)",
+          "channelId": "UCbQw9BnkzB4t_VGfD5H2Wmg",
+          "channelTitle": "Yeah Nah DIY",
+          "publishedAt": "2026-08-21T16:00:06Z",
+          "thumbnail": "https://i.ytimg.com/vi/ato2KtwcfQk/maxresdefault.jpg",
+          "durationSeconds": 534,
+          "duration": "8:54",
+          "views": 33084,
+          "likes": 839,
+          "comments": 35,
+          "viewsPerDay": 3672,
+          "score": 106.09,
+          "topics": [
+            "Functional prints"
+          ],
+          "primaryTopic": "Functional prints",
+          "url": "https://www.youtube.com/watch?v=ato2KtwcfQk"
+        },
+        {
+          "videoId": "K68buF4HN9Y",
+          "title": "Tutorial de Pintura (Impressão 3D) Para Iniciantes | Pintura do Frieza #3dprinting #3dpainting",
+          "channelId": "UC0XOkj0ZUOpnuvwOTtCjWdA",
+          "channelTitle": "William Lins Colecionáveis",
+          "publishedAt": "2026-08-21T13:00:18Z",
+          "thumbnail": "https://i.ytimg.com/vi/K68buF4HN9Y/maxresdefault.jpg",
+          "durationSeconds": 461,
+          "duration": "7:41",
+          "views": 13360,
+          "likes": 564,
+          "comments": 44,
+          "viewsPerDay": 1463,
+          "score": 102.06,
           "topics": [
             "Print finishing"
           ],
           "primaryTopic": "Print finishing",
-          "url": "https://www.youtube.com/watch?v=HYjo5yDE9no"
+          "url": "https://www.youtube.com/watch?v=K68buF4HN9Y"
         },
         {
-          "videoId": "LMZ4z_biZ_8",
-          "title": "10 HOTENDS?! Bambu Lab’s Wild New Printer Patent",
-          "channelId": "UCrocJ50U0AP_bYUQ3utclpw",
-          "channelTitle": "AstraDice Tech and Print",
-          "publishedAt": "2026-08-17T03:53:01Z",
-          "thumbnail": "https://i.ytimg.com/vi/LMZ4z_biZ_8/maxresdefault.jpg",
-          "durationSeconds": 445,
-          "duration": "7:25",
-          "views": 11756,
-          "likes": 259,
-          "comments": 93,
-          "viewsPerDay": 1846,
-          "score": 114.71,
-          "topics": [
-            "Bambu Lab"
-          ],
-          "primaryTopic": "Bambu Lab",
-          "url": "https://www.youtube.com/watch?v=LMZ4z_biZ_8"
-        },
-        {
-          "videoId": "-g4z2uh0ayw",
-          "title": "FreeCAD 26.3Dev: Exercise 18 -  Cosmetic thread",
+          "videoId": "OyQ36IcjtGY",
+          "title": "FreeCAD 1.1.3: Exercise 19 - Structure Coordinate System",
           "channelId": "UC9gcwed3OdcN0SNLI-QuCdw",
           "channelTitle": "OffsetCAD",
-          "publishedAt": "2026-08-17T14:55:28Z",
-          "thumbnail": "https://i.ytimg.com/vi/-g4z2uh0ayw/maxresdefault.jpg",
-          "durationSeconds": 1501,
-          "duration": "25:01",
-          "views": 6893,
-          "likes": 255,
-          "comments": 16,
-          "viewsPerDay": 1167,
-          "score": 112.39,
+          "publishedAt": "2026-08-21T14:55:12Z",
+          "thumbnail": "https://i.ytimg.com/vi/OyQ36IcjtGY/maxresdefault.jpg",
+          "durationSeconds": 1325,
+          "duration": "22:05",
+          "views": 8198,
+          "likes": 265,
+          "comments": 21,
+          "viewsPerDay": 905,
+          "score": 93.49,
           "topics": [
             "FreeCAD"
           ],
           "primaryTopic": "FreeCAD",
-          "url": "https://www.youtube.com/watch?v=-g4z2uh0ayw"
-        },
-        {
-          "videoId": "BJ5LOMA8eew",
-          "title": "How to Use the Elements List in FreeCAD Sketcher",
-          "channelId": "UCUWhaOxsRk_5oPPq00_Y7Dw",
-          "channelTitle": "MangoJelly Solutions for FreeCAD",
-          "publishedAt": "2026-08-15T08:17:53Z",
-          "thumbnail": "https://i.ytimg.com/vi/BJ5LOMA8eew/maxresdefault.jpg",
-          "durationSeconds": 947,
-          "duration": "15:47",
-          "views": 13272,
-          "likes": 898,
-          "comments": 59,
-          "viewsPerDay": 1622,
-          "score": 108.92,
-          "topics": [
-            "FreeCAD"
-          ],
-          "primaryTopic": "FreeCAD",
-          "url": "https://www.youtube.com/watch?v=BJ5LOMA8eew"
-        },
-        {
-          "videoId": "Mq2kErawfIo",
-          "title": "5 Easy Ways to Get Smoother 3D Prints in Bambu Studio",
-          "channelId": "UCfjpeu3noCcxfRn7J6cz9sA",
-          "channelTitle": "LenDizzle",
-          "publishedAt": "2026-08-16T18:00:37Z",
-          "thumbnail": "https://i.ytimg.com/vi/Mq2kErawfIo/maxresdefault.jpg",
-          "durationSeconds": 780,
-          "duration": "13:00",
-          "views": 5086,
-          "likes": 231,
-          "comments": 10,
-          "viewsPerDay": 750,
-          "score": 105.7,
-          "topics": [
-            "Print finishing"
-          ],
-          "primaryTopic": "Print finishing",
-          "url": "https://www.youtube.com/watch?v=Mq2kErawfIo"
-        },
-        {
-          "videoId": "OAcw62vnySU",
-          "title": "Get Started with FreeCAD in Under 10 Minutes (Beginner Tutorial)",
-          "channelId": "UCuudpdbKmQWq2PPzYgVCWlA",
-          "channelTitle": "Indently",
-          "publishedAt": "2026-08-18T06:21:53Z",
-          "thumbnail": "https://i.ytimg.com/vi/OAcw62vnySU/maxresdefault.jpg",
-          "durationSeconds": 582,
-          "duration": "9:42",
-          "views": 2160,
-          "likes": 124,
-          "comments": 16,
-          "viewsPerDay": 410,
-          "score": 105.25,
-          "topics": [
-            "FreeCAD"
-          ],
-          "primaryTopic": "FreeCAD",
-          "url": "https://www.youtube.com/watch?v=OAcw62vnySU"
-        },
-        {
-          "videoId": "gzFu-NMo9uo",
-          "title": "PETG Support Interface in Bambu Studio (Beginner Tutorial)",
-          "channelId": "UCghGnerjapvhQsnTicj7Fkw",
-          "channelTitle": "The 3D Print Zone",
-          "publishedAt": "2026-08-15T13:30:39Z",
-          "thumbnail": "https://i.ytimg.com/vi/gzFu-NMo9uo/maxresdefault.jpg",
-          "durationSeconds": 1007,
-          "duration": "16:47",
-          "views": 5973,
-          "likes": 396,
-          "comments": 53,
-          "viewsPerDay": 750,
-          "score": 100.98,
-          "topics": [
-            "Print finishing"
-          ],
-          "primaryTopic": "Print finishing",
-          "url": "https://www.youtube.com/watch?v=gzFu-NMo9uo"
-        },
-        {
-          "videoId": "N5VlWexlsrs",
-          "title": "From Scratch to Finish: Carvera Air CNC & Epoxy Resin Cutting Board (ASMR)",
-          "channelId": "UCVOR6pEMxjH6opXl8AF0aBQ",
-          "channelTitle": "Liv's Workshop",
-          "publishedAt": "2026-08-19T08:35:42Z",
-          "thumbnail": "https://i.ytimg.com/vi/N5VlWexlsrs/maxresdefault.jpg",
-          "durationSeconds": 559,
-          "duration": "9:19",
-          "views": 3038,
-          "likes": 8,
-          "comments": 2,
-          "viewsPerDay": 728,
-          "score": 98.31,
-          "topics": [
-            "Print finishing"
-          ],
-          "primaryTopic": "Print finishing",
-          "url": "https://www.youtube.com/watch?v=N5VlWexlsrs"
-        },
-        {
-          "videoId": "Bm8lDe7cZSI",
-          "title": "Bambu Lab's Next Machine! Not A 3D Printer?",
-          "channelId": "UC-STvnFEIoho28jeLhpPxzQ",
-          "channelTitle": "3DPrinterMike",
-          "publishedAt": "2026-08-13T23:32:11Z",
-          "thumbnail": "https://i.ytimg.com/vi/Bm8lDe7cZSI/maxresdefault.jpg",
-          "durationSeconds": 588,
-          "duration": "9:48",
-          "views": 13916,
-          "likes": 273,
-          "comments": 109,
-          "viewsPerDay": 1457,
-          "score": 95.69,
-          "topics": [
-            "Bambu Lab"
-          ],
-          "primaryTopic": "Bambu Lab",
-          "url": "https://www.youtube.com/watch?v=Bm8lDe7cZSI"
+          "url": "https://www.youtube.com/watch?v=OyQ36IcjtGY"
         }
       ]
     }
