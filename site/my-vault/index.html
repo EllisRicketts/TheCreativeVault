@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>My Vault — your saved creative tools | The Creative Vault</title>
+  <meta name="description" content="Everything you have saved in The Creative Vault: your tools, what you looked at recently, and the searches you kept. Stored in this browser only." />
+  <!-- A private, per-browser page. Nothing here should ever be indexed. -->
+  <meta name="robots" content="noindex, nofollow" />
+  <link rel="canonical" href="https://www.thecreativevault.co/my-vault/" />
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png" />
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png" />
+  <link rel="shortcut icon" href="/favicon/favicon.ico" />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <script>
+  /* Anti-flash theme boot. Must stay inline and blocking — see js/theme.js. */
+  (function(){try{var t=localStorage.getItem("vault:theme");
+  if(t!=="light"&&t!=="medium"&&t!=="dark"){t=window.matchMedia&&
+  window.matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light";}
+  document.documentElement.setAttribute("data-theme",t);}catch(e){}})();
+  </script>
+  <link rel="stylesheet" href="/css/tokens.css" />
+  <link rel="stylesheet" href="/css/chrome.css" />
+  <script src="/js/theme.js" defer></script>
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=Bricolage+Grotesque:opsz,wght@12..96,600..800&display=swap" />
+
+  <link rel="preconnect" href="https://icons.duckduckgo.com" crossorigin />
+
+  <link rel="stylesheet" href="/css/style.css" />
+  <link rel="stylesheet" href="/css/my-vault.css" />
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+<svg class="chrome-sprite" aria-hidden="true" focusable="false"><defs>
+<symbol id="c-search" viewBox="0 0 24 24"><circle cx="11" cy="11" r="6.4"/><path d="m20 20-4.3-4.3"/></symbol>
+<symbol id="c-sun" viewBox="0 0 24 24"><circle cx="12" cy="12" r="4.1"/><path d="M12 2.6v2.2M12 19.2v2.2M4.4 4.4l1.6 1.6M18 18l1.6 1.6M2.6 12h2.2M19.2 12h2.2M4.4 19.6 6 18M18 6l1.6-1.6"/></symbol>
+<symbol id="c-half" viewBox="0 0 24 24"><circle cx="12" cy="12" r="8"/><path d="M12 4a8 8 0 0 1 0 16Z" fill="currentColor" stroke="none"/></symbol>
+<symbol id="c-moon" viewBox="0 0 24 24"><path d="M20 14.2A8.4 8.4 0 0 1 9.8 4a8.4 8.4 0 1 0 10.2 10.2Z"/></symbol>
+<symbol id="c-vault" viewBox="0 0 24 24"><path d="M6 4h12a1 1 0 0 1 1 1v15.2a.6.6 0 0 1-.93.5L12 16.6l-6.07 4.1A.6.6 0 0 1 5 20.2V5a1 1 0 0 1 1-1Z"/></symbol>
+</defs></svg>
+<header class="masthead" id="top">
+  <div class="shell masthead-inner">
+    <a class="brand" href="/" aria-label="The Creative Vault — home">
+      <span class="brand-mark"><img src="/images/logos/cv-secondary-logo.png" alt="" width="34" height="34" /></span>
+      <span class="brand-name">The <em>Creative</em> Vault</span>
+    </a>
+
+    <nav class="mast-nav" aria-label="Main">
+      <a href="/explore/">Explore</a>
+      <a href="/weekly-drip/">Weekly Drip</a>
+      <a href="/comparisons/">Comparisons</a>
+    </nav>
+
+    <div class="mast-tools">
+      <form class="mast-search" action="/" method="get" role="search">
+        <svg class="icon" aria-hidden="true"><use href="#c-search"/></svg>
+        <label class="visually-hidden" for="miniSearchInput">Search resources</label>
+        <input id="miniSearchInput" name="q" type="search" autocomplete="off"
+               spellcheck="false" placeholder="Search the vault" />
+        <kbd class="key">/</kbd>
+      </form>
+
+      <div class="theme-switch" role="radiogroup" aria-label="Colour theme">
+        <button class="theme-btn" type="button" role="radio" data-theme-set="light"
+                aria-checked="false" tabindex="-1" title="Light theme">
+          <svg class="icon" aria-hidden="true"><use href="#c-sun"/></svg>
+          <span class="visually-hidden">Light</span>
+        </button>
+        <button class="theme-btn" type="button" role="radio" data-theme-set="medium"
+                aria-checked="false" tabindex="-1" title="Medium theme — warm and dimmed">
+          <svg class="icon" aria-hidden="true"><use href="#c-half"/></svg>
+          <span class="visually-hidden">Medium</span>
+        </button>
+        <button class="theme-btn" type="button" role="radio" data-theme-set="dark"
+                aria-checked="false" tabindex="-1" title="Dark theme">
+          <svg class="icon" aria-hidden="true"><use href="#c-moon"/></svg>
+          <span class="visually-hidden">Dark</span>
+        </button>
+      </div>
+
+      <a class="mast-vault" href="/my-vault/" aria-current="page">
+        <svg class="icon" aria-hidden="true"><use href="#c-vault"/></svg>
+        <span>My Vault</span>
+        <span class="vault-count" data-vault-count hidden>0</span>
+      </a>
+    </div>
+  </div>
+</header>
+
+
+<!-- Card icons. The chrome sprite injected above carries only the masthead's. -->
+<svg class="chrome-sprite" aria-hidden="true" focusable="false"><defs>
+  <symbol id="i-heart" viewBox="0 0 24 24"><path d="M12 20s-7.2-4.4-7.2-9.4A4.1 4.1 0 0 1 12 8.3a4.1 4.1 0 0 1 7.2 2.3C19.2 15.6 12 20 12 20Z"/></symbol>
+  <symbol id="i-out" viewBox="0 0 24 24"><path d="M8 16 16 8M9 8h7v7"/></symbol>
+  <symbol id="i-close" viewBox="0 0 24 24"><path d="m6 6 12 12M18 6 6 18"/></symbol>
+  <symbol id="i-search" viewBox="0 0 24 24"><circle cx="11" cy="11" r="6.4"/><path d="m20 20-4.3-4.3"/></symbol>
+  <symbol id="i-chev" viewBox="0 0 24 24"><path d="m6 9 6 6 6-6"/></symbol>
+  <symbol id="i-download" viewBox="0 0 24 24"><path d="M12 4v11m0 0 4-4m-4 4-4-4M5 19h14"/></symbol>
+  <symbol id="i-upload" viewBox="0 0 24 24"><path d="M12 20V9m0 0 4 4m-4-4-4 4M5 5h14"/></symbol>
+  <symbol id="i-trash" viewBox="0 0 24 24"><path d="M5 7h14M10 7V5h4v2M6.5 7l.8 12h9.4l.8-12"/></symbol>
+</defs></svg>
+
+<main id="main">
+
+  <section class="shell vault-head">
+    <h1>My Vault</h1>
+    <!-- The count lives in a sentence, not in a row of stat tiles. -->
+    <p class="vault-summary" id="vaultSummary">Opening your vault&hellip;</p>
+  </section>
+
+  <!-- Shown only when nothing has ever been saved. It teaches the gesture
+       rather than apologising for the emptiness. -->
+  <section class="shell vault-empty" id="vaultEmpty" hidden>
+    <div class="vault-empty-card">
+      <h2>Your vault is empty.</h2>
+      <p>
+        Save anything in the library and it lands here — your own shortlist, kept
+        on this device. Look for the heart on any tool card.
+      </p>
+      <p class="vault-empty-demo">
+        <span class="vault-demo-card">
+          <span class="vault-demo-logo">Bl</span>
+          <span class="vault-demo-text"><strong>Blender</strong><span>Free · 3D / CAD</span></span>
+          <span class="vault-demo-fav" aria-hidden="true">
+            <svg class="icon"><use href="#i-heart"/></svg>
+          </span>
+        </span>
+      </p>
+      <a class="btn btn-primary" href="/#resources">Browse the library</a>
+    </div>
+  </section>
+
+  <div id="vaultBody" hidden>
+
+    <!-- ---- Saved tools ------------------------------------------------- -->
+    <section class="shell section" id="saved">
+      <div class="section-rule reveal"></div>
+      <div class="section-head">
+        <h2>Saved tools</h2>
+        <p>Everything you have kept, newest first.</p>
+      </div>
+
+      <div class="toolbar" role="group" aria-label="Filter saved tools">
+        <span class="field vault-field-search">
+          <label class="visually-hidden" for="vaultSearch">Search your saved tools</label>
+          <svg class="icon icon-search" aria-hidden="true"><use href="#i-search"/></svg>
+          <input id="vaultSearch" type="search" autocomplete="off" spellcheck="false"
+                 placeholder="Search what you saved" />
+        </span>
+
+        <span class="field" data-field="category">
+          <label class="visually-hidden" for="vaultCategory">Category</label>
+          <select id="vaultCategory"><option value="all">All categories</option></select>
+          <svg class="icon icon-chev" aria-hidden="true"><use href="#i-chev"/></svg>
+        </span>
+
+        <span class="field" data-field="price">
+          <label class="visually-hidden" for="vaultPrice">Price</label>
+          <select id="vaultPrice">
+            <option value="all">Any price</option>
+            <option value="Free">Free</option>
+            <option value="Freemium">Freemium</option>
+            <option value="Paid">Paid</option>
+            <option value="Subscription">Subscription</option>
+          </select>
+          <svg class="icon icon-chev" aria-hidden="true"><use href="#i-chev"/></svg>
+        </span>
+
+        <p class="result-line" id="vaultResultLine" role="status" aria-live="polite"></p>
+      </div>
+
+      <div class="resource-grid" id="vaultGrid" data-view="grid"></div>
+
+      <div class="empty" id="vaultNoMatch" hidden>
+        <h3>None of your saved tools match that.</h3>
+        <p>Try a different keyword, or widen the category and price.</p>
+        <button class="btn" type="button" data-vault-reset>Clear these filters</button>
+      </div>
+    </section>
+
+    <!-- ---- Recently viewed --------------------------------------------- -->
+    <section class="shell section" id="recent" hidden>
+      <div class="section-rule reveal"></div>
+      <div class="section-head">
+        <h2>Recently viewed</h2>
+        <p>The last things you opened. Not saved — just where you were.</p>
+      </div>
+      <div class="recent-row" id="recentRow"></div>
+    </section>
+
+    <!-- ---- Saved searches ---------------------------------------------- -->
+    <section class="shell section" id="searches" hidden>
+      <div class="section-rule reveal"></div>
+      <div class="section-head">
+        <h2>Saved searches</h2>
+        <p>Each one reopens the library with that query and those filters already set.</p>
+      </div>
+      <div class="saved-searches" id="savedSearches"></div>
+    </section>
+
+  </div>
+
+  <!-- ---- Your data ------------------------------------------------------
+       Always shown, even on an empty vault, so import is reachable on a new
+       device before anything has been saved there. -->
+  <section class="shell section" id="data">
+    <div class="section-rule reveal"></div>
+    <div class="section-head">
+      <h2>Your data</h2>
+      <p>
+        The Creative Vault has no accounts and no server. Everything on this page
+        is stored in this browser only — it never reaches me or anyone else, and it
+        will not follow you to another device or survive clearing your site data.
+        Export is how you move it or keep a copy.
+      </p>
+    </div>
+
+    <div class="data-actions">
+      <button class="btn" type="button" id="exportVault">
+        <svg class="icon" aria-hidden="true"><use href="#i-download"/></svg>
+        Export my vault
+      </button>
+
+      <button class="btn" type="button" id="importVault">
+        <svg class="icon" aria-hidden="true"><use href="#i-upload"/></svg>
+        Import a vault file
+      </button>
+      <input type="file" id="importFile" accept="application/json,.json" hidden />
+
+      <button class="btn btn-danger" type="button" id="clearVault">
+        <svg class="icon" aria-hidden="true"><use href="#i-trash"/></svg>
+        Clear everything
+      </button>
+    </div>
+
+    <p class="data-status" id="dataStatus" role="status" aria-live="polite"></p>
+  </section>
+
+</main>
+
+<footer class="site-footer">
+  <div class="shell footer-line">
+    <p>Curated by Ellis Ricketts.</p>
+    <p><a href="mailto:ellisricketts3d@gmail.com">Get in touch</a></p>
+    <span class="footer-spacer"></span>
+    <a class="ellis-footer-button" href="https://www.ellisricketts.com/" target="_blank" rel="noopener noreferrer">Visit EllisRicketts.com</a>
+  </div>
+</footer>
+
+<dialog class="modal" id="confirmDialog" aria-labelledby="confirmTitle">
+  <div class="modal-body">
+    <h2 id="confirmTitle">Clear your whole vault?</h2>
+    <p class="modal-desc" id="confirmBody">
+      This removes every saved tool, your recent history and your saved searches
+      from this browser. It cannot be undone, and there is no copy on a server.
+      Export first if you want to keep them.
+    </p>
+    <div class="modal-actions">
+      <button class="btn" type="button" id="confirmCancel">Keep my vault</button>
+      <button class="btn btn-danger" type="button" id="confirmClear">Clear everything</button>
+    </div>
+  </div>
+</dialog>
+
+<!-- The same corpus the homepage loads, so a saved id always resolves against
+     one source of truth. It is already in cache for anyone who has saved
+     anything, because saving is only possible from the library itself. -->
+<script src="/data/schema.js"></script>
+<script src="/data/categories.js"></script>
+<script src="/data/generated-resources.js"></script>
+<script src="/data/resources.js"></script>
+<script src="/js/my-vault.js"></script>
+</body>
+</html>

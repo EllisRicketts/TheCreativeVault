@@ -1,0 +1,442 @@
+/* ==========================================================================
+   The Creative Vault — shared chrome
+   One masthead and one footer for all 55 pages. Before this file the site
+   shipped three different headers (.masthead, .seo-header, .drip-header)
+   with three navs and three brand treatments; a visitor moving from the
+   homepage to a category page changed sites.
+
+   Depends on css/tokens.css. Loaded second, before any page stylesheet.
+   ========================================================================== */
+
+/* --- Skip link: the first thing a keyboard reaches on every page --------- */
+.skip-link {
+  position: absolute;
+  left: 50%;
+  top: 0;
+  z-index: 200;
+  transform: translate(-50%, -140%);
+  padding: 11px 18px;
+  border-radius: 0 0 var(--radius-sm) var(--radius-sm);
+  background: var(--ink);
+  color: var(--bg);
+  font: 600 14px/1 Archivo, system-ui, sans-serif;
+  text-decoration: none;
+  transition: transform var(--fast) var(--ease);
+}
+.skip-link:focus-visible { transform: translate(-50%, 0); }
+
+.chrome-sprite { position: absolute; width: 0; height: 0; overflow: hidden; }
+
+/* ==========================================================================
+   Masthead
+   ========================================================================== */
+.masthead {
+  position: sticky;
+  top: 0;
+  z-index: 40;
+  background: var(--chrome-bg);
+  border-bottom: 1px solid var(--chrome-line);
+  /* Chrome is the one place backdrop-filter earns its cost: content really
+     does pass underneath it. Cards get the frosted look from a gradient. */
+  backdrop-filter: blur(22px) saturate(1.22);
+  -webkit-backdrop-filter: blur(22px) saturate(1.22);
+  transition: box-shadow var(--mid) var(--ease), border-color var(--mid) var(--ease);
+}
+.masthead[data-stuck="true"] {
+  border-bottom-color: var(--line);
+  box-shadow: var(--lift-1);
+}
+
+/* min-height is a LITERAL on purpose. app.js measures the rendered masthead
+   and publishes it back into --masthead-h for the sticky toolbar and anchor
+   offsets, so reading that same token here closes a feedback loop: every
+   ResizeObserver pass added the row's own padding and the header grew ~19px
+   a tick, forever. --masthead-h is an output, never an input. */
+.masthead-inner {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  min-height: 46px;
+  padding-block: 9px;
+}
+
+/* --- Brand -------------------------------------------------------------- */
+.brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  flex: none;
+  color: var(--ink);
+  text-decoration: none;
+}
+.brand-mark {
+  display: grid;
+  place-items: center;
+  width: 34px;
+  height: 34px;
+  flex: none;
+  padding: 4px;
+  border: 1px solid var(--glass-line);
+  border-radius: 10px;
+  background: linear-gradient(145deg, var(--glass-a), var(--glass-b));
+  box-shadow: inset 0 1px 0 var(--glass-line-hi);
+  transition: transform var(--fast) var(--ease);
+}
+.brand:hover .brand-mark { transform: translateY(-1px); }
+.brand-mark img { width: 100%; height: 100%; object-fit: contain; filter: var(--logo-tint); }
+.brand-name {
+  font-family: "Bricolage Grotesque", Archivo, system-ui, sans-serif;
+  font-weight: 750;
+  font-size: 18px;
+  letter-spacing: -0.035em;
+  white-space: nowrap;
+}
+.brand-name em { font-style: normal; color: var(--accent-ink); }
+
+/* --- Navigation --------------------------------------------------------
+   Three destinations, not seven. The homepage's section anchors were
+   never destinations — they are reachable by scrolling the page they
+   live on, and putting them here made every other page advertise links
+   that jumped somewhere else entirely. */
+.mast-nav {
+  display: flex;
+  align-items: center;
+  gap: 2px;
+  min-width: 0;
+}
+.mast-nav a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 34px;
+  padding: 0 11px;
+  border-radius: var(--radius-sm);
+  color: var(--ink-2);
+  font-size: 14px;
+  font-weight: 560;
+  text-decoration: none;
+  white-space: nowrap;
+  transition: color var(--fast) var(--ease), background-color var(--fast) var(--ease);
+}
+.mast-nav a:hover { color: var(--ink); background: var(--surface-sunk); }
+.mast-nav a[aria-current="page"] {
+  color: var(--accent-ink);
+  background: var(--accent-wash);
+  font-weight: 640;
+}
+
+.mast-tools {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-left: auto;
+  flex: none;
+}
+
+/* --- Search ------------------------------------------------------------
+   One component everywhere. On the homepage app.js filters live as you
+   type and suppresses the submit; on every other page it is a real form
+   that lands on / with ?q=, which app.js reads on load. */
+.mast-search {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  width: clamp(160px, 22vw, 250px);
+  height: 34px;
+  padding: 0 9px 0 11px;
+  border: 1px solid var(--glass-line);
+  border-radius: var(--radius-pill);
+  background: linear-gradient(145deg, var(--glass-a), var(--glass-b));
+  box-shadow: inset 0 1px 0 var(--glass-line-hi);
+  transition: border-color var(--fast) var(--ease), box-shadow var(--fast) var(--ease);
+}
+.mast-search .icon { width: 15px; height: 15px; flex: none; color: var(--ink-3); }
+.mast-search input {
+  width: 100%;
+  min-width: 0;
+  border: 0;
+  background: none;
+  color: var(--ink);
+  font: 400 13.5px/1 Archivo, system-ui, sans-serif;
+}
+.mast-search input::placeholder { color: var(--ink-3); }
+.mast-search input:focus { outline: none; }
+.mast-search input::-webkit-search-cancel-button { display: none; }
+.mast-search:focus-within {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 3px var(--accent-wash);
+}
+.mast-search:focus-within .icon { color: var(--accent-ink); }
+.mast-search:focus-within .key { opacity: 0; }
+
+.key {
+  display: inline-grid;
+  place-items: center;
+  min-width: 19px;
+  height: 19px;
+  flex: none;
+  padding: 0 5px;
+  border: 1px solid var(--line-strong);
+  border-bottom-width: 2px;
+  border-radius: 5px;
+  background: var(--surface);
+  color: var(--ink-3);
+  font: 600 11px/1 Archivo, system-ui, sans-serif;
+  transition: opacity var(--fast) var(--ease);
+}
+
+/* --- Theme switch ------------------------------------------------------
+   Three real options rather than a two-state toggle, because "medium" is
+   not a half-measure between the other two: it is the warm paper with the
+   glare removed, which is what most of a long browsing session wants. */
+.theme-switch {
+  display: flex;
+  align-items: center;
+  gap: 2px;
+  flex: none;
+  padding: 3px;
+  border: 1px solid var(--glass-line);
+  border-radius: var(--radius-pill);
+  background: var(--surface-sunk);
+}
+.theme-btn {
+  display: grid;
+  place-items: center;
+  width: 28px;
+  height: 28px;
+  border: 0;
+  border-radius: 50%;
+  background: none;
+  color: var(--ink-3);
+  cursor: pointer;
+  transition: color var(--fast) var(--ease), background-color var(--fast) var(--ease);
+}
+.theme-btn .icon { width: 15px; height: 15px; }
+.theme-btn:hover { color: var(--ink); }
+.theme-btn[aria-checked="true"] {
+  background: var(--surface);
+  color: var(--accent-ink);
+  box-shadow: var(--lift-1);
+}
+
+/* --- My Vault ----------------------------------------------------------- */
+.mast-vault {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  height: 34px;
+  flex: none;
+  padding: 0 12px;
+  border: 1px solid var(--glass-line);
+  border-radius: var(--radius-pill);
+  background: linear-gradient(145deg, var(--glass-a), var(--glass-b));
+  box-shadow: inset 0 1px 0 var(--glass-line-hi);
+  color: var(--ink);
+  font-size: 13.5px;
+  font-weight: 600;
+  text-decoration: none;
+  white-space: nowrap;
+  transition: border-color var(--fast) var(--ease), color var(--fast) var(--ease);
+}
+.mast-vault:hover { border-color: var(--accent); color: var(--accent-ink); }
+.mast-vault .icon { width: 15px; height: 15px; flex: none; }
+.mast-vault[aria-current="page"] { border-color: var(--accent); color: var(--accent-ink); }
+.vault-count {
+  display: inline-grid;
+  place-items: center;
+  min-width: 19px;
+  height: 19px;
+  padding: 0 5px;
+  border-radius: var(--radius-pill);
+  background: var(--accent);
+  color: #fff;
+  font-size: 11px;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+}
+:root[data-theme="dark"] .vault-count { color: var(--on-accent); }
+.vault-count[hidden] { display: none; }
+
+/* --- Responsive --------------------------------------------------------
+   Only three nav items now, so they fit a phone row without a hamburger.
+   What sheds instead is the search field (it collapses to its icon, and
+   the / shortcut still opens it) and the brand wordmark. */
+@media (max-width: 1080px) {
+  .mast-search { width: 190px; }
+  .mast-search .key { display: none; }
+}
+@media (max-width: 900px) {
+  .masthead-inner { flex-wrap: wrap; gap: 8px 10px; }
+  .mast-nav {
+    order: 3;
+    width: 100%;
+    gap: 4px;
+    overflow-x: auto;
+    scrollbar-width: none;
+    padding-bottom: 2px;
+  }
+  .mast-nav::-webkit-scrollbar { display: none; }
+  .mast-search { width: 168px; }
+}
+@media (max-width: 620px) {
+  .masthead-inner { min-height: 40px; padding-block: 8px; }
+  .brand-name { display: none; }
+  .mast-search { flex: 1; width: auto; min-width: 0; }
+  .mast-vault span:not(.vault-count) { display: none; }
+  .mast-vault { padding: 0 10px; }
+  .mast-nav a { font-size: 13.5px; padding: 0 9px; }
+}
+
+/* ==========================================================================
+   Footer — one for every page
+   ========================================================================== */
+.site-footer {
+  margin-top: clamp(56px, 8vw, 104px);
+  border-top: 1px solid var(--line);
+  background: var(--surface);
+}
+.footer-inner {
+  display: grid;
+  grid-template-columns: minmax(0, 1.6fr) minmax(0, 1fr);
+  gap: clamp(28px, 5vw, 64px);
+  padding-block: clamp(38px, 5vw, 60px);
+}
+.footer-about p {
+  margin: 0;
+  max-width: var(--measure);
+  color: var(--ink-2);
+  font-size: 14px;
+  line-height: 1.7;
+}
+.footer-about strong { color: var(--ink); }
+.footer-nav {
+  display: grid;
+  gap: 9px;
+  align-content: start;
+}
+.footer-nav h2 {
+  margin: 0 0 3px;
+  color: var(--ink-3);
+  font-size: 11.5px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+.footer-nav a {
+  color: var(--ink-2);
+  font-size: 14px;
+  font-weight: 560;
+  text-decoration: none;
+  width: fit-content;
+}
+.footer-nav a:hover { color: var(--accent-ink); text-decoration: underline; }
+.footer-line {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  flex-wrap: wrap;
+  padding-block: 20px 30px;
+  border-top: 1px solid var(--line);
+  color: var(--ink-3);
+  font-size: 13px;
+}
+/* :not() keeps the accent button out — a plain .footer-line a selector
+   outranks .ellis-footer-button and was repainting its label --ink-2
+   straight onto the orange fill. */
+.footer-line a:not(.ellis-footer-button) { color: var(--ink-2); font-weight: 600; }
+.footer-line .footer-spacer { margin-left: auto; }
+.ellis-footer-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 16px;
+  border-radius: var(--radius-sm);
+  background: linear-gradient(145deg, var(--accent-btn-a), var(--accent-btn-b));
+  color: var(--on-accent);
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 1;
+  text-decoration: none;
+  transition: transform var(--fast) var(--ease), filter var(--fast) var(--ease);
+}
+.ellis-footer-button:hover { transform: translateY(-1px); filter: brightness(1.06); }
+@media (max-width: 760px) {
+  .footer-inner { grid-template-columns: 1fr; }
+}
+
+/* Shared shell so every page agrees on its measure and gutters. Values match
+   the homepage's original .shell exactly, so removing the duplicate from
+   style.css cannot shift a single existing layout. */
+.shell {
+  width: 100%;
+  max-width: var(--shell);
+  margin-inline: auto;
+  padding-inline: var(--gutter);
+}
+
+@media (prefers-reduced-transparency: reduce) {
+  .masthead { backdrop-filter: none; -webkit-backdrop-filter: none; background: var(--bg); }
+  .mast-search, .mast-vault, .brand-mark { background: var(--surface); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .brand:hover .brand-mark,
+  .ellis-footer-button:hover { transform: none; }
+}
+
+/* ==========================================================================
+   Primitives the chrome needs on every page
+   style.css defines these for the homepage; the other 54 pages never had them.
+   ========================================================================== */
+.visually-hidden {
+  position: absolute;
+  width: 1px; height: 1px;
+  padding: 0; margin: -1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* Sized in em so an icon tracks the text it sits beside. Matches style.css's
+   existing .icon exactly; every chrome component sets its own explicit size. */
+.icon {
+  width: 1em;
+  height: 1em;
+  flex: none;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.6;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+/* On the homepage the hero carries its own large search field, so the
+   masthead copy stays out of the way until that one scrolls off. app.js
+   sets data-compact there and nowhere else, which is why this hides only
+   on an explicit "false" rather than on a missing attribute. */
+.masthead[data-compact="false"] .mast-search {
+  opacity: 0;
+  pointer-events: none;
+  transform: translateY(-2px);
+}
+.mast-search {
+  opacity: 1;
+  transform: none;
+  transition:
+    opacity var(--mid) var(--ease),
+    transform var(--mid) var(--ease),
+    border-color var(--fast) var(--ease),
+    box-shadow var(--fast) var(--ease);
+}
+@media (prefers-reduced-motion: reduce) {
+  .mast-search { transition: none; transform: none; }
+}
+
+/* --- Brand mark on a dark ground ----------------------------------------
+   cv-secondary-logo.png is a two-tone mark drawn for paper: its dark half
+   simply disappears on a dark surface. There is no light variant of the
+   asset, so the chip keeps the ground the mark was drawn for. */
+:root[data-theme="dark"] .brand-mark {
+  background: #f2efe9;
+  border-color: rgba(255, 255, 255, 0.16);
+}
+:root[data-theme="dark"] .brand-mark img { filter: none; }

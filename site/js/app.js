@@ -10,6 +10,9 @@
   var PAGE_STEP = 36;
   var FAV_KEY = "vault:favorites";
   var VIEW_KEY = "vault:view";
+  var RECENT_KEY = "vault:recent";
+  var SEARCH_KEY = "vault:searches";
+  var RECENT_MAX = 24;
 
   var el = {
     search: document.getElementById("searchInput"),
@@ -94,6 +97,22 @@
   function saveFavorites() {
     try { localStorage.setItem(FAV_KEY, JSON.stringify([...favorites])); }
     catch (e) { /* private mode — favourites simply do not persist */ }
+    /* The masthead badge lives on every page, so it has to be told. */
+    if (window.vaultChrome) window.vaultChrome.syncCount();
+  }
+
+  /* Most-recent-first, deduped, capped. Read back by /my-vault/.
+     A visit is a stronger signal of interest than a scroll past, so both
+     opening the details dialog and following the link count as viewing. */
+  function recordViewed(id) {
+    if (!id) return;
+    try {
+      var list = JSON.parse(localStorage.getItem(RECENT_KEY) || "[]");
+      if (!Array.isArray(list)) list = [];
+      list = list.filter(function (x) { return x !== id; });
+      list.unshift(id);
+      localStorage.setItem(RECENT_KEY, JSON.stringify(list.slice(0, RECENT_MAX)));
+    } catch (e) { /* private mode */ }
   }
 
   /* ------------------------------------------------------------- indexing */
@@ -155,23 +174,23 @@
      beside its dot as a direct label. Colour is never the only signal. */
   var FAMILIES = [
     {
-      id: "learn", label: "Learning", color: "#6A3D9A",
+      id: "learn", label: "Learning", color: "var(--fam-learning)",
       match: /learn|tutorial|course|educat|training|academy|school|documentation|guide|reference|inspiration/i
     },
     {
-      id: "work", label: "Funding & business", color: "#9A5B12",
+      id: "work", label: "Funding & business", color: "var(--fam-funding)",
       match: /grant|fund|freelanc|business|marketing|product(ivity)?|career|job|invoic|contract|legal|client|finance|admin/i
     },
     {
       /* "photo" deliberately absent: Photography is 238 records about cameras,
          gear and editing — a making discipline, not an asset library. Only
          "stock" belongs here. */
-      id: "source", label: "Assets & libraries", color: "#C2185B",
+      id: "source", label: "Assets & libraries", color: "var(--fam-assets)",
       match: /marketplace|asset|stock|public domain|archive|texture|brush|mockup|template|font|typograph|icon|library|download|sound effect|sample/i
     },
     {
       /* \bai\b, not bare "ai", which otherwise matches Painting and Training. */
-      id: "make", label: "Tools & software", color: "#0072B2",
+      id: "make", label: "Tools & software", color: "var(--fam-tools)",
       match: /art|design|3d|cad|game|dev|cod(e|ing)|web|software|video|audio|music|photo|image|\bai\b|anim|vfx|render|model|paint|draw|edit|creation|production|tool|essential|writing|print/i
     }
   ];
@@ -382,6 +401,41 @@
       : "";
   }
 
+  /* A search worth repeating is worth keeping. Stored whole — query and all
+     four filters — so restoring it reproduces the result set exactly. */
+  function saveCurrentSearch() {
+    var f = currentFilters();
+    var label = [
+      el.search.value.trim(),
+      f.category !== "all" ? f.category : "",
+      f.price !== "all" ? f.price : "",
+      f.platform !== "all" ? f.platform : ""
+    ].filter(Boolean).join(" · ") || "Everything";
+
+    var entry = {
+      label: label, q: el.search.value.trim(), category: f.category,
+      price: f.price, platform: f.platform, sort: f.sort, at: Date.now()
+    };
+
+    try {
+      var list = JSON.parse(localStorage.getItem(SEARCH_KEY) || "[]");
+      if (!Array.isArray(list)) list = [];
+      list = list.filter(function (x) { return x && x.label !== entry.label; });
+      list.unshift(entry);
+      localStorage.setItem(SEARCH_KEY, JSON.stringify(list.slice(0, 20)));
+    } catch (e) { /* private mode */ }
+
+    var button = document.querySelector("[data-save-search]");
+    if (button) {
+      button.textContent = "Saved to My Vault";
+      button.disabled = true;
+      setTimeout(function () {
+        button.textContent = "Save this search";
+        button.disabled = false;
+      }, 2200);
+    }
+  }
+
   function syncToolbarState(f) {
     document.querySelector('[data-field="category"]').dataset.active = String(f.category !== "all");
     document.querySelector('[data-field="price"]').dataset.active = String(f.price !== "all");
@@ -391,6 +445,8 @@
     var dirty = f.q || f.category !== "all" || f.price !== "all" ||
                 f.platform !== "all" || f.sort !== "curated" || activeCollection;
     el.reset.hidden = !dirty;
+    var saveSearch = document.querySelector("[data-save-search]");
+    if (saveSearch) saveSearch.hidden = !dirty;
     el.searchClear.hidden = !f.q;
 
     /* One query, two fields. Mirroring here rather than at each call site
@@ -579,6 +635,7 @@
   function openDetails(id) {
     var r = byId.get(id);
     if (!r) return;
+    recordViewed(id);
 
     el.modalContent.innerHTML =
       '<div class="modal-head">' +
@@ -798,6 +855,13 @@
         return;
       }
 
+      var visited = event.target.closest(".card a[href^=\"http\"]");
+      if (visited) {
+        var visitedCard = visited.closest("[data-id]");
+        if (visitedCard) recordViewed(visitedCard.dataset.id);
+        /* Not prevented: the link still opens. */
+      }
+
       var details = event.target.closest("[data-details]");
       if (details) {
         event.preventDefault();
@@ -813,6 +877,12 @@
         else favorites.add(favId);
         fav.setAttribute("aria-pressed", String(favorites.has(favId)));
         saveFavorites();
+        return;
+      }
+
+      if (event.target.closest("[data-save-search]")) {
+        event.preventDefault();
+        saveCurrentSearch();
         return;
       }
 

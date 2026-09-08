@@ -1,0 +1,313 @@
+/* ==========================================================================
+   The Creative Vault — token layer
+   The single source of colour, shape, elevation and motion for all 55 pages.
+   Loaded first, before every other stylesheet.
+
+   Three themes, set as data-theme on <html> by js/theme.js:
+     light   warm paper, the original ground
+     medium  warm dimmed paper — lower glare, still a light UI
+     dark    warm near-black, never blue-black
+
+   Every value below was solved against WCAG rather than picked by eye.
+   tools/check-contrast.mjs re-reads THIS FILE and fails if any pair
+   regresses, so these numbers cannot silently drift.
+   ========================================================================== */
+
+:root {
+  /* ---- Ground ---------------------------------------------------------- */
+  --bg: #fbfaf9;
+  --surface: #ffffff;
+  --surface-sunk: #f4f2ef;
+
+  /* ---- Ink — every value clears 4.5:1 on both --surface and --bg -------- */
+  --ink: #17171a;
+  --ink-2: #55555f;
+  --ink-3: #6a6a75;
+
+  /* ---- Line ------------------------------------------------------------
+     --line is a decorative hairline and is deliberately low contrast.
+     --line-control is the border of a real control and clears 3:1 on both
+     grounds, because there the border is the thing that says "this is a
+     control". They are different jobs and were previously one token. */
+  --line: #e9e7e3;
+  --line-strong: #d7d3cd;
+  --line-control: #8b8173;
+
+  /* ---- Accent ----------------------------------------------------------
+     --accent      fills and graphics
+     --accent-ink  accent used as TEXT
+     --accent-btn* the primary button gradient. Its lightest stop clears
+                   4.5:1 against --on-accent; the old #d9530e did not (4.04). */
+  --accent: #d9530e;
+  --accent-ink: #b8450b;
+  --accent-btn-a: #c44a0b;
+  --accent-btn-b: #a83c08;
+  --on-accent: #ffffff;
+  --accent-wash: #fdf3ec;
+  --accent-line: #f0cbb0;
+
+  --free: #1f7a4d;
+  --free-wash: #eef7f1;
+
+  /* ---- Category families — four, never more (see DESIGN.md) ------------- */
+  --fam-tools: #0072b2;
+  --fam-assets: #c2185b;
+  --fam-funding: #9a5b12;
+  --fam-learning: #6a3d9a;
+  --fam-other: var(--line-strong);
+
+  /* ---- Frosted surfaces ------------------------------------------------
+     Kept from the 2026 glass pass, but as tokens rather than an !important
+     patch of hardcoded whites. backdrop-filter is spent only on chrome the
+     page actually scrolls under; cards get the same look from a gradient,
+     which costs nothing across sixty of them. */
+  --glass-a: rgba(255, 255, 255, 0.74);
+  --glass-b: rgba(255, 255, 255, 0.36);
+  --glass-line: rgba(184, 178, 169, 0.44);
+  --glass-line-hi: rgba(255, 255, 255, 0.94);
+  --glass-sheen: rgba(255, 255, 255, 0.32);
+  --chrome-bg: rgba(251, 249, 246, 0.72);
+  --chrome-line: rgba(255, 255, 255, 0.58);
+  --scrim: rgba(32, 29, 26, 0.28);
+
+  /* Page wash. One statement per theme, never a stack of five. */
+  --page-wash:
+    radial-gradient(circle at 88% 14%, rgba(239, 150, 102, 0.10), transparent 26%),
+    linear-gradient(135deg, #fbfaf8 0%, #f7f4f0 52%, #faf8f5 100%);
+
+  /* ---- Elevation — offset AND blur, never a flat halo ------------------- */
+  --lift-1: 0 1px 2px rgba(23, 23, 26, 0.04), 0 2px 6px rgba(23, 23, 26, 0.04);
+  --lift-2: 0 2px 4px rgba(23, 23, 26, 0.05), 0 10px 24px rgba(23, 23, 26, 0.08);
+  --lift-3: 0 8px 16px rgba(23, 23, 26, 0.07), 0 24px 56px rgba(23, 23, 26, 0.12);
+  --lift-glass: 0 12px 34px rgba(50, 40, 29, 0.075), inset 0 1px 0 var(--glass-line-hi);
+  --lift-glass-hover: 0 18px 42px rgba(50, 40, 29, 0.11), inset 0 1px 0 var(--glass-line-hi);
+
+  /* Deliberately inverted panels (comparison verdict blocks). On a dark
+     theme an almost-black panel on an almost-black page is invisible, so
+     there the panel goes LIGHTER than the ground rather than darker. */
+  --surface-invert: #1c1b19;
+  --on-invert: #f6f4f1;
+
+  --selection: #ffd9c2;
+  --logo-tint: none;
+
+  /* ---- Shape, rhythm, motion — theme-independent ------------------------ */
+  --radius: 14px;
+  --radius-sm: 9px;
+  --radius-pill: 999px;
+
+  --measure: 68ch;
+  --gutter: clamp(20px, 4vw, 48px);
+  --shell: 1240px;
+  --masthead-h: 64px;
+
+  --ease: cubic-bezier(0.16, 1, 0.3, 1);
+  --fast: 140ms;
+  --mid: 320ms;
+  --slow: 620ms;
+
+  color-scheme: light;
+}
+
+/* ==========================================================================
+   MEDIUM — warm dimmed paper.
+   Not a grey light theme and not a half-dark one: the same warm paper with
+   the glare taken out, for a bright room or a long browsing session.
+   ========================================================================== */
+:root[data-theme="medium"] {
+  --bg: #e8e2d9;
+  --surface: #f5f1ea;
+  --surface-sunk: #ded7cb;
+
+  --ink: #1c1a17;
+  --ink-2: #4e4941;
+  --ink-3: #605a51;
+
+  --line: #d6cec1;
+  --line-strong: #bfb5a4;
+  --line-control: #7e7162;
+
+  --accent: #c94a09;
+  --accent-ink: #9d3b07;
+  --accent-btn-a: #c44a0b;
+  --accent-btn-b: #a83c08;
+  --on-accent: #ffffff;
+  --accent-wash: #f6e6d8;
+  --accent-line: #dcb996;
+
+  --free: #1a6b43;
+  --free-wash: #dfeee5;
+
+  --fam-tools: #005f96;
+  --fam-assets: #a8144e;
+  --fam-funding: #814b0d;
+  --fam-learning: #5a3383;
+
+  --glass-a: rgba(255, 253, 249, 0.62);
+  --glass-b: rgba(255, 253, 249, 0.28);
+  --glass-line: rgba(150, 138, 120, 0.40);
+  --glass-line-hi: rgba(255, 253, 249, 0.72);
+  --glass-sheen: rgba(255, 253, 249, 0.22);
+  --chrome-bg: rgba(232, 226, 217, 0.78);
+  --chrome-line: rgba(255, 253, 249, 0.44);
+  --scrim: rgba(38, 32, 24, 0.34);
+
+  --page-wash:
+    radial-gradient(circle at 88% 14%, rgba(198, 128, 82, 0.10), transparent 26%),
+    linear-gradient(135deg, #eae4db 0%, #e4ddd2 52%, #ece6dd 100%);
+
+  --lift-1: 0 1px 2px rgba(52, 42, 30, 0.05), 0 2px 6px rgba(52, 42, 30, 0.05);
+  --lift-2: 0 2px 4px rgba(52, 42, 30, 0.06), 0 10px 24px rgba(52, 42, 30, 0.09);
+  --lift-3: 0 8px 16px rgba(52, 42, 30, 0.08), 0 24px 56px rgba(52, 42, 30, 0.14);
+  --lift-glass: 0 12px 30px rgba(52, 42, 30, 0.08), inset 0 1px 0 var(--glass-line-hi);
+  --lift-glass-hover: 0 18px 40px rgba(52, 42, 30, 0.12), inset 0 1px 0 var(--glass-line-hi);
+
+  --surface-invert: #262320;
+  --on-invert: #f6f4f1;
+
+  --selection: #f2c9a6;
+
+  color-scheme: light;
+}
+
+/* ==========================================================================
+   DARK — warm near-black. The ground keeps the site's warmth rather than
+   turning blue, so the orange still belongs to it.
+   The primary button inverts: a bright orange fill with DARK type, which
+   is the only way to clear 4.5:1 without dulling the accent to brown.
+   ========================================================================== */
+:root[data-theme="dark"] {
+  --bg: #17151a;
+  --surface: #211f24;
+  --surface-sunk: #2b2830;
+
+  --ink: #f3f0ec;
+  --ink-2: #b6afa6;
+  /* Solved against the frosted card gradient, which sits lighter than the
+     card surface: the previous value cleared 4.98 on a plain surface but
+     only 4.40 on a frosted card, where this text actually appears. */
+  --ink-3: #9c958c;
+
+  --line: #322e35;
+  --line-strong: #45403a;
+  --line-control: #7f776e;
+
+  --accent: #e8621d;
+  --accent-ink: #ff9057;
+  --accent-btn-a: #f0762e;
+  --accent-btn-b: #e05e18;
+  --on-accent: #17151a;
+  --accent-wash: #2b1a11;
+  --accent-line: #4d2c16;
+
+  --free: #4ec98a;
+  --free-wash: #122318;
+
+  --fam-tools: #58a6ff;
+  --fam-assets: #ff7ba6;
+  --fam-funding: #e0a63c;
+  --fam-learning: #b388e8;
+
+  --glass-a: rgba(58, 54, 64, 0.60);
+  --glass-b: rgba(38, 35, 43, 0.34);
+  --glass-line: rgba(255, 255, 255, 0.09);
+  --glass-line-hi: rgba(255, 255, 255, 0.10);
+  --glass-sheen: rgba(255, 255, 255, 0.06);
+  --chrome-bg: rgba(23, 21, 26, 0.76);
+  --chrome-line: rgba(255, 255, 255, 0.08);
+  --scrim: rgba(6, 5, 8, 0.62);
+
+  --page-wash:
+    radial-gradient(circle at 88% 12%, rgba(232, 98, 29, 0.10), transparent 28%),
+    linear-gradient(135deg, #17151a 0%, #191720 52%, #15141a 100%);
+
+  /* Shadow alone does not read on a dark ground; the hairline does the
+     separating and the shadow only adds weight. */
+  --lift-1: 0 1px 2px rgba(0, 0, 0, 0.40), 0 2px 6px rgba(0, 0, 0, 0.30);
+  --lift-2: 0 2px 4px rgba(0, 0, 0, 0.45), 0 10px 24px rgba(0, 0, 0, 0.40);
+  --lift-3: 0 8px 16px rgba(0, 0, 0, 0.50), 0 24px 56px rgba(0, 0, 0, 0.55);
+  --lift-glass: 0 12px 34px rgba(0, 0, 0, 0.42), inset 0 1px 0 var(--glass-line-hi);
+  --lift-glass-hover: 0 18px 44px rgba(0, 0, 0, 0.52), inset 0 1px 0 var(--glass-line-hi);
+
+  --surface-invert: #322e3a;
+  --on-invert: #f3f0ec;
+
+  --selection: #5a2a10;
+
+  /* Third-party logos are shipped for a light ground. A slight lift stops
+     black-on-transparent marks vanishing without washing out coloured ones. */
+  --logo-tint: brightness(0.94) contrast(1.06);
+
+  color-scheme: dark;
+}
+
+/* No JS, and the visitor's system asks for dark: honour it rather than
+   flashing a light page. js/theme.js sets data-theme before first paint,
+   so this only ever applies when script did not run. */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme]) {
+    --bg: #17151a;
+    --surface: #211f24;
+    --surface-sunk: #2b2830;
+    --ink: #f3f0ec;
+    --ink-2: #b6afa6;
+    --ink-3: #9c958c;
+    --line: #322e35;
+    --line-strong: #45403a;
+    --line-control: #7f776e;
+    --accent: #e8621d;
+    --accent-ink: #ff9057;
+    --accent-btn-a: #f0762e;
+    --accent-btn-b: #e05e18;
+    --on-accent: #17151a;
+    --accent-wash: #2b1a11;
+    --accent-line: #4d2c16;
+    --free: #4ec98a;
+    --free-wash: #122318;
+    --fam-tools: #58a6ff;
+    --fam-assets: #ff7ba6;
+    --fam-funding: #e0a63c;
+    --fam-learning: #b388e8;
+    --glass-a: rgba(58, 54, 64, 0.60);
+    --glass-b: rgba(38, 35, 43, 0.34);
+    --glass-line: rgba(255, 255, 255, 0.09);
+    --glass-line-hi: rgba(255, 255, 255, 0.10);
+    --glass-sheen: rgba(255, 255, 255, 0.06);
+    --chrome-bg: rgba(23, 21, 26, 0.76);
+    --chrome-line: rgba(255, 255, 255, 0.08);
+    --scrim: rgba(6, 5, 8, 0.62);
+    --page-wash:
+      radial-gradient(circle at 88% 12%, rgba(232, 98, 29, 0.10), transparent 28%),
+      linear-gradient(135deg, #17151a 0%, #191720 52%, #15141a 100%);
+    --lift-1: 0 1px 2px rgba(0, 0, 0, 0.40), 0 2px 6px rgba(0, 0, 0, 0.30);
+    --lift-2: 0 2px 4px rgba(0, 0, 0, 0.45), 0 10px 24px rgba(0, 0, 0, 0.40);
+    --lift-3: 0 8px 16px rgba(0, 0, 0, 0.50), 0 24px 56px rgba(0, 0, 0, 0.55);
+    --lift-glass: 0 12px 34px rgba(0, 0, 0, 0.42), inset 0 1px 0 var(--glass-line-hi);
+    --lift-glass-hover: 0 18px 44px rgba(0, 0, 0, 0.52), inset 0 1px 0 var(--glass-line-hi);
+    --surface-invert: #322e3a;
+    --on-invert: #f3f0ec;
+    --selection: #5a2a10;
+    --logo-tint: brightness(0.94) contrast(1.06);
+    color-scheme: dark;
+  }
+}
+
+/* Colour is the only thing that crossfades on a theme change. Layout, type
+   and position never animate — that reads as a page reload, not a setting. */
+:root.theme-shifting,
+:root.theme-shifting *,
+:root.theme-shifting *::before,
+:root.theme-shifting *::after {
+  transition:
+    background-color 220ms var(--ease),
+    border-color 220ms var(--ease),
+    color 220ms var(--ease),
+    fill 220ms var(--ease),
+    box-shadow 220ms var(--ease) !important;
+  transition-delay: 0s !important;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  :root.theme-shifting,
+  :root.theme-shifting * { transition: none !important; }
+}
