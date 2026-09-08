@@ -1,0 +1,13 @@
+Coding + Web this week is almost entirely about agents.
+
+53,706/day — Rob Shocks on Claude's new INTENT.MD
+34,711/day — how the Claude Code team uses Claude Code
+24,110/day — Claude Code 2.0 upgrade rundown
+11,243/day — Tristen O'Brien on the new /design command
+10,955/day — agent skills breakdown
+
+And still holding a slot: Kevin Powell, "Nobody told me CSS could do this."
+
+thecreativevault.co/weekly-drip
+
+#webdev #css #vibecoding #frontend #developertools

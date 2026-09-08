@@ -1,0 +1,12 @@
+How the Weekly Drip decides what makes the board:
+
+1. View velocity — views per day now, not the lifetime total
+2. Engagement — how strongly the audience responded
+3. Freshness — only recent videos are eligible at all
+4. Topic relevance — it has to fit the lane it's ranked in
+
+Stated plainly on the page: this is an automated discovery feed, not a paid ranking. Nobody buys a slot.
+
+thecreativevault.co/weekly-drip
+
+#weeklydrip #howitworks #creativetools #transparency #contentdiscovery

@@ -1,0 +1,145 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8">
+<title>lane-photography</title>
+<link rel="stylesheet" href="../fonts.css">
+<link rel="stylesheet" href="../styles.css">
+
+</head>
+<body>
+  <div class="canvas g-light bloom fam-drip_lane">
+  <div class="pad" style="padding-bottom:112px">
+    <div class="lane-head">
+      <div>
+        <div class="row" style="gap:11px;margin-bottom:22px">
+          <span class="tag solid"><span class="dot"></span>Top 10 this week</span>
+          <span class="tag">Weekly Drip</span>
+        </div>
+        <h1 class="display d-lg">Photography</h1>
+        <p class="sub" style="margin-top:19px;max-width:40ch">Editing, lighting, cameras, retouching and practical photography workflows.</p>
+      </div>
+      <div class="mark"><img class="lane-mark" src="../../shots/weekly-drip-logo.png" alt=""></div>
+    </div>
+    <div class="lane-list">
+    <div class="lane-row">
+      <div class="lane-rank num">01</div>
+      <div>
+        <div class="lane-title">New release!  The new AMAZING features of Photolab 10!</div>
+        <div class="lane-chan">Simon d'Entremont</div>
+      </div>
+      <div class="lane-vel">
+        <b class="num">23,572</b>
+        <span>views / day</span>
+      </div>
+    </div>
+    <div class="lane-row">
+      <div class="lane-rank num">02</div>
+      <div>
+        <div class="lane-title">Maija Riika — Natural Light &amp; Mountain Aesthetics | Fine Art Photography</div>
+        <div class="lane-chan">Fine Art Vision</div>
+      </div>
+      <div class="lane-vel">
+        <b class="num">19,907</b>
+        <span>views / day</span>
+      </div>
+    </div>
+    <div class="lane-row">
+      <div class="lane-rank num">03</div>
+      <div>
+        <div class="lane-title">5 BIGGEST NEW Photoshop Features just released</div>
+        <div class="lane-chan">photoshopCAFE</div>
+      </div>
+      <div class="lane-vel">
+        <b class="num">15,624</b>
+        <span>views / day</span>
+      </div>
+    </div>
+    <div class="lane-row">
+      <div class="lane-rank num">04</div>
+      <div>
+        <div class="lane-title">​Putri Sinta: Outdoor Natural Light &amp; Desert Composition | Bimil Master…</div>
+        <div class="lane-chan">Fine Art Vision</div>
+      </div>
+      <div class="lane-vel">
+        <b class="num">19,087</b>
+        <span>views / day</span>
+      </div>
+    </div>
+    <div class="lane-row">
+      <div class="lane-rank num">05</div>
+      <div>
+        <div class="lane-title">Como um Fotógrafo Profissional usa um iPhone</div>
+        <div class="lane-chan">Yuri Rios</div>
+      </div>
+      <div class="lane-vel">
+        <b class="num">7,238</b>
+        <span>views / day</span>
+      </div>
+    </div></div>
+  </div>
+  
+  <div class="foot">
+    <div class="url"><img src="../../shots/cv-icon.png" alt="">thecreativevault.co</div>
+    <div class="note">Ranked on momentum + freshness · refreshed every Sunday</div>
+  </div></div>
+
+<script>
+if (location.search.indexOf('audit=1') > -1) {
+  addEventListener('load', function(){ setTimeout(function(){
+    var bad = [], canvas = document.querySelector('.canvas');
+    var cb = canvas.getBoundingClientRect();
+    var pad = document.querySelector('.pad');
+    var foot = document.querySelector('.foot');
+    var fb = foot ? foot.getBoundingClientRect() : null;
+    // .wm is a watermark that is meant to bleed off the canvas
+    var exempt = function(el){ return el.closest('.wm') || el.classList.contains('wm'); };
+    // these clamp their own text on purpose
+    var clamps = '.lane-title,.bar-label,.spot p';
+
+    Array.prototype.forEach.call(document.querySelectorAll('.canvas *'), function(el){
+      if (exempt(el)) return;
+      var r = el.getBoundingClientRect();
+      if (r.width === 0 && r.height === 0) return;
+      if (r.right  > cb.right  + 1) bad.push('RIGHT ' + el.className + ' +' + Math.round(r.right - cb.right));
+      if (r.left   < cb.left   - 1) bad.push('LEFT ' + el.className + ' ' + Math.round(r.left - cb.left));
+      if (r.bottom > cb.bottom + 1) bad.push('BOTTOM ' + el.className + ' +' + Math.round(r.bottom - cb.bottom));
+      // text clipped inside its own box (line-clamped elements excluded)
+      if (!el.matches(clamps) && el.scrollHeight > el.clientHeight + 2 && getComputedStyle(el).overflow !== 'visible')
+        bad.push('CLIP ' + el.className + ' +' + (el.scrollHeight - el.clientHeight));
+    });
+
+    if (pad && pad.scrollHeight > pad.clientHeight + 2)
+      bad.push('PAD-OVERFLOW +' + (pad.scrollHeight - pad.clientHeight));
+
+    // A display line that is too wide wraps rather than overflows, so nothing
+    // above would catch it — but it breaks the authored line rhythm, which on
+    // a one-sentence poster IS the composition. Count rendered line boxes
+    // against the <br> count the copy actually asked for.
+    Array.prototype.forEach.call(document.querySelectorAll('.display'), function(h){
+      var asked = (h.innerHTML.match(/<br\s*\/?>/gi) || []).length + 1;
+      // no authored break means the headline is prose and is meant to wrap
+      // to its measure; only copy that set its own breaks is being checked
+      if (asked === 1) return;
+      var r = document.createRange(); r.selectNodeContents(h);
+      var tops = {}, n = 0;
+      Array.prototype.forEach.call(r.getClientRects(), function(rect){
+        if (rect.height < 1) return;
+        var k = Math.round(rect.top);
+        if (!tops[k]) { tops[k] = 1; n++; }
+      });
+      if (n > asked) bad.push('WRAP ' + h.className + ' ' + n + ' lines, copy asked for ' + asked);
+    });
+
+    // anything in .pad that runs into the footer band
+    if (fb) Array.prototype.forEach.call(pad.querySelectorAll('*'), function(el){
+      if (exempt(el) || el.children.length) return;
+      var r = el.getBoundingClientRect();
+      if (r.height && r.bottom > fb.top + 2 && r.top < fb.bottom)
+        bad.push('FOOT-HIT ' + el.className + ' +' + Math.round(r.bottom - fb.top));
+    });
+
+    document.title = bad.length ? 'AUDIT_FAIL :: ' + bad.join(' | ') : 'AUDIT_OK';
+  }, 250); });
+}
+</script>
+</body></html>

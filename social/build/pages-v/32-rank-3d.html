@@ -1,0 +1,146 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8">
+<title>rank-3d</title>
+<link rel="stylesheet" href="../fonts.css">
+<link rel="stylesheet" href="../styles.css">
+<link rel="stylesheet" href="../styles-portrait.css">
+</head>
+<body class="is-portrait">
+  <div class="canvas g-light bloom fam-ranking">
+  <div class="pad" style="padding-bottom:110px">
+    <div class="row" style="justify-content:space-between;align-items:flex-start">
+      <div>
+        <h1 class="display d-md" style="max-width:20ch">3D is moving <span class="accent-word">fast</span> this week.</h1>
+        <p class="sub" style="margin-top:16px;max-width:56ch">Blender, geometry nodes, rigging and AI-assisted motion — ranked by views per day.</p>
+      </div>
+      <span class="tag solid" style="flex:none"><span class="dot"></span>3D + Animation</span>
+    </div>
+    <div class="chart">
+    <div>
+      <div class="bar-row">
+        <div>
+          <div class="bar-label">How To Save AI Credits With Higgsfield + Blender (No One…</div>
+          <div class="bar-sub">Higgsfield AI · 3D + Animation</div>
+        </div>
+        <div class="bar-val num">58,405<small>views / day</small></div>
+      </div>
+      <div class="bar-track" style="margin-top:11px">
+        <div class="bar-fill" style="width:100%"></div>
+      </div>
+    </div>
+    <div>
+      <div class="bar-row">
+        <div>
+          <div class="bar-label">Claude Fable 5.1 + Higgsfield AI = Insane Motion Graphics!</div>
+          <div class="bar-sub">Higgsfield AI · 3D + Animation</div>
+        </div>
+        <div class="bar-val num">53,127<small>views / day</small></div>
+      </div>
+      <div class="bar-track" style="margin-top:11px">
+        <div class="bar-fill" style="width:90.96310247410324%"></div>
+      </div>
+    </div>
+    <div>
+      <div class="bar-row">
+        <div>
+          <div class="bar-label">How To Make The Backrooms In Blender</div>
+          <div class="bar-sub">Blender Guru · 3D + Animation</div>
+        </div>
+        <div class="bar-val num">52,264<small>views / day</small></div>
+      </div>
+      <div class="bar-track" style="margin-top:11px">
+        <div class="bar-fill" style="width:89.48548925605685%"></div>
+      </div>
+    </div>
+    <div>
+      <div class="bar-row">
+        <div>
+          <div class="bar-label">I Removed 90% Of This Model to Make It Better</div>
+          <div class="bar-sub">Vertex Arcade · 3D + Animation</div>
+        </div>
+        <div class="bar-val num">28,045<small>views / day</small></div>
+      </div>
+      <div class="bar-track" style="margin-top:11px">
+        <div class="bar-fill" style="width:48.018149131067545%"></div>
+      </div>
+    </div>
+    <div>
+      <div class="bar-row">
+        <div>
+          <div class="bar-label">Create Anything with 3D AI - Animals, Monsters, Creatures…</div>
+          <div class="bar-sub">Stefan 3D AI · 3D + Animation</div>
+        </div>
+        <div class="bar-val num">25,589<small>views / day</small></div>
+      </div>
+      <div class="bar-track" style="margin-top:11px">
+        <div class="bar-fill" style="width:43.81302970636076%"></div>
+      </div>
+    </div></div>
+  </div>
+  
+  <div class="foot">
+    <div class="url"><img src="../../shots/cv-icon.png" alt="">thecreativevault.co</div>
+    <div class="note">Top 5 of 10 · full lane on the site</div>
+  </div></div>
+
+<script>
+if (location.search.indexOf('audit=1') > -1) {
+  addEventListener('load', function(){ setTimeout(function(){
+    var bad = [], canvas = document.querySelector('.canvas');
+    var cb = canvas.getBoundingClientRect();
+    var pad = document.querySelector('.pad');
+    var foot = document.querySelector('.foot');
+    var fb = foot ? foot.getBoundingClientRect() : null;
+    // .wm is a watermark that is meant to bleed off the canvas
+    var exempt = function(el){ return el.closest('.wm') || el.classList.contains('wm'); };
+    // these clamp their own text on purpose
+    var clamps = '.lane-title,.bar-label,.spot p';
+
+    Array.prototype.forEach.call(document.querySelectorAll('.canvas *'), function(el){
+      if (exempt(el)) return;
+      var r = el.getBoundingClientRect();
+      if (r.width === 0 && r.height === 0) return;
+      if (r.right  > cb.right  + 1) bad.push('RIGHT ' + el.className + ' +' + Math.round(r.right - cb.right));
+      if (r.left   < cb.left   - 1) bad.push('LEFT ' + el.className + ' ' + Math.round(r.left - cb.left));
+      if (r.bottom > cb.bottom + 1) bad.push('BOTTOM ' + el.className + ' +' + Math.round(r.bottom - cb.bottom));
+      // text clipped inside its own box (line-clamped elements excluded)
+      if (!el.matches(clamps) && el.scrollHeight > el.clientHeight + 2 && getComputedStyle(el).overflow !== 'visible')
+        bad.push('CLIP ' + el.className + ' +' + (el.scrollHeight - el.clientHeight));
+    });
+
+    if (pad && pad.scrollHeight > pad.clientHeight + 2)
+      bad.push('PAD-OVERFLOW +' + (pad.scrollHeight - pad.clientHeight));
+
+    // A display line that is too wide wraps rather than overflows, so nothing
+    // above would catch it — but it breaks the authored line rhythm, which on
+    // a one-sentence poster IS the composition. Count rendered line boxes
+    // against the <br> count the copy actually asked for.
+    Array.prototype.forEach.call(document.querySelectorAll('.display'), function(h){
+      var asked = (h.innerHTML.match(/<br\s*\/?>/gi) || []).length + 1;
+      // no authored break means the headline is prose and is meant to wrap
+      // to its measure; only copy that set its own breaks is being checked
+      if (asked === 1) return;
+      var r = document.createRange(); r.selectNodeContents(h);
+      var tops = {}, n = 0;
+      Array.prototype.forEach.call(r.getClientRects(), function(rect){
+        if (rect.height < 1) return;
+        var k = Math.round(rect.top);
+        if (!tops[k]) { tops[k] = 1; n++; }
+      });
+      if (n > asked) bad.push('WRAP ' + h.className + ' ' + n + ' lines, copy asked for ' + asked);
+    });
+
+    // anything in .pad that runs into the footer band
+    if (fb) Array.prototype.forEach.call(pad.querySelectorAll('*'), function(el){
+      if (exempt(el) || el.children.length) return;
+      var r = el.getBoundingClientRect();
+      if (r.height && r.bottom > fb.top + 2 && r.top < fb.bottom)
+        bad.push('FOOT-HIT ' + el.className + ' +' + Math.round(r.bottom - fb.top));
+    });
+
+    document.title = bad.length ? 'AUDIT_FAIL :: ' + bad.join(' | ') : 'AUDIT_OK';
+  }, 250); });
+}
+</script>
+</body></html>

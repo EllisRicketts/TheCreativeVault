@@ -1,0 +1,145 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8">
+<title>lane-game-development</title>
+<link rel="stylesheet" href="../fonts.css">
+<link rel="stylesheet" href="../styles.css">
+<link rel="stylesheet" href="../styles-portrait.css">
+</head>
+<body class="is-portrait">
+  <div class="canvas g-ink bloom fam-drip_lane">
+  <div class="pad" style="padding-bottom:112px">
+    <div class="lane-head">
+      <div>
+        <div class="row" style="gap:11px;margin-bottom:22px">
+          <span class="tag solid"><span class="dot"></span>Top 10 this week</span>
+          <span class="tag">Weekly Drip</span>
+        </div>
+        <h1 class="display d-lg">Game Development</h1>
+        <p class="sub" style="margin-top:19px;max-width:40ch">Engines, level design, shaders, procedural systems, game art and indie workflows.</p>
+      </div>
+      <div class="mark"><img class="lane-mark" src="../../shots/weekly-drip-logo.png" alt=""></div>
+    </div>
+    <div class="lane-list">
+    <div class="lane-row">
+      <div class="lane-rank num">01</div>
+      <div>
+        <div class="lane-title">GPT-6 Astra | How to build an AI Live Stream App with H3 Max Director</div>
+        <div class="lane-chan">fal</div>
+      </div>
+      <div class="lane-vel">
+        <b class="num">88,472</b>
+        <span>views / day</span>
+      </div>
+    </div>
+    <div class="lane-row">
+      <div class="lane-rank num">02</div>
+      <div>
+        <div class="lane-title">I’m Sick of SLOP… So I Made My DREAM Game</div>
+        <div class="lane-chan">Duckable</div>
+      </div>
+      <div class="lane-vel">
+        <b class="num">122,450</b>
+        <span>views / day</span>
+      </div>
+    </div>
+    <div class="lane-row">
+      <div class="lane-rank num">03</div>
+      <div>
+        <div class="lane-title">Making a Viral Roblox RNG Game in 30 Days</div>
+        <div class="lane-chan">janisjanis01</div>
+      </div>
+      <div class="lane-vel">
+        <b class="num">18,736</b>
+        <span>views / day</span>
+      </div>
+    </div>
+    <div class="lane-row">
+      <div class="lane-rank num">04</div>
+      <div>
+        <div class="lane-title">I Built a Whole Game Level Using Only FREE AI - My Full Workflow</div>
+        <div class="lane-chan">Stefan 3D AI</div>
+      </div>
+      <div class="lane-vel">
+        <b class="num">11,056</b>
+        <span>views / day</span>
+      </div>
+    </div>
+    <div class="lane-row">
+      <div class="lane-rank num">05</div>
+      <div>
+        <div class="lane-title">ChatGPT vs Gemini Make Steal An Egg</div>
+        <div class="lane-chan">Crazy Cat</div>
+      </div>
+      <div class="lane-vel">
+        <b class="num">29,684</b>
+        <span>views / day</span>
+      </div>
+    </div></div>
+  </div>
+  
+  <div class="foot">
+    <div class="url"><img src="../../shots/cv-icon.png" alt="">thecreativevault.co</div>
+    <div class="note">Ranked on momentum + freshness · refreshed every Sunday</div>
+  </div></div>
+
+<script>
+if (location.search.indexOf('audit=1') > -1) {
+  addEventListener('load', function(){ setTimeout(function(){
+    var bad = [], canvas = document.querySelector('.canvas');
+    var cb = canvas.getBoundingClientRect();
+    var pad = document.querySelector('.pad');
+    var foot = document.querySelector('.foot');
+    var fb = foot ? foot.getBoundingClientRect() : null;
+    // .wm is a watermark that is meant to bleed off the canvas
+    var exempt = function(el){ return el.closest('.wm') || el.classList.contains('wm'); };
+    // these clamp their own text on purpose
+    var clamps = '.lane-title,.bar-label,.spot p';
+
+    Array.prototype.forEach.call(document.querySelectorAll('.canvas *'), function(el){
+      if (exempt(el)) return;
+      var r = el.getBoundingClientRect();
+      if (r.width === 0 && r.height === 0) return;
+      if (r.right  > cb.right  + 1) bad.push('RIGHT ' + el.className + ' +' + Math.round(r.right - cb.right));
+      if (r.left   < cb.left   - 1) bad.push('LEFT ' + el.className + ' ' + Math.round(r.left - cb.left));
+      if (r.bottom > cb.bottom + 1) bad.push('BOTTOM ' + el.className + ' +' + Math.round(r.bottom - cb.bottom));
+      // text clipped inside its own box (line-clamped elements excluded)
+      if (!el.matches(clamps) && el.scrollHeight > el.clientHeight + 2 && getComputedStyle(el).overflow !== 'visible')
+        bad.push('CLIP ' + el.className + ' +' + (el.scrollHeight - el.clientHeight));
+    });
+
+    if (pad && pad.scrollHeight > pad.clientHeight + 2)
+      bad.push('PAD-OVERFLOW +' + (pad.scrollHeight - pad.clientHeight));
+
+    // A display line that is too wide wraps rather than overflows, so nothing
+    // above would catch it — but it breaks the authored line rhythm, which on
+    // a one-sentence poster IS the composition. Count rendered line boxes
+    // against the <br> count the copy actually asked for.
+    Array.prototype.forEach.call(document.querySelectorAll('.display'), function(h){
+      var asked = (h.innerHTML.match(/<br\s*\/?>/gi) || []).length + 1;
+      // no authored break means the headline is prose and is meant to wrap
+      // to its measure; only copy that set its own breaks is being checked
+      if (asked === 1) return;
+      var r = document.createRange(); r.selectNodeContents(h);
+      var tops = {}, n = 0;
+      Array.prototype.forEach.call(r.getClientRects(), function(rect){
+        if (rect.height < 1) return;
+        var k = Math.round(rect.top);
+        if (!tops[k]) { tops[k] = 1; n++; }
+      });
+      if (n > asked) bad.push('WRAP ' + h.className + ' ' + n + ' lines, copy asked for ' + asked);
+    });
+
+    // anything in .pad that runs into the footer band
+    if (fb) Array.prototype.forEach.call(pad.querySelectorAll('*'), function(el){
+      if (exempt(el) || el.children.length) return;
+      var r = el.getBoundingClientRect();
+      if (r.height && r.bottom > fb.top + 2 && r.top < fb.bottom)
+        bad.push('FOOT-HIT ' + el.className + ' +' + Math.round(r.bottom - fb.top));
+    });
+
+    document.title = bad.length ? 'AUDIT_FAIL :: ' + bad.join(' | ') : 'AUDIT_OK';
+  }, 250); });
+}
+</script>
+</body></html>

@@ -1,0 +1,217 @@
+/* The Creative Vault — social post design system, PORTRAIT
+   Canvas: 1080 x 1350 (Instagram portrait 4:5).
+
+   Loaded AFTER styles.css. This sheet only carries what the vertical format
+   actually changes; everything else — palette, type families, elevation,
+   accent discipline — is inherited unchanged so the two sets are one brand.
+
+   The format flips the constraint. Landscape had 1202px of content width and
+   ran out of height; portrait has 948px and runs out of width. So every
+   two-column composition here becomes a single column read top-down, and the
+   height that frees up goes back into the display type and the lists rather
+   than into whitespace.
+
+   Scoping: `.is-portrait` sits on <body>, `.fam-<family>` on .canvas.
+   `!important` appears only where a template writes the property inline and
+   the vertical layout genuinely needs it back — each one is commented. */
+
+:root{
+  /* 66px on 1080 reads the same as 74px did on 1350 without eating the measure */
+  --pad:66px;
+}
+
+body,
+.canvas{ width:1080px; height:1350px; }
+
+/* the wash is aimed at the corners of the new frame, not the old one */
+.bloom::before{
+  background:
+    radial-gradient(880px 660px at 94% -8%, rgba(217,83,14,.13), transparent 62%),
+    radial-gradient(640px 600px at -12% 105%, rgba(217,83,14,.07), transparent 64%);
+}
+.g-ink.bloom::before{
+  background:
+    radial-gradient(880px 660px at 94% -8%, rgba(217,83,14,.30), transparent 62%),
+    radial-gradient(680px 640px at -14% 108%, rgba(217,83,14,.14), transparent 64%);
+}
+
+/* ---------- type ---------- *
+   Display steps come down slightly against the narrower measure, and the
+   saved height is spent where portrait is genuinely stronger: the stat
+   figure, the screenshot headline, and the body scale. */
+.d-xxl{font-size:138px}
+.d-xl{font-size:112px}
+.d-lg{font-size:88px}
+.d-md{font-size:72px}
+.d-sm{font-size:60px}
+
+.sub{font-size:27px;line-height:1.48}
+.sub-lg{font-size:33px;line-height:1.42}
+
+.foot{bottom:50px}
+
+.wm{right:-88px;bottom:-78px;width:412px}
+
+.quote-mark{font-size:176px;margin:0 0 -24px -8px}
+
+/* ================================================================= *
+ * A. drip_lane — mark lifts to the top corner, headline takes the    *
+ *    full width, and the five rows spend the extra height.           *
+ * ================================================================= */
+.is-portrait .lane-head{position:relative;display:block}
+
+/* the mark is pulled out of the flow so the lane name is never indented by it */
+.is-portrait .lane-head > .mark{
+  position:absolute;top:0;right:0;
+  width:84px;height:84px;border-radius:20px;
+}
+.is-portrait .lane-mark{width:84px;height:84px;margin-top:0}
+.is-portrait .g-ink .lane-head > .mark,
+.is-portrait .g-accent .lane-head > .mark{padding:11px}
+
+/* keeps the chips clear of the mark, then drops the headline below it */
+.is-portrait .fam-drip_lane .lane-head .row{padding-right:104px}
+.is-portrait .fam-drip_lane .lane-head .display{margin-top:34px}
+.is-portrait .fam-drip_lane .lane-head .sub{max-width:36ch}
+
+.is-portrait .lane-list{margin-top:30px}
+/* reclaims 40px of width for the title column, which is what portrait costs */
+.is-portrait .lane-row{grid-template-columns:56px 1fr auto;gap:30px;padding:17px 0}
+.is-portrait .lane-rank{font-size:42px}
+.is-portrait .lane-title{font-size:28px;line-height:1.26}
+.is-portrait .lane-chan{font-size:18px;margin-top:6px}
+.is-portrait .lane-vel b{font-size:30px}
+
+/* ================================================================= *
+ * B. statement — the format this family always wanted, so it is the  *
+ *    one that gets genuinely louder. Landscape capped these at the   *
+ *    width; portrait caps them at the line count instead, so the     *
+ *    type steps up and a few posts are re-broken into narrower,      *
+ *    taller stacks in posts.mjs. Words are never changed, only the   *
+ *    break positions.                                                *
+ * ================================================================= */
+.is-portrait .fam-statement .d-xl{font-size:126px}
+.is-portrait .fam-statement .d-lg{font-size:108px}
+.is-portrait .fam-statement .d-md{font-size:92px}
+.is-portrait .fam-statement .sub{margin-top:44px !important;max-width:44ch !important}
+
+/* ================================================================= *
+ * C. screenshot — the browser frame turns portrait, so it shows a    *
+ *    taller slice of a real page instead of a letterboxed strip.     *
+ *    Per-post zoom/offset are re-tuned in posts.mjs under `portrait`. *
+ * ================================================================= */
+/* head stacks: label above headline (column-reverse, so no DOM change) */
+.is-portrait .fam-screenshot .pad > .row{
+  flex-direction:column-reverse;
+  align-items:flex-start !important;   /* inline align-items:flex-end */
+  gap:0 !important;                    /* inline gap:34px — the tag carries its own */
+}
+.is-portrait .fam-screenshot .pad > .row .tag{margin-bottom:20px !important}
+/* inline 19ch was tuned against a 1202px measure; at 948px the same cap
+   forces the authored breaks to wrap again, so it is widened, not tightened */
+.is-portrait .fam-screenshot .display{max-width:24ch !important}
+.is-portrait .fam-screenshot .sub{max-width:44ch !important}
+
+/* A fixed frame, not flex:1. Letting it grow forced the crop to be tall,
+   and a tall crop of a 1440-wide capture has to zoom past the point where
+   the page's own content column survives — which sliced headings in half.
+   Pinning the height caps the zoom instead, and .pad centres the leftover. */
+.is-portrait .fam-screenshot .pad{justify-content:center}
+.is-portrait .fam-screenshot .shot-frame{
+  flex:none;
+  height:772px;
+  margin-top:34px !important;
+}
+.is-portrait .shot-bar{height:42px}
+.is-portrait .shot-bar .addr{height:25px;font-size:14px;max-width:none}
+
+/* ================================================================= *
+ * D. stat — the one place portrait can simply be louder.             *
+ * ================================================================= */
+.is-portrait .stat-fig{font-size:376px}
+.is-portrait .stat-fig.narrow{font-size:306px}
+.is-portrait .stat-cap{font-size:46px;margin-top:52px}
+.is-portrait .stat-note{font-size:26px;margin-top:20px;max-width:44ch}
+
+/* ================================================================= *
+ * E. ranking — label above headline, bars keep their grid.           *
+ * ================================================================= */
+.is-portrait .fam-ranking .pad > .row{
+  flex-direction:column-reverse;
+  align-items:flex-start !important;   /* inline align-items:flex-start already, kept explicit */
+}
+.is-portrait .fam-ranking .pad > .row .tag{margin-bottom:22px}
+.is-portrait .fam-ranking .display{max-width:16ch !important}
+.is-portrait .fam-ranking .sub{max-width:46ch !important}
+/* centring five bars in a taller box left a dead band under the headline;
+   distributing them puts that space between the bars, where it reads as air */
+.is-portrait .chart{margin-top:40px;gap:26px;justify-content:space-between}
+.is-portrait .bar-row{grid-template-columns:1fr 150px;gap:24px}
+.is-portrait .bar-label{font-size:25px}
+.is-portrait .bar-track{height:36px}
+
+/* ================================================================= *
+ * F. explainer — two columns become one, and the steps get bigger    *
+ *    rather than just further apart.                                 *
+ * ================================================================= */
+.is-portrait .fam-explainer .display{max-width:17ch !important}
+.is-portrait .fam-explainer .sub{max-width:48ch !important}
+.is-portrait .steps{grid-template-columns:1fr;gap:0;margin-top:46px}
+.is-portrait .step{gap:28px}
+.is-portrait .step-n{width:70px;height:70px;font-size:32px;border-radius:18px}
+.is-portrait .step h4{font-size:38px;margin-top:9px}
+.is-portrait .step p{font-size:25px;margin-top:13px;max-width:50ch}
+
+/* ================================================================= *
+ * G. spotlight — the card stacks. The mark leads, the description    *
+ *    gets the whole width back.                                      *
+ * ================================================================= */
+.is-portrait .spot{flex-direction:column;gap:40px;padding:64px 60px 68px}
+/* the well grows with the card — at 150px it read as an afterthought once the
+   card went full width, and the mark is what a creative recognises first */
+.is-portrait .spot-well{width:176px;height:176px;border-radius:24px}
+.is-portrait .spot-well img{width:116px;height:116px}
+.is-portrait .spot-letter{font-size:88px}
+.is-portrait .spot h3{font-size:70px}
+.is-portrait .spot .co{font-size:28px;margin-top:14px}
+.is-portrait .spot p{font-size:32px;margin-top:28px;max-width:none !important} /* inline 42ch */
+.is-portrait .spot-meta{margin-top:38px;gap:13px}
+.is-portrait .pill{height:50px;padding:0 22px;font-size:21px}
+.is-portrait .fam-spotlight > .pad > .sub{max-width:none !important;margin-top:40px !important}
+
+/* ================================================================= *
+ * H. question — the split becomes a stack, which is the honest       *
+ *    reading order anyway: ask, then answer.                         *
+ * ================================================================= */
+/* Two auto rows, centred as one group. Left as a stretching grid the question
+   block absorbed the whole surplus and opened a 300px hole above the options. */
+.is-portrait .split{
+  grid-template-columns:1fr;
+  grid-template-rows:auto auto;
+  align-content:center;
+  gap:56px !important;
+}
+.is-portrait .split > div{justify-content:flex-start}
+.is-portrait .fam-question .display{max-width:15ch !important}     /* inline 13ch */
+.is-portrait .fam-question .sub{max-width:none !important}         /* inline 34ch */
+.is-portrait .opts{gap:15px}
+.is-portrait .opt{font-size:27px;padding:21px 26px;border-radius:15px;gap:19px}
+.is-portrait .opt i{width:30px;height:30px}
+
+/* ================================================================= *
+ * I. drop — mark above the headline. Post 49's mark is stepped down  *
+ *    in posts.mjs so the ten lane chips still fit under it.          *
+ * ================================================================= */
+.is-portrait .fam-drop .pad > .row{
+  flex-direction:column;
+  align-items:flex-start !important;   /* inline align-items:center */
+  gap:34px !important;                 /* inline gap:38px */
+}
+.is-portrait .fam-drop .display{max-width:14ch !important}
+.is-portrait .fam-drop .sub{max-width:40ch !important}
+.is-portrait .lanes{grid-template-columns:repeat(2,1fr);gap:12px 18px;margin-top:44px}
+.is-portrait .lane-chip{font-size:22px;padding:15px 18px;gap:13px}
+.is-portrait .lane-chip b{font-size:15px;width:24px}
+
+/* ---------- audit mode (?audit=1) — never present in a shipped render ---------- */
+.audit-bad{outline:3px solid #e11 !important;outline-offset:2px}
