@@ -1,0 +1,56 @@
+{
+  "id": "unity-asset-preflight-auditor",
+  "title": "Unity Asset Preflight Auditor",
+  "shortName": "Unity Asset Preflight Auditor",
+  "company": "Knit of Shadows",
+  "website": "https://knit-of-shadows-cloud.vercel.app/unity-asset-preflight-auditor/",
+  "category": "Game Dev",
+  "categoryId": "game-dev",
+  "categories": [
+    "Game Dev",
+    "3D / CAD",
+    "Utilities"
+  ],
+  "categoryIds": [
+    "game-dev",
+    "3d-cad",
+    "utilities"
+  ],
+  "primaryCategory": "Game Dev",
+  "subcategories": [
+    "Unity",
+    "Asset Validation"
+  ],
+  "type": "Game Development Resource",
+  "shortDescription": "Free Unity Editor tool that audits models, textures, materials and prefabs before handoff.",
+  "longDescription": "A free Unity Editor utility that audits common issues in imported models, textures, materials and prefabs before production handoff or release. It flags problems such as oversized textures, missing material slots and missing script references, and exports CSV reports for review. It only reports findings and does not modify your project. Download the C# file and place it in an Editor folder; no signup required.",
+  "price": "Free",
+  "pricingModel": "Free",
+  "pricingDetails": "Free download, no signup.",
+  "tags": [
+    "Unity",
+    "Game Dev",
+    "Asset Validation",
+    "3D Models",
+    "Textures",
+    "Prefabs",
+    "Developer Tools",
+    "Quality Assurance"
+  ],
+  "bestFor": [
+    "Asset QA before handoff",
+    "Unity project audits",
+    "CSV issue reports"
+  ],
+  "platforms": [
+    "Windows",
+    "Mac",
+    "Linux"
+  ],
+  "openSource": false,
+  "featured": false,
+  "editorPick": false,
+  "verified": true,
+  "dateAdded": "2026-10-13",
+  "lastReviewed": "2026-10-13"
+}

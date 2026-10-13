@@ -1,0 +1,56 @@
+{
+  "id": "magic-hour",
+  "title": "Magic Hour",
+  "shortName": "Magic Hour",
+  "company": "Magic Hour",
+  "website": "https://magichour.ai/",
+  "category": "AI Tools",
+  "categoryId": "ai-tools",
+  "categories": [
+    "AI Tools",
+    "Video",
+    "Content Creation"
+  ],
+  "categoryIds": [
+    "ai-tools",
+    "video",
+    "content-creation"
+  ],
+  "primaryCategory": "AI Tools",
+  "subcategories": [
+    "AI Video",
+    "AI Image Generation"
+  ],
+  "type": "Resource",
+  "shortDescription": "Online AI studio for image generation, image-to-video, video-to-video and lip sync.",
+  "longDescription": "A browser-based AI creative platform offering image generation and editing, image-to-video animation, video-to-video transformations and lip-sync tools. Create visual concepts and turn them into short-form video content in a single online workspace. The free tier is limited and for personal, non-commercial use only; commercial use requires a paid plan.",
+  "price": "Freemium",
+  "pricingModel": "Freemium",
+  "pricingDetails": "Free to try with limited free credits, for personal, non-commercial use only. Commercial use requires a paid plan (Creator, Pro or Business) or a credit pack.",
+  "commercialUse": false,
+  "notes": "Commercial use is not permitted on the free tier. Paid plans include commercial rights.",
+  "ai": true,
+  "tags": [
+    "AI Video",
+    "AI Image Generation",
+    "Image to Video",
+    "Video Editing",
+    "Lip Sync",
+    "Generative AI",
+    "Content Creation"
+  ],
+  "bestFor": [
+    "Image-to-video animation",
+    "Short-form video content",
+    "AI visual concepts"
+  ],
+  "platforms": [
+    "Browser"
+  ],
+  "openSource": false,
+  "featured": false,
+  "editorPick": false,
+  "verified": true,
+  "dateAdded": "2026-10-13",
+  "lastReviewed": "2026-10-13"
+}

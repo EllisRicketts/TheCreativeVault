@@ -1,0 +1,53 @@
+{
+  "id": "repostit",
+  "title": "Repostit",
+  "shortName": "Repostit",
+  "company": "Repostit",
+  "website": "https://repostit.io/",
+  "category": "Content Creation",
+  "categoryId": "content-creation",
+  "categories": [
+    "Content Creation",
+    "Marketing"
+  ],
+  "categoryIds": [
+    "content-creation",
+    "marketing"
+  ],
+  "primaryCategory": "Content Creation",
+  "subcategories": [
+    "Social Media",
+    "Publishing",
+    "Automation"
+  ],
+  "type": "Resource",
+  "shortDescription": "Cross-post short-form videos to TikTok, Reels, Shorts and Facebook automatically.",
+  "longDescription": "A social media distribution platform that simplifies publishing finished short-form videos across connected channels. Connect TikTok, Instagram, YouTube and Facebook, then let new videos repost automatically, schedule posts from a content calendar and cut down on repetitive manual uploads. Paid plans only, with a 14-day free trial and no card required.",
+  "price": "Subscription",
+  "pricingModel": "Subscription",
+  "pricingDetails": "No permanent free plan. 14-day free trial (no credit card), then monthly or yearly plans from Basic to Agency.",
+  "freeTrial": true,
+  "tags": [
+    "Social Media",
+    "Video Publishing",
+    "Cross-Posting",
+    "Automation",
+    "Content Scheduling",
+    "Creator Tools",
+    "Social Media Management"
+  ],
+  "bestFor": [
+    "Cross-posting short-form video",
+    "Content scheduling",
+    "Creator publishing workflows"
+  ],
+  "platforms": [
+    "Browser"
+  ],
+  "openSource": false,
+  "featured": false,
+  "editorPick": false,
+  "verified": true,
+  "dateAdded": "2026-10-13",
+  "lastReviewed": "2026-10-13"
+}

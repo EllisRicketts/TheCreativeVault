@@ -42810,6 +42810,60 @@ const generatedResources = [
     "primaryCategory": "Marketplaces"
   },
   {
+    "id": "framethrower",
+    "title": "FrameThrower",
+    "shortName": "FrameThrower",
+    "company": "FrameThrower",
+    "website": "https://framethrower.ai/",
+    "category": "Film",
+    "categoryId": "film",
+    "categories": [
+      "Film",
+      "Video",
+      "Research"
+    ],
+    "categoryIds": [
+      "film",
+      "video",
+      "research"
+    ],
+    "primaryCategory": "Film",
+    "subcategories": [
+      "Visual References",
+      "Cinematography"
+    ],
+    "type": "Resource",
+    "shortDescription": "Searchable film-still library for cinematic references, moodboards and lookbooks.",
+    "longDescription": "A film-still reference platform that helps filmmakers, designers and advertising creatives find visual inspiration in a large, searchable library of cinematic imagery. Search with descriptive phrases, find visually similar frames, and organise stills into moodboards and lookbooks for pitches, previs and productions. A free plan covers everyday searching with daily and monthly limits; Pro removes the limits and adds API access.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "pricingDetails": "Free plan with 50 searches per day, 20 HD downloads per month and up to 3 moodboards. Pro adds unlimited searches, downloads and moodboards; team Studio plan available. Check the official site for current prices.",
+    "freeTrial": true,
+    "tags": [
+      "Film Stills",
+      "Cinematography",
+      "Visual References",
+      "Moodboards",
+      "Lookbooks",
+      "Filmmaking",
+      "Creative Inspiration"
+    ],
+    "bestFor": [
+      "Visual references",
+      "Moodboards and lookbooks",
+      "Pitch and previs boards"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "dateAdded": "2026-10-13",
+    "lastReviewed": "2026-10-13"
+  },
+  {
     "id": "photography-fred-miranda-forums",
     "title": "Fred Miranda Forums",
     "shortName": "Fred Miranda Forums",
@@ -62500,6 +62554,62 @@ const generatedResources = [
     "type": "Resource",
     "verified": true,
     "lastReviewed": "2026-08-10"
+  },
+  {
+    "id": "magic-hour",
+    "title": "Magic Hour",
+    "shortName": "Magic Hour",
+    "company": "Magic Hour",
+    "website": "https://magichour.ai/",
+    "category": "AI Tools",
+    "categoryId": "ai-tools",
+    "categories": [
+      "AI Tools",
+      "Video",
+      "Content Creation"
+    ],
+    "categoryIds": [
+      "ai-tools",
+      "video",
+      "content-creation"
+    ],
+    "primaryCategory": "AI Tools",
+    "subcategories": [
+      "AI Video",
+      "AI Image Generation"
+    ],
+    "type": "Resource",
+    "shortDescription": "Online AI studio for image generation, image-to-video, video-to-video and lip sync.",
+    "longDescription": "A browser-based AI creative platform offering image generation and editing, image-to-video animation, video-to-video transformations and lip-sync tools. Create visual concepts and turn them into short-form video content in a single online workspace. The free tier is limited and for personal, non-commercial use only; commercial use requires a paid plan.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "pricingDetails": "Free to try with limited free credits, for personal, non-commercial use only. Commercial use requires a paid plan (Creator, Pro or Business) or a credit pack.",
+    "commercialUse": false,
+    "notes": "Commercial use is not permitted on the free tier. Paid plans include commercial rights.",
+    "ai": true,
+    "tags": [
+      "AI Video",
+      "AI Image Generation",
+      "Image to Video",
+      "Video Editing",
+      "Lip Sync",
+      "Generative AI",
+      "Content Creation"
+    ],
+    "bestFor": [
+      "Image-to-video animation",
+      "Short-form video content",
+      "AI visual concepts"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "dateAdded": "2026-10-13",
+    "lastReviewed": "2026-10-13"
   },
   {
     "id": "magic-poser",
@@ -86514,6 +86624,59 @@ const generatedResources = [
     "primaryCategory": "Marketplaces"
   },
   {
+    "id": "repostit",
+    "title": "Repostit",
+    "shortName": "Repostit",
+    "company": "Repostit",
+    "website": "https://repostit.io/",
+    "category": "Content Creation",
+    "categoryId": "content-creation",
+    "categories": [
+      "Content Creation",
+      "Marketing"
+    ],
+    "categoryIds": [
+      "content-creation",
+      "marketing"
+    ],
+    "primaryCategory": "Content Creation",
+    "subcategories": [
+      "Social Media",
+      "Publishing",
+      "Automation"
+    ],
+    "type": "Resource",
+    "shortDescription": "Cross-post short-form videos to TikTok, Reels, Shorts and Facebook automatically.",
+    "longDescription": "A social media distribution platform that simplifies publishing finished short-form videos across connected channels. Connect TikTok, Instagram, YouTube and Facebook, then let new videos repost automatically, schedule posts from a content calendar and cut down on repetitive manual uploads. Paid plans only, with a 14-day free trial and no card required.",
+    "price": "Subscription",
+    "pricingModel": "Subscription",
+    "pricingDetails": "No permanent free plan. 14-day free trial (no credit card), then monthly or yearly plans from Basic to Agency.",
+    "freeTrial": true,
+    "tags": [
+      "Social Media",
+      "Video Publishing",
+      "Cross-Posting",
+      "Automation",
+      "Content Scheduling",
+      "Creator Tools",
+      "Social Media Management"
+    ],
+    "bestFor": [
+      "Cross-posting short-form video",
+      "Content scheduling",
+      "Creator publishing workflows"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "dateAdded": "2026-10-13",
+    "lastReviewed": "2026-10-13"
+  },
+  {
     "id": "freelancing-rescuetime",
     "title": "RescueTime",
     "shortName": "RescueTime",
@@ -95717,6 +95880,67 @@ const generatedResources = [
     "editorPick": false,
     "verified": true,
     "lastReviewed": "2026-07-08"
+  },
+  {
+    "id": "stencilmaker",
+    "title": "StencilMaker",
+    "shortName": "StencilMaker",
+    "company": "StencilMaker",
+    "website": "https://stencilmaker.app/",
+    "category": "Design",
+    "categoryId": "design",
+    "categories": [
+      "Design",
+      "Digital Art",
+      "3D Printing"
+    ],
+    "categoryIds": [
+      "design",
+      "digital-art",
+      "3d-printing"
+    ],
+    "primaryCategory": "Design",
+    "subcategories": [
+      "Graphic Design",
+      "Printmaking",
+      "Laser Cutting"
+    ],
+    "type": "Resource",
+    "shortDescription": "Browser tool that turns photos and artwork into multilayer, cut-ready stencils.",
+    "longDescription": "A browser-based stencil design tool that converts photographs and artwork into customisable, multilayer stencils. Adjust image detail, add cutting bridges, preview each stencil layer and prepare designs for printing or cutting. The free plan downloads PDF and PNG files of up to three layers; Pro unlocks every layer plus SVG, DXF and Cricut export for digital fabrication.",
+    "price": "Freemium",
+    "pricingModel": "Freemium",
+    "pricingDetails": "Free plan: PDF and PNG downloads up to 3 layers. Pro (monthly or yearly) or a one-off Lifetime purchase unlocks all layers and SVG, DXF and Cricut export.",
+    "tags": [
+      "Stencil Generator",
+      "Graphic Design",
+      "Printmaking",
+      "Image Processing",
+      "Laser Cutting",
+      "Cricut",
+      "DIY",
+      "SVG"
+    ],
+    "bestFor": [
+      "Multilayer stencils",
+      "Printmaking and spray stencils",
+      "Laser and Cricut cutting"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "fileFormats": [
+      "PNG",
+      "PDF",
+      "SVG",
+      "DXF"
+    ],
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "dateAdded": "2026-10-13",
+    "lastReviewed": "2026-10-13"
   },
   {
     "id": "game-dev-extra-stencyl",
@@ -105081,6 +105305,62 @@ const generatedResources = [
       "game-dev"
     ],
     "primaryCategory": "Game Dev"
+  },
+  {
+    "id": "unity-asset-preflight-auditor",
+    "title": "Unity Asset Preflight Auditor",
+    "shortName": "Unity Asset Preflight Auditor",
+    "company": "Knit of Shadows",
+    "website": "https://knit-of-shadows-cloud.vercel.app/unity-asset-preflight-auditor/",
+    "category": "Game Dev",
+    "categoryId": "game-dev",
+    "categories": [
+      "Game Dev",
+      "3D / CAD",
+      "Utilities"
+    ],
+    "categoryIds": [
+      "game-dev",
+      "3d-cad",
+      "utilities"
+    ],
+    "primaryCategory": "Game Dev",
+    "subcategories": [
+      "Unity",
+      "Asset Validation"
+    ],
+    "type": "Game Development Resource",
+    "shortDescription": "Free Unity Editor tool that audits models, textures, materials and prefabs before handoff.",
+    "longDescription": "A free Unity Editor utility that audits common issues in imported models, textures, materials and prefabs before production handoff or release. It flags problems such as oversized textures, missing material slots and missing script references, and exports CSV reports for review. It only reports findings and does not modify your project. Download the C# file and place it in an Editor folder; no signup required.",
+    "price": "Free",
+    "pricingModel": "Free",
+    "pricingDetails": "Free download, no signup.",
+    "tags": [
+      "Unity",
+      "Game Dev",
+      "Asset Validation",
+      "3D Models",
+      "Textures",
+      "Prefabs",
+      "Developer Tools",
+      "Quality Assurance"
+    ],
+    "bestFor": [
+      "Asset QA before handoff",
+      "Unity project audits",
+      "CSV issue reports"
+    ],
+    "platforms": [
+      "Windows",
+      "Mac",
+      "Linux"
+    ],
+    "openSource": false,
+    "featured": false,
+    "editorPick": false,
+    "verified": true,
+    "dateAdded": "2026-10-13",
+    "lastReviewed": "2026-10-13"
   },
   {
     "id": "game-dev-unity-asset-store",

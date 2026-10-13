@@ -1,0 +1,61 @@
+{
+  "id": "stencilmaker",
+  "title": "StencilMaker",
+  "shortName": "StencilMaker",
+  "company": "StencilMaker",
+  "website": "https://stencilmaker.app/",
+  "category": "Design",
+  "categoryId": "design",
+  "categories": [
+    "Design",
+    "Digital Art",
+    "3D Printing"
+  ],
+  "categoryIds": [
+    "design",
+    "digital-art",
+    "3d-printing"
+  ],
+  "primaryCategory": "Design",
+  "subcategories": [
+    "Graphic Design",
+    "Printmaking",
+    "Laser Cutting"
+  ],
+  "type": "Resource",
+  "shortDescription": "Browser tool that turns photos and artwork into multilayer, cut-ready stencils.",
+  "longDescription": "A browser-based stencil design tool that converts photographs and artwork into customisable, multilayer stencils. Adjust image detail, add cutting bridges, preview each stencil layer and prepare designs for printing or cutting. The free plan downloads PDF and PNG files of up to three layers; Pro unlocks every layer plus SVG, DXF and Cricut export for digital fabrication.",
+  "price": "Freemium",
+  "pricingModel": "Freemium",
+  "pricingDetails": "Free plan: PDF and PNG downloads up to 3 layers. Pro (monthly or yearly) or a one-off Lifetime purchase unlocks all layers and SVG, DXF and Cricut export.",
+  "tags": [
+    "Stencil Generator",
+    "Graphic Design",
+    "Printmaking",
+    "Image Processing",
+    "Laser Cutting",
+    "Cricut",
+    "DIY",
+    "SVG"
+  ],
+  "bestFor": [
+    "Multilayer stencils",
+    "Printmaking and spray stencils",
+    "Laser and Cricut cutting"
+  ],
+  "platforms": [
+    "Browser"
+  ],
+  "fileFormats": [
+    "PNG",
+    "PDF",
+    "SVG",
+    "DXF"
+  ],
+  "openSource": false,
+  "featured": false,
+  "editorPick": false,
+  "verified": true,
+  "dateAdded": "2026-10-13",
+  "lastReviewed": "2026-10-13"
+}

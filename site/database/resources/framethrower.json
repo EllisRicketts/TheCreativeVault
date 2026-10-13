@@ -1,0 +1,54 @@
+{
+  "id": "framethrower",
+  "title": "FrameThrower",
+  "shortName": "FrameThrower",
+  "company": "FrameThrower",
+  "website": "https://framethrower.ai/",
+  "category": "Film",
+  "categoryId": "film",
+  "categories": [
+    "Film",
+    "Video",
+    "Research"
+  ],
+  "categoryIds": [
+    "film",
+    "video",
+    "research"
+  ],
+  "primaryCategory": "Film",
+  "subcategories": [
+    "Visual References",
+    "Cinematography"
+  ],
+  "type": "Resource",
+  "shortDescription": "Searchable film-still library for cinematic references, moodboards and lookbooks.",
+  "longDescription": "A film-still reference platform that helps filmmakers, designers and advertising creatives find visual inspiration in a large, searchable library of cinematic imagery. Search with descriptive phrases, find visually similar frames, and organise stills into moodboards and lookbooks for pitches, previs and productions. A free plan covers everyday searching with daily and monthly limits; Pro removes the limits and adds API access.",
+  "price": "Freemium",
+  "pricingModel": "Freemium",
+  "pricingDetails": "Free plan with 50 searches per day, 20 HD downloads per month and up to 3 moodboards. Pro adds unlimited searches, downloads and moodboards; team Studio plan available. Check the official site for current prices.",
+  "freeTrial": true,
+  "tags": [
+    "Film Stills",
+    "Cinematography",
+    "Visual References",
+    "Moodboards",
+    "Lookbooks",
+    "Filmmaking",
+    "Creative Inspiration"
+  ],
+  "bestFor": [
+    "Visual references",
+    "Moodboards and lookbooks",
+    "Pitch and previs boards"
+  ],
+  "platforms": [
+    "Browser"
+  ],
+  "openSource": false,
+  "featured": false,
+  "editorPick": false,
+  "verified": true,
+  "dateAdded": "2026-10-13",
+  "lastReviewed": "2026-10-13"
+}
