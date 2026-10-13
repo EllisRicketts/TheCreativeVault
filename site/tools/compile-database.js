@@ -168,8 +168,6 @@ function normalizeResource(resource, filePath, index) {
   normalized.verified = normalized.verified !== false;
   normalized.featured = Boolean(normalized.featured);
   normalized.editorPick = Boolean(normalized.editorPick);
-  normalized.lastReviewed = normalized.lastReviewed || new Date().toISOString().slice(0, 10);
-
   normalized.id =
     normalized.id ||
     slugify([
@@ -178,6 +176,15 @@ function normalizeResource(resource, filePath, index) {
       normalized.title,
       normalized.website
     ].filter(Boolean).join("-"));
+
+  /* A record with no review date in its source keeps the one it had in the
+     previous build. Stamping today's date on every compile told the site
+     that hundreds of untouched records had just been reviewed. Only a
+     record seen for the first time gets today. */
+  normalized.lastReviewed =
+    normalized.lastReviewed ||
+    PREVIOUS_REVIEW_DATES.get(normalized.id) ||
+    new Date().toISOString().slice(0, 10);
 
   return normalized;
 }
@@ -201,20 +208,31 @@ function mergeResource(existing, incoming) {
   };
 }
 
-function extractExistingCount() {
-  if (!fs.existsSync(OUT_FILE)) return 0;
+function readPreviousResources() {
+  if (!fs.existsSync(OUT_FILE)) return [];
 
   const text = fs.readFileSync(OUT_FILE, "utf8");
   const match = text.match(/(?:const|let|var)\s+generatedResources\s*=\s*(\[[\s\S]*?\])\s*;?\s*$/)
     || text.match(/window\.generatedResources\s*=\s*(\[[\s\S]*?\])\s*;?\s*$/);
 
-  if (!match) return 0;
+  if (!match) return [];
 
   try {
-    return JSON.parse(match[1]).length;
+    return JSON.parse(match[1]);
   } catch (error) {
-    return 0;
+    return [];
   }
+}
+
+const PREVIOUS_RESOURCES = readPreviousResources();
+const PREVIOUS_REVIEW_DATES = new Map(
+  PREVIOUS_RESOURCES
+    .filter(resource => resource && resource.id && resource.lastReviewed)
+    .map(resource => [String(resource.id), resource.lastReviewed])
+);
+
+function extractExistingCount() {
+  return PREVIOUS_RESOURCES.length;
 }
 
 function main() {
