@@ -318,16 +318,18 @@ focus rings (2px accent, 2px offset), and scrollbars in both the
 
 ## Share card
 
-`site/images/og-cover.png` — 1200×630, the size every platform crops to.
-It is not hand-made: `site/tools/og-template.html` renders it from the same
-tokens as the site, so the card cannot drift from the design. The logo wall
-picks nine marks from a longer candidate list, keeping only those whose
-favicon actually loads, so a dead icon service can never ship a broken tile.
+`site/images/og-cover.png` — 1200×670, matching the `og:image:width` and
+`og:image:height` tags in `index.html`. Since 2026-08-13 it is **hand-made
+artwork**: the 3D "The Creative Vault.co" lettering on a white plaster wall.
+It carries no resource or category count, so it does not need updating when
+the library grows.
 
-To regenerate after the library grows: serve `site/` over http, open
-`/tools/og-template.html` at a 1200×630 viewport, update the count and
-category figures in the markup, screenshot the page, and save over
-`images/og-cover.png`.
+**Do not regenerate it from `site/tools/og-template.html`.** That template
+produced the original generated card (logo wall, count and category figures)
+and would overwrite the artwork. It is kept only as a reference, with its
+figures last brought up to date on 2026-10-13 (2,267 resources, 191
+categories). If the cover is ever replaced, change the `og:image:width` and
+`og:image:height` tags to the new file's real size.
 
 Social tags need **absolute** URLs. Facebook, LinkedIn and Slack ignore
 relative `og:image` paths, which is the usual cause of a blank preview.
