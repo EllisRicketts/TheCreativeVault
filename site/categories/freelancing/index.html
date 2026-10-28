@@ -24,6 +24,7 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=Bricolage+Grotesque:opsz,wght@12..96,600..800&display=swap">
 <link rel="stylesheet" href="/css/seo.css">
 <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.thecreativevault.co/categories/freelancing/#page","url":"https://www.thecreativevault.co/categories/freelancing/","name":"Freelancing tools, job resources and platforms for creatives","description":"Browse 97 curated freelancing resources in The Creative Vault. Freelance platforms, job boards, portfolio opportunities, remote work, and client systems.","isPartOf":{"@id":"https://www.thecreativevault.co/#website"},"breadcrumb":{"@id":"https://www.thecreativevault.co/categories/freelancing/#breadcrumb"}},{"@type":"BreadcrumbList","@id":"https://www.thecreativevault.co/categories/freelancing/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"The Creative Vault","item":"https://www.thecreativevault.co/"},{"@type":"ListItem","position":2,"name":"Freelancing","item":"https://www.thecreativevault.co/categories/freelancing/"}]},{"@type":"CollectionPage","@id":"https://www.thecreativevault.co/categories/freelancing/#collection","url":"https://www.thecreativevault.co/categories/freelancing/","name":"Freelancing tools, job resources and platforms for creatives","description":"Browse 97 curated freelancing resources in The Creative Vault. Freelance platforms, job boards, portfolio opportunities, remote work, and client systems.","numberOfItems":97}]}</script>
+  <script src="/js/logos.js" defer></script>
 </head>
 <body>
 <a class="skip-link" href="#main">Skip to content</a>
@@ -33,6 +34,9 @@
 <symbol id="c-half" viewBox="0 0 24 24"><circle cx="12" cy="12" r="8"/><path d="M12 4a8 8 0 0 1 0 16Z" fill="currentColor" stroke="none"/></symbol>
 <symbol id="c-moon" viewBox="0 0 24 24"><path d="M20 14.2A8.4 8.4 0 0 1 9.8 4a8.4 8.4 0 1 0 10.2 10.2Z"/></symbol>
 <symbol id="c-vault" viewBox="0 0 24 24"><path d="M6 4h12a1 1 0 0 1 1 1v15.2a.6.6 0 0 1-.93.5L12 16.6l-6.07 4.1A.6.6 0 0 1 5 20.2V5a1 1 0 0 1 1-1Z"/></symbol>
+<symbol id="c-menu" viewBox="0 0 24 24"><path d="M4 7h16M4 12h16M4 17h10"/></symbol>
+<symbol id="c-plus" viewBox="0 0 24 24"><path d="M12 5v14M5 12h14"/></symbol>
+<symbol id="c-out" viewBox="0 0 24 24"><path d="M8 16 16 8M9 8h7v7"/></symbol>
 </defs></svg>
 <header class="masthead" id="top">
   <div class="shell masthead-inner">
@@ -41,11 +45,41 @@
       <span class="brand-name">The <em>Creative</em> Vault</span>
     </a>
 
-    <nav class="mast-nav" aria-label="Main">
+    <!-- One set of links. On wide screens the panel dissolves (display:
+         contents) and its children sit in the bar; below 900px it becomes the
+         menu the button opens. -->
+    <div class="mast-panel" id="mastPanel">
+      <nav class="mast-nav" aria-label="Main">
       <a href="/explore/">Explore</a>
       <a href="/weekly-drip/">Weekly Drip</a>
       <a href="/comparisons/">Comparisons</a>
-    </nav>
+        <a class="mast-nav-vault" href="/my-vault/">My Vault</a>
+      </nav>
+
+      <div class="mast-panel-tools">
+        <div class="theme-switch" role="radiogroup" aria-label="Colour theme">
+          <button class="theme-btn" type="button" role="radio" data-theme-set="light"
+                  aria-checked="false" tabindex="-1" title="Light theme">
+            <svg class="icon" aria-hidden="true"><use href="#c-sun"/></svg>
+            <span class="visually-hidden">Light</span>
+          </button>
+          <button class="theme-btn" type="button" role="radio" data-theme-set="medium"
+                  aria-checked="false" tabindex="-1" title="Medium theme — warm and dimmed">
+            <svg class="icon" aria-hidden="true"><use href="#c-half"/></svg>
+            <span class="visually-hidden">Medium</span>
+          </button>
+          <button class="theme-btn" type="button" role="radio" data-theme-set="dark"
+                  aria-checked="false" tabindex="-1" title="Dark theme">
+            <svg class="icon" aria-hidden="true"><use href="#c-moon"/></svg>
+            <span class="visually-hidden">Dark</span>
+          </button>
+        </div>
+        <a class="mast-submit" href="/#submit">
+          <svg class="icon" aria-hidden="true"><use href="#c-plus"/></svg>
+          <span>Suggest a tool</span>
+        </a>
+      </div>
+    </div>
 
     <div class="mast-tools">
       <form class="mast-search" action="/" method="get" role="search">
@@ -56,29 +90,16 @@
         <kbd class="key">/</kbd>
       </form>
 
-      <div class="theme-switch" role="radiogroup" aria-label="Colour theme">
-        <button class="theme-btn" type="button" role="radio" data-theme-set="light"
-                aria-checked="false" tabindex="-1" title="Light theme">
-          <svg class="icon" aria-hidden="true"><use href="#c-sun"/></svg>
-          <span class="visually-hidden">Light</span>
-        </button>
-        <button class="theme-btn" type="button" role="radio" data-theme-set="medium"
-                aria-checked="false" tabindex="-1" title="Medium theme — warm and dimmed">
-          <svg class="icon" aria-hidden="true"><use href="#c-half"/></svg>
-          <span class="visually-hidden">Medium</span>
-        </button>
-        <button class="theme-btn" type="button" role="radio" data-theme-set="dark"
-                aria-checked="false" tabindex="-1" title="Dark theme">
-          <svg class="icon" aria-hidden="true"><use href="#c-moon"/></svg>
-          <span class="visually-hidden">Dark</span>
-        </button>
-      </div>
-
       <a class="mast-vault" href="/my-vault/">
         <svg class="icon" aria-hidden="true"><use href="#c-vault"/></svg>
-        <span>My Vault</span>
+        <span class="mast-vault-label">My Vault</span>
         <span class="vault-count" data-vault-count hidden>0</span>
       </a>
+
+      <button class="mast-menu" type="button" aria-expanded="false" aria-controls="mastPanel">
+        <svg class="icon" aria-hidden="true"><use href="#c-menu"/></svg>
+        <span class="visually-hidden">Menu</span>
+      </button>
     </div>
   </div>
 </header>
@@ -87,105 +108,151 @@
 <p class="eyebrow">97 curated resources</p><h1>Freelancing tools, job resources and platforms for creatives</h1><p class="lede">Find freelance platforms, job resources, client tools and career services relevant to designers, artists, developers, filmmakers and independent creators. This section is built to support both finding work and managing it.</p>
 <div class="hero-actions"><a class="cta" href="/?category=Freelancing#resources">Browse all 97 in the Vault</a><a class="secondary" href="/">Search all 2,267 resources</a></div></section>
 <section class="seo-shell seo-section"><div class="section-heading"><div><h2>Explore the collection</h2></div><p>These are a sample of the resources in this section. Open the full Vault for filters, pricing and platform options.</p></div><div class="seo-grid"><article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/artstation.com.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://www.artstation.com/jobs" target="_blank" rel="noopener">ArtStation Jobs</a></h3><p class="seo-meta">Free</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=artstation.com&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/artstation.com.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://www.artstation.com/jobs" target="_blank" rel="noopener">ArtStation Jobs</a></h3><p class="seo-meta">Free</p></div></div>
       <p>Job board for game, film, concept art, 3D, animation, and entertainment art careers.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/behance.net.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://www.behance.net/joblist" target="_blank" rel="noopener">Behance Jobs</a></h3><p class="seo-meta">Free</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=behance.net&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/behance.net.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://www.behance.net/joblist" target="_blank" rel="noopener">Behance Jobs</a></h3><p class="seo-meta">Free</p></div></div>
       <p>Creative job board connected to the Behance portfolio ecosystem.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/hellobonsai.com.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://www.hellobonsai.com" target="_blank" rel="noopener">Bonsai</a></h3><p class="seo-meta">Subscription</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=hellobonsai.com&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/hellobonsai.com.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://www.hellobonsai.com" target="_blank" rel="noopener">Bonsai</a></h3><p class="seo-meta">Subscription</p></div></div>
       <p>Freelance business management for contracts, proposals, invoicing, and time tracking.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/calendly.com.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://calendly.com" target="_blank" rel="noopener">Calendly</a></h3><p class="seo-meta">Freemium</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=calendly.com&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/calendly.com.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://calendly.com" target="_blank" rel="noopener">Calendly</a></h3><p class="seo-meta">Freemium</p></div></div>
       <p>Scheduling tool for meetings, consultations, and bookings.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/contra.com.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://contra.com" target="_blank" rel="noopener">Contra</a></h3><p class="seo-meta">Freemium</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=contra.com&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/contra.com.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://contra.com" target="_blank" rel="noopener">Contra</a></h3><p class="seo-meta">Freemium</p></div></div>
       <p>Commission-free freelance platform for independent creatives and professionals.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/fiverr.com.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://www.fiverr.com" target="_blank" rel="noopener">Fiverr</a></h3><p class="seo-meta">Freemium</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=fiverr.com&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/fiverr.com.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://www.fiverr.com" target="_blank" rel="noopener">Fiverr</a></h3><p class="seo-meta">Freemium</p></div></div>
       <p>Marketplace for selling packaged creative and professional services.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/honeybook.com.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://www.honeybook.com" target="_blank" rel="noopener">HoneyBook</a></h3><p class="seo-meta">Subscription</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=honeybook.com&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/honeybook.com.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://www.honeybook.com" target="_blank" rel="noopener">HoneyBook</a></h3><p class="seo-meta">Subscription</p></div></div>
       <p>Clientflow platform for proposals, contracts, invoices, and projects.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/notion.com.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://www.notion.com" target="_blank" rel="noopener">Notion</a></h3><p class="seo-meta">Freemium</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=notion.com&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/notion.com.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://www.notion.com" target="_blank" rel="noopener">Notion</a></h3><p class="seo-meta">Freemium</p></div></div>
       <p>Flexible workspace for notes, databases, projects, and client systems.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/upwork.com.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://www.upwork.com" target="_blank" rel="noopener">Upwork</a></h3><p class="seo-meta">Freemium</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=upwork.com&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/upwork.com.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://www.upwork.com" target="_blank" rel="noopener">Upwork</a></h3><p class="seo-meta">Freemium</p></div></div>
       <p>Freelance marketplace for creative, technical, marketing, and business services.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/waveapps.com.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://www.waveapps.com" target="_blank" rel="noopener">Wave</a></h3><p class="seo-meta">Freemium</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=waveapps.com&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/waveapps.com.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://www.waveapps.com" target="_blank" rel="noopener">Wave</a></h3><p class="seo-meta">Freemium</p></div></div>
       <p>Accounting and invoicing software for freelancers and small businesses.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/aquent.com.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://aquent.com" target="_blank" rel="noopener">Aquent</a></h3><p class="seo-meta">Free</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=aquent.com&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/aquent.com.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://aquent.com" target="_blank" rel="noopener">Aquent</a></h3><p class="seo-meta">Free</p></div></div>
       <p>Staffing and talent agency for creative, marketing, and digital roles.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/creativecircle.com.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://www.creativecircle.com" target="_blank" rel="noopener">Creative Circle</a></h3><p class="seo-meta">Free</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=creativecircle.com&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/creativecircle.com.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://www.creativecircle.com" target="_blank" rel="noopener">Creative Circle</a></h3><p class="seo-meta">Free</p></div></div>
       <p>Creative staffing agency for design, marketing, content, and digital talent.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/entertainmentcareers.net.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://www.entertainmentcareers.net" target="_blank" rel="noopener">EntertainmentCareers</a></h3><p class="seo-meta">Free</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=entertainmentcareers.net&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/entertainmentcareers.net.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://www.entertainmentcareers.net" target="_blank" rel="noopener">EntertainmentCareers</a></h3><p class="seo-meta">Free</p></div></div>
       <p>Job board for film, TV, music, digital media, and entertainment companies.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/journalismjobs.com.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://www.journalismjobs.com" target="_blank" rel="noopener">JournalismJobs</a></h3><p class="seo-meta">Free</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=journalismjobs.com&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/journalismjobs.com.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://www.journalismjobs.com" target="_blank" rel="noopener">JournalismJobs</a></h3><p class="seo-meta">Free</p></div></div>
       <p>Journalism, editorial, and media job board.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/mediabistro.com.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://www.mediabistro.com/jobs" target="_blank" rel="noopener">Mediabistro Jobs</a></h3><p class="seo-meta">Free</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=mediabistro.com&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/mediabistro.com.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://www.mediabistro.com/jobs" target="_blank" rel="noopener">Mediabistro Jobs</a></h3><p class="seo-meta">Free</p></div></div>
       <p>Media, writing, publishing, and marketing job board.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/problogger.com.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://problogger.com/jobs" target="_blank" rel="noopener">ProBlogger Jobs</a></h3><p class="seo-meta">Free</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=problogger.com&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/problogger.com.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://problogger.com/jobs" target="_blank" rel="noopener">ProBlogger Jobs</a></h3><p class="seo-meta">Free</p></div></div>
       <p>Job board for blogging, writing, and content marketing gigs.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/remoteok.com.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://remoteok.com" target="_blank" rel="noopener">Remote OK</a></h3><p class="seo-meta">Free</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=remoteok.com&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/remoteok.com.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://remoteok.com" target="_blank" rel="noopener">Remote OK</a></h3><p class="seo-meta">Free</p></div></div>
       <p>Remote job board with tech, design, marketing, and startup roles.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/roberthalf.com.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://www.roberthalf.com" target="_blank" rel="noopener">Robert Half Creative</a></h3><p class="seo-meta">Free</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=roberthalf.com&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/roberthalf.com.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://www.roberthalf.com" target="_blank" rel="noopener">Robert Half Creative</a></h3><p class="seo-meta">Free</p></div></div>
       <p>Staffing agency with creative, marketing, and technology roles.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/weworkremotely.com.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://weworkremotely.com" target="_blank" rel="noopener">We Work Remotely</a></h3><p class="seo-meta">Free</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=weworkremotely.com&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/weworkremotely.com.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://weworkremotely.com" target="_blank" rel="noopener">We Work Remotely</a></h3><p class="seo-meta">Free</p></div></div>
       <p>Remote job board with design, programming, marketing, and support roles.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/wellfound.com.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://wellfound.com" target="_blank" rel="noopener">Wellfound</a></h3><p class="seo-meta">Free</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=wellfound.com&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/wellfound.com.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://wellfound.com" target="_blank" rel="noopener">Wellfound</a></h3><p class="seo-meta">Free</p></div></div>
       <p>Startup jobs and recruiting platform formerly known as AngelList Talent.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/zoho.com.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://www.zoho.com/invoice/" target="_blank" rel="noopener">Zoho Invoice</a></h3><p class="seo-meta">Free</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=zoho.com&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/zoho.com.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://www.zoho.com/invoice/" target="_blank" rel="noopener">Zoho Invoice</a></h3><p class="seo-meta">Free</p></div></div>
       <p>Free invoicing software for freelancers and small businesses.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/17hats.com.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://www.17hats.com" target="_blank" rel="noopener">17hats</a></h3><p class="seo-meta">Subscription</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=17hats.com&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/17hats.com.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://www.17hats.com" target="_blank" rel="noopener">17hats</a></h3><p class="seo-meta">Subscription</p></div></div>
       <p>Small business CRM for freelancers and creative service providers.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/99designs.com.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://99designs.com" target="_blank" rel="noopener">99designs</a></h3><p class="seo-meta">Freemium</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=99designs.com&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/99designs.com.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://99designs.com" target="_blank" rel="noopener">99designs</a></h3><p class="seo-meta">Freemium</p></div></div>
       <p>Design contest and freelance marketplace for logos, branding, and design work.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/acuityscheduling.com.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://acuityscheduling.com" target="_blank" rel="noopener">Acuity Scheduling</a></h3><p class="seo-meta">Subscription</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=acuityscheduling.com&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/acuityscheduling.com.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://acuityscheduling.com" target="_blank" rel="noopener">Acuity Scheduling</a></h3><p class="seo-meta">Subscription</p></div></div>
       <p>Appointment scheduling software for client bookings.</p>
     </article></div></section>
 <section class="seo-shell seo-section related"><div class="section-heading"><div><h2>Related creative categories</h2></div></div><div class="link-cloud"><a href="/categories/digital-art/">Digital Art</a><a href="/categories/ai-tools/">AI Tools</a><a href="/categories/video/">Video</a><a href="/categories/animation/">Animation</a><a href="/categories/3d-cad/">3D / CAD</a><a href="/categories/photo/">Photography</a><a href="/categories/music/">Music</a><a href="/categories/audio/">Audio</a></div></section>
 <section class="seo-shell seo-info"><h2>About this collection</h2><p>Browse 97 curated freelancing resources in The Creative Vault. Freelance platforms, job boards, portfolio opportunities, remote work, and client systems.</p><p>The Creative Vault is a hand-curated directory built to help creative people find useful tools without digging through repetitive search results. Resource details can change, so always check the provider’s website for current pricing, licensing and availability.</p></section>
 </main>
-<footer class="seo-footer"><div class="seo-shell"><strong>The Creative Vault</strong><p>Curated creative tools, assets, marketplaces, grants, learning resources and AI tools.</p><a href="/">Return to the full Vault</a></div><a class="ellis-footer-button" href="https://www.ellisricketts.com/" target="_blank" rel="noopener noreferrer">Visit EllisRicketts.com</a></footer>
+<footer class="site-footer">
+  <div class="shell footer-grid">
+    <div class="footer-brand">
+      <a class="brand" href="/" aria-label="The Creative Vault — home">
+        <span class="brand-mark"><img src="/images/logos/cv-secondary-logo.png" alt="" width="34" height="34" loading="lazy" /></span>
+        <span class="brand-name">The <em>Creative</em> Vault</span>
+      </a>
+      <p>A hand-picked index of creative software, assets, marketplaces, grants and learning. No listicles, no affiliate spam.</p>
+      <a class="ellis-footer-button" href="https://www.ellisricketts.com/" target="_blank" rel="noopener noreferrer">
+        Visit EllisRicketts.com <svg class="icon" aria-hidden="true"><use href="#c-out"/></svg>
+      </a>
+    </div>
+    <nav class="footer-col" aria-label="Directory">
+      <h2>Directory</h2>
+      <a href="/#resources">Search the Vault</a>
+      <a href="/explore/">Explore</a>
+      <a href="/weekly-drip/">Weekly Drip</a>
+      <a href="/comparisons/">Comparisons</a>
+      <a href="/my-vault/">My Vault</a>
+    </nav>
+    <nav class="footer-col" aria-label="Categories">
+      <h2>Categories</h2>
+      <a href="/categories/digital-art/">Digital Art</a>
+      <a href="/categories/3d-cad/">3D / CAD</a>
+      <a href="/categories/ai-tools/">AI Tools</a>
+      <a href="/categories/game-dev/">Game Dev</a>
+      <a href="/categories/music/">Music</a>
+      <a href="/categories/grants/">Grants</a>
+    </nav>
+    <nav class="footer-col" aria-label="Guides">
+      <h2>Guides</h2>
+      <a href="/guides/free-creative-tools/">Free creative tools</a>
+      <a href="/guides/ai-tools-for-creators/">AI tools for creators</a>
+      <a href="/guides/3d-tools/">3D tools</a>
+      <a href="/guides/font-typography-resources/">Fonts &amp; typography</a>
+      <a href="/guides/public-domain-resources/">Public domain</a>
+    </nav>
+  </div>
+  <div class="shell footer-line">
+    <p>© 2026 The Creative Vault · Curated by Ellis Ricketts</p>
+    <p class="footer-line-links">
+      <a href="mailto:ellisricketts3d@gmail.com">Get in touch</a>
+      <a href="/#submit">Suggest a resource</a>
+      <a href="/downloads/The-Creative-Vault-Offline-Resource-Library.pdf" download>Offline PDF</a>
+    </p>
+  </div>
+</footer>
 <script src="/data/schema.js"></script>
 <script src="/data/generated-resources.js"></script>
 <script src="/data/resources.js"></script>

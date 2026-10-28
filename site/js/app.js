@@ -1,6 +1,9 @@
 /* ==========================================================================
-   The Creative Vault — application layer
+   The Creative Vault — application layer (homepage)
    Replaces app.js plus the V21–V37 patch scripts with one pass.
+   2026-10 makeover: new card anatomy, icon category tiles, kit logo stacks,
+   hero marks, the Weekly Drip feature, removable filter chips, a phone
+   filter panel and a richer details dialog. Logos come from js/logos.js.
    ========================================================================== */
 
 (function () {
@@ -17,6 +20,7 @@
   var el = {
     search: document.getElementById("searchInput"),
     searchClear: document.getElementById("searchClear"),
+    searchGo: document.getElementById("searchGo"),
     quickLinks: document.getElementById("quickLinks"),
     category: document.getElementById("categoryFilter"),
     price: document.getElementById("priceFilter"),
@@ -24,11 +28,18 @@
     sort: document.getElementById("sortFilter"),
     reset: document.getElementById("resetFilters"),
     summary: document.getElementById("resultSummary"),
+    toolbar: document.getElementById("toolbar"),
+    filterToggle: document.getElementById("filterToggle"),
+    filterCount: document.getElementById("filterCount"),
+    activeFilters: document.getElementById("activeFilters"),
+    activeChips: document.getElementById("activeChips"),
     grid: document.getElementById("resourceGrid"),
     empty: document.getElementById("emptyState"),
+    emptyHint: document.getElementById("emptyHint"),
     loadMore: document.getElementById("loadMore"),
     loadMoreButton: document.getElementById("loadMoreButton"),
     loadMoreCount: document.getElementById("loadMoreCount"),
+    loadError: document.getElementById("loadError"),
     collectionGrid: document.getElementById("collectionGrid"),
     categoryGrid: document.getElementById("categoryGrid"),
     totalCount: document.getElementById("totalCount"),
@@ -40,23 +51,24 @@
     masthead: document.querySelector(".masthead")
   };
 
-  var all = typeof resources !== "undefined" ? resources : [];
+  /* `resources` is a top-level const in data/resources.js. If that script
+     never ran, typeof answers safely; if it threw mid-initialisation the
+     binding is in its dead zone and only try/catch survives the read. */
+  var all = [];
+  try { all = typeof resources !== "undefined" ? resources : []; } catch (e) { all = []; }
+
+  var L = window.vaultLogos;
+  var esc = L.esc;
+  var hostOf = L.hostOf;
+
   var byId = new Map();
   var visible = 0;
   var filtered = [];
   var favorites = loadFavorites();
   var activeCollection = null;
+  var lastTrigger = null;
 
   /* ---------------------------------------------------------------- utils */
-
-  function esc(value) {
-    return String(value == null ? "" : value)
-      .replace(/&/g, "&amp;")
-      .replace(/</g, "&lt;")
-      .replace(/>/g, "&gt;")
-      .replace(/"/g, "&quot;")
-      .replace(/'/g, "&#39;");
-  }
 
   function debounce(fn, wait) {
     var t;
@@ -67,25 +79,11 @@
     };
   }
 
-  function hostOf(url) {
-    try { return new URL(url).hostname.replace(/^www\./, ""); }
-    catch (e) { return ""; }
+  function reducedMotion() {
+    return !!(window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches);
   }
 
-  function initials(title) {
-    var words = String(title || "").trim().split(/\s+/).filter(Boolean);
-    if (!words.length) return "?";
-    if (words.length === 1) return words[0].slice(0, 2).toUpperCase();
-    return (words[0][0] + words[1][0]).toUpperCase();
-  }
-
-  /* A stable hue per resource, so the fallback mark is identity, not grey mush. */
-  function hueOf(seed) {
-    var h = 0;
-    var s = String(seed || "");
-    for (var i = 0; i < s.length; i++) h = (h * 31 + s.charCodeAt(i)) % 360;
-    return h;
-  }
+  function logoMarkup(r, size) { return L.markup(r, size); }
 
   function loadFavorites() {
     try {
@@ -101,9 +99,23 @@
     if (window.vaultChrome) window.vaultChrome.syncCount();
   }
 
-  /* Most-recent-first, deduped, capped. Read back by /my-vault/.
-     A visit is a stronger signal of interest than a scroll past, so both
-     opening the details dialog and following the link count as viewing. */
+  function toggleFavorite(id) {
+    if (favorites.has(id)) favorites.delete(id);
+    else favorites.add(id);
+    saveFavorites();
+    /* Every heart for this record agrees: card, dialog. */
+    var on = favorites.has(id);
+    document.querySelectorAll('[data-fav="' + CSS.escape(id) + '"]').forEach(function (btn) {
+      btn.setAttribute("aria-pressed", String(on));
+      var label = btn.querySelector("[data-fav-label]");
+      if (label) label.textContent = on ? "Saved to My Vault" : "Save to My Vault";
+      btn.classList.remove("is-popping");
+      void btn.offsetWidth;
+      if (on) btn.classList.add("is-popping");
+    });
+  }
+
+  /* Most-recent-first, deduped, capped. Read back by /my-vault/. */
   function recordViewed(id) {
     if (!id) return;
     try {
@@ -117,10 +129,8 @@
 
   /* ------------------------------------------------------------- indexing */
 
-  /* 40 records carry a stray "true" in their platform list, and one lists
-     nothing else. Left alone it prints on the card, pollutes the search
-     index and offers itself as a filter value. Dropped here so the display
-     is clean today; the source JSON still wants correcting at some point. */
+  /* 40 records carry a stray "true" in their platform list. Dropped here so
+     nothing leaks onto a card, into search or into the platform filter. */
   var JUNK_VALUE = /^(true|false|null|undefined|n\/a|none|-)$/i;
 
   function cleanList(list) {
@@ -165,13 +175,10 @@
 
   /* ------------------------------------------------------- category colour */
 
-  /* Colour codes four FAMILIES, not 192 categories.
-     Nobody can tell 192 colours apart, and the accessible ceiling on this
-     surface is genuinely four: every fifth hue tested either collided under
-     deuteranopia/protanopia or fell below the chroma floor and read grey.
-     Palette validated with the dataviz validator — all checks pass, with the
-     one 6.9 deuteran warning covered by the category name always sitting
-     beside its dot as a direct label. Colour is never the only signal. */
+  /* Colour codes four FAMILIES, not 192 categories — validated for
+     colourblind separation; the name always sits beside the dot. Must stay
+     in step with js/my-vault.js, because the patterns overlap and first
+     match wins. */
   var FAMILIES = [
     {
       id: "learn", label: "Learning", color: "var(--fam-learning)",
@@ -182,9 +189,7 @@
       match: /grant|fund|freelanc|business|marketing|product(ivity)?|career|job|invoic|contract|legal|client|finance|admin/i
     },
     {
-      /* "photo" deliberately absent: Photography is 238 records about cameras,
-         gear and editing — a making discipline, not an asset library. Only
-         "stock" belongs here. */
+      /* "photo" deliberately absent: Photography is a making discipline. */
       id: "source", label: "Assets & libraries", color: "var(--fam-assets)",
       match: /marketplace|asset|stock|public domain|archive|texture|brush|mockup|template|font|typograph|icon|library|download|sound effect|sample/i
     },
@@ -200,7 +205,6 @@
   function familyOf(category) {
     if (!category) return null;
     if (familyCache.has(category)) return familyCache.get(category);
-
     var found = null;
     for (var i = 0; i < FAMILIES.length; i++) {
       if (FAMILIES[i].match.test(category)) { found = FAMILIES[i]; break; }
@@ -209,100 +213,87 @@
     return found;
   }
 
-  function dotFor(category) {
+  function dotStyle(category) {
     var fam = familyOf(category);
-    return '<span class="cat-dot"' +
-           (fam ? ' style="--dot:' + fam.color + '"' : "") +
-           ' aria-hidden="true"></span>';
+    return fam ? ' style="--dot:' + fam.color + '"' : "";
   }
 
-  /* ---------------------------------------------------------------- logos */
-
-  /* Sourcing chain: an owned logo, then DuckDuckGo, then Google, then a
-     drawn monogram. The old build went straight to Google at 128px and 102
-     of those 404'd into grey initials. */
-  function logoMarkup(r, size) {
-    var host = r._host || hostOf(r.website);
-    var hue = hueOf(r.id || r.title);
-    var style = "--mono-bg:hsl(" + hue + " 44% 93%);--mono-ink:hsl(" + hue + " 48% 32%)";
-    var dim = size ? ' style="width:' + size + "px;height:" + size + 'px;' + style + '"'
-                   : ' style="' + style + '"';
-
-    if (!host && !r.logo) {
-      return '<div class="logo" data-fallback="true"' + dim + '>' +
-             '<span class="monogram">' + esc(initials(r.title)) + "</span></div>";
-    }
-
-    var chain = [];
-    if (r.logo) chain.push(r.logo);
-    if (host) {
-      chain.push("https://icons.duckduckgo.com/ip3/" + host + ".ico");
-      chain.push("https://www.google.com/s2/favicons?domain=" + encodeURIComponent(host) + "&sz=128");
-    }
-
-    return '<div class="logo"' + dim + ">" +
-           '<img src="' + esc(chain[0]) + '" alt="" loading="lazy" decoding="async" ' +
-           'data-chain="' + esc(chain.slice(1).join("|")) + '" ' +
-           'data-mono="' + esc(initials(r.title)) + '">' +
-           "</div>";
+  function dotFor(category) {
+    return '<span class="cat-dot"' + dotStyle(category) + ' aria-hidden="true"></span>';
   }
 
-  /* One delegated error handler beats an inline onerror per image. */
-  document.addEventListener("error", function (event) {
-    var img = event.target;
-    if (!img || img.tagName !== "IMG" || !img.closest(".logo")) return;
+  /* --------------------------------------------------------- category icons */
 
-    var chain = (img.getAttribute("data-chain") || "").split("|").filter(Boolean);
-    if (chain.length) {
-      img.setAttribute("data-chain", chain.slice(1).join("|"));
-      img.src = chain[0];
-      return;
+  /* First match wins, so specific patterns sit above general ones
+     ("3D Printing" before "3D"). Drawn symbols live in index.html. */
+  var CATEGORY_ICONS = [
+    [/print/i, "k-printer"],
+    [/game/i, "k-game"],
+    [/photo/i, "k-camera"],
+    [/essential|best|starter/i, "k-star"],
+    [/digital art|illustrat|paint|draw|\bart\b/i, "k-pen"],
+    [/grant|fund/i, "k-coins"],
+    [/learn|tutorial|course|educat/i, "k-cap"],
+    [/reference|book|inspiration/i, "k-book"],
+    [/marketplace|shop|store/i, "k-bag"],
+    [/\bai\b/i, "k-spark"],
+    [/freelanc|career|job/i, "k-brief"],
+    [/video|film|vfx/i, "k-film"],
+    [/anim|motion/i, "k-motion"],
+    [/3d|cad/i, "k-cube"],
+    [/business|marketing|product/i, "k-chart"],
+    [/music/i, "k-note"],
+    [/audio|sound|podcast/i, "k-wave"],
+    [/public domain|archive|museum/i, "k-archive"],
+    [/content|social|creator|stream/i, "k-mic"],
+    [/web|dev|cod(e|ing)/i, "k-code"],
+    [/font|typograph/i, "k-type"],
+    [/stock|image/i, "k-image"],
+    [/asset|texture|template|mockup|brush/i, "k-layers"],
+    [/software|app|tool/i, "k-window"]
+  ];
+
+  function iconFor(label) {
+    for (var i = 0; i < CATEGORY_ICONS.length; i++) {
+      if (CATEGORY_ICONS[i][0].test(label)) return CATEGORY_ICONS[i][1];
     }
-
-    var well = img.closest(".logo");
-    well.setAttribute("data-fallback", "true");
-    well.innerHTML = '<span class="monogram">' + esc(img.getAttribute("data-mono") || "?") + "</span>";
-  }, true);
+    return "k-folder";
+  }
 
   /* ---------------------------------------------------------------- cards */
 
-  function cardMarkup(r) {
-    var host = r._host;
+  function priceMarkup(r) {
+    if (!r.price || r.price === "Unknown") return "";
     var free = /^free$/i.test(r.price);
-    var meta = [];
+    return '<span class="price" data-free="' + free + '" data-tier="' + esc(r.price) + '">' + esc(r.price) + "</span>";
+  }
 
-    if (r.price && r.price !== "Unknown") {
-      meta.push('<span class="price" data-free="' + (free ? "true" : "false") + '">' + esc(r.price) + "</span>");
-    }
-    if (r.primaryCategory) {
-      meta.push('<span class="cat">' + dotFor(r.primaryCategory) + esc(r.primaryCategory) + "</span>");
-    }
-    if ((r.platforms || []).length) meta.push("<span>" + esc(r.platforms.slice(0, 2).join(", ")) + "</span>");
-
+  function cardMarkup(r) {
     var faved = favorites.has(r.id);
+    var company = r.company || r._host;
 
     return '<article class="card reveal" data-id="' + esc(r.id) + '">' +
-      '<button class="fav" type="button" data-fav="' + esc(r.id) + '" ' +
-        'aria-pressed="' + (faved ? "true" : "false") + '" ' +
-        'aria-label="Save ' + esc(r.title) + '">' +
-        '<svg class="icon" aria-hidden="true"><use href="#i-heart"/></svg></button>' +
-
-      logoMarkup(r) +
-
-      '<div class="card-head">' +
-        '<h3 class="card-title"><a href="' + esc(r.website) + '" target="_blank" rel="noopener">' +
-          esc(r.title) + "</a></h3>" +
-        (host ? '<p class="card-company">' + esc(r.company || host) + "</p>" : "") +
+      '<div class="card-top">' +
+        logoMarkup(r) +
+        '<div class="card-head">' +
+          '<h3 class="card-title"><button class="card-open" type="button" data-details="' + esc(r.id) + '">' +
+            esc(r.title) + "</button></h3>" +
+          (company ? '<p class="card-company">' + esc(company) + "</p>" : "") +
+        "</div>" +
       "</div>" +
+
+      '<button class="fav" type="button" data-fav="' + esc(r.id) + '" ' +
+        'aria-pressed="' + faved + '" aria-label="Save ' + esc(r.title) + ' to My Vault">' +
+        '<svg class="icon" aria-hidden="true"><use href="#i-heart"/></svg></button>' +
 
       (r.shortDescription ? '<p class="card-desc">' + esc(r.shortDescription) + "</p>" : "") +
 
-      '<div class="card-meta">' + meta.join("") + "</div>" +
-
-      '<div class="card-actions">' +
-        '<button class="btn" type="button" data-details="' + esc(r.id) + '">Details</button>' +
-        '<a class="btn btn-visit" href="' + esc(r.website) + '" target="_blank" rel="noopener">' +
-          'Visit <svg class="icon" aria-hidden="true"><use href="#i-out"/></svg></a>' +
+      '<div class="card-foot">' +
+        (r.primaryCategory ? '<span class="cat-tag">' + dotFor(r.primaryCategory) + esc(r.primaryCategory) + "</span>" : "") +
+        priceMarkup(r) +
+        (r.website ? '<a class="card-visit" href="' + esc(r.website) + '" target="_blank" rel="noopener" ' +
+          'aria-label="Visit ' + esc(r.title) + ' (opens in a new tab)">Visit' +
+          '<svg class="icon" aria-hidden="true"><use href="#i-out"/></svg></a>' : "") +
       "</div>" +
     "</article>";
   }
@@ -319,8 +310,7 @@
     };
   }
 
-  /* How well a record answers the query. A product's own name must outrank a
-     passing mention of it in somebody else's description. */
+  /* A product's own name must outrank a passing mention of it elsewhere. */
   function relevance(r, q) {
     if (r._title === q) return 0;
     if (r._title.indexOf(q) === 0) return 1;
@@ -333,9 +323,7 @@
   function applyFilters() {
     var f = currentFilters();
 
-    /* Every word must appear somewhere, in any order, so "free 3d" and
-       "3d free" both work. A single substring match over the whole record
-       found nothing for either. */
+    /* Every word must appear somewhere, in any order. */
     var terms = f.q ? f.q.split(/\s+/).filter(Boolean) : [];
 
     filtered = all.filter(function (r) {
@@ -370,7 +358,9 @@
     }
 
     visible = 0;
+    autoPages = 0;
     el.grid.innerHTML = "";
+    el.grid.setAttribute("aria-busy", "false");
     renderNextPage(PAGE_SIZE);
     syncToolbarState(f);
     writeUrlState(f);
@@ -379,9 +369,9 @@
   function renderNextPage(count) {
     var slice = filtered.slice(visible, visible + count);
     if (slice.length) {
-      var frag = document.createDocumentFragment();
       var wrap = document.createElement("div");
       wrap.innerHTML = slice.map(cardMarkup).join("");
+      var frag = document.createDocumentFragment();
       while (wrap.firstChild) frag.appendChild(wrap.firstChild);
       el.grid.appendChild(frag);
       revealNew();
@@ -391,14 +381,18 @@
 
     var remaining = filtered.length - visible;
     el.loadMore.hidden = remaining <= 0;
-    el.loadMoreCount.textContent = remaining > 0
-      ? remaining.toLocaleString() + " more"
-      : "";
+    el.loadMoreCount.textContent = remaining > 0 ? remaining.toLocaleString() + " more to show" : "";
 
     el.empty.hidden = filtered.length !== 0;
-    el.summary.textContent = filtered.length
-      ? "Showing " + visible.toLocaleString() + " of " + filtered.length.toLocaleString()
-      : "";
+    if (!filtered.length && el.emptyHint) {
+      var q = el.search.value.trim();
+      el.emptyHint.textContent = q
+        ? "Nothing for “" + q + "” with these filters. Check the spelling, try a broader word, or clear a filter."
+        : "Try widening the category, price or platform.";
+    }
+    el.summary.innerHTML = filtered.length
+      ? "<strong>" + filtered.length.toLocaleString() + "</strong> " + (filtered.length === 1 ? "resource" : "resources")
+      : "No results";
   }
 
   /* A search worth repeating is worth keeping. Stored whole — query and all
@@ -427,13 +421,30 @@
 
     var button = document.querySelector("[data-save-search]");
     if (button) {
+      var original = button.innerHTML;
       button.textContent = "Saved to My Vault";
       button.disabled = true;
       setTimeout(function () {
-        button.textContent = "Save this search";
+        button.innerHTML = original;
         button.disabled = false;
       }, 2200);
     }
+  }
+
+  /* Each active filter as a chip that removes only itself. */
+  function activeChipList(f) {
+    var chips = [];
+    if (f.q) chips.push({ key: "q", label: "Search", value: "“" + el.search.value.trim() + "”" });
+    if (activeCollection) {
+      var kits = typeof vaultCollections !== "undefined" ? vaultCollections : [];
+      var kit = kits.find(function (c) { return c.id === activeCollection; });
+      chips.push({ key: "collection", label: "Kit", value: kit ? kit.label : activeCollection });
+    }
+    if (f.category !== "all") chips.push({ key: "category", label: "Category", value: f.category });
+    if (f.price !== "all") chips.push({ key: "price", label: "Price", value: f.price });
+    if (f.platform !== "all") chips.push({ key: "platform", label: "Platform", value: f.platform });
+    if (f.sort !== "curated") chips.push({ key: "sort", label: "Sort", value: el.sort.options[el.sort.selectedIndex].text });
+    return chips;
   }
 
   function syncToolbarState(f) {
@@ -442,16 +453,28 @@
     document.querySelector('[data-field="platform"]').dataset.active = String(f.platform !== "all");
     document.querySelector('[data-field="sort"]').dataset.active = String(f.sort !== "curated");
 
-    var dirty = f.q || f.category !== "all" || f.price !== "all" ||
-                f.platform !== "all" || f.sort !== "curated" || activeCollection;
+    var chips = activeChipList(f);
+    var dirty = chips.length > 0;
+
+    el.activeFilters.hidden = !dirty;
     el.reset.hidden = !dirty;
     var saveSearch = document.querySelector("[data-save-search]");
     if (saveSearch) saveSearch.hidden = !dirty;
     el.searchClear.hidden = !f.q;
 
-    /* One query, two fields. Mirroring here rather than at each call site
-       means reset, clear, a URL load and typing all stay in step. The field
-       being typed into is never rewritten, so the caret does not jump. */
+    el.activeChips.innerHTML = chips.map(function (c) {
+      return '<button class="active-chip" type="button" data-clear="' + c.key + '" ' +
+             'aria-label="Remove ' + esc(c.label + ": " + c.value) + '">' +
+             "<span>" + esc(c.label) + "</span>" + esc(c.value) +
+             '<svg class="icon" aria-hidden="true"><use href="#i-close"/></svg></button>';
+    }).join("");
+
+    var filterN = ["category", "price", "platform"].filter(function (k) { return f[k] !== "all"; }).length;
+    el.filterCount.hidden = filterN === 0;
+    el.filterCount.textContent = String(filterN);
+
+    /* One query, two fields. The field being typed into is never
+       rewritten, so the caret does not jump. */
     if (el.mini && el.mini !== document.activeElement && el.mini.value !== el.search.value) {
       el.mini.value = el.search.value;
     }
@@ -464,10 +487,16 @@
     });
   }
 
+  function clearOne(key) {
+    if (key === "q") { el.search.value = ""; if (el.mini) el.mini.value = ""; }
+    else if (key === "collection") activeCollection = null;
+    else if (key === "sort") el.sort.value = "curated";
+    else if (el[key]) el[key].value = "all";
+    applyFilters();
+  }
+
   function resetAll() {
     el.search.value = "";
-    /* Two fields, one query: clearing one must clear the other, or Reset
-       leaves the masthead still showing the query it just discarded. */
     if (el.mini) el.mini.value = "";
     el.category.value = "all";
     el.price.value = "all";
@@ -477,16 +506,23 @@
     applyFilters();
   }
 
-  /* Filters live in the URL so a search can be linked, bookmarked and shared,
-     and so the site can honestly declare a SearchAction to search engines. */
+  /* An unknown value (an old link, a typo) would otherwise leave the select
+     blank and silently filter everything out. */
+  function setSelect(select, value) {
+    var ok = Array.prototype.some.call(select.options, function (o) { return o.value === value; });
+    select.value = ok ? value : (select === el.sort ? "curated" : "all");
+  }
+
+  /* Filters live in the URL so a search can be linked, bookmarked and shared. */
   function readUrlState() {
     var params = new URLSearchParams(location.search);
     if (params.has("q")) el.search.value = params.get("q");
-    if (params.has("category")) el.category.value = params.get("category");
-    if (params.has("price")) el.price.value = params.get("price");
-    if (params.has("platform")) el.platform.value = params.get("platform");
-    if (params.has("sort")) el.sort.value = params.get("sort");
+    if (params.has("category")) setSelect(el.category, params.get("category"));
+    if (params.has("price")) setSelect(el.price, params.get("price"));
+    if (params.has("platform")) setSelect(el.platform, params.get("platform"));
+    if (params.has("sort")) setSelect(el.sort, params.get("sort"));
     if (params.has("collection")) activeCollection = params.get("collection");
+    return params.toString().length > 0;
   }
 
   function writeUrlState(f) {
@@ -499,26 +535,21 @@
     if (activeCollection) params.set("collection", activeCollection);
 
     var qs = params.toString();
-    history.replaceState(null, "", qs ? location.pathname + "?" + qs : location.pathname);
+    history.replaceState(null, "", (qs ? location.pathname + "?" + qs : location.pathname) + location.hash);
   }
 
   function jumpToResults() {
-    document.getElementById("resources").scrollIntoView({ behavior: "smooth", block: "start" });
+    document.getElementById("resources").scrollIntoView({ behavior: reducedMotion() ? "auto" : "smooth", block: "start" });
   }
 
   /* --------------------------------------------------------- view switching */
 
-  /* Thumbnails or rows. Both views render from identical markup and differ
-     only by this attribute, so switching costs no re-render and keeps scroll
-     position. The choice is remembered, the way a file window remembers it. */
   function setView(view, persist) {
     var next = view === "list" ? "list" : "grid";
     el.grid.dataset.view = next;
-
     document.querySelectorAll("[data-view-set]").forEach(function (btn) {
       btn.setAttribute("aria-pressed", String(btn.dataset.viewSet === next));
     });
-
     if (persist) {
       try { localStorage.setItem(VIEW_KEY, next); } catch (e) { /* private mode */ }
     }
@@ -531,7 +562,7 @@
   /* ------------------------------------------------------------- sections */
 
   function buildQuickLinks(counts) {
-    el.quickLinks.innerHTML = counts.slice(0, 8).map(function (entry) {
+    el.quickLinks.innerHTML = counts.slice(0, 6).map(function (entry) {
       return '<button class="chip" type="button" data-category="' + esc(entry[0]) + '" aria-pressed="false">' +
              dotFor(entry[0]) + esc(entry[0]) + "</button>";
     }).join("");
@@ -545,16 +576,9 @@
       }).join("");
   }
 
-  /* The grid is wayfinding, not a leaderboard. Ranking all 191 categories by
-     size and cutting at 24 let a real section fall off the page because a few
-     records moved: Music sat at rank 26 and had no tile at all, so the only
-     way to reach it was the dropdown. The curated list in categories.js is the
-     site's actual promise, so every curated section that has something in it
-     is guaranteed a tile, and the largest remaining categories fill the rest.
-     Order still reads biggest-first, so nothing about the grid's scan changes.
-
-     A curated category with nothing in it stays out: a door onto an empty room
-     is worse than no door. */
+  /* Every curated section that has something in it is guaranteed a tile;
+     the largest remaining categories fill the rest. A curated category with
+     nothing in it stays out: a door onto an empty room is worse than none. */
   var GRID_LIMIT = 24;
 
   function gridCategories(counts) {
@@ -566,7 +590,6 @@
       var total = byLabel.get(category.label) || 0;
       if (total) chosen.set(category.label, total);
     });
-
     counts.forEach(function (entry) {
       if (chosen.size >= GRID_LIMIT || chosen.has(entry[0])) return;
       chosen.set(entry[0], entry[1]);
@@ -579,23 +602,29 @@
 
   function buildCategoryGrid(counts) {
     el.categoryGrid.innerHTML = gridCategories(counts).map(function (entry) {
-      var curated = typeof vaultCategories === "undefined" ? null : vaultCategories.find(function (c) { return c.label === entry[0]; });
-      var learn = curated ? '<a class="category-learn" href="/categories/' + esc(curated.id) + '/" aria-label="Explore ' + esc(entry[0]) + ' guide">Guide</a>' : '';
-      return '<div class="category reveal"><button type="button" data-category="' + esc(entry[0]) + '">' +
-             "<span>" + dotFor(entry[0]) + esc(entry[0]) + "</span>" +
-             '<span class="tabular">' + entry[1].toLocaleString() + "</span></button>" + learn + "</div>";
+      var label = entry[0];
+      var curated = typeof vaultCategories === "undefined" ? null :
+        vaultCategories.find(function (c) { return c.label === label; });
+      var guide = curated
+        ? '<a class="category-learn" href="/categories/' + esc(curated.id) + '/">Guide<span class="visually-hidden"> to ' + esc(label) + "</span></a>"
+        : "";
+      return '<div class="category"' + dotStyle(label) + ">" +
+               '<button type="button" data-category="' + esc(label) + '">' +
+                 '<span class="cat-icon" aria-hidden="true"><svg class="icon"><use href="#' + iconFor(label) + '"/></svg></span>' +
+                 '<span class="cat-name">' + esc(label) + "</span>" +
+                 '<span class="cat-count">' + entry[1].toLocaleString() + " resources</span>" +
+               "</button>" + guide +
+             "</div>";
     }).join("");
   }
 
-  /* A colour code nobody can read is decoration. The key names each family. */
   function buildFamilyKey() {
     var key = document.getElementById("familyKey");
     if (!key) return;
     key.innerHTML = FAMILIES.slice().reverse().map(function (fam) {
       return '<span class="key-item"><span class="cat-dot" style="--dot:' + fam.color +
              '" aria-hidden="true"></span>' + esc(fam.label) + "</span>";
-    }).join("") +
-    '<span class="key-item"><span class="cat-dot" aria-hidden="true"></span>Everything else</span>';
+    }).join("");
   }
 
   function buildCollections() {
@@ -604,22 +633,133 @@
       return;
     }
 
-    var withCounts = vaultCollections.map(function (c) {
-      var n = all.filter(function (r) { return (r.collections || []).indexOf(c.id) !== -1; }).length;
-      return { c: c, n: n };
-    }).filter(function (entry) { return entry.n > 0; });
+    var withMembers = vaultCollections.map(function (c) {
+      var members = all.filter(function (r) { return (r.collections || []).indexOf(c.id) !== -1; })
+        .sort(function (a, b) { return a._rank - b._rank; });
+      return { c: c, members: members };
+    }).filter(function (entry) { return entry.members.length > 0; });
 
-    if (!withCounts.length) {
+    if (!withMembers.length) {
       el.collectionGrid.closest("section").hidden = true;
       return;
     }
 
-    el.collectionGrid.innerHTML = withCounts.map(function (entry) {
-      return '<button class="collection reveal" type="button" data-collection="' + esc(entry.c.id) + '" aria-pressed="false">' +
+    el.collectionGrid.innerHTML = withMembers.map(function (entry) {
+      var marks = entry.members.slice(0, 4).map(function (r) { return logoMarkup(r); }).join("");
+      var n = entry.members.length;
+      return '<button class="collection" type="button" data-collection="' + esc(entry.c.id) + '" aria-pressed="false">' +
+             '<span class="collection-marks" aria-hidden="true">' + marks + "</span>" +
              "<h3>" + esc(entry.c.label) + "</h3>" +
              "<p>" + esc(entry.c.description) + "</p>" +
-             '<span class="collection-count">' + entry.n.toLocaleString() + " resources</span></button>";
+             '<span class="collection-count">' + n.toLocaleString() + (n === 1 ? " resource" : " resources") +
+               '<svg class="icon" aria-hidden="true"><use href="#i-arrow"/></svg></span></button>';
     }).join("");
+  }
+
+  /* The marks in the hero. Real records only: if one ever leaves the
+     library it simply drops out of the arc. */
+  var HERO_MARKS = [
+    { id: "blender",                x: "50%", y: "10%", s: 88 },
+    { id: "figma",                  x: "26%", y: "20%", s: 70 },
+    { id: "adobe-photoshop",        x: "74%", y: "21%", s: 74 },
+    { id: "chatgpt",                x: "9%",  y: "42%", s: 62 },
+    { id: "procreate",              x: "37%", y: "41%", s: 66 },
+    { id: "game-dev-unreal-engine", x: "63%", y: "43%", s: 70 },
+    { id: "ableton-live",           x: "91%", y: "45%", s: 60 },
+    { id: "davinci-resolve",        x: "20%", y: "66%", s: 66 },
+    { id: "essential-godot",        x: "50%", y: "68%", s: 60 },
+    { id: "midjourney",             x: "80%", y: "67%", s: 64 },
+    { id: "krita",                  x: "35%", y: "86%", s: 52 },
+    { id: "canva",                  x: "66%", y: "87%", s: 54 }
+  ];
+
+  function buildHeroMarks() {
+    var box = document.getElementById("heroMarks");
+    var list = document.getElementById("heroMarksList");
+    if (!box || !list) return;
+
+    var items = HERO_MARKS.filter(function (m) { return byId.has(m.id); });
+    if (items.length < 6) return;
+
+    list.innerHTML = items.map(function (m, i) {
+      var r = byId.get(m.id);
+      return '<li class="hero-mark" style="--x:' + m.x + ";--y:" + m.y + ";--s:" + m.s + "px;--i:" + i +
+             ";--d:" + (-((i * 0.73) % 7)).toFixed(2) + 's">' +
+             '<button type="button" data-details="' + esc(r.id) + '" aria-label="' + esc(r.title) + ' — details">' +
+             logoMarkup(r) + "</button>" +
+             '<span class="hero-mark-name" aria-hidden="true">' + esc(r.title) + "</span></li>";
+    }).join("");
+
+    box.hidden = false;
+    list.classList.add("is-entering");
+  }
+
+  /* --------------------------------------------------------- Weekly Drip */
+
+  function fmtDuration(v) {
+    if (!v.durationSeconds) return v.duration || "";
+    var s = v.durationSeconds, h = Math.floor(s / 3600), m = Math.floor((s % 3600) / 60), sec = s % 60;
+    return (h ? h + ":" + String(m).padStart(2, "0") : m) + ":" + String(sec).padStart(2, "0");
+  }
+
+  function fmtDate(iso) {
+    try { return new Date(iso).toLocaleDateString(undefined, { month: "short", day: "numeric" }); }
+    catch (e) { return ""; }
+  }
+
+  /* The feature shows the leading video from four different lanes, so the
+     section reads as a cross-section of the week rather than one topic. */
+  function buildDrip() {
+    var grid = document.getElementById("dripGrid");
+    var topics = document.getElementById("dripTopics");
+    var stamp = document.getElementById("dripStamp");
+    if (!grid || !window.fetch) return;
+
+    fetch("/data/weekly-drip.json", { cache: "no-cache" })
+      .then(function (res) { if (!res.ok) throw new Error(String(res.status)); return res.json(); })
+      .then(function (data) {
+        var cats = (data.categories || []).filter(function (c) { return c.videos && c.videos.length; });
+        if (!cats.length) return;
+
+        if (stamp && data.updatedAt) stamp.textContent = "Updated " + fmtDate(data.updatedAt) + ".";
+
+        /* Two lanes can share a top video (an AI video that is also a 3D one),
+           so each pick takes the first video not already shown. */
+        var seen = {};
+        var picks = [];
+        cats.forEach(function (c) {
+          if (picks.length >= 4) return;
+          var v = c.videos.find(function (x) { return !seen[x.videoId]; });
+          if (!v) return;
+          seen[v.videoId] = true;
+          picks.push({ c: c, v: v });
+        });
+        grid.innerHTML = picks.map(function (p, i) {
+          /* The lead keeps the full-size frame; the rest take YouTube's
+             320px still, a twentieth of the bytes. */
+          var thumb = String(p.v.thumbnail || "");
+          if (i) thumb = thumb.replace("maxresdefault", "mqdefault");
+          var time = fmtDuration(p.v);
+          return '<a class="drip-item" href="' + esc(p.v.url) + '" target="_blank" rel="noopener">' +
+                 '<span class="drip-thumb"><img src="' + esc(thumb) + '" alt="" loading="lazy" decoding="async" ' +
+                   'width="' + (i ? 320 : 1280) + '" height="' + (i ? 180 : 720) + '">' +
+                 '<span class="drip-play" aria-hidden="true"><svg class="icon"><use href="#i-play"/></svg></span>' +
+                 (time ? '<span class="drip-time">' + esc(time) + "</span>" : "") + "</span>" +
+                 '<span class="drip-body">' +
+                   '<span class="drip-meta"><strong>' + esc(p.c.name) + "</strong>" + esc(fmtDate(p.v.publishedAt)) + "</span>" +
+                   "<h3>" + esc(p.v.title) + '<span class="visually-hidden"> (YouTube, opens in a new tab)</span></h3>' +
+                   '<span class="drip-channel">' + esc(p.v.channelTitle) + "</span>" +
+                 "</span></a>";
+        }).join("");
+
+        if (topics) {
+          topics.innerHTML = cats.map(function (c) {
+            return '<a href="/weekly-drip/#drip-' + esc(c.id) + '">' + esc(c.name) + "</a>";
+          }).join("");
+          topics.hidden = false;
+        }
+      })
+      .catch(function () { /* The panel still links to the full Drip page. */ });
   }
 
   /* ---------------------------------------------------------------- modal */
@@ -632,10 +772,28 @@
     return "<div><dt>" + esc(label) + "</dt><dd>" + body + "</dd></div>";
   }
 
-  function openDetails(id) {
+  /* Up to four neighbours from the same primary category, best-ranked first. */
+  function relatedTo(r) {
+    return all.filter(function (x) {
+      return x.id !== r.id && x.primaryCategory === r.primaryCategory && x._host !== r._host;
+    }).sort(function (a, b) { return a._rank - b._rank; }).slice(0, 4);
+  }
+
+  function openDetails(id, trigger) {
     var r = byId.get(id);
     if (!r) return;
     recordViewed(id);
+    if (!el.modal.open) lastTrigger = trigger || document.activeElement;
+
+    var saved = favorites.has(r.id);
+    var badges = [];
+    if (r.price && r.price !== "Unknown") {
+      badges.push('<span class="tag" data-free="' + /^free$/i.test(r.price) + '">' + esc(r.price) + "</span>");
+    }
+    if (r.openSource) badges.push('<span class="tag">Open source</span>');
+    (r.platforms || []).slice(0, 5).forEach(function (p) { badges.push('<span class="tag">' + esc(p) + "</span>"); });
+
+    var related = relatedTo(r);
 
     el.modalContent.innerHTML =
       '<div class="modal-head">' +
@@ -646,24 +804,51 @@
         "</div>" +
       "</div>" +
 
+      (badges.length ? '<div class="modal-badges">' + badges.join("") + "</div>" : "") +
+
       '<p class="modal-desc">' + esc(r.longDescription || r.shortDescription || "") + "</p>" +
 
       '<dl class="spec">' +
-        specRow("Price", r.price !== "Unknown" ? r.price : "") +
         specRow("Category", (r.categories || []).slice(0, 6)) +
-        specRow("Platforms", r.platforms || []) +
         specRow("Best for", (r.bestFor || []).slice(0, 6)) +
-        specRow("Open source", r.openSource ? "Yes" : "") +
         specRow("Website", r._host) +
       "</dl>" +
 
+      (related.length
+        ? '<div class="modal-related"><h3>More in ' + esc(r.primaryCategory) + '</h3><div class="modal-related-list">' +
+          related.map(function (x) {
+            return '<button class="related-item" type="button" data-details="' + esc(x.id) + '">' +
+                   logoMarkup(x, 30) + "<span>" + esc(x.title) + "</span></button>";
+          }).join("") + "</div></div>"
+        : "") +
+
       '<div class="modal-actions">' +
-        '<a class="btn btn-primary" href="' + esc(r.website) + '" target="_blank" rel="noopener">' +
-          'Visit site <svg class="icon" aria-hidden="true"><use href="#i-out"/></svg></a>' +
+        '<a class="btn btn-primary" href="' + esc(r.website) + '" target="_blank" rel="noopener" data-visit="' + esc(r.id) + '">' +
+          "Visit " + esc(r.title) + ' <svg class="icon" aria-hidden="true"><use href="#i-out"/></svg></a>' +
+        '<button class="btn btn-lg fav-wide" type="button" data-fav="' + esc(r.id) + '" aria-pressed="' + saved + '">' +
+          '<svg class="icon" aria-hidden="true"><use href="#i-heart"/></svg>' +
+          "<span data-fav-label>" + (saved ? "Saved to My Vault" : "Save to My Vault") + "</span></button>" +
       "</div>";
 
-    if (typeof el.modal.showModal === "function") el.modal.showModal();
-    else el.modal.setAttribute("open", "");
+    el.modalContent.scrollTop = 0;
+    if (!el.modal.open) {
+      if (typeof el.modal.showModal === "function") el.modal.showModal();
+      else el.modal.setAttribute("open", "");
+    } else {
+      var title = document.getElementById("modalTitle");
+      if (title) { title.setAttribute("tabindex", "-1"); title.focus(); }
+    }
+  }
+
+  /* Plays the exit animation, then closes. */
+  function closeDetails() {
+    if (!el.modal.open) return;
+    if (reducedMotion()) { el.modal.close(); return; }
+    el.modal.classList.add("is-closing");
+    setTimeout(function () {
+      el.modal.classList.remove("is-closing");
+      el.modal.close();
+    }, 170);
   }
 
   /* --------------------------------------------------------------- motion */
@@ -674,9 +859,7 @@
   var revealObserver = null;
 
   function setupReveal() {
-    var reduced = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
-    if (reduced || !("IntersectionObserver" in window)) return;
-
+    if (reducedMotion() || !("IntersectionObserver" in window)) return;
     document.documentElement.classList.add("js-reveal");
 
     revealObserver = new IntersectionObserver(function (entries) {
@@ -694,49 +877,44 @@
   }
 
   /* Anything already on screen is shown at once; only what sits below the
-     fold waits for the scroll animation.
-
-     Filter results arrive in the viewport without any scrolling, so leaving
-     them to the observer left the grid blank for ~650ms and unreadable for
-     ~1.5s after every keystroke. A reveal is for scrolling, and it must
-     never stand between someone and the results they just asked for.
-
-     Rects are read in one pass before any class is written, so sixty nodes
-     cost one layout rather than sixty. */
+     fold waits for the scroll animation. A reveal must never stand between
+     someone and the results they just asked for. Rects are read in one pass
+     before any class is written, so sixty nodes cost one layout. */
   function observeOrShow(nodeList) {
     var nodes = Array.prototype.slice.call(nodeList);
     if (!nodes.length) return;
-
     var fold = window.innerHeight || 800;
     var tops = nodes.map(function (n) { return n.getBoundingClientRect().top; });
-
     nodes.forEach(function (node, i) {
       if (tops[i] < fold) node.classList.add("is-instant", "is-in");
       else if (revealObserver) revealObserver.observe(node);
     });
   }
 
-  function observeAll() {
-    observeOrShow(document.querySelectorAll(".reveal:not(.is-in)"));
-  }
+  function observeAll() { observeOrShow(document.querySelectorAll(".reveal:not(.is-in)")); }
+  function revealNew() { observeOrShow(el.grid.querySelectorAll(".reveal:not(.is-in)")); }
 
-  function revealNew() {
-    observeOrShow(el.grid.querySelectorAll(".reveal:not(.is-in)"));
-  }
+  /* Scrolling pages in a few batches on its own, then hands over to the
+     button. Unbounded, it kept growing the grid as the visitor neared the
+     bottom, so the PDF, guides, submit band and footer below the library
+     were effectively unreachable. */
+  var AUTO_PAGES = 3;
+  var autoPages = 0;
 
   function setupInfiniteScroll() {
     if (!("IntersectionObserver" in window)) return;
     var io = new IntersectionObserver(function (entries) {
-      if (entries[0].isIntersecting && !el.loadMore.hidden) renderNextPage(PAGE_STEP);
-    }, { rootMargin: "600px 0px" });
+      if (entries[0].isIntersecting && !el.loadMore.hidden && autoPages < AUTO_PAGES) {
+        autoPages++;
+        renderNextPage(PAGE_STEP);
+      }
+    }, { rootMargin: "400px 0px" });
     io.observe(el.loadMore);
   }
 
-  /* The hero search and the masthead search are two views of one query.
-     Each mirrors the other's value without re-dispatching, so there is no
-     event loop and no second source of truth. */
+  /* The hero search and the masthead search are two views of one query. */
   function setupMiniSearch() {
-    var mini = document.getElementById("miniSearchInput");
+    var mini = el.mini;
     var heroField = document.querySelector(".hero .search");
     if (!mini || !heroField) return;
 
@@ -745,15 +923,13 @@
       applyFilters();
     }, 130));
 
-    /* The masthead takes over the moment the hero's field leaves the view. */
     if (!("IntersectionObserver" in window)) return;
     new IntersectionObserver(function (entries) {
       el.masthead.dataset.compact = String(!entries[0].isIntersecting);
     }, { rootMargin: "-8px 0px 0px 0px", threshold: 0 }).observe(heroField);
   }
 
-  /* The bookmark bubble. Shown once, dismissed forever — a tip that reappears
-     on every visit is a nag, not a tip. */
+  /* The bookmark bubble. Shown once, dismissed forever. */
   function setupBookmarkTip() {
     var tip = document.getElementById("bookmarkTip");
     var close = document.getElementById("tipClose");
@@ -765,14 +941,10 @@
     var count = document.getElementById("tipCount");
     if (count) count.textContent = all.length.toLocaleString();
 
-    /* Name the key the visitor actually has. */
     var mod = document.getElementById("tipKeyMod");
-    if (mod && /Mac|iPhone|iPad|iPod/.test(navigator.platform || navigator.userAgent)) {
-      mod.textContent = "⌘";
-    }
+    if (mod && /Mac|iPhone|iPad|iPod/.test(navigator.platform || navigator.userAgent)) mod.textContent = "⌘";
 
     tip.hidden = false;
-
     close.addEventListener("click", function () {
       tip.hidden = true;
       try { localStorage.setItem(DISMISSED, "1"); } catch (e) { /* private mode */ }
@@ -780,26 +952,19 @@
   }
 
   function activeSearchField() {
-    return el.masthead.dataset.compact === "true"
-      ? (document.getElementById("miniSearchInput") || el.search)
-      : el.search;
+    return el.masthead.dataset.compact === "true" ? (el.mini || el.search) : el.search;
   }
 
   function setupMasthead() {
-    /* Publish the real masthead height so the sticky toolbar and anchor
-       offsets track it instead of a hardcoded guess per breakpoint. */
+    /* Publish the real masthead height for the sticky toolbar and anchor
+       offsets. --masthead-h is an output here, never an input. */
     function publishHeight() {
       var h = Math.round(el.masthead.getBoundingClientRect().height);
       if (h) document.documentElement.style.setProperty("--masthead-h", h + "px");
     }
-
     publishHeight();
-
-    if ("ResizeObserver" in window) {
-      new ResizeObserver(publishHeight).observe(el.masthead);
-    } else {
-      window.addEventListener("resize", debounce(publishHeight, 150));
-    }
+    if ("ResizeObserver" in window) new ResizeObserver(publishHeight).observe(el.masthead);
+    else window.addEventListener("resize", debounce(publishHeight, 150));
 
     var sentinel = document.createElement("div");
     sentinel.style.cssText = "position:absolute;top:0;height:1px;width:1px";
@@ -815,11 +980,15 @@
 
   function wire() {
     el.search.addEventListener("input", debounce(applyFilters, 130));
+    el.search.addEventListener("keydown", function (event) {
+      if (event.key === "Enter") { event.preventDefault(); applyFilters(); jumpToResults(); }
+    });
     el.searchClear.addEventListener("click", function () {
       el.search.value = "";
       el.search.focus();
       applyFilters();
     });
+    if (el.searchGo) el.searchGo.addEventListener("click", function () { applyFilters(); jumpToResults(); });
 
     [el.category, el.price, el.platform, el.sort].forEach(function (control) {
       control.addEventListener("change", applyFilters);
@@ -828,12 +997,18 @@
     el.reset.addEventListener("click", resetAll);
     el.loadMoreButton.addEventListener("click", function () { renderNextPage(PAGE_STEP); });
 
+    el.filterToggle.addEventListener("click", function () {
+      var open = el.filterToggle.getAttribute("aria-expanded") !== "true";
+      el.filterToggle.setAttribute("aria-expanded", String(open));
+      el.toolbar.dataset.filters = open ? "open" : "closed";
+    });
+
     document.addEventListener("click", function (event) {
       var viewBtn = event.target.closest("[data-view-set]");
-      if (viewBtn) {
-        setView(viewBtn.dataset.viewSet, true);
-        return;
-      }
+      if (viewBtn) { setView(viewBtn.dataset.viewSet, true); return; }
+
+      var clear = event.target.closest("[data-clear]");
+      if (clear) { clearOne(clear.dataset.clear); return; }
 
       var chip = event.target.closest("[data-category]");
       if (chip) {
@@ -855,28 +1030,25 @@
         return;
       }
 
-      var visited = event.target.closest(".card a[href^=\"http\"]");
+      var visited = event.target.closest('.card a[href^="http"], [data-visit]');
       if (visited) {
         var visitedCard = visited.closest("[data-id]");
-        if (visitedCard) recordViewed(visitedCard.dataset.id);
+        recordViewed(visited.dataset.visit || (visitedCard && visitedCard.dataset.id));
         /* Not prevented: the link still opens. */
+        return;
       }
 
       var details = event.target.closest("[data-details]");
       if (details) {
         event.preventDefault();
-        openDetails(details.dataset.details);
+        openDetails(details.dataset.details, details);
         return;
       }
 
       var fav = event.target.closest("[data-fav]");
       if (fav) {
         event.preventDefault();
-        var favId = fav.dataset.fav;
-        if (favorites.has(favId)) favorites.delete(favId);
-        else favorites.add(favId);
-        fav.setAttribute("aria-pressed", String(favorites.has(favId)));
-        saveFavorites();
+        toggleFavorite(fav.dataset.fav);
         return;
       }
 
@@ -889,14 +1061,22 @@
       if (event.target.closest("[data-reset]")) resetAll();
     });
 
-    el.modalClose.addEventListener("click", function () { el.modal.close(); });
+    el.modalClose.addEventListener("click", closeDetails);
     el.modal.addEventListener("click", function (event) {
-      if (event.target === el.modal) el.modal.close();
+      if (event.target === el.modal) closeDetails();
+    });
+    el.modal.addEventListener("cancel", function (event) {
+      event.preventDefault();
+      closeDetails();
+    });
+    el.modal.addEventListener("close", function () {
+      if (lastTrigger && document.contains(lastTrigger)) lastTrigger.focus();
+      lastTrigger = null;
     });
 
     /* Keyboard-first: "/" jumps to whichever search field is on screen. */
     document.addEventListener("keydown", function (event) {
-      if (event.key === "/" &&
+      if (event.key === "/" && !event.metaKey && !event.ctrlKey && !el.modal.open &&
           !/^(INPUT|TEXTAREA|SELECT)$/.test(document.activeElement.tagName)) {
         event.preventDefault();
         var field = activeSearchField();
@@ -908,11 +1088,18 @@
 
   /* ----------------------------------------------------------------- boot */
 
+  /* The counts in the hero are pre-rendered, so they stay truthful; what
+     failed is the interactive library, and the visitor is told so plainly. */
+  function fail() {
+    el.grid.innerHTML = "";
+    el.grid.setAttribute("aria-busy", "false");
+    el.summary.textContent = "";
+    if (el.loadError) el.loadError.hidden = false;
+    buildDrip();
+  }
+
   function init() {
-    if (!all.length) {
-      el.summary.textContent = "Resource data failed to load.";
-      return;
-    }
+    if (!all.length) { fail(); return; }
 
     prepare();
     var counts = categoryCounts();
@@ -925,6 +1112,8 @@
     buildCategoryGrid(counts);
     buildFamilyKey();
     buildCollections();
+    buildHeroMarks();
+    buildDrip();
 
     wire();
     setView(storedView() || "grid", false);
@@ -934,13 +1123,16 @@
     setupMiniSearch();
     setupBookmarkTip();
 
-    readUrlState();
+    var fromUrl = readUrlState();
     applyFilters();
+    /* A shared or bookmarked search lands on its results, not the hero. */
+    if (fromUrl && !location.hash) {
+      requestAnimationFrame(function () {
+        document.getElementById("resources").scrollIntoView({ block: "start" });
+      });
+    }
   }
 
-  if (document.readyState === "loading") {
-    document.addEventListener("DOMContentLoaded", init);
-  } else {
-    init();
-  }
+  if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", init);
+  else init();
 })();

@@ -37,23 +37,16 @@
 @media(max-width:560px){.seo-dialog-body{padding:22px 19px 24px}.seo-detail-head img{width:58px;height:58px;flex-basis:58px}.seo-detail-head h2{font-size:24px}.seo-detail-spec>div{grid-template-columns:1fr;gap:4px}.seo-resource-dialog{width:calc(100vw - 18px)}.seo-card-actions>*{flex:1}}
 
 
-/* Ellis Ricketts footer link */
-.ellis-footer-button{
-  display:inline-flex;
-  align-items:center;
-  justify-content:center;
-  margin-top:14px;
-  padding:11px 18px;
-  border-radius:9px;
-  background:linear-gradient(145deg,var(--accent-btn-a),var(--accent-btn-b));
-  color:var(--on-accent) !important;
-  font-weight:700;
-  font-size:13px;
-  line-height:1;
-  text-decoration:none !important;
-  transition:transform .15s ease,filter .15s ease;
-}
-.ellis-footer-button:hover{transform:translateY(-1px);filter:brightness(.94);}
+/* The EllisRicketts.com button is styled once, in chrome.css. */
 
 
 
+
+/* 2026-10 makeover: category and guide cards share the library card's
+   shape, logo well and hover, so moving between pages never changes sites. */
+.seo-card{border-radius:18px;transition:border-color var(--mid) var(--ease),box-shadow var(--mid) var(--ease),transform var(--mid) var(--ease)}
+.seo-card:hover{border-color:var(--line-strong);box-shadow:var(--lift-2);transform:translateY(-3px)}
+.seo-card-head img{width:44px;height:44px;padding:7px;border:1px solid var(--line);border-radius:12px;background:var(--surface-sunk);filter:var(--logo-tint)}
+.seo-card h3 a:hover{color:var(--accent-ink)}
+.link-cloud a{transition:border-color var(--fast) var(--ease),color var(--fast) var(--ease)}
+@media (prefers-reduced-motion: reduce){.seo-card:hover{transform:none}}

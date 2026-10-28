@@ -68,19 +68,6 @@
     catch (e) { return ""; }
   }
 
-  function initials(title) {
-    var words = String(title || "").trim().split(/\s+/).filter(Boolean);
-    if (!words.length) return "?";
-    if (words.length === 1) return words[0].slice(0, 2).toUpperCase();
-    return (words[0][0] + words[1][0]).toUpperCase();
-  }
-
-  function hueOf(seed) {
-    var h = 0, s = String(seed || "");
-    for (var i = 0; i < s.length; i++) h = (h * 31 + s.charCodeAt(i)) % 360;
-    return h;
-  }
-
   var JUNK_VALUE = /^(true|false|null|undefined|n\/a|none|-)$/i;
   function cleanList(list) {
     return (list || [])
@@ -121,75 +108,36 @@
     return '<span class="cat-dot" aria-hidden="true"></span>';
   }
 
-  /* Same sourcing chain and markup as the library, so style.css dresses
-     these cards identically without a second set of rules. */
-  function logoMarkup(r, size) {
-    var host = r._host || hostOf(r.website);
-    var hue = hueOf(r.id || r.title);
-    var style = "--mono-bg:hsl(" + hue + " 44% 93%);--mono-ink:hsl(" + hue + " 48% 32%)";
-    var dim = size ? ' style="width:' + size + "px;height:" + size + "px;" + style + '"'
-                   : ' style="' + style + '"';
-
-    if (!host && !r.logo) {
-      return '<div class="logo" data-fallback="true"' + dim + '>' +
-             '<span class="monogram">' + esc(initials(r.title)) + "</span></div>";
-    }
-
-    var chain = [];
-    if (r.logo) chain.push(r.logo);
-    if (host) {
-      chain.push("https://icons.duckduckgo.com/ip3/" + host + ".ico");
-      chain.push("https://www.google.com/s2/favicons?domain=" + encodeURIComponent(host) + "&sz=128");
-    }
-
-    return '<div class="logo"' + dim + ">" +
-           '<img src="' + esc(chain[0]) + '" alt="" loading="lazy" decoding="async" ' +
-           'data-chain="' + esc(chain.slice(1).join("|")) + '" ' +
-           'data-mono="' + esc(initials(r.title)) + '"></div>';
-  }
-
-  document.addEventListener("error", function (event) {
-    var img = event.target;
-    if (!img || img.tagName !== "IMG" || !img.closest(".logo")) return;
-    var chain = (img.getAttribute("data-chain") || "").split("|").filter(Boolean);
-    if (chain.length) {
-      img.setAttribute("data-chain", chain.slice(1).join("|"));
-      img.src = chain[0];
-      return;
-    }
-    var well = img.closest(".logo");
-    well.setAttribute("data-fallback", "true");
-    well.innerHTML = '<span class="monogram">' + esc(img.getAttribute("data-mono") || "?") + "</span>";
-  }, true);
+  /* Same sourcing chain and markup as the library (js/logos.js), so
+     style.css dresses these cards identically without a second set of rules. */
+  function logoMarkup(r, size) { return window.vaultLogos.markup(r, size); }
 
   function cardMarkup(r) {
     var free = /^free$/i.test(r.price);
-    var meta = [];
-    if (r.price && r.price !== "Unknown") {
-      meta.push('<span class="price" data-free="' + (free ? "true" : "false") + '">' + esc(r.price) + "</span>");
-    }
-    if (r.primaryCategory) {
-      meta.push('<span class="cat">' + dotFor(r.primaryCategory) + esc(r.primaryCategory) + "</span>");
-    }
-    if ((r.platforms || []).length) {
-      meta.push("<span>" + esc(r.platforms.slice(0, 2).join(", ")) + "</span>");
-    }
+    var price = r.price && r.price !== "Unknown"
+      ? '<span class="price" data-free="' + free + '" data-tier="' + esc(r.price) + '">' + esc(r.price) + "</span>"
+      : "";
+    var company = r.company || r._host;
 
     return '<article class="card reveal is-instant" data-id="' + esc(r.id) + '">' +
+      '<div class="card-top">' +
+        logoMarkup(r) +
+        '<div class="card-head">' +
+          '<h3 class="card-title"><a class="card-open" href="' + esc(r.website) + '" target="_blank" rel="noopener">' +
+            esc(r.title) + "</a></h3>" +
+          (company ? '<p class="card-company">' + esc(company) + "</p>" : "") +
+        "</div>" +
+      "</div>" +
       '<button class="fav" type="button" data-unsave="' + esc(r.id) + '" aria-pressed="true" ' +
         'aria-label="Remove ' + esc(r.title) + ' from your vault">' +
         '<svg class="icon" aria-hidden="true"><use href="#i-heart"/></svg></button>' +
-      logoMarkup(r) +
-      '<div class="card-head">' +
-        '<h3 class="card-title"><a href="' + esc(r.website) + '" target="_blank" rel="noopener">' +
-          esc(r.title) + "</a></h3>" +
-        (r.company || r._host ? '<p class="card-company">' + esc(r.company || r._host) + "</p>" : "") +
-      "</div>" +
       (r.shortDescription ? '<p class="card-desc">' + esc(r.shortDescription) + "</p>" : "") +
-      '<div class="card-meta">' + meta.join("") + "</div>" +
-      '<div class="card-actions">' +
-        '<a class="btn btn-visit" href="' + esc(r.website) + '" target="_blank" rel="noopener">' +
-          'Visit <svg class="icon" aria-hidden="true"><use href="#i-out"/></svg></a>' +
+      '<div class="card-foot">' +
+        (r.primaryCategory ? '<span class="cat-tag">' + dotFor(r.primaryCategory) + esc(r.primaryCategory) + "</span>" : "") +
+        price +
+        '<a class="card-visit" href="' + esc(r.website) + '" target="_blank" rel="noopener" ' +
+          'aria-label="Visit ' + esc(r.title) + ' (opens in a new tab)">Visit' +
+          '<svg class="icon" aria-hidden="true"><use href="#i-out"/></svg></a>' +
       "</div>" +
     "</article>";
   }

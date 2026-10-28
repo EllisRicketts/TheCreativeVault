@@ -1,9 +1,11 @@
 {
   "scripts": {
-    "compile": "node tools/compile-database.js",
-    "build": "node tools/compile-database.js",
+    "compile": "node tools/compile-database.js && node tools/stamp-counts.mjs",
+    "build": "node tools/compile-database.js && node tools/stamp-counts.mjs",
+    "stamp": "node tools/stamp-counts.mjs",
+    "chrome": "node tools/apply-chrome.mjs",
+    "contrast": "node tools/check-contrast.mjs",
     "weekly-drip": "node scripts/update-weekly-drip.mjs"
   },
-  "devDependencies": {},
-  "compile": "node tools/compile-database.js"
+  "devDependencies": {}
 }

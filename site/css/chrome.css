@@ -256,34 +256,104 @@
 :root[data-theme="dark"] .vault-count { color: var(--on-accent); }
 .vault-count[hidden] { display: none; }
 
-/* --- Responsive --------------------------------------------------------
-   Only three nav items now, so they fit a phone row without a hamburger.
-   What sheds instead is the search field (it collapses to its icon, and
-   the / shortcut still opens it) and the brand wordmark. */
-@media (max-width: 1080px) {
-  .mast-search { width: 190px; }
+/* --- Layout of the bar --------------------------------------------------
+   The panel holds the nav, theme switch and "Suggest a tool". On wide
+   screens it dissolves (display: contents) so those sit in the bar itself;
+   below 900px it is the menu the button opens. One copy of every link, so
+   the two layouts can never disagree. */
+.mast-panel { display: contents; }
+.mast-nav { order: 1; }
+.mast-tools { order: 2; }
+.mast-panel-tools { order: 3; display: flex; align-items: center; gap: 8px; flex: none; }
+.mast-nav-vault { display: none !important; }
+
+.mast-submit {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  height: 34px;
+  padding: 0 14px 0 11px;
+  border-radius: var(--radius-pill);
+  background: var(--ink);
+  color: var(--bg);
+  font-size: 13.5px;
+  font-weight: 620;
+  text-decoration: none;
+  white-space: nowrap;
+  transition: transform var(--fast) var(--ease), box-shadow var(--fast) var(--ease);
+}
+.mast-submit .icon { width: 15px; height: 15px; }
+.mast-submit:hover { transform: translateY(-1px); box-shadow: var(--lift-2); }
+
+.mast-menu {
+  display: none;
+  place-items: center;
+  width: 40px;
+  height: 40px;
+  flex: none;
+  border: 1px solid var(--glass-line);
+  border-radius: var(--radius-pill);
+  background: var(--surface);
+  color: var(--ink);
+  cursor: pointer;
+}
+.mast-menu .icon { width: 19px; height: 19px; }
+.mast-menu[aria-expanded="true"] { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+
+@media (max-width: 1180px) {
+  .mast-search { width: 200px; }
   .mast-search .key { display: none; }
+  .mast-submit span { display: none; }
+  .mast-submit { width: 34px; padding: 0; justify-content: center; }
 }
+
+/* --- Phone and small tablet: one row, and a real menu ------------------ */
 @media (max-width: 900px) {
-  .masthead-inner { flex-wrap: wrap; gap: 8px 10px; }
-  .mast-nav {
-    order: 3;
-    width: 100%;
-    gap: 4px;
-    overflow-x: auto;
-    scrollbar-width: none;
-    padding-bottom: 2px;
+  .masthead-inner { position: relative; gap: 8px; min-height: 44px; padding-block: 8px; }
+  .mast-tools { margin-left: auto; gap: 6px; }
+  .mast-menu { display: grid; }
+  .mast-vault { width: 40px; height: 40px; padding: 0; justify-content: center; position: relative; }
+  .mast-vault-label { display: none; }
+  .mast-vault .vault-count { position: absolute; top: -4px; right: -4px; }
+  .mast-search { width: clamp(140px, 34vw, 240px); height: 40px; }
+
+  .mast-panel {
+    position: absolute;
+    top: calc(100% + 1px);
+    left: 0;
+    right: 0;
+    display: none;
+    flex-direction: column;
+    gap: 14px;
+    padding: 14px var(--gutter) 20px;
+    background: var(--surface);
+    border-bottom: 1px solid var(--line);
+    box-shadow: var(--lift-3);
   }
-  .mast-nav::-webkit-scrollbar { display: none; }
-  .mast-search { width: 168px; }
+  .masthead[data-menu="open"] .mast-panel { display: flex; }
+  @media (prefers-reduced-motion: no-preference) {
+    .masthead[data-menu="open"] .mast-panel { animation: panel-in 220ms var(--ease) both; }
+    @keyframes panel-in { from { opacity: 0; transform: translateY(-6px); } to { opacity: 1; transform: none; } }
+  }
+  .mast-nav { flex-direction: column; align-items: stretch; gap: 2px; }
+  .mast-nav a, .mast-nav-vault { display: flex !important; min-height: 48px; padding: 0 12px; font-size: 16px; }
+  .mast-panel-tools { justify-content: space-between; padding-top: 12px; border-top: 1px solid var(--line); }
+  .mast-panel-tools .theme-btn { width: 40px; height: 40px; }
+  .mast-submit, .mast-submit span { display: inline-flex; }
+  .mast-submit { width: auto; height: 44px; padding: 0 18px 0 14px; }
 }
-@media (max-width: 620px) {
-  .masthead-inner { min-height: 40px; padding-block: 8px; }
+@media (max-width: 560px) {
+  .brand-name { font-size: 16.5px; }
+  /* Off the homepage the bar keeps its search as a round button that
+     still submits; typing happens on the results page. */
+  .mast-search { width: 40px; padding: 0; justify-content: center; border-radius: 50%; }
+  .mast-search input, .mast-search .key { position: absolute; width: 1px; height: 1px; opacity: 0; pointer-events: none; }
+  .mast-search:focus-within { width: 100%; position: absolute; left: var(--gutter); right: var(--gutter); top: 8px; z-index: 3;
+    padding: 0 12px; justify-content: flex-start; border-radius: var(--radius-pill); background: var(--surface); }
+  .mast-search:focus-within input { position: static; width: 100%; height: auto; opacity: 1; pointer-events: auto; }
+}
+@media (max-width: 380px) {
   .brand-name { display: none; }
-  .mast-search { flex: 1; width: auto; min-width: 0; }
-  .mast-vault span:not(.vault-count) { display: none; }
-  .mast-vault { padding: 0 10px; }
-  .mast-nav a { font-size: 13.5px; padding: 0 9px; }
 }
 
 /* ==========================================================================
@@ -293,75 +363,90 @@
   margin-top: clamp(56px, 8vw, 104px);
   border-top: 1px solid var(--line);
   background: var(--surface);
+  color: var(--ink-2);
 }
-.footer-inner {
-  display: grid;
-  grid-template-columns: minmax(0, 1.6fr) minmax(0, 1fr);
-  gap: clamp(28px, 5vw, 64px);
-  padding-block: clamp(38px, 5vw, 60px);
+.footer-about {
+  padding-block: clamp(30px, 4vw, 44px) 0;
 }
 .footer-about p {
   margin: 0;
-  max-width: var(--measure);
+  max-width: 88ch;
+  padding-bottom: clamp(26px, 3vw, 36px);
+  border-bottom: 1px solid var(--line);
   color: var(--ink-2);
   font-size: 14px;
   line-height: 1.7;
 }
-.footer-about strong { color: var(--ink); }
-.footer-nav {
+.footer-about strong { color: var(--ink); font-weight: 620; }
+.footer-grid {
   display: grid;
-  gap: 9px;
-  align-content: start;
+  grid-template-columns: minmax(0, 1.5fr) repeat(3, minmax(0, 1fr));
+  gap: clamp(28px, 4vw, 56px);
+  padding-block: clamp(36px, 5vw, 56px);
 }
-.footer-nav h2 {
-  margin: 0 0 3px;
-  color: var(--ink-3);
-  font-size: 11.5px;
-  font-weight: 700;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
+.footer-brand { display: grid; gap: 16px; align-content: start; justify-items: start; }
+.footer-brand p { margin: 0; max-width: 38ch; font-size: 14px; line-height: 1.65; color: var(--ink-2); }
+.footer-col { display: grid; gap: 10px; align-content: start; }
+.footer-col h2 {
+  margin: 0 0 4px;
+  color: var(--ink);
+  font-size: 14px;
+  font-weight: 650;
+  letter-spacing: -0.01em;
 }
-.footer-nav a {
+.footer-col a {
+  width: fit-content;
   color: var(--ink-2);
   font-size: 14px;
-  font-weight: 560;
   text-decoration: none;
-  width: fit-content;
+  transition: color var(--fast) var(--ease);
 }
-.footer-nav a:hover { color: var(--accent-ink); text-decoration: underline; }
+.footer-col a:hover { color: var(--accent-ink); }
+.footer-col a[aria-current="page"] { color: var(--ink); font-weight: 600; }
 .footer-line {
   display: flex;
   align-items: center;
-  gap: 16px;
+  justify-content: space-between;
+  gap: 10px 24px;
   flex-wrap: wrap;
-  padding-block: 20px 30px;
-  border-top: 1px solid var(--line);
+  padding-block: 18px 28px;
+  /* The rule spans the content box, not the gutters, so it lines up with
+     the columns above it. */
+  background: linear-gradient(var(--line), var(--line)) no-repeat var(--gutter) 0 / calc(100% - 2 * var(--gutter)) 1px;
   color: var(--ink-3);
   font-size: 13px;
 }
-/* :not() keeps the accent button out — a plain .footer-line a selector
-   outranks .ellis-footer-button and was repainting its label --ink-2
-   straight onto the orange fill. */
-.footer-line a:not(.ellis-footer-button) { color: var(--ink-2); font-weight: 600; }
-.footer-line .footer-spacer { margin-left: auto; }
+.footer-line p { margin: 0; }
+.footer-line-links { display: flex; flex-wrap: wrap; gap: 6px 20px; }
+.footer-line-links a { display: inline-flex; align-items: center; min-height: 32px; color: var(--ink-2); font-weight: 560; text-decoration: none; }
+.footer-line-links a:hover { color: var(--accent-ink); text-decoration: underline; }
 .ellis-footer-button {
   display: inline-flex;
   align-items: center;
-  justify-content: center;
-  padding: 10px 16px;
-  border-radius: var(--radius-sm);
-  background: linear-gradient(145deg, var(--accent-btn-a), var(--accent-btn-b));
-  color: var(--on-accent);
-  font-weight: 700;
+  gap: 6px;
+  min-height: 38px;
+  padding: 0 14px;
+  border: 1px solid var(--line-strong);
+  border-radius: var(--radius-pill);
+  background: var(--bg);
+  color: var(--ink);
+  font-weight: 620;
   font-size: 13px;
-  line-height: 1;
   text-decoration: none;
-  transition: transform var(--fast) var(--ease), filter var(--fast) var(--ease);
+  transition: border-color var(--fast) var(--ease), color var(--fast) var(--ease), transform var(--fast) var(--ease);
 }
-.ellis-footer-button:hover { transform: translateY(-1px); filter: brightness(1.06); }
-@media (max-width: 760px) {
-  .footer-inner { grid-template-columns: 1fr; }
+.ellis-footer-button .icon { width: 14px; height: 14px; }
+.ellis-footer-button:hover { border-color: var(--accent); color: var(--accent-ink); transform: translateY(-1px); }
+@media (max-width: 900px) {
+  .footer-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  .footer-brand { grid-column: 1 / -1; }
 }
+@media (max-width: 560px) {
+  .footer-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); row-gap: 32px; }
+  .footer-col a { min-height: 32px; display: inline-flex; align-items: center; }
+}
+
+
 
 /* Shared shell so every page agrees on its measure and gutters. Values match
    the homepage's original .shell exactly, so removing the duplicate from

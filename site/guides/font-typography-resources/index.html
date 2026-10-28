@@ -24,6 +24,7 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=Bricolage+Grotesque:opsz,wght@12..96,600..800&display=swap">
 <link rel="stylesheet" href="/css/seo.css">
 <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.thecreativevault.co/guides/font-typography-resources/#page","url":"https://www.thecreativevault.co/guides/font-typography-resources/","name":"Free Fonts, Typography Tools & Type Resources","description":"Find font libraries, typography tools, type references and design resources for creative projects.","isPartOf":{"@id":"https://www.thecreativevault.co/#website"},"breadcrumb":{"@id":"https://www.thecreativevault.co/guides/font-typography-resources/#breadcrumb"}},{"@type":"BreadcrumbList","@id":"https://www.thecreativevault.co/guides/font-typography-resources/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"The Creative Vault","item":"https://www.thecreativevault.co/"},{"@type":"ListItem","position":2,"name":"Fonts and typography resources for designers","item":"https://www.thecreativevault.co/guides/font-typography-resources/"}]},{"@type":"CollectionPage","@id":"https://www.thecreativevault.co/guides/font-typography-resources/#collection","url":"https://www.thecreativevault.co/guides/font-typography-resources/","name":"Free Fonts, Typography Tools & Type Resources","description":"Find font libraries, typography tools, type references and design resources for creative projects.","numberOfItems":81}]}</script>
+  <script src="/js/logos.js" defer></script>
 </head>
 <body>
 <a class="skip-link" href="#main">Skip to content</a>
@@ -33,6 +34,9 @@
 <symbol id="c-half" viewBox="0 0 24 24"><circle cx="12" cy="12" r="8"/><path d="M12 4a8 8 0 0 1 0 16Z" fill="currentColor" stroke="none"/></symbol>
 <symbol id="c-moon" viewBox="0 0 24 24"><path d="M20 14.2A8.4 8.4 0 0 1 9.8 4a8.4 8.4 0 1 0 10.2 10.2Z"/></symbol>
 <symbol id="c-vault" viewBox="0 0 24 24"><path d="M6 4h12a1 1 0 0 1 1 1v15.2a.6.6 0 0 1-.93.5L12 16.6l-6.07 4.1A.6.6 0 0 1 5 20.2V5a1 1 0 0 1 1-1Z"/></symbol>
+<symbol id="c-menu" viewBox="0 0 24 24"><path d="M4 7h16M4 12h16M4 17h10"/></symbol>
+<symbol id="c-plus" viewBox="0 0 24 24"><path d="M12 5v14M5 12h14"/></symbol>
+<symbol id="c-out" viewBox="0 0 24 24"><path d="M8 16 16 8M9 8h7v7"/></symbol>
 </defs></svg>
 <header class="masthead" id="top">
   <div class="shell masthead-inner">
@@ -41,11 +45,41 @@
       <span class="brand-name">The <em>Creative</em> Vault</span>
     </a>
 
-    <nav class="mast-nav" aria-label="Main">
+    <!-- One set of links. On wide screens the panel dissolves (display:
+         contents) and its children sit in the bar; below 900px it becomes the
+         menu the button opens. -->
+    <div class="mast-panel" id="mastPanel">
+      <nav class="mast-nav" aria-label="Main">
       <a href="/explore/">Explore</a>
       <a href="/weekly-drip/">Weekly Drip</a>
       <a href="/comparisons/">Comparisons</a>
-    </nav>
+        <a class="mast-nav-vault" href="/my-vault/">My Vault</a>
+      </nav>
+
+      <div class="mast-panel-tools">
+        <div class="theme-switch" role="radiogroup" aria-label="Colour theme">
+          <button class="theme-btn" type="button" role="radio" data-theme-set="light"
+                  aria-checked="false" tabindex="-1" title="Light theme">
+            <svg class="icon" aria-hidden="true"><use href="#c-sun"/></svg>
+            <span class="visually-hidden">Light</span>
+          </button>
+          <button class="theme-btn" type="button" role="radio" data-theme-set="medium"
+                  aria-checked="false" tabindex="-1" title="Medium theme — warm and dimmed">
+            <svg class="icon" aria-hidden="true"><use href="#c-half"/></svg>
+            <span class="visually-hidden">Medium</span>
+          </button>
+          <button class="theme-btn" type="button" role="radio" data-theme-set="dark"
+                  aria-checked="false" tabindex="-1" title="Dark theme">
+            <svg class="icon" aria-hidden="true"><use href="#c-moon"/></svg>
+            <span class="visually-hidden">Dark</span>
+          </button>
+        </div>
+        <a class="mast-submit" href="/#submit">
+          <svg class="icon" aria-hidden="true"><use href="#c-plus"/></svg>
+          <span>Suggest a tool</span>
+        </a>
+      </div>
+    </div>
 
     <div class="mast-tools">
       <form class="mast-search" action="/" method="get" role="search">
@@ -56,29 +90,16 @@
         <kbd class="key">/</kbd>
       </form>
 
-      <div class="theme-switch" role="radiogroup" aria-label="Colour theme">
-        <button class="theme-btn" type="button" role="radio" data-theme-set="light"
-                aria-checked="false" tabindex="-1" title="Light theme">
-          <svg class="icon" aria-hidden="true"><use href="#c-sun"/></svg>
-          <span class="visually-hidden">Light</span>
-        </button>
-        <button class="theme-btn" type="button" role="radio" data-theme-set="medium"
-                aria-checked="false" tabindex="-1" title="Medium theme — warm and dimmed">
-          <svg class="icon" aria-hidden="true"><use href="#c-half"/></svg>
-          <span class="visually-hidden">Medium</span>
-        </button>
-        <button class="theme-btn" type="button" role="radio" data-theme-set="dark"
-                aria-checked="false" tabindex="-1" title="Dark theme">
-          <svg class="icon" aria-hidden="true"><use href="#c-moon"/></svg>
-          <span class="visually-hidden">Dark</span>
-        </button>
-      </div>
-
       <a class="mast-vault" href="/my-vault/">
         <svg class="icon" aria-hidden="true"><use href="#c-vault"/></svg>
-        <span>My Vault</span>
+        <span class="mast-vault-label">My Vault</span>
         <span class="vault-count" data-vault-count hidden>0</span>
       </a>
+
+      <button class="mast-menu" type="button" aria-expanded="false" aria-controls="mastPanel">
+        <svg class="icon" aria-hidden="true"><use href="#c-menu"/></svg>
+        <span class="visually-hidden">Menu</span>
+      </button>
     </div>
   </div>
 </header>
@@ -87,105 +108,151 @@
 <p class="eyebrow">81 curated resources</p><h1>Fonts and typography resources for designers</h1><p class="lede">Typography can make or break a design. This page gathers font libraries, type tools and typography references from across The Creative Vault.</p>
 <div class="hero-actions"><a class="cta" href="/?q=Typography#resources">Browse all 81 in the Vault</a><a class="secondary" href="/">Search all 2,267 resources</a></div></section>
 <section class="seo-shell seo-section"><div class="section-heading"><div><h2>Explore the collection</h2></div><p>These are a sample of the resources in this section. Open the full Vault for filters, pricing and platform options.</p></div><div class="seo-grid"><article class="seo-card">
-      <div class="seo-card-head"><img src="/images/product-icons/adobe-illustrator.svg" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noopener">Adobe Illustrator</a></h3><p class="seo-meta">Paid</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=adobe.com&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/adobe.com.ico" data-last="/images/product-icons/adobe-illustrator.svg" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noopener">Adobe Illustrator</a></h3><p class="seo-meta">Paid</p></div></div>
       <p>Professional vector graphics software for logos, icons, typography, and illustration.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/fonts.google.com.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://fonts.google.com/" target="_blank" rel="noopener">Google Fonts</a></h3><p class="seo-meta">Free</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=fonts.google.com&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/fonts.google.com.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://fonts.google.com/" target="_blank" rel="noopener">Google Fonts</a></h3><p class="seo-meta">Free</p></div></div>
       <p>Free open-source font library for web and design projects.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="/images/product-icons/adobe-creative-cloud-desktop.svg" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://www.adobe.com/search.html#q=Adobe%20Creative%20Cloud%20Desktop" target="_blank" rel="noopener">Adobe Creative Cloud Desktop</a></h3><p class="seo-meta">Subscription</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=adobe.com&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/adobe.com.ico" data-last="/images/product-icons/adobe-creative-cloud-desktop.svg" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://www.adobe.com/search.html#q=Adobe%20Creative%20Cloud%20Desktop" target="_blank" rel="noopener">Adobe Creative Cloud Desktop</a></h3><p class="seo-meta">Subscription</p></div></div>
       <p>Desktop app for managing Adobe Creative Cloud applications, fonts, files, and updates.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="/images/product-icons/adobe-fonts.svg" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://www.adobe.com/search.html#q=Adobe%20Fonts" target="_blank" rel="noopener">Adobe Fonts</a></h3><p class="seo-meta">Subscription</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=fonts.adobe.com&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/fonts.adobe.com.ico" data-last="/images/product-icons/adobe-fonts.svg" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://www.adobe.com/search.html#q=Adobe%20Fonts" target="_blank" rel="noopener">Adobe Fonts</a></h3><p class="seo-meta">Subscription</p></div></div>
       <p>Large font library included with Creative Cloud subscriptions.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/fontsquirrel.com.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://www.fontsquirrel.com/" target="_blank" rel="noopener">Font Squirrel</a></h3><p class="seo-meta">Free</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=fontsquirrel.com&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/fontsquirrel.com.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://www.fontsquirrel.com/" target="_blank" rel="noopener">Font Squirrel</a></h3><p class="seo-meta">Free</p></div></div>
       <p>Free commercial-use font directory.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/gameuidatabase.com.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://www.gameuidatabase.com/" target="_blank" rel="noopener">Game UI Database</a></h3><p class="seo-meta">Free</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=gameuidatabase.com&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/gameuidatabase.com.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://www.gameuidatabase.com/" target="_blank" rel="noopener">Game UI Database</a></h3><p class="seo-meta">Free</p></div></div>
       <p>Reference database of game UI screenshots and patterns.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/fonts.google.com.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://fonts.google.com/" target="_blank" rel="noopener">Google Fonts</a></h3><p class="seo-meta">Free</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=fonts.google.com&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/fonts.google.com.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://fonts.google.com/" target="_blank" rel="noopener">Google Fonts</a></h3><p class="seo-meta">Free</p></div></div>
       <p>Free open-source font library.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/interfaceingame.com.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://interfaceingame.com/" target="_blank" rel="noopener">Interface In Game</a></h3><p class="seo-meta">Free</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=interfaceingame.com&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/interfaceingame.com.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://interfaceingame.com/" target="_blank" rel="noopener">Interface In Game</a></h3><p class="seo-meta">Free</p></div></div>
       <p>Game UI inspiration and reference gallery.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/kenney.nl.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://kenney.nl/assets?q=ui" target="_blank" rel="noopener">Kenney UI Pack</a></h3><p class="seo-meta">Free</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=kenney.nl&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/kenney.nl.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://kenney.nl/assets?q=ui" target="_blank" rel="noopener">Kenney UI Pack</a></h3><p class="seo-meta">Free</p></div></div>
       <p>Free game UI assets and interface packs.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/penpot.app.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://penpot.app/" target="_blank" rel="noopener">Penpot</a></h3><p class="seo-meta">Free</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=penpot.app&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/penpot.app.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://penpot.app/" target="_blank" rel="noopener">Penpot</a></h3><p class="seo-meta">Free</p></div></div>
       <p>Open-source design and prototyping platform.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/creativemarket.com.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://creativemarket.com" target="_blank" rel="noopener">Creative Market</a></h3><p class="seo-meta">Freemium</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=creativemarket.com&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/creativemarket.com.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://creativemarket.com" target="_blank" rel="noopener">Creative Market</a></h3><p class="seo-meta">Freemium</p></div></div>
       <p>Marketplace for fonts, graphics, templates, mockups, themes, and design assets.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/elements.envato.com.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://elements.envato.com" target="_blank" rel="noopener">Envato Elements</a></h3><p class="seo-meta">Subscription</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=elements.envato.com&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/elements.envato.com.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://elements.envato.com" target="_blank" rel="noopener">Envato Elements</a></h3><p class="seo-meta">Subscription</p></div></div>
       <p>Subscription library for creative assets, templates, fonts, graphics, and media.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/figma.com.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://www.figma.com/" target="_blank" rel="noopener">Figma</a></h3><p class="seo-meta">Freemium</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=figma.com&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/figma.com.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://www.figma.com/" target="_blank" rel="noopener">Figma</a></h3><p class="seo-meta">Freemium</p></div></div>
       <p>Collaborative interface design tool for game UI, wireframes, and layouts.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/rive.app.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://rive.app/" target="_blank" rel="noopener">Rive</a></h3><p class="seo-meta">Freemium</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=rive.app&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/rive.app.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://rive.app/" target="_blank" rel="noopener">Rive</a></h3><p class="seo-meta">Freemium</p></div></div>
       <p>Realtime interactive animation tool useful for UI and game menus.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/fonts.bunny.net.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://fonts.bunny.net/" target="_blank" rel="noopener">Bunny Fonts</a></h3><p class="seo-meta">Free</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=fonts.bunny.net&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/fonts.bunny.net.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://fonts.bunny.net/" target="_blank" rel="noopener">Bunny Fonts</a></h3><p class="seo-meta">Free</p></div></div>
       <p>Privacy-friendly Google Fonts alternative.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/collletttivo.it.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://www.collletttivo.it/" target="_blank" rel="noopener">Collletttivo</a></h3><p class="seo-meta">Free</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=collletttivo.it&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/collletttivo.it.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://www.collletttivo.it/" target="_blank" rel="noopener">Collletttivo</a></h3><p class="seo-meta">Free</p></div></div>
       <p>Free and open-source typefaces.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/fontawesome.com.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://fontawesome.com/" target="_blank" rel="noopener">Font Awesome Free</a></h3><p class="seo-meta">Free</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=fontawesome.com&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/fontawesome.com.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://fontawesome.com/" target="_blank" rel="noopener">Font Awesome Free</a></h3><p class="seo-meta">Free</p></div></div>
       <p>Free icon library and toolkit.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/fontlibrary.org.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://fontlibrary.org/" target="_blank" rel="noopener">Font Library</a></h3><p class="seo-meta">Free</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=fontlibrary.org&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/fontlibrary.org.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://fontlibrary.org/" target="_blank" rel="noopener">Font Library</a></h3><p class="seo-meta">Free</p></div></div>
       <p>Free libre font library.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/fontjoy.com.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://fontjoy.com/" target="_blank" rel="noopener">Fontjoy</a></h3><p class="seo-meta">Free</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=fontjoy.com&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/fontjoy.com.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://fontjoy.com/" target="_blank" rel="noopener">Fontjoy</a></h3><p class="seo-meta">Free</p></div></div>
       <p>AI-assisted font pairing tool.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/fontpair.co.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://www.fontpair.co/" target="_blank" rel="noopener">Fontpair</a></h3><p class="seo-meta">Free</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=fontpair.co&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/fontpair.co.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://www.fontpair.co/" target="_blank" rel="noopener">Fontpair</a></h3><p class="seo-meta">Free</p></div></div>
       <p>Free font pairing inspiration.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/fontshare.com.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://www.fontshare.com/" target="_blank" rel="noopener">Fontshare</a></h3><p class="seo-meta">Free</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=fontshare.com&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/fontshare.com.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://www.fontshare.com/" target="_blank" rel="noopener">Fontshare</a></h3><p class="seo-meta">Free</p></div></div>
       <p>Free fonts from Indian Type Foundry.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/fonts.google.com.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://fonts.google.com/" target="_blank" rel="noopener">Google Fonts</a></h3><p class="seo-meta">Free</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=fonts.google.com&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/fonts.google.com.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://fonts.google.com/" target="_blank" rel="noopener">Google Fonts</a></h3><p class="seo-meta">Free</p></div></div>
       <p>Open-source font library.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/modularscale.com.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://www.modularscale.com/" target="_blank" rel="noopener">Modular Scale</a></h3><p class="seo-meta">Free</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=modularscale.com&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/modularscale.com.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://www.modularscale.com/" target="_blank" rel="noopener">Modular Scale</a></h3><p class="seo-meta">Free</p></div></div>
       <p>Generate modular typographic scales.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/open-foundry.com.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://open-foundry.com/" target="_blank" rel="noopener">Open Foundry</a></h3><p class="seo-meta">Free</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=open-foundry.com&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/open-foundry.com.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://open-foundry.com/" target="_blank" rel="noopener">Open Foundry</a></h3><p class="seo-meta">Free</p></div></div>
       <p>Curated open-source fonts.</p>
     </article></div></section>
 <section class="seo-shell seo-section related"><div class="section-heading"><div><h2>Related creative categories</h2></div></div><div class="link-cloud"><a href="/categories/digital-art/">Digital Art</a><a href="/categories/ai-tools/">AI Tools</a><a href="/categories/video/">Video</a><a href="/categories/animation/">Animation</a><a href="/categories/3d-cad/">3D / CAD</a><a href="/categories/photo/">Photography</a><a href="/categories/music/">Music</a><a href="/categories/audio/">Audio</a></div></section>
 <section class="seo-shell seo-info"><h2>About this collection</h2><p>Find font libraries, typography tools, type references and design resources for creative projects.</p><p>The Creative Vault is a hand-curated directory built to help creative people find useful tools without digging through repetitive search results. Resource details can change, so always check the provider’s website for current pricing, licensing and availability.</p></section>
 </main>
-<footer class="seo-footer"><div class="seo-shell"><strong>The Creative Vault</strong><p>Curated creative tools, assets, marketplaces, grants, learning resources and AI tools.</p><a href="/">Return to the full Vault</a></div><a class="ellis-footer-button" href="https://www.ellisricketts.com/" target="_blank" rel="noopener noreferrer">Visit EllisRicketts.com</a></footer>
+<footer class="site-footer">
+  <div class="shell footer-grid">
+    <div class="footer-brand">
+      <a class="brand" href="/" aria-label="The Creative Vault — home">
+        <span class="brand-mark"><img src="/images/logos/cv-secondary-logo.png" alt="" width="34" height="34" loading="lazy" /></span>
+        <span class="brand-name">The <em>Creative</em> Vault</span>
+      </a>
+      <p>A hand-picked index of creative software, assets, marketplaces, grants and learning. No listicles, no affiliate spam.</p>
+      <a class="ellis-footer-button" href="https://www.ellisricketts.com/" target="_blank" rel="noopener noreferrer">
+        Visit EllisRicketts.com <svg class="icon" aria-hidden="true"><use href="#c-out"/></svg>
+      </a>
+    </div>
+    <nav class="footer-col" aria-label="Directory">
+      <h2>Directory</h2>
+      <a href="/#resources">Search the Vault</a>
+      <a href="/explore/">Explore</a>
+      <a href="/weekly-drip/">Weekly Drip</a>
+      <a href="/comparisons/">Comparisons</a>
+      <a href="/my-vault/">My Vault</a>
+    </nav>
+    <nav class="footer-col" aria-label="Categories">
+      <h2>Categories</h2>
+      <a href="/categories/digital-art/">Digital Art</a>
+      <a href="/categories/3d-cad/">3D / CAD</a>
+      <a href="/categories/ai-tools/">AI Tools</a>
+      <a href="/categories/game-dev/">Game Dev</a>
+      <a href="/categories/music/">Music</a>
+      <a href="/categories/grants/">Grants</a>
+    </nav>
+    <nav class="footer-col" aria-label="Guides">
+      <h2>Guides</h2>
+      <a href="/guides/free-creative-tools/">Free creative tools</a>
+      <a href="/guides/ai-tools-for-creators/">AI tools for creators</a>
+      <a href="/guides/3d-tools/">3D tools</a>
+      <a href="/guides/font-typography-resources/" aria-current="page">Fonts &amp; typography</a>
+      <a href="/guides/public-domain-resources/">Public domain</a>
+    </nav>
+  </div>
+  <div class="shell footer-line">
+    <p>© 2026 The Creative Vault · Curated by Ellis Ricketts</p>
+    <p class="footer-line-links">
+      <a href="mailto:ellisricketts3d@gmail.com">Get in touch</a>
+      <a href="/#submit">Suggest a resource</a>
+      <a href="/downloads/The-Creative-Vault-Offline-Resource-Library.pdf" download>Offline PDF</a>
+    </p>
+  </div>
+</footer>
 <script src="/data/schema.js"></script>
 <script src="/data/generated-resources.js"></script>
 <script src="/data/resources.js"></script>

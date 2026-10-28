@@ -177,9 +177,9 @@
    is the only way to clear 4.5:1 without dulling the accent to brown.
    ========================================================================== */
 :root[data-theme="dark"] {
-  --bg: #17151a;
-  --surface: #211f24;
-  --surface-sunk: #2b2830;
+  --bg: #121114;
+  --surface: #1b1a1e;
+  --surface-sunk: #252328;
 
   --ink: #f3f0ec;
   --ink-2: #b6afa6;
@@ -188,8 +188,8 @@
      only 4.40 on a frosted card, where this text actually appears. */
   --ink-3: #9c958c;
 
-  --line: #322e35;
-  --line-strong: #45403a;
+  --line: #2c2a30;
+  --line-strong: #3e3b42;
   --line-control: #7f776e;
 
   --accent: #e8621d;
@@ -208,18 +208,18 @@
   --fam-funding: #e0a63c;
   --fam-learning: #b388e8;
 
-  --glass-a: rgba(58, 54, 64, 0.60);
-  --glass-b: rgba(38, 35, 43, 0.34);
+  --glass-a: rgba(32, 30, 36, 0.92);
+  --glass-b: rgba(27, 26, 30, 0.92);
   --glass-line: rgba(255, 255, 255, 0.09);
   --glass-line-hi: rgba(255, 255, 255, 0.10);
   --glass-sheen: rgba(255, 255, 255, 0.06);
-  --chrome-bg: rgba(23, 21, 26, 0.76);
+  --chrome-bg: rgba(18, 17, 20, 0.78);
   --chrome-line: rgba(255, 255, 255, 0.08);
   --scrim: rgba(6, 5, 8, 0.62);
 
   --page-wash:
-    radial-gradient(circle at 88% 12%, rgba(232, 98, 29, 0.10), transparent 28%),
-    linear-gradient(135deg, #17151a 0%, #191720 52%, #15141a 100%);
+    radial-gradient(circle at 88% 12%, rgba(232, 98, 29, 0.07), transparent 30%),
+    linear-gradient(180deg, #121114 0%, #131215 100%);
 
   /* Shadow alone does not read on a dark ground; the hairline does the
      separating and the shadow only adds weight. */
@@ -246,14 +246,14 @@
    so this only ever applies when script did not run. */
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme]) {
-    --bg: #17151a;
-    --surface: #211f24;
-    --surface-sunk: #2b2830;
+    --bg: #121114;
+    --surface: #1b1a1e;
+    --surface-sunk: #252328;
     --ink: #f3f0ec;
     --ink-2: #b6afa6;
     --ink-3: #9c958c;
-    --line: #322e35;
-    --line-strong: #45403a;
+    --line: #2c2a30;
+    --line-strong: #3e3b42;
     --line-control: #7f776e;
     --accent: #e8621d;
     --accent-ink: #ff9057;
@@ -268,17 +268,17 @@
     --fam-assets: #ff7ba6;
     --fam-funding: #e0a63c;
     --fam-learning: #b388e8;
-    --glass-a: rgba(58, 54, 64, 0.60);
-    --glass-b: rgba(38, 35, 43, 0.34);
+    --glass-a: rgba(32, 30, 36, 0.92);
+    --glass-b: rgba(27, 26, 30, 0.92);
     --glass-line: rgba(255, 255, 255, 0.09);
     --glass-line-hi: rgba(255, 255, 255, 0.10);
     --glass-sheen: rgba(255, 255, 255, 0.06);
-    --chrome-bg: rgba(23, 21, 26, 0.76);
+    --chrome-bg: rgba(18, 17, 20, 0.78);
     --chrome-line: rgba(255, 255, 255, 0.08);
     --scrim: rgba(6, 5, 8, 0.62);
     --page-wash:
-      radial-gradient(circle at 88% 12%, rgba(232, 98, 29, 0.10), transparent 28%),
-      linear-gradient(135deg, #17151a 0%, #191720 52%, #15141a 100%);
+      radial-gradient(circle at 88% 12%, rgba(232, 98, 29, 0.07), transparent 30%),
+      linear-gradient(180deg, #121114 0%, #131215 100%);
     --lift-1: 0 1px 2px rgba(0, 0, 0, 0.40), 0 2px 6px rgba(0, 0, 0, 0.30);
     --lift-2: 0 2px 4px rgba(0, 0, 0, 0.45), 0 10px 24px rgba(0, 0, 0, 0.40);
     --lift-3: 0 8px 16px rgba(0, 0, 0, 0.50), 0 24px 56px rgba(0, 0, 0, 0.55);

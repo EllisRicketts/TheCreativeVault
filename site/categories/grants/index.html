@@ -24,6 +24,7 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=Bricolage+Grotesque:opsz,wght@12..96,600..800&display=swap">
 <link rel="stylesheet" href="/css/seo.css">
 <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.thecreativevault.co/categories/grants/#page","url":"https://www.thecreativevault.co/categories/grants/","name":"Grants, funding and opportunities for artists and creators","description":"Browse 202 curated grants resources in The Creative Vault. Funding, grants, artist opportunities, government programs, and creative support.","isPartOf":{"@id":"https://www.thecreativevault.co/#website"},"breadcrumb":{"@id":"https://www.thecreativevault.co/categories/grants/#breadcrumb"}},{"@type":"BreadcrumbList","@id":"https://www.thecreativevault.co/categories/grants/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"The Creative Vault","item":"https://www.thecreativevault.co/"},{"@type":"ListItem","position":2,"name":"Grants","item":"https://www.thecreativevault.co/categories/grants/"}]},{"@type":"CollectionPage","@id":"https://www.thecreativevault.co/categories/grants/#collection","url":"https://www.thecreativevault.co/categories/grants/","name":"Grants, funding and opportunities for artists and creators","description":"Browse 202 curated grants resources in The Creative Vault. Funding, grants, artist opportunities, government programs, and creative support.","numberOfItems":202}]}</script>
+  <script src="/js/logos.js" defer></script>
 </head>
 <body>
 <a class="skip-link" href="#main">Skip to content</a>
@@ -33,6 +34,9 @@
 <symbol id="c-half" viewBox="0 0 24 24"><circle cx="12" cy="12" r="8"/><path d="M12 4a8 8 0 0 1 0 16Z" fill="currentColor" stroke="none"/></symbol>
 <symbol id="c-moon" viewBox="0 0 24 24"><path d="M20 14.2A8.4 8.4 0 0 1 9.8 4a8.4 8.4 0 1 0 10.2 10.2Z"/></symbol>
 <symbol id="c-vault" viewBox="0 0 24 24"><path d="M6 4h12a1 1 0 0 1 1 1v15.2a.6.6 0 0 1-.93.5L12 16.6l-6.07 4.1A.6.6 0 0 1 5 20.2V5a1 1 0 0 1 1-1Z"/></symbol>
+<symbol id="c-menu" viewBox="0 0 24 24"><path d="M4 7h16M4 12h16M4 17h10"/></symbol>
+<symbol id="c-plus" viewBox="0 0 24 24"><path d="M12 5v14M5 12h14"/></symbol>
+<symbol id="c-out" viewBox="0 0 24 24"><path d="M8 16 16 8M9 8h7v7"/></symbol>
 </defs></svg>
 <header class="masthead" id="top">
   <div class="shell masthead-inner">
@@ -41,11 +45,41 @@
       <span class="brand-name">The <em>Creative</em> Vault</span>
     </a>
 
-    <nav class="mast-nav" aria-label="Main">
+    <!-- One set of links. On wide screens the panel dissolves (display:
+         contents) and its children sit in the bar; below 900px it becomes the
+         menu the button opens. -->
+    <div class="mast-panel" id="mastPanel">
+      <nav class="mast-nav" aria-label="Main">
       <a href="/explore/">Explore</a>
       <a href="/weekly-drip/">Weekly Drip</a>
       <a href="/comparisons/">Comparisons</a>
-    </nav>
+        <a class="mast-nav-vault" href="/my-vault/">My Vault</a>
+      </nav>
+
+      <div class="mast-panel-tools">
+        <div class="theme-switch" role="radiogroup" aria-label="Colour theme">
+          <button class="theme-btn" type="button" role="radio" data-theme-set="light"
+                  aria-checked="false" tabindex="-1" title="Light theme">
+            <svg class="icon" aria-hidden="true"><use href="#c-sun"/></svg>
+            <span class="visually-hidden">Light</span>
+          </button>
+          <button class="theme-btn" type="button" role="radio" data-theme-set="medium"
+                  aria-checked="false" tabindex="-1" title="Medium theme — warm and dimmed">
+            <svg class="icon" aria-hidden="true"><use href="#c-half"/></svg>
+            <span class="visually-hidden">Medium</span>
+          </button>
+          <button class="theme-btn" type="button" role="radio" data-theme-set="dark"
+                  aria-checked="false" tabindex="-1" title="Dark theme">
+            <svg class="icon" aria-hidden="true"><use href="#c-moon"/></svg>
+            <span class="visually-hidden">Dark</span>
+          </button>
+        </div>
+        <a class="mast-submit" href="/#submit">
+          <svg class="icon" aria-hidden="true"><use href="#c-plus"/></svg>
+          <span>Suggest a tool</span>
+        </a>
+      </div>
+    </div>
 
     <div class="mast-tools">
       <form class="mast-search" action="/" method="get" role="search">
@@ -56,29 +90,16 @@
         <kbd class="key">/</kbd>
       </form>
 
-      <div class="theme-switch" role="radiogroup" aria-label="Colour theme">
-        <button class="theme-btn" type="button" role="radio" data-theme-set="light"
-                aria-checked="false" tabindex="-1" title="Light theme">
-          <svg class="icon" aria-hidden="true"><use href="#c-sun"/></svg>
-          <span class="visually-hidden">Light</span>
-        </button>
-        <button class="theme-btn" type="button" role="radio" data-theme-set="medium"
-                aria-checked="false" tabindex="-1" title="Medium theme — warm and dimmed">
-          <svg class="icon" aria-hidden="true"><use href="#c-half"/></svg>
-          <span class="visually-hidden">Medium</span>
-        </button>
-        <button class="theme-btn" type="button" role="radio" data-theme-set="dark"
-                aria-checked="false" tabindex="-1" title="Dark theme">
-          <svg class="icon" aria-hidden="true"><use href="#c-moon"/></svg>
-          <span class="visually-hidden">Dark</span>
-        </button>
-      </div>
-
       <a class="mast-vault" href="/my-vault/">
         <svg class="icon" aria-hidden="true"><use href="#c-vault"/></svg>
-        <span>My Vault</span>
+        <span class="mast-vault-label">My Vault</span>
         <span class="vault-count" data-vault-count hidden>0</span>
       </a>
+
+      <button class="mast-menu" type="button" aria-expanded="false" aria-controls="mastPanel">
+        <svg class="icon" aria-hidden="true"><use href="#c-menu"/></svg>
+        <span class="visually-hidden">Menu</span>
+      </button>
     </div>
   </div>
 </header>
@@ -87,105 +108,151 @@
 <p class="eyebrow">202 curated resources</p><h1>Grants, funding and opportunities for artists and creators</h1><p class="lede">Browse arts grants, funding programs and opportunity resources collected for artists, designers, filmmakers, musicians and other creators. Use the main Vault filters to narrow the larger funding database by keyword and fit.</p>
 <div class="hero-actions"><a class="cta" href="/?category=Grants#resources">Browse all 202 in the Vault</a><a class="secondary" href="/">Search all 2,267 resources</a></div></section>
 <section class="seo-shell seo-section"><div class="section-heading"><div><h2>Explore the collection</h2></div><p>These are a sample of the resources in this section. Open the full Vault for filters, pricing and platform options.</p></div><div class="seo-grid"><article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/canadacouncil.ca.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://canadacouncil.ca/funding" target="_blank" rel="noopener">Canada Council for the Arts</a></h3><p class="seo-meta">Free</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=canadacouncil.ca&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/canadacouncil.ca.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://canadacouncil.ca/funding" target="_blank" rel="noopener">Canada Council for the Arts</a></h3><p class="seo-meta">Free</p></div></div>
       <p>National arts funding programs for Canadian artists, groups, and arts organizations.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/cmf-fmc.ca.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://cmf-fmc.ca/funding-programs/" target="_blank" rel="noopener">Canada Media Fund</a></h3><p class="seo-meta">Free</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=cmf-fmc.ca&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/cmf-fmc.ca.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://cmf-fmc.ca/funding-programs/" target="_blank" rel="noopener">Canada Media Fund</a></h3><p class="seo-meta">Free</p></div></div>
       <p>Funding for Canadian television, digital media, and interactive content.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/factor.ca.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://www.factor.ca/" target="_blank" rel="noopener">FACTOR</a></h3><p class="seo-meta">Free</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=factor.ca&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/factor.ca.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://www.factor.ca/" target="_blank" rel="noopener">FACTOR</a></h3><p class="seo-meta">Free</p></div></div>
       <p>Funding for Canadian recording artists, labels, and music companies.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/arts.on.ca.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://www.arts.on.ca/grants" target="_blank" rel="noopener">Ontario Arts Council</a></h3><p class="seo-meta">Free</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=arts.on.ca&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/arts.on.ca.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://www.arts.on.ca/grants" target="_blank" rel="noopener">Ontario Arts Council</a></h3><p class="seo-meta">Free</p></div></div>
       <p>Ontario grants for artists, collectives, and arts organizations.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/socanfoundation.ca.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://www.socanfoundation.ca/" target="_blank" rel="noopener">SOCAN Foundation</a></h3><p class="seo-meta">Free</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=socanfoundation.ca&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/socanfoundation.ca.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://www.socanfoundation.ca/" target="_blank" rel="noopener">SOCAN Foundation</a></h3><p class="seo-meta">Free</p></div></div>
       <p>Music grants and awards for Canadian music creators.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/telefilm.ca.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://telefilm.ca/en/funding" target="_blank" rel="noopener">Telefilm Canada</a></h3><p class="seo-meta">Free</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=telefilm.ca&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/telefilm.ca.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://telefilm.ca/en/funding" target="_blank" rel="noopener">Telefilm Canada</a></h3><p class="seo-meta">Free</p></div></div>
       <p>Canadian film funding programs.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/torontoartscouncil.org.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://torontoartscouncil.org/grant-programs" target="_blank" rel="noopener">Toronto Arts Council</a></h3><p class="seo-meta">Free</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=torontoartscouncil.org&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/torontoartscouncil.org.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://torontoartscouncil.org/grant-programs" target="_blank" rel="noopener">Toronto Arts Council</a></h3><p class="seo-meta">Free</p></div></div>
       <p>Toronto-based grants for artists and arts organizations.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/canadacouncil.ca.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://canadacouncil.ca/funding" target="_blank" rel="noopener">Canada Council for the Arts</a></h3><p class="seo-meta">Free</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=canadacouncil.ca&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/canadacouncil.ca.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://canadacouncil.ca/funding" target="_blank" rel="noopener">Canada Council for the Arts</a></h3><p class="seo-meta">Free</p></div></div>
       <p>National arts funding programs and grants for Canadian artists and arts organizations.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/arts.on.ca.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://www.arts.on.ca/grants" target="_blank" rel="noopener">Ontario Arts Council</a></h3><p class="seo-meta">Free</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=arts.on.ca&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/arts.on.ca.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://www.arts.on.ca/grants" target="_blank" rel="noopener">Ontario Arts Council</a></h3><p class="seo-meta">Free</p></div></div>
       <p>Ontario-based grants, funding programs, and support for artists and arts organizations.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/awesomefoundation.org.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://www.awesomefoundation.org/en" target="_blank" rel="noopener">Awesome Foundation</a></h3><p class="seo-meta">Free</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=awesomefoundation.org&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/awesomefoundation.org.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://www.awesomefoundation.org/en" target="_blank" rel="noopener">Awesome Foundation</a></h3><p class="seo-meta">Free</p></div></div>
       <p>$1,000 microgrants for community and creative projects.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/creative-capital.org.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://creative-capital.org/" target="_blank" rel="noopener">Creative Capital</a></h3><p class="seo-meta">Free</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=creative-capital.org&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/creative-capital.org.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://creative-capital.org/" target="_blank" rel="noopener">Creative Capital</a></h3><p class="seo-meta">Free</p></div></div>
       <p>Funding and advisory support for innovative artists.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/culture.ec.europa.eu.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://culture.ec.europa.eu/creative-europe" target="_blank" rel="noopener">Creative Europe</a></h3><p class="seo-meta">Free</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=culture.ec.europa.eu&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/culture.ec.europa.eu.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://culture.ec.europa.eu/creative-europe" target="_blank" rel="noopener">Creative Europe</a></h3><p class="seo-meta">Free</p></div></div>
       <p>European Union funding program for culture and creative sectors.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/arts.gov.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://www.arts.gov/grants" target="_blank" rel="noopener">National Endowment for the Arts</a></h3><p class="seo-meta">Free</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=arts.gov&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/arts.gov.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://www.arts.gov/grants" target="_blank" rel="noopener">National Endowment for the Arts</a></h3><p class="seo-meta">Free</p></div></div>
       <p>US federal arts grants and funding programs.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/pkf.org.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://www.pkf.org/" target="_blank" rel="noopener">Pollock-Krasner Foundation</a></h3><p class="seo-meta">Free</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=pkf.org&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/pkf.org.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://www.pkf.org/" target="_blank" rel="noopener">Pollock-Krasner Foundation</a></h3><p class="seo-meta">Free</p></div></div>
       <p>Grants for visual artists with recognized artistic merit and financial need.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/sundance.org.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://www.sundance.org/programs/artist-programs/" target="_blank" rel="noopener">Sundance Institute Grants</a></h3><p class="seo-meta">Free</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=sundance.org&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/sundance.org.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://www.sundance.org/programs/artist-programs/" target="_blank" rel="noopener">Sundance Institute Grants</a></h3><p class="seo-meta">Free</p></div></div>
       <p>Artist programs, labs, and grants for filmmakers.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/accesscopyright.ca.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://www.accesscopyright.ca/foundation/" target="_blank" rel="noopener">Access Copyright Foundation</a></h3><p class="seo-meta">Free</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=accesscopyright.ca&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/accesscopyright.ca.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://www.accesscopyright.ca/foundation/" target="_blank" rel="noopener">Access Copyright Foundation</a></h3><p class="seo-meta">Free</p></div></div>
       <p>Grants and support for Canadian publishing and writing projects.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/akincollective.com.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://www.akincollective.com/" target="_blank" rel="noopener">Akin Studio Program</a></h3><p class="seo-meta">Free</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=akincollective.com&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/akincollective.com.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://www.akincollective.com/" target="_blank" rel="noopener">Akin Studio Program</a></h3><p class="seo-meta">Free</p></div></div>
       <p>Artist studio, community, and opportunity resources.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/affta.ab.ca.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://www.affta.ab.ca/funding/find-funding" target="_blank" rel="noopener">Alberta Foundation for the Arts</a></h3><p class="seo-meta">Free</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=affta.ab.ca&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/affta.ab.ca.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://www.affta.ab.ca/funding/find-funding" target="_blank" rel="noopener">Alberta Foundation for the Arts</a></h3><p class="seo-meta">Free</p></div></div>
       <p>Alberta arts funding for artists and arts organizations.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/artsns.ca.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://artsns.ca/grants-awards" target="_blank" rel="noopener">Arts Nova Scotia</a></h3><p class="seo-meta">Free</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=artsns.ca&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/artsns.ca.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://artsns.ca/grants-awards" target="_blank" rel="noopener">Arts Nova Scotia</a></h3><p class="seo-meta">Free</p></div></div>
       <p>Nova Scotia arts grants and awards.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/artsnb.ca.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://artsnb.ca/web/programs/" target="_blank" rel="noopener">artsnb</a></h3><p class="seo-meta">Free</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=artsnb.ca&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/artsnb.ca.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://artsnb.ca/web/programs/" target="_blank" rel="noopener">artsnb</a></h3><p class="seo-meta">Free</p></div></div>
       <p>New Brunswick arts funding programs.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/artsnl.ca.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://artsnl.ca/grants/" target="_blank" rel="noopener">ArtsNL</a></h3><p class="seo-meta">Free</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=artsnl.ca&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/artsnl.ca.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://artsnl.ca/grants/" target="_blank" rel="noopener">ArtsNL</a></h3><p class="seo-meta">Free</p></div></div>
       <p>Newfoundland and Labrador arts grants.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/banffcentre.ca.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://www.banffcentre.ca/programs" target="_blank" rel="noopener">Banff Centre</a></h3><p class="seo-meta">Free</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=banffcentre.ca&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/banffcentre.ca.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://www.banffcentre.ca/programs" target="_blank" rel="noopener">Banff Centre</a></h3><p class="seo-meta">Free</p></div></div>
       <p>Arts, leadership, and creative development programs.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/bramptonartsorg.ca.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://www.bramptonartsorg.ca/" target="_blank" rel="noopener">Brampton Arts Organization</a></h3><p class="seo-meta">Free</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=bramptonartsorg.ca&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/bramptonartsorg.ca.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://www.bramptonartsorg.ca/" target="_blank" rel="noopener">Brampton Arts Organization</a></h3><p class="seo-meta">Free</p></div></div>
       <p>Brampton arts opportunities, resources, and funding information.</p>
     </article>
 <article class="seo-card">
-      <div class="seo-card-head"><img src="https://icons.duckduckgo.com/ip3/bcartscouncil.ca.ico" alt="" loading="lazy" width="40" height="40" onerror="this.style.display='none'"><div><h3><a href="https://www.bcartscouncil.ca/program/" target="_blank" rel="noopener">British Columbia Arts Council</a></h3><p class="seo-meta">Free</p></div></div>
+      <div class="seo-card-head"><img src="https://www.google.com/s2/favicons?domain=bcartscouncil.ca&amp;sz=128" data-chain="https://icons.duckduckgo.com/ip3/bcartscouncil.ca.ico" alt="" loading="lazy" width="40" height="40"><div><h3><a href="https://www.bcartscouncil.ca/program/" target="_blank" rel="noopener">British Columbia Arts Council</a></h3><p class="seo-meta">Free</p></div></div>
       <p>BC funding programs for artists and cultural organizations.</p>
     </article></div></section>
 <section class="seo-shell seo-section related"><div class="section-heading"><div><h2>Related creative categories</h2></div></div><div class="link-cloud"><a href="/categories/digital-art/">Digital Art</a><a href="/categories/ai-tools/">AI Tools</a><a href="/categories/video/">Video</a><a href="/categories/animation/">Animation</a><a href="/categories/3d-cad/">3D / CAD</a><a href="/categories/photo/">Photography</a><a href="/categories/music/">Music</a><a href="/categories/audio/">Audio</a></div></section>
 <section class="seo-shell seo-info"><h2>About this collection</h2><p>Browse 202 curated grants resources in The Creative Vault. Funding, grants, artist opportunities, government programs, and creative support.</p><p>The Creative Vault is a hand-curated directory built to help creative people find useful tools without digging through repetitive search results. Resource details can change, so always check the provider’s website for current pricing, licensing and availability.</p></section>
 </main>
-<footer class="seo-footer"><div class="seo-shell"><strong>The Creative Vault</strong><p>Curated creative tools, assets, marketplaces, grants, learning resources and AI tools.</p><a href="/">Return to the full Vault</a></div><a class="ellis-footer-button" href="https://www.ellisricketts.com/" target="_blank" rel="noopener noreferrer">Visit EllisRicketts.com</a></footer>
+<footer class="site-footer">
+  <div class="shell footer-grid">
+    <div class="footer-brand">
+      <a class="brand" href="/" aria-label="The Creative Vault — home">
+        <span class="brand-mark"><img src="/images/logos/cv-secondary-logo.png" alt="" width="34" height="34" loading="lazy" /></span>
+        <span class="brand-name">The <em>Creative</em> Vault</span>
+      </a>
+      <p>A hand-picked index of creative software, assets, marketplaces, grants and learning. No listicles, no affiliate spam.</p>
+      <a class="ellis-footer-button" href="https://www.ellisricketts.com/" target="_blank" rel="noopener noreferrer">
+        Visit EllisRicketts.com <svg class="icon" aria-hidden="true"><use href="#c-out"/></svg>
+      </a>
+    </div>
+    <nav class="footer-col" aria-label="Directory">
+      <h2>Directory</h2>
+      <a href="/#resources">Search the Vault</a>
+      <a href="/explore/">Explore</a>
+      <a href="/weekly-drip/">Weekly Drip</a>
+      <a href="/comparisons/">Comparisons</a>
+      <a href="/my-vault/">My Vault</a>
+    </nav>
+    <nav class="footer-col" aria-label="Categories">
+      <h2>Categories</h2>
+      <a href="/categories/digital-art/">Digital Art</a>
+      <a href="/categories/3d-cad/">3D / CAD</a>
+      <a href="/categories/ai-tools/">AI Tools</a>
+      <a href="/categories/game-dev/">Game Dev</a>
+      <a href="/categories/music/">Music</a>
+      <a href="/categories/grants/" aria-current="page">Grants</a>
+    </nav>
+    <nav class="footer-col" aria-label="Guides">
+      <h2>Guides</h2>
+      <a href="/guides/free-creative-tools/">Free creative tools</a>
+      <a href="/guides/ai-tools-for-creators/">AI tools for creators</a>
+      <a href="/guides/3d-tools/">3D tools</a>
+      <a href="/guides/font-typography-resources/">Fonts &amp; typography</a>
+      <a href="/guides/public-domain-resources/">Public domain</a>
+    </nav>
+  </div>
+  <div class="shell footer-line">
+    <p>© 2026 The Creative Vault · Curated by Ellis Ricketts</p>
+    <p class="footer-line-links">
+      <a href="mailto:ellisricketts3d@gmail.com">Get in touch</a>
+      <a href="/#submit">Suggest a resource</a>
+      <a href="/downloads/The-Creative-Vault-Offline-Resource-Library.pdf" download>Offline PDF</a>
+    </p>
+  </div>
+</footer>
 <script src="/data/schema.js"></script>
 <script src="/data/generated-resources.js"></script>
 <script src="/data/resources.js"></script>

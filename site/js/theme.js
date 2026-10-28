@@ -12,7 +12,7 @@
 
   /* The colour the browser paints behind the page and in the mobile URL bar.
      Left unset it stays the light value and frames a dark page in white. */
-  var THEME_COLOR = { light: "#fbfaf9", medium: "#e8e2d9", dark: "#17151a" };
+  var THEME_COLOR = { light: "#fbfaf9", medium: "#e8e2d9", dark: "#121114" };
 
   var root = document.documentElement;
 
@@ -160,10 +160,51 @@
     window.addEventListener("scroll", onScroll, { passive: true });
   }
 
+  /* ---- Mobile menu ------------------------------------------------------
+     Below 900px the nav, theme switch and "Suggest a tool" live in a panel
+     under the bar. Escape, a click outside, following a link, or widening
+     the window all close it; Escape returns focus to the button. */
+  function wireMenu() {
+    var masthead = document.querySelector(".masthead");
+    var button = document.querySelector(".mast-menu");
+    var panel = document.getElementById("mastPanel");
+    if (!masthead || !button || !panel) return;
+
+    function isOpen() { return button.getAttribute("aria-expanded") === "true"; }
+
+    function setOpen(open, restoreFocus) {
+      masthead.setAttribute("data-menu", open ? "open" : "closed");
+      button.setAttribute("aria-expanded", String(open));
+      if (open) {
+        var first = panel.querySelector("a");
+        if (first) first.focus();
+      } else if (restoreFocus) {
+        button.focus();
+      }
+    }
+
+    button.addEventListener("click", function () { setOpen(!isOpen(), false); });
+    panel.addEventListener("click", function (event) {
+      if (isOpen() && event.target.closest("a")) setOpen(false, false);
+    });
+    document.addEventListener("keydown", function (event) {
+      if (event.key === "Escape" && isOpen()) setOpen(false, true);
+    });
+    document.addEventListener("click", function (event) {
+      if (isOpen() && !masthead.contains(event.target)) setOpen(false, false);
+    });
+    if (window.matchMedia) {
+      var wide = window.matchMedia("(min-width: 901px)");
+      var onWide = function () { if (wide.matches && isOpen()) setOpen(false, false); };
+      if (wide.addEventListener) wide.addEventListener("change", onWide);
+    }
+  }
+
   /* ---- Boot ------------------------------------------------------------- */
   apply(resolve(), false);
 
   function start() {
+    wireMenu();
     wireSwitch();
     wireSearch();
     wireStuck();
