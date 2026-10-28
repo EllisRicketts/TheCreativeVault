@@ -42,7 +42,7 @@ Verified by test with the data file blocked: hero reads 2,267, error message sho
 | 8 | seo.css restyled the shared footer button orange on some pages only | Removed; chrome.css owns it |
 | 9 | Weekly Drip home teaser showed no actual content | Live feature from `weekly-drip.json` (4 unique picks + lane links) |
 | 10 | Old `?category=` links with a value no longer present left the select blank and showed 0 results | Unknown values fall back to "all" |
-| 11 | **Not fixed — needs a decision:** canonical/OG/sitemap/JSON-LD say `https://www.thecreativevault.co/`, but Netlify 301-redirects `www` → apex. Canonicals point at a redirect | See §5 |
+| 11 | Canonical/OG/sitemap/JSON-LD say `https://www.thecreativevault.co/`, but Netlify 301-redirected `www` → apex, so canonicals pointed at a redirect | 2026-10-27: Netlify primary switched to www (apex now 301s to www); cert covers both |
 
 ## 2. Preservation checklist (verified)
 
@@ -91,15 +91,11 @@ Verified by test with the data file blocked: hero reads 2,267, error message sho
 
 Not tested: real iOS Safari/Firefox engines (Chromium only), real slow-3G field data, screen reader by ear.
 
-## 5. Needs the owner
+## 5. Go-live (2026-10-27)
 
-1. **Canonical domain (SEO).** Pick one:
-   - *Recommended, no code:* in Netlify → Domain management, set `www.thecreativevault.co` as the **primary** domain
-     (apex then redirects to www, matching every canonical/sitemap URL already in the code); or
-   - keep apex primary and replace `https://www.thecreativevault.co` with `https://thecreativevault.co` in
-     `index.html`, the 53 inner pages, `robots.txt`, `sitemap.xml` (I can do this on request).
-2. Approve the deploy preview, then merge `makeover/2026-10` → `main` to go live (Netlify auto-deploys `main`).
-3. Data layer, unchanged by this work: 40 records still carry `"true"` in `platforms` in the source JSON (hidden at runtime).
+Owner approved. `makeover/2026-10` fast-forwarded into `main` (98e2885) and deployed by Netlify; primary domain switched to `www.thecreativevault.co`. Post-launch: 48/48 interaction checks pass against the live site; redirects (http/apex → https://www) and SSL verified.
+
+Still open (data layer, unchanged by this work): 40 records carry `"true"` in `platforms` in the source JSON (hidden at runtime).
 
 ## 6. Remaining UX weaknesses (honest)
 
