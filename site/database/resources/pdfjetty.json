@@ -1,0 +1,61 @@
+{
+  "id": "pdfjetty",
+  "title": "PDF Jetty",
+  "shortName": "PDF Jetty",
+  "company": "SmartTeddy, Inc.",
+  "companyWebsite": "https://pdfjetty.com/",
+  "website": "https://pdfjetty.com/edit-pdf/",
+  "category": "Utilities",
+  "categoryId": "utilities",
+  "categories": [
+    "Utilities",
+    "Creative Essentials"
+  ],
+  "categoryIds": [
+    "utilities",
+    "creative-essentials"
+  ],
+  "primaryCategory": "Utilities",
+  "subcategories": [
+    "PDF Tools",
+    "Creative Essentials"
+  ],
+  "type": "Free Essential Resource",
+  "shortDescription": "Free, no-sign-up PDF editor: change text in place, add images and signatures, plus 100+ PDF tools.",
+  "longDescription": "PDF Jetty is a free browser PDF toolkit. Its editor lets you click existing words to change them in place, add new text, insert images or signatures and highlight content, with an optional Ask AI helper that rewrites lines from plain-language instructions. The wider suite covers signing, filling and annotating, merge/split/compress/rotate, conversion to and from Word, Excel and JPG, OCR, translation and common forms. Most tools run entirely in your browser; compression runs on their server and a few AI conversions send the file to their AI provider.",
+  "whyUseIt": "Fix a typo in a client PDF, sign a contract or swap an image without installing anything or creating an account.",
+  "price": "Free",
+  "pricingModel": "Free",
+  "pricingDetails": "Free with no account, trial or card. AI features have an hourly usage limit.",
+  "tags": [
+    "Free",
+    "Creative Essentials",
+    "Utilities",
+    "PDF Tools",
+    "PDF",
+    "PDF Editor",
+    "E-Signature",
+    "No Sign-Up"
+  ],
+  "bestFor": [
+    "Editing text inside existing PDFs",
+    "Signing and filling documents",
+    "Quick PDF fixes without an account"
+  ],
+  "platforms": [
+    "Browser"
+  ],
+  "fileFormats": [
+    "PDF",
+    "DOCX",
+    "XLSX",
+    "JPG"
+  ],
+  "ai": true,
+  "openSource": false,
+  "featured": false,
+  "editorPick": false,
+  "verified": true,
+  "dateAdded": "2026-11-04",
+  "lastReviewed": "2026-11-04"
+}
