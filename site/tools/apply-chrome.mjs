@@ -50,7 +50,8 @@ const BOOT = `<script>
 
 const HEAD_LINKS = `<link rel="stylesheet" href="/css/tokens.css" />
   <link rel="stylesheet" href="/css/chrome.css" />
-  <script src="/js/theme.js" defer></script>`;
+  <script src="/js/theme.js" defer></script>
+  <script src="/js/hit.js" defer></script>`;
 
 const SPRITE = `<svg class="chrome-sprite" aria-hidden="true" focusable="false"><defs>
 <symbol id="c-search" viewBox="0 0 24 24"><circle cx="11" cy="11" r="6.4"/><path d="m20 20-4.3-4.3"/></symbol>
